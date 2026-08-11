@@ -1,10 +1,10 @@
 # Cyber Threat Exposure Map
 
-[![Pages](https://github.com/MonarchCastleTech/cyber-exposure-map/actions/workflows/pipeline.yml/badge.svg)](https://github.com/MonarchCastleTech/cyber-exposure-map/actions/workflows/pipeline.yml)
+[![Pages](https://github.com/SDCofA/cyber-exposure-map/actions/workflows/pipeline.yml/badge.svg)](https://github.com/SDCofA/cyber-exposure-map/actions/workflows/pipeline.yml)
 
 Public vulnerability and exposure signals centered on CISA KEV data.
 
-**Live dashboard:** https://monarchcastletech.github.io/cyber-exposure-map/
+**Live dashboard:** https://sdcofa.github.io/cyber-exposure-map/
 
 ## Run locally
 
@@ -26,4 +26,4 @@ Source availability varies. The dashboard identifies its generation time and ope
 
 ## Brand
 
-Part of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.
+Published by SDCofA, the endorsed analytical unit of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.
