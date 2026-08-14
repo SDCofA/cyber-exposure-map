@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-08-14T03:16:10.979912+00:00",
+    "generated": "2026-08-14T08:05:08.230375+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,7 +33,35 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "Open - Source AI Agents Breach Taiwan Nuclear Agency in Four - Day Autonomous Strike",
+        "url": "https://www.techtimes.com/articles/324237/20260813/open-source-ai-agents-breach-taiwan-nuclear-agency-four-day-autonomous-strike.htm",
+        "domain": "techtimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260813T113000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Oligo Raises $60M to Extend Runtime Security to AI Agents",
+        "url": "https://www.govinfosecurity.com/oligo-raises-60m-to-extend-runtime-security-to-ai-agents-a-32556",
+        "domain": "govinfosecurity.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T010000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Breach Roundup : Def Con Dolt Suspected in Delta Wi - Fi Hack",
+        "url": "https://www.govinfosecurity.com/breach-roundup-def-con-dolt-suspected-in-delta-wi-fi-hack-a-32554",
+        "domain": "govinfosecurity.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260814T010000Z",
+        "source": "GDELT"
+      }
+    ],
     "cisa_kev": [
       {
         "cveID": "CVE-2026-20349",
@@ -1119,8 +1147,61 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "Open - Source AI Agents Breach Taiwan Nuclear Agency in Four",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260813T113000Z",
+      "source": "techtimes.com"
+    },
+    {
+      "id": 2,
+      "name": "Oligo Raises $60M to Extend Runtime Security to AI Agents",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260814T010000Z",
+      "source": "govinfosecurity.com"
+    },
+    {
+      "id": 3,
+      "name": "Breach Roundup : Def Con Dolt Suspected in Delta Wi - Fi Hac",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260814T010000Z",
+      "source": "govinfosecurity.com"
+    }
+  ],
+  "events": [
+    {
+      "title": "Open - Source AI Agents Breach Taiwan Nuclear Agency in Four - Day Autonomous Strike",
+      "url": "https://www.techtimes.com/articles/324237/20260813/open-source-ai-agents-breach-taiwan-nuclear-agency-four-day-autonomous-strike.htm",
+      "domain": "techtimes.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260813T113000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Oligo Raises $60M to Extend Runtime Security to AI Agents",
+      "url": "https://www.govinfosecurity.com/oligo-raises-60m-to-extend-runtime-security-to-ai-agents-a-32556",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260814T010000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Breach Roundup : Def Con Dolt Suspected in Delta Wi - Fi Hack",
+      "url": "https://www.govinfosecurity.com/breach-roundup-def-con-dolt-suspected-in-delta-wi-fi-hack-a-32554",
+      "domain": "govinfosecurity.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260814T010000Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
