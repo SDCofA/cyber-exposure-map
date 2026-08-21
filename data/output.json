@@ -1,12 +1,11 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-08-21T07:32:09.988672+00:00",
+    "generated": "2026-08-21T13:34:58.792939+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
       "cisa_kev",
-      "cyber_news",
       "exchange_rates"
     ],
     "version": "1.0.0"
@@ -34,17 +33,7 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [
-      {
-        "title": "Breach Roundup : Grandoreiro Returns",
-        "url": "https://www.govinfosecurity.com/breach-roundup-grandoreiro-returns-a-32621",
-        "domain": "govinfosecurity.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T221500Z",
-        "source": "GDELT"
-      }
-    ],
+    "gdelt_articles": [],
     "cisa_kev": [
       {
         "cveID": "CVE-2026-72530",
@@ -1047,251 +1036,6 @@
         "source": "CISA-KEV"
       }
     ],
-    "cyber_news": [
-      {
-        "title": "  채용 제안인 줄 알았는데 … 北 추정 해커 , 취약점 뚫어 방산업 맹공",
-        "url": "https://www.ddaily.co.kr:443/page/view/2026081411051563476",
-        "domain": "ddaily.co.kr",
-        "language": "Korean",
-        "tone": 0,
-        "seendate": "20260814T090000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Update your Mac : Screen Share vulnerability gives attackers full control of your computer",
-        "url": "https://mashable.com/tech/apple-mac-macbook-screen-share-vulnerability",
-        "domain": "mashable.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "AI Makes Faster Vulnerability Patching a CISO Priority",
-        "url": "https://www.bankinfosecurity.com/ai-makes-faster-vulnerability-patching-ciso-priority-a-32557",
-        "domain": "bankinfosecurity.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T064500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "  Breaches Will Occur . Preparedness Helps You Contain Them : Five Eyes Releases Statement On AI And Cyber Risk",
-        "url": "https://www.mondaq.com:443/unitedstates/new-technology/1832682/breaches-will-occur-preparedness-helps-you-contain-them-five-eyes-releases-statement-on-ai-and-cyber-risk",
-        "domain": "mondaq.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T071500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Cyberattaques en cours contre le Mac : des pirates exploitent une faille de sécurité critique de macOS",
-        "url": "https://www.01net.com/actualites/cyberattaques-cours-contre-mac-pirates-exploitent-faille-securite-critique-macos.html",
-        "domain": "01net.com",
-        "language": "French",
-        "tone": 0,
-        "seendate": "20260818T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Five Eyes Issues Warning About AI Cyber Risks to Business Leaders",
-        "url": "https://natlawreview.com/article/breaches-will-occur-preparedness-helps-you-contain-them-five-eyes-releases",
-        "domain": "natlawreview.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T003000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Cyberattaques : le plan de Lecornu suffira - t - il à colmater les brèches de l  État ? ",
-        "url": "https://www.ladepeche.fr/2026/08/16/cyberattaques-le-plan-de-lecornu-suffira-t-il-a-colmater-les-breches-de-letat-13511008.php",
-        "domain": "ladepeche.fr",
-        "language": "French",
-        "tone": 0,
-        "seendate": "20260816T133000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "AI Makes Faster Vulnerability Patching a CISO Priority",
-        "url": "https://www.govinfosecurity.com/ai-makes-faster-vulnerability-patching-ciso-priority-a-32557",
-        "domain": "govinfosecurity.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T091500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "OpenAI Models Breached Safety Limits ; Company Now Trains Code to Be Provably Unhackable",
-        "url": "https://www.techtimes.com/articles/324944/20260819/openai-models-breached-safety-limits-company-now-trains-code-provably-unhackable.htm",
-        "domain": "techtimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T141500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Revealed : Cyber spies used malware from GitHub to hack EncroChat cryptophone network",
-        "url": "https://www.computerweekly.com/news/366649396/Revealed-Cyber-spies-used-malware-from-GitHub-to-hack-EncroChat-cryptophone-network",
-        "domain": "computerweekly.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T070000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "NDIA fended off March TeamPCP supply - chain hackers",
-        "url": "https://www.itnews.com.au/news/ndia-fended-off-march-teampcp-supply-chain-hackers-628227",
-        "domain": "itnews.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T014500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "ArmourCode gets verified Claude access for cyber defence",
-        "url": "https://securitybrief.news/story/armourcode-gets-verified-claude-access-for-cyber-defence",
-        "domain": "securitybrief.news",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260814T190000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Rapid7 says exploits are emerging faster than patches",
-        "url": "https://itbrief.co.nz/story/rapid7-says-exploits-are-emerging-faster-than-patches",
-        "domain": "itbrief.co.nz",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260818T230000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "INVESTIGAȚIE Atacul cibernetic care a blocat o lună piața imobiliară din România a fost anticipat de existența pe internet a mii de parole de notari , avocați , ingineri și funcționari publici",
-        "url": "https://hotnews.ro/investigatie-atacul-cibernetic-care-a-blocat-o-luna-piata-imobiliara-din-romania-a-fost-anticipat-de-existenta-pe-internet-a-mii-de-parole-de-notari-avocati-ingineri-si-functionari-publici-2326527",
-        "domain": "hotnews.ro",
-        "language": "Romanian",
-        "tone": 0,
-        "seendate": "20260818T061500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Apple addresses multiple WebKit vulnerabilities",
-        "url": "https://www.computerweekly.com/news/366649440/Apple-addresses-multiple-WebKit-vulnerabilities",
-        "domain": "computerweekly.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T004500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ce que Claude Mythos révèle de nos stratégies de cybersécurité",
-        "url": "https://www.silicon.fr/cybersecurite-1371/ce-que-claude-mythos-revele-de-nos-strategies-de-cybersecurite-228730",
-        "domain": "silicon.fr",
-        "language": "French",
-        "tone": 0,
-        "seendate": "20260818T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "What is driving cyberattacks on US water systems ? ",
-        "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/what-is-driving-cyberattacks-on-us-water-systems",
-        "domain": "kpbs.org",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "AI a spart sistemul de rezervări și a dat afară un client . Ce s - a întâmplat în Australia ? ",
-        "url": "https://indexstiri.ro/ai-a-spart-sistemul-de-rezervari-si-a-dat-afara-un-client-ce-s-a-intamplat-in-australia/",
-        "domain": "indexstiri.ro",
-        "language": "Romanian",
-        "tone": 0,
-        "seendate": "20260815T160000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Best Cyber Insurance Providers in Australia | 5 - Star Cyber",
-        "url": "https://www.insurancebusinessmag.com/au/best-insurance/best-cyber-insurance-providers-in-australia--5star-cyber-586111.aspx",
-        "domain": "insurancebusinessmag.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260819T004500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "This Week In Security : BugTraq , AI Hacks , And Being Dumb On Planes",
-        "url": "https://hackaday.com/2026/08/14/this-week-in-security-bugtraq-ai-hacks-and-being-dumb-on-planes/",
-        "domain": "hackaday.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260814T191500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Russia Targeting Ukraine Using Internet - Connected Cameras",
-        "url": "https://www.bankinfosecurity.com/russia-targeting-ukraine-using-internet-connected-cameras-a-32566",
-        "domain": "bankinfosecurity.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260814T231500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "OpenAI Reaches $40B Revenue as Safety Leaders Exit and Models Break Containment",
-        "url": "https://www.techtimes.com/articles/324713/20260817/openai-reaches-40b-revenue-safety-leaders-exit-models-break-containment.htm",
-        "domain": "techtimes.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260817T200000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "GPT - 5 . 6 Sol vs Claude Opus 5 . Benchmarks , Developer Reports and the Hugging Face Breach",
-        "url": "https://memeburn.com/gpt-5-6-sol-vs-claude-opus-5-benchmarks-developer-reports-and-the-hugging-face-breach/",
-        "domain": "memeburn.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T091500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Breach Roundup : Grandoreiro Returns",
-        "url": "https://www.govinfosecurity.com/breach-roundup-grandoreiro-returns-a-32621",
-        "domain": "govinfosecurity.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T221500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "War : Watt Is It Good For ? ",
-        "url": "https://warontherocks.com/cogs-of-war/war-watt-is-it-good-for/",
-        "domain": "warontherocks.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260820T090000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Russia Targeting Ukraine Using Internet - Connected Cameras",
-        "url": "https://www.govinfosecurity.com/russia-targeting-ukraine-using-internet-connected-cameras-a-32566",
-        "domain": "govinfosecurity.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260814T193000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Let Talk : What cyber incident response steps should businesses have ready ? ",
-        "url": "https://dynamicbusiness.com/leadership-2/lets-talk-business/lets-talk-what-cyber-incident-response-steps-should-businesses-have-ready.html",
-        "domain": "dynamicbusiness.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260818T224500Z",
-        "source": "GDELT"
-      }
-    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -1375,27 +1119,8 @@
       }
     ]
   },
-  "entities": [
-    {
-      "id": 1,
-      "name": "Breach Roundup : Grandoreiro Returns",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260820T221500Z",
-      "source": "govinfosecurity.com"
-    }
-  ],
-  "events": [
-    {
-      "title": "Breach Roundup : Grandoreiro Returns",
-      "url": "https://www.govinfosecurity.com/breach-roundup-grandoreiro-returns-a-32621",
-      "domain": "govinfosecurity.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260820T221500Z",
-      "source": "GDELT"
-    }
-  ],
+  "entities": [],
+  "events": [],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
