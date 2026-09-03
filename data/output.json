@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-09-03T16:43:51.467024+00:00",
+    "generated": "2026-09-03T21:26:17.541351+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "42",
+      "value": "40",
       "delta": "deduplicated"
     },
     {
@@ -37,28 +37,37 @@
       {
         "title": "H1 2026 Malware and Vulnerability Trends",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTEpUenNsdVNGcW9tbnEtbGNBV2VzVzJPSXR2Z3RBanlaRXZXYl95UVFvSFk2YTY5MUtuWGYzU1ZlZ3ViV1R4ODlYMlN2VGVsbm5SZm5ocUQ1WHhlNG5FYXhpdHRFblFFUmR5YkczU0RFWUN1SS05V2c5Z29CT2FBV2hn?oc=5",
-        "domain": "recordedfuture.com",
+        "domain": "recordedfuture",
         "language": "",
         "tone": 0,
         "seendate": "20260903T144802Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Two Maryland hospitals hit by cyberattack, compromising systems",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdl85bWQ5dTZuSU5QSU92cnZobE5iOFlMRWdfbUpCY3g0TlQzM2NCU2pJT3ExRjFCOXlYbzNZMm9sQU9BdlRaM2xCTExFdmc2eURCOFlFY25FTlBFRGFCNnE1NUN3RVZ4WUlmdnVwVEdWRko0OTZfQmZMY2k5NDNFcVZiVHZibXh2eGxUNmRSTEo0ZnlaYlkwaDg1MVZCTUFyQTNVRGpsWQ?oc=5",
-        "domain": "wypr",
+        "title": "Luminis Health cyber-attack disrupts Anne Arundel Medical Center",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUk1Q0VRY2c3RUMxd0U0REFiZ2NDNUllRzRjZFdlcnhocGFYNnl3aTE3RFB2LXQ1cTd2WnNYTEp2LTVYYjgyR2d6NS1XOGx3aG1rQ1A4SUNSc3lrZFZ2elNmMXNjMDE1YnRGcldUVHoyWHZFdHJ5TTR5aklOWldlNlJuMG5BQQ?oc=5",
+        "domain": "wbaltv.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T001600Z",
+        "seendate": "20260903T112100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NdVZYenoxdEdpdGp2ZUtyeHQySDdrUTd2ZFJKbFJDWTR0N3hDUGMyTVZVUjVyQUFWTVZDbWlRMEtEV3N6bHpBYzdDVWRoLTctMmtrU1BIZlRmb1FqWHc0LXBmTGJpX1lMR2w3di02TWlsamNXTVkyalV2MDVpQQ?oc=5",
-        "domain": "thehackernews",
+        "title": "Attackers Behind UK Airport Cyberattack Release Stolen Data",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUp2Vy12enFtSmVfRWhzNk4wcF80MHdEdVMtWUxBblpzT3ozbzlrT2NKTjlsQjdtcW4wQ1BBVERxTFdtRUZiemV0Skw2MXFRQkRlZ05LYjBleXlDeV95RkN1WEVLaHNWQmVZRnhielExT3NKZU5HNEZSSGs5bkp4NUFwd090RmpWTDhRM0EwMkxSNmht?oc=5",
+        "domain": "cybermagazine",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T051900Z",
+        "seendate": "20260903T143830Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Two Maryland hospitals hit by cyberattack, compromising systems",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdl85bWQ5dTZuSU5QSU92cnZobE5iOFlMRWdfbUpCY3g0TlQzM2NCU2pJT3ExRjFCOXlYbzNZMm9sQU9BdlRaM2xCTExFdmc2eURCOFlFY25FTlBFRGFCNnE1NUN3RVZ4WUlmdnVwVEdWRko0OTZfQmZMY2k5NDNFcVZiVHZibXh2eGxUNmRSTEo0ZnlaYlkwaDg1MVZCTUFyQTNVRGpsWQ?oc=5",
+        "domain": "wypr.org",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T001600Z",
         "source": "GoogleNews"
       },
       {
@@ -73,19 +82,28 @@
       {
         "title": "Five Healthcare Providers Report Ransomware-Related Data Breaches",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSFVuQ3Q5b0UzRnRCZXhBNU1nd1BraWVEaDRSa245ek9HZ0tVWl81LXpsTXo0eDk2bG9QQXMzQWxlNG1pZ2RqSWV0UUtKTUlsbS1QX3lQeDhSOFZDeFRzQmtyenZQX2FYYzNHUE03dmo2OHR3cV9HbkE1bFhqUHJ3MzJB?oc=5",
-        "domain": "thehipaajournal",
+        "domain": "hipaajournal.com",
         "language": "",
         "tone": 0,
         "seendate": "20260903T141917Z",
         "source": "GoogleNews"
       },
       {
-        "title": "SUN | Luminis Health facilities dealing with a cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2Zy1aMzZiY3pCbkFKdkZlczJ3VFVWMFZzLUVXZFA2VjQ4S0xlY0MxWmhYTDNFTmZxVG4ySU9Rejc5WVNNd1pSVzh3cE11b2x6NUZ6WnN6dWdWM1pUd0RYb0dvX3BsSXRGOEFHby1TSTluakN0UlY2eVU5WlJDUQ?oc=5",
-        "domain": "wbff",
+        "title": "Luminis Health Cyber Incident Reported; Investigation Ongoing",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjNOaTdxNmY2SXhVUmlfZUZSMDlqRXFyS0RaNmhPZ280M1ktVklOWk8wRkNtRl9WUFo2UHlEWDNnRTkxcVVvWjVfcGdRbTVOOXExWWJqYUhTclFVeThfRks3b3Rqb2lGWlpOaklsUzJ3QlVOS3poOGVfSnJYeFpVV3BYVXg?oc=5",
+        "domain": "classaction.org",
         "language": "",
         "tone": 0,
-        "seendate": "20260902T233720Z",
+        "seendate": "20260903T193903Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NdVZYenoxdEdpdGp2ZUtyeHQySDdrUTd2ZFJKbFJDWTR0N3hDUGMyTVZVUjVyQUFWTVZDbWlRMEtEV3N6bHpBYzdDVWRoLTctMmtrU1BIZlRmb1FqWHc0LXBmTGJpX1lMR2w3di02TWlsamNXTVkyalV2MDVpQQ?oc=5",
+        "domain": "thehackernews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T051900Z",
         "source": "GoogleNews"
       },
       {
@@ -98,12 +116,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Attackers Behind UK Airport Cyberattack Release Stolen Data",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUp2Vy12enFtSmVfRWhzNk4wcF80MHdEdVMtWUxBblpzT3ozbzlrT2NKTjlsQjdtcW4wQ1BBVERxTFdtRUZiemV0Skw2MXFRQkRlZ05LYjBleXlDeV95RkN1WEVLaHNWQmVZRnhielExT3NKZU5HNEZSSGs5bkp4NUFwd090RmpWTDhRM0EwMkxSNmht?oc=5",
-        "domain": "cybermagazine",
+        "title": "SonicWall urges immediate patching of chained vulnerabilities",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0dmbEZEbHJqekYwUENsS21nQWwxMkNEX3FUR3lfRzZNZkZwc2FCUEVpMm9xd25HUllUd2d6UjlNendGakZIM3JQUGFEbTQtcTBSN19GU1BySDZJLXpSOFVKazczTE9VMEY3elFjV09HLXNyVVJtbV9yWmZhVkZzbzZZazdScGZaNzQ4WXVyQUFpOFk1TmhMYTNIUTR3eFRp?oc=5",
+        "domain": "cybersecuritydive",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T143730Z",
+        "seendate": "20260903T160422Z",
         "source": "GoogleNews"
       },
       {
@@ -125,57 +143,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Radiology vs. ransomware: How to defend imaging departments against cyberattacks",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFY1bF9UZUt4R0tKNG04UE5La241RjhRUzUyYWJvSENBSjNpTVRKTUxqU195LVR0dHlzZF9qSi1TUUg3b2FmVHozODNtWS1la0VoRzdfUzhCY3JreThyYUpyak5PTWJuSkVjOVpCY0JLSmJ6eEYta3lZOFRreENTYjhFNjU?oc=5",
-        "domain": "healthcare-in-europe.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T040112Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Node.js: Old Technique Makes a Comeback",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IU1ltSGEtQ09yTVlBRXYxUWNmSFoxN3ZQaEJpbjNfbWNIZjhINERxNTdfdFJMMGxtMVp4a1hsanJqWHRPS00yazE0eUtqa3RpNDNKSGdlQ2FPX2xQa2Q5MmpfMkFab3V0TGxLT1BHeHpSMV82UkNjbEl3OA?oc=5",
-        "domain": "security.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T101808Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Commentary: America’s hidden national security vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVRTbGpxYllBSWo2cUk2cWxjRjBNYlJmM192VFJUSEhJbHFFV0RHcy1vam5WWG9xbERncXFJT3c3cXVTZzQ1RzA3SXo2NlRuNFluZ1l4RlhNcE9UMkxGcDk5VFl0QmRDQ005cXBkR1pabG9HVnRCM21mcFNORGlMcVlRWjVfX2FUaXVxMlBrNGk3TnMtLUQ2YXptcVZQeW80U2hWb0htWkFmOFJBYmJ6a2I2ekNibGlpMkxRai12SDNWR0VlQlFIZVN2OGoySXZETngzS0tRdl8wbm1iTVFV0gHkAUFVX3lxTE5KNm1EaVZvbWx1Q1d4RmQydElZTDVCN1FzMVJHV2ljMEhtd094d1A5MW9uQTZhQW9MUjltUEVtVGJuOUlIeEFWZ1RMSmZCTjJWdFJnMmJvX2VYOVVfaFJrMF9zbkItUXc1ZHNGX054emRiMXc1Z0wzM2xkYTc0YklRa1VNak85VTBJaWpsMERZX1NZRHNSMVkyeWVHQkwyellRM2J2R1dJRzlPdDJiSDZLWTZXRU9IamFic2xUdUpTdzFrR0lxb285WktPQzN4UVJ1RnZLeDNlZEJQT0xSTzE5UkE3Tg?oc=5",
-        "domain": "yakimaherald-republic",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T120755Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Oncology firm Novocure says cyberattack exposed US patient records",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHJMX3RpZ25VWXZTemh4NXRiWWZmUGxJWXdCZjJIaWdsN0tOZmJRNlNOVWtBM3FvelF1ajlPVDhDbGJRbGN5YXNWSzQ3OG53UC12RC1DMXVvZWhHS21rNnUwdUh0MVFOYjVlUjYzbVFFQTlUa2I1YTB3UGJwOUVhSDI4VTViV3dlV1IwcWFTMThlV2xnNVdKX1FLSEswdWFJYlB5aGhhVGpzdTRCMFNaM3BhbmtWeUFlMDZN?oc=5",
-        "domain": "reuters",
+        "domain": "reuters.com",
         "language": "",
         "tone": 0,
         "seendate": "20260901T134101Z",
         "source": "GoogleNews"
       },
       {
-        "title": "AI agents carried out every step of this ransomware attack – then left the victim an 80-page security audit",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQUJkX0VXdElDcDRWQzl0MnU2bGxpTjZLTjUtTzEtY29YeFVXdVNILWhHRnRuYUJsYmdUTnBJUF9hSTlmejBSbGN0NDVXZ3g3WEh4SGRTVWZmOVhuVFFENkZWc2pTYXVTanhsMUV6cEpkdWVxb0g0VklNT1pwdmJraHRfbDkxUXZ4VTdFY2dSN0dnQ2tqckJ3Z3R1M2VTYXRzWWtnNi1DR0FNZHJYTzFuYzNWc29KalBPcDZXd0NYR3lPeHFEWjdzcVpOQU5HN24zQ190QXd0Z2NwMHkzX0l2QzRRdTFTaHV4S2lzSzg5UFFvT1E?oc=5",
-        "domain": "theregister",
+        "title": "SUN | Luminis Health facilities dealing with a cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2Zy1aMzZiY3pCbkFKdkZlczJ3VFVWMFZzLUVXZFA2VjQ4S0xlY0MxWmhYTDNFTmZxVG4ySU9Rejc5WVNNd1pSVzh3cE11b2x6NUZ6WnN6dWdWM1pUd0RYb0dvX3BsSXRGOEFHby1TSTluakN0UlY2eVU5WlJDUQ?oc=5",
+        "domain": "foxbaltimore.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260902T182800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "IT-OT convergence: When ransomware hits the factory floor",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObXl2SHFDcnpLZmk1MnRvV09Zc1d5NW9hdFZYY1Q2Z3NELUZqNjB5eFQyR09WNEJoU2tLdTM2d1lvX2VlRllGXzhaeWE2SFNDYndGT0R0T0xkb25ZdFYycEZmZ2VwMG9kUkpaSDgtVDUzbUpfalBWcDkwNl9XcXg1RWVfdjh6LVRGQUpjRkR6SGVtRTFrNHh4bmkxSENITVE5Y3JQR1NudWNrWUE0d01ZUThtaWw4Z3dLZ1FIbW5OVXFCbXRPcTlfMGJyU21lc0VEbWhidDIwdGM5YmR0?oc=5",
-        "domain": "smartindustry",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T130245Z",
+        "seendate": "20260902T233720Z",
         "source": "GoogleNews"
       },
       {
@@ -197,12 +179,75 @@
         "source": "GoogleNews"
       },
       {
-        "title": "OpenAI Astra raises Cybersecurity concerns over Advanced Vulnerability Detection skills",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk1SRUVjUU05c2J2RkFTTU5mQ3NKYlNySm40VU5Ka2NRWUlNeUplZUhPUWNCVTI5a2hiOHE4VEx5MjFkWVp4OTBqTm9QZGsyTmRrRHBRaXFDUnBPNkxzYVdkY0pLS213bjdGdWJidVRvM2FmdkRGVXNTSVFzT0Q5aGswTTlUQ1BUd05IbDFaWV9DOUV5ZkRRNW9teGZvSnFFd2lRS3daQzNZUml2VHdHaEVaaDBsSU5EaFFWN0hfZG9pU2JYV3c?oc=5",
-        "domain": "cybersecurityinsiders",
+        "title": "Radiology vs. ransomware: How to defend imaging departments against cyberattacks",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFY1bF9UZUt4R0tKNG04UE5La241RjhRUzUyYWJvSENBSjNpTVRKTUxqU195LVR0dHlzZF9qSi1TUUg3b2FmVHozODNtWS1la0VoRzdfUzhCY3JreThyYUpyak5PTWJuSkVjOVpCY0JLSmJ6eEYta3lZOFRreENTYjhFNjU?oc=5",
+        "domain": "healthcare-in-europe.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T154250Z",
+        "seendate": "20260903T040112Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Two Maryland hospitals hit by cyberattack, compromising systems",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2gtZnNqenRaYUloc285Y0NwOEp4Z3lxdjZZN0xXWWR4Vmd2LU00eXI1U3J6MWI5UzJCVEtXNnAtdDd0b0QySTY2MDZRM1dtSkZseFZWQmVFLUV1c1h6TjFQNDVMY0s1VmE3Z1BfNTR5RVA4RTVRSnNrV0ZUZ3Zjd0tUQ2g3V0hyQ0xPRnBjRktpV1FqdUdOYmtTZm03dWkyeFRn?oc=5",
+        "domain": "baltimorefishbowl",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T183000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "AI-powered ransomware has arrived: Cybercriminals can now launch attacks for less than the cost of a coffee",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONklzdXJYTS1PVEc2WkxVRW44aktJU0I5bktVbUFRc0ZzSTRjd3I0SWhpajBSemVSaHV4Ykc1OWdMc0ZZUllrQ0lfZGJxSmU2VnhLR2FlbEtEZThZRnBRdzg2QlJHVHFOVmVBN1VYU2V6ODAwTTI0c3MyM0xPajlLQ2FRejl1WjNiMXdQYVhaYmpyWUdsOGxNMDV1d3RmTEcwMURRNzlkYzNJX0FOVm1lNTZ3ZER6VXl3Q2tnRU9OdnNveWxCdWFQdXVqUVhqN09CN3Z1aThGb2ZMZFVBdmxV?oc=5",
+        "domain": "digitaljournal",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T203306Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXowUzRodE1wa3JaOGxpb05YdDREMnBKeEtuTGlfYmNNUXV6ZjR4V19HVDg4YW01NFltNWxTVmVkcGE3VDJtY0Q0Qlg0THpRRXNLN1lfSExrV3FXbEV4bDlST2wwYzBxTzRvNTQ4SWxOS2VRTXUxQlhnZXg5WkstczMxYVRTTzFDc3AzQmp0WW5MX1ZYcHpFQnpwaTBiV2Y0WUJERFV30gGrAUFVX3lxTE92aGF0RVBaRVdHNGxkT1lZaFo3d0k3TDFDYUdXbERUMjJ3bENBWE5Cczlsbi1ZYkdRUG1SLUtLR0VVcVdDemR5aUNSc19oR0ZrSlcwLUs0X2ZsSXZTMVEwd3BFekswN0pQdE9EeTZfSEdYY2YyaXJEUm9xQU83N0JnUHp0dUhfTjhfSFdRa1Y3eElaZFh0U0NrRExRQ1dMRzUtSXUyT2NMRTdVTQ?oc=5",
+        "domain": "securityweek",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260901T095944Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ungentlemanly behavior: Insights into a ransomware operation",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGZ6NGMySFY3RnhLZ1NzOFlYVEt2WXEwT3VCdnVwUXUtVG1zdUxpSUtZODlEZkNLSHh2d2w4UWo5OS1zU1pCeTRQYVRPdzdWT2ZleDN3Qmk0cGFqVkJtUmpSVVMwdEdtNjFnazl5d0JGR3h2SzhzQ29UQUgzY09lUWQ3RXM0OXoyenJ3eXNSQ0tUVU5lYzFCdg?oc=5",
+        "domain": "sophos",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260901T120715Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Node.js: Old Technique Makes a Comeback",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IU1ltSGEtQ09yTVlBRXYxUWNmSFoxN3ZQaEJpbjNfbWNIZjhINERxNTdfdFJMMGxtMVp4a1hsanJqWHRPS00yazE0eUtqa3RpNDNKSGdlQ2FPX2xQa2Q5MmpfMkFab3V0TGxLT1BHeHpSMV82UkNjbEl3OA?oc=5",
+        "domain": "security.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T101808Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Another Artifactory CVE under attack by AI agents or humans",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVJNWUxQaGoxZ0gyT3FIdVA1X0I5MW93dGhVbFd0RllSVW8ycFhRNFlrU2JTQVZnTE9nNzltYmdCNl82U0JWa1FlMjhNc3JWZURoUGhkdUd0WHdlNDlTMVd1dFB5cjAzZVlTejhCeWhiTV9tMzJ5bG40NllJS0hHMzV6NUlqZlNtSDEyV0xNdnlZVmltRk4xUllpb0JxdGlnZ3FnQThTSWZod1dMRVl1NDlpc2ZMQQ?oc=5",
+        "domain": "theregister",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260901T210713Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cloudflare Partners with OpenAI Daybreak Models to Redefine Vulnerability Management with AI-Powered Edge Defense",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVjM2T1V6X2JhTHFVVDlNNkRsZ3pOMk9WeDV0MEZobFJfS3JaYTItQ0dpWk1ETTYwU3drU19vYlBvQkN2NDgtVF9tTmZVOE9xWUlfNmpXUnZPZkNhSHEwWk0xMFFiTW56ZGhrVVB5ZUF6ZFRfNDAwYkxmamVmUzNjNk0wd2pMNEstTlJxdDdfcjhYR3U3QV8zanctYlZ5dXRqNjh3VTNYbUdCYnNKMTdwR0F2ZnZQSnd6bDF5anFmWVhOOFBheGt5SnE4REV3SjRVcm02X1dSa3RidDRIaDNyek1EVE5EQ3JqYUcxdDhMWGlVSHQ1S1ZRU3VwcFpqTkU?oc=5",
+        "domain": "businesswire",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T210000Z",
         "source": "GoogleNews"
       },
       {
@@ -224,48 +269,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Hospitals in Anne Arundel and Prince George’s counties hit with cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWnpuc0I2cUg0QmVlSUZSRXN6MEhxVTEydXo1aHdCZWd5VW0yMFh2cXBtWjQzVGUxQ3RjNm9MOWMyZXA4d3ZiTFJkMlZ6SHp0dFd0RmdiQ09NdmdCNkgwTXZORXBlNVNReG1qUjNDaTFFVktoRHlwcjhWVG8taG45M1IyVlFDUnVjZjBlMkVUcTZjdWYwMGdZM3lKVnBOZjRld0tCOE1NaHo?oc=5",
-        "domain": "thebaltimorebanner",
+        "title": "CISA vulnerability directive designed to ‘buy back time’ against hackers",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNFpxQlBpSUcyYzgwejNVN1poSjRHWnhUc0hlb2NTUUhELTFtTndybVUzQ0RuZ0N4R09jcGFIdzdmdzZFVzc2QUJsNS1YbFRTQUFQSldDVFVsNzRTNi1GUmhWN1hXdlNkUGl0UzlEVDRDUld1clRiTjBHa1R1TlFJWXlBNzNMcTFmVGQwR3FNNnN5OXMyc19PenFTNzFTNklyejlnSHE4ajlqWXAtQVZTWFBYM1hTOHF2OXpXSXE0bE5QQQ?oc=5",
+        "domain": "federalnewsnetwork.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260902T214046Z",
+        "seendate": "20260831T225415Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Another Artifactory CVE under attack by AI agents or humans",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVJNWUxQaGoxZ0gyT3FIdVA1X0I5MW93dGhVbFd0RllSVW8ycFhRNFlrU2JTQVZnTE9nNzltYmdCNl82U0JWa1FlMjhNc3JWZURoUGhkdUd0WHdlNDlTMVd1dFB5cjAzZVlTejhCeWhiTV9tMzJ5bG40NllJS0hHMzV6NUlqZlNtSDEyV0xNdnlZVmltRk4xUllpb0JxdGlnZ3FnQThTSWZod1dMRVl1NDlpc2ZMQQ?oc=5",
+        "title": "AI agents carried out every step of this ransomware attack – then left the victim an 80-page security audit",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQUJkX0VXdElDcDRWQzl0MnU2bGxpTjZLTjUtTzEtY29YeFVXdVNILWhHRnRuYUJsYmdUTnBJUF9hSTlmejBSbGN0NDVXZ3g3WEh4SGRTVWZmOVhuVFFENkZWc2pTYXVTanhsMUV6cEpkdWVxb0g0VklNT1pwdmJraHRfbDkxUXZ4VTdFY2dSN0dnQ2tqckJ3Z3R1M2VTYXRzWWtnNi1DR0FNZHJYTzFuYzNWc29KalBPcDZXd0NYR3lPeHFEWjdzcVpOQU5HN24zQ190QXd0Z2NwMHkzX0l2QzRRdTFTaHV4S2lzSzg5UFFvT1E?oc=5",
         "domain": "theregister",
         "language": "",
         "tone": 0,
-        "seendate": "20260901T210713Z",
+        "seendate": "20260902T182800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "SonicWall finds education faces highest per-device cyberattack intensity of any sector",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0FrNkFOSjc4Ul9pLVNlRW9maHUxcGpPR2c4aWIwSmU4NjBEZG8yT1EwdmU0amxsWFJ0T21uaXZ3R3RreTl0d2prVkxSdnRLdmg1S3BRTW44Q2w0eFRFWDF0emhsa19hNWxRaTZUMWRsQU9DeVZZSnBKOHdNbkpWSUF4LVEwOTV1RkYxT2hPNWViUUNmSlJ6ZU13ajFDUVVRYlRkdEpwcFhsS3Q0SHdmbmFYck9KVDBUVUtNY0I2YVg0enV1b1A1c2V3?oc=5",
-        "domain": "intelligentciso",
+        "title": "National security expert warns of power grid vulnerability due to strain from data centers",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGZBTUdIc2k2cGZ2enBvUHQxRlM2OUxRWnpGNzZ3VUNGcGZ2cnlPb0VOaUptV3FGTXBqMTVjOW91eWRpanJSeEJpODd4cElWQ3AwaVF4dmFuaVVQWHpzTWNJZWRjLWZiblRUa1NENHN2VDBQVWtydHZrb09wVjFEbmdnUmZPRzlaNFR2Qlp5Tm1mSDYxX3BFWnE3YlE2U3h0MDU0aWM3anNnb19TYVRsRGJiYzdBbFI4VkdqbzB5TktoUm9aS254V0t2YkdPV3FqN294OW1SaVN6SUxObGdoUUVURDhsMkxMcXAyVkFYQdIB9wFBVV95cUxOVFlCUHFySFRFT1FMMVRqeDVXNWNEUE4tbmVKanpSQ1lJTWlrUWVQSDBpY1BqbkNKS0l6UGZtU3V5VWFkYVZoZVFrWWNOa1ZHeC05Y0Nrak9nbXBQdUl4WlM4MTNMb3BwYnpVZm1leGJRR0xIYU5FZXRqOVE0dGtDRUJGdFVJVnRxQWNqS1RTNzREUTJJeWtNX0hNOWZhcVpwVGx6QzYzRGJQdFFxRE85UC1YUTFOR2d0NU9KQzVVZVhIX3h2RDVHbHpaaktON0JsTGlFUWJVbWdmMVY4R1ZfelVBUHdNWWZxREFoLUtRWUZ5REFGdl9r?oc=5",
+        "domain": "nbc4washington",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T114526Z",
+        "seendate": "20260901T234141Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Two Maryland hospitals are hit by cyberattack – WYPR News",
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZ1RIZDRhY3kxNlNKTWM4NVdKaWxzUHFmNVJPeHZQR3RlZTJ6b3VxRUZVOE1FRDZLc0tBeGRUWTVXNjNqVWxpQUl5M05yWnctQloyZV9EdWkyT1Q5SWROcjlJY2ZIWFBGRk02UTNCUjBEQmppYV90S0EyeWlnZkhWZk1fQlhlcHpmcUx2ZTdhejJoTTNOczY3OFZidmcwemp6TklaOF9mclh1eDhyTlZHV3dGTUJ3Y3ZnejB3RGsyS1lZaFd4UWJmcWU2NGk5X01vWW1YZ1dhNkhMYUlwZC1ybktQZjNQSlJuSjl2RUVXWlhBWGZxTlhBTmcycXI0VHY0X055ZTlQZmFNM290OU9tbW9idE85ZV95NEx4UkpwRzNrYkNwelNvZVdR?oc=5",
-        "domain": "baltimorefishbowl",
+        "title": "SQL injection vulnerability in WordPress plugin affects millions of sites",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOenFBQ19Kcl9tUGlpR3gwRzdPeWtjd1J5eEVOcllYZWk4R0pKZGFUWS1BQ1pmUlpFOW5YdTB3UXNkdjR2c2EzQ2QwaE9RaXVCeHJNSFFHNndlX1poMmdvMk8xQXB6OU93eDZNV1lLZlBGZ0FIMGIwcGdnZjNjT3lWUXByOFpNMzRCLWZ6R1JDamlCelRuWkRCUFBjdlBfOFF3TEYzRDVn?oc=5",
+        "domain": "scworld.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T113000Z",
+        "seendate": "20260903T161100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Plex warns users to patch security vulnerabilities immediately",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeEFSRlhNTnppQi1zSjFNUXJiWVAzeGZrT2R6eTJZZm1GemxwY25YY0FMdmZaa0NTRFkyUHI0cXBBUXZmZjZlUmJqdlVfSjJMNmhZMS1LRm9QZVdqSFV3WGdzTzF5dkVCRUp1NUNDUlNMNVl6TklGR3p3LUNvMGlydC1ubl8zRmVOVnR0R3JoamRCV2NJNEthQnkxdUhySG5jQy1uZW1LUDFMQmtCcm9F0gG0AUFVX3lxTFBIRi1LYU8tVjY2VzRENnZzT3FTSDhTWGdNSTFpVm1QQVhMck9PNHJWbUZrTWZhelhNUFBtOWVtcDJDNFJjeTd2TnpScEk3TkRKbnJBX0liY1FQUmV5eWNXNDBTWG9uT2tfdzlhTS1qbjFGRXRkT2NpZ212a1VaaGtPX2o5M2xPZGtOdW9PRmJsRnByVzY5cFZkSHRzVHg4SkJNQkdIb2xjUWVjQlJscThOUWw2dA?oc=5",
-        "domain": "bleepingcomputer",
+        "title": "IT-OT convergence: When ransomware hits the factory floor",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObXl2SHFDcnpLZmk1MnRvV09Zc1d5NW9hdFZYY1Q2Z3NELUZqNjB5eFQyR09WNEJoU2tLdTM2d1lvX2VlRllGXzhaeWE2SFNDYndGT0R0T0xkb25ZdFYycEZmZ2VwMG9kUkpaSDgtVDUzbUpfalBWcDkwNl9XcXg1RWVfdjh6LVRGQUpjRkR6SGVtRTFrNHh4bmkxSENITVE5Y3JQR1NudWNrWUE0d01ZUThtaWw4Z3dLZ1FIbW5OVXFCbXRPcTlfMGJyU21lc0VEbWhidDIwdGM5YmR0?oc=5",
+        "domain": "smartindustry",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T110222Z",
+        "seendate": "20260903T130245Z",
         "source": "GoogleNews"
       },
       {
@@ -278,6 +323,42 @@
         "source": "GoogleNews"
       },
       {
+        "title": "OpenAI Astra raises Cybersecurity concerns over Advanced Vulnerability Detection skills",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk1SRUVjUU05c2J2RkFTTU5mQ3NKYlNySm40VU5Ka2NRWUlNeUplZUhPUWNCVTI5a2hiOHE4VEx5MjFkWVp4OTBqTm9QZGsyTmRrRHBRaXFDUnBPNkxzYVdkY0pLS213bjdGdWJidVRvM2FmdkRGVXNTSVFzT0Q5aGswTTlUQ1BUd05IbDFaWV9DOUV5ZkRRNW9teGZvSnFFd2lRS3daQzNZUml2VHdHaEVaaDBsSU5EaFFWN0hfZG9pU2JYV3c?oc=5",
+        "domain": "cybersecurityinsiders",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T154250Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "GitHub Actions: Early September 2026 updates",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3EzRXQ1VHdLbTM3MDNRdDNWc1QtSnZ2Yko1V0w2VVdaeUVHVzJtbUk2Tncwc1dZNWhvcTBBeFI0MVdDcXJ5U3N6UHVCZ0RuNXowTXdWckVoTXBvdXlJQ25UNTZOT3lOZmYtem53YU5rNE43Y29WOHp6M0Q4UGRYZnFRalNZbE91VTFHRDFR?oc=5",
+        "domain": "thegithubblog",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T203053Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Two Maryland hospitals are hit by cyberattack – WYPR News",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZ1RIZDRhY3kxNlNKTWM4NVdKaWxzUHFmNVJPeHZQR3RlZTJ6b3VxRUZVOE1FRDZLc0tBeGRUWTVXNjNqVWxpQUl5M05yWnctQloyZV9EdWkyT1Q5SWROcjlJY2ZIWFBGRk02UTNCUjBEQmppYV90S0EyeWlnZkhWZk1fQlhlcHpmcUx2ZTdhejJoTTNOczY3OFZidmcwemp6TklaOF9mclh1eDhyTlZHV3dGTUJ3Y3ZnejB3RGsyS1lZaFd4UWJmcWU2NGk5X01vWW1YZ1dhNkhMYUlwZC1ybktQZjNQSlJuSjl2RUVXWlhBWGZxTlhBTmcycXI0VHY0X055ZTlQZmFNM290OU9tbW9idE85ZV95NEx4UkpwRzNrYkNwelNvZVdR?oc=5",
+        "domain": "baltimorefishbowl",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T113000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fort Scott recovered from a ransomware attack in six days; commission cuts demolition funding 3-2 and will rewrite historic-district penalties",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZ2lVT3BsYi1BUDB2b0lkMVRHUWFSXzVGN3VQX1ZRa19UUk9DVnRYeEkxVi1OYVFnV1pyd0ltX2tYaFEwbWF3ZDNGamt0VVB6bmJleVZJb1FNbjRneGprWjdjel95SzFWUEM0bEhpZWt2RnA1c3lWd0Y4YW91ZlNqam5kTUFzNW5SZW5uaEF0T0FnTnQxdDh1U19xQzk3cWRzRHRUTFplZjFncVNxblFXSHhaaGt5ekRaV1RPRHVZZ3p0M2doV3RIcnZqUzlweU90czhPeF9rS1poS3JZSlZKOHBOOVFiejdld1JVS0J2Yk44TjVTV2p0c1ZJVFbSAYICQVVfeXFMUGhBb3l2Q29Mei1hNTN2Vk9CaVMyaEIxeFJ3cmZDNDRJOG1yMU04eGx5cVVyRk1fMmtibl9oaVhLZjhHN291WFFLMUlRemtZSTJWWXJZbzFnWkljN3hESzhmVERVY0lRRVg5UlByNHV1MWkwT2NwWUx6NlVWdk9tLU1DSHluVkY3dURjS1NsNjVzcGJHLWQ0OVRrcWo5ZUlSWUZGLS1SN1FTNXdFSVJEVDlaVDQ2V0RYbDIydndCR0tPT0J2SnNoV2p6Qm5WbVQwbjE2aFdFbW9Ob0ZsN2FKdUFYZm54clUyVEI2eDlib19NVWhpWjJpRGZSM0dRWklBbTdR?oc=5",
+        "domain": "fortscottbiz",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T193235Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "FAIR for Hospitals: What a Ransomware Shutdown Really Costs",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnFNcDNHc2hMdGgtUEhpUDV2ZlVmaGgwSXpOZS1BV3FqLTdTLUJxRm1jaml2ZVdEOVNIcmZLRzBpMktTMWc0ay1IRkh2endsWnE2NVYtQW1fZ1JXRW5ZaHd3T3VDQVY2RzRfaXRYbldpdXRfUUhiUlNZYjZZNFg0ZVBOT2VBeHBkbEk0Uks1RGZoSmN4SzVDdXdIR0kyRV9Z?oc=5",
         "domain": "healthtechmagazine",
@@ -287,30 +368,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTAyal9KY1kyWFNrcDQ3X2pMNmdSY1pxMHVMLUZUVmljTGpXZTA3NTBKLXd4MWNzQjRuLUx2X3J5ajFYQk9qeFN4NGV4Sy1yR2g1dlpnRzdTVThScVdHdXhvMlpXRDNKUWZEbTZaNkdraDVZUWczWkZQVFgwOGhsOV9XSFp6RFpQMHBacHJFdDJtaENXWDdzUTFRM0hZWGhHUnFKdDZQVHlNMzBzQTRlNUszWUgtMm9MUkRGUUVNenpUazFx?oc=5",
-        "domain": "techtimes",
+        "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdy00eVdDNWNTbEtsVmlBNlBtd1I3YlFpOVA1cVZ1NUJIQm96NTZrZHZwYkVVbTBHaTNZeW9HUkdUc3ozWEtkRmRPMzhGQ2ljVmxmRU5GeE9waDktbjh3TUtQMGc5bG5NNFdjdU1kaHE2MGEwZ0pXUnBuMXFEV0lreXJEUU0?oc=5",
+        "domain": "thehackernews",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T121803Z",
+        "seendate": "20260901T072200Z",
         "source": "GoogleNews"
       },
       {
         "title": "An AI cyberattack could turn off America's lights before Washington even understands why",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFRMbWo1dWl6Sk1sWWJYWFZ5T0ROUXVCdFBLMTFBN3pwb3hub3hocU5tZEJ1RXByZjNsTGhwczBVbm5nekVuVHJzUTZ1VWcxNXF5NFhFT0RWbWZtNWNFVGE5YWl5aTF6Q0FJUUlMMTk2Wl9CTnp0QTZXR3hqMDFzcnl6aGZ6dlI0MkdlZHVXS2ZERndwLWpuVzg0a2ZMd0kxNk9ROUR6R0N3QkxmcW1hMtIBtgFBVV95cUxNLXJuazhlN1pPcU80ZV8xeVVxUFhjWWdLaWkxeFdnbGJKMHhmeWNmM21TS2Z5dVFaMnRHSkZSNUozWWF2MldPY3NyVTBxaWJJN0U0enFhR01HdVAyblE3NXlUb3VmTEZWQlRXVjFYOGh0QkNpb2tXZkFMUDVHRkE0M0JROTB3VlpfdUI4c0FQQVJ5SENFOHpEVTNkTUV4eVBtTVpic1JHT3AtMVBWUGJoVTZPNlJ5UQ?oc=5",
-        "domain": "foxnews.com",
+        "domain": "foxnews",
         "language": "",
         "tone": 0,
         "seendate": "20260902T130054Z",
         "source": "GoogleNews"
       },
       {
-        "title": "SQL injection vulnerability in WordPress plugin affects millions of sites",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOenFBQ19Kcl9tUGlpR3gwRzdPeWtjd1J5eEVOcllYZWk4R0pKZGFUWS1BQ1pmUlpFOW5YdTB3UXNkdjR2c2EzQ2QwaE9RaXVCeHJNSFFHNndlX1poMmdvMk8xQXB6OU93eDZNV1lLZlBGZ0FIMGIwcGdnZjNjT3lWUXByOFpNMzRCLWZ6R1JDamlCelRuWkRCUFBjdlBfOFF3TEYzRDVn?oc=5",
-        "domain": "scmedia",
+        "title": "Plex warns users to patch security vulnerabilities immediately",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeEFSRlhNTnppQi1zSjFNUXJiWVAzeGZrT2R6eTJZZm1GemxwY25YY0FMdmZaa0NTRFkyUHI0cXBBUXZmZjZlUmJqdlVfSjJMNmhZMS1LRm9QZVdqSFV3WGdzTzF5dkVCRUp1NUNDUlNMNVl6TklGR3p3LUNvMGlydC1ubl8zRmVOVnR0R3JoamRCV2NJNEthQnkxdUhySG5jQy1uZW1LUDFMQmtCcm9F0gG0AUFVX3lxTFBIRi1LYU8tVjY2VzRENnZzT3FTSDhTWGdNSTFpVm1QQVhMck9PNHJWbUZrTWZhelhNUFBtOWVtcDJDNFJjeTd2TnpScEk3TkRKbnJBX0liY1FQUmV5eWNXNDBTWG9uT2tfdzlhTS1qbjFGRXRkT2NpZ212a1VaaGtPX2o5M2xPZGtOdW9PRmJsRnByVzY5cFZkSHRzVHg4SkJNQkdIb2xjUWVjQlJscThOUWw2dA?oc=5",
+        "domain": "bleepingcomputer",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T161100Z",
+        "seendate": "20260903T110222Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWxOenB5dE1aWUJyakVydEotR1dJZlY3STlLei1vSkJaR18wSVJIbE0wc1M1VGZwaktvaHhvaTRWTWxONXhScHpJZGFkNDBzZjdQME0xYzVvNmdvVEZHM09lVV8tNmhibzZHeV9UNnZVY3V2dkd6bXpSZFJ3OFNCQjNCWUVOQmM0cWhhQUtObVZ3LUF4dVlQLVdQSW1qZmN5Y0tYNVRnV3VHSWljWEtUbGlVU1lKbzE0V3VvbWhWOHJEZw?oc=5",
+        "domain": "theregister",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T180822Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Internet-Facing Microsoft Exchange Servers Exposed To Mailbox-Takeover Vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmJlTUNjTU0yU3NQTDJHVURUNG1TS1diQmo5VE02UTViYk5xYXZHSUthQnRidHdWcmtqMTNPLWZjQ2x3UnoyNG9Zajg3bzBpeFdyaXE1MlItTVQ1Vm5aa3JJa1ZBUFJncTZEa0M4WGRxcEsxUmlsS29LalBaTTYxbmFNbjcwQWpaQXRvNHUzOGs?oc=5",
+        "domain": "linkedin",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260902T090016Z",
         "source": "GoogleNews"
       },
       {
@@ -332,156 +431,57 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Echo's Mythos Readiness Report Finds AI Has Solved Vulnerability Discovery, Making Judgment the Scarce Resource",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzJkM2VYclB0cEhNZlJEbm9UdlZ4T1F0bFRpMVhmbnl2VzRhQ0dKYmxTUlE4RnB1UTBneUVjQ1FORThwTzR0eXltanNxTmhxYk05S0pwSEl5djl6aVZaWDU4T2l3SnFoaWlEbmcyWTcybVowX3NlTkRnN1ZzWTZjS3J1aHlBWkZaa2VIREZNemZSeEY3S05FOWNJNF83dEVD?oc=5",
-        "domain": "yahoofinance",
+        "title": "Opinion: Maryland ruling exposes the Utah targeted advertising tax’s legal vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcnJjbkl4Z25kZTFIcGRSV2NtNGtkS0g5NWd5MnFTeDhJZlVGY2ZhUkV1TmJNcXRZaDNKc1RBQ1FYQ0NrQnN2YW5DQXprWnExV0h5QUM4MGM1bjYtTUlyWTd3MXFHRXFrRTBBMXNuLU80UDdQM2dnbktTT2M0anZyd2w2dmFrNWl5ZnZUTUpEaXRkUnlr?oc=5",
+        "domain": "deseretnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T123000Z",
+        "seendate": "20260903T202913Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack & Weak 2026 Outlook Weigh on BSX: Is the Stock a Sell?",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZl9NSUR6RnVQdEk3TGJvZmM0UkNYU1MySVVhRDJYN3RGQW80ZTNrVlY5N2xUa1lIekFYbmJnM3RJZXptWGJGMkVCaVJ5TDRfTUVhSFVSSllla0M0MHBWVjFLQ3FZX2NwWldHWFg0R2hCVjFOZUNCSTZaWkZEcXFYZFpxVkFOS2FWUTEzWG5HU0dyU0dHZEFmRnNkSkFDZWpEdXRQb0l4OEc1QmNXZkVRTkN6aXF3X2dpTGRVd3VvUDBXVjZ3dXVHdnFWM3pwMzhBMVNCRHlaYzI3ZzBCQTdJ?oc=5",
-        "domain": "theglobeandmail",
+        "title": "SonicWall finds education faces highest per-device cyberattack intensity of any sector",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0FrNkFOSjc4Ul9pLVNlRW9maHUxcGpPR2c4aWIwSmU4NjBEZG8yT1EwdmU0amxsWFJ0T21uaXZ3R3RreTl0d2prVkxSdnRLdmg1S3BRTW44Q2w0eFRFWDF0emhsa19hNWxRaTZUMWRsQU9DeVZZSnBKOHdNbkpWSUF4LVEwOTV1RkYxT2hPNWViUUNmSlJ6ZU13ajFDUVVRYlRkdEpwcFhsS3Q0SHdmbmFYck9KVDBUVUtNY0I2YVg0enV1b1A1c2V3?oc=5",
+        "domain": "intelligentciso",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T141038Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Dropbox Breach Exposed a Third-Party Login Risk. Most Companies Have the Same Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGw3UU1ONkE1RVdCcHVkaGhGS2xnMjVVZE1BSlVjcWVXUmxOdjhuX1ZMNVhjN0RUMTBVTVdWS1Myb2VjSDA1Z0JXakFjWWEwOE9veFNicHdlbWtjSXBlQXRWUGdhVUFfRTk3WTZuTHp0ZnBDaUhxWHMzT2Q5a3gyOVZOUE9NRUhpcUdBQzlZcXpqRVVaVU1FUklOSHl2UHVxaHlkTmhhV0ZJblNoVlYxeHI4MUhNQ0JnUG1CMDlfMA?oc=5",
-        "domain": "inc.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T113442Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware Gang Claims Nutex Health Data Breach",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGU1Z08zTHRGXzRObDRFelhXZ1ROelFBaklERF9WSDZoX0xoejZDeFEtT1o1UU1LY0lEOS1VTXVZdGdzd3NLTG1wZFNzaHlDZk9KOVV6alVfX2RRdExxd1VTTC1ydjNWYUV6Vk1OQ3Z3U3ZxYU5ld1BUVE16Yk1tQV9jZ9IBiAFBVV95cUxPTnp4ZHlOQlZ6QjBHZUhyWmpwbjE2V0tFTDMwX2VOcHpXX21SdFN6WFl2X0RuSDFDdHRNZ28tNVUyZXlWQ1U4TzNBdUVSNF9vQkx5ekRsM0RQS1dVWEgtV2dKQU5RMGZFSzVVOF9oQ2Z2d2xDY2FlS3ZsdmhfNVFNQWs2WVhyUmx6?oc=5",
-        "domain": "securityweek",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260901T104747Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZDdoWE5mc3VSOXJDT1FhRFRNUE1KRFctNTdaX3MtdGpubG5XWmxmZU5wWjNuUVU4Vk9zQ3ZvY0VxV1g5Wk05YzhOSzBrWHJYRFZBTTFpOFBqTjZDVWJBZHF6c0ZOTDlteUVjMUpRQXRjcllTeUF6RzZ6ZnFkeGtzNnpJbmhYbWphN24waGRrdlBYZnVlV3dEcWlFendjWmltcFRyOUV0OA?oc=5",
-        "domain": "darkreading",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260901T210524Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Jack Henry Cyberattack Compromises Client Data",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemZqVmtsQjR2a1ZEeE5xMDlhSW9YdEpraVp2Q0V6V2V1YjlMcVpFUU1wM1F3VWdKVU01R2RtNE9VcUhSUGlJSUVXcEdmMmhQUHZyZDMwdm5INmVUbDR0LVZWZVNtM0k4YXJOOTFJYWQ0NVdrTnMxTWNwcjFHamZjMDVqeU1DNnR4WUtidHBTdThyb20wTk4ycmlKUmRTclBP?oc=5",
-        "domain": "bankingexchange",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260901T132606Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWE9WT3JQRzdtTlVHZTlqM1lTV2RUWXJYWVVsZ2RNSUVDNXRGTGdzU0VXSDMySDktT29wMmVrbnRkMWNMU1hRMmlnSy1aOWJIN0VFZDdvSklpaDkzNHQtYm1LZDRjUThfdDQ4VG12MWF5VVdObXRGdjlTM3VxdWRULXBTYm5sUm9McTVCNlpBbktmWlRW0gGaAUFVX3lxTFBObTBYbGk2ZGp1VHhOamRCZlFpMEFOWjlzRXVLd1pOcjBLaDR4dEpPX3E1OEpHcUt3RFFPaC1YNWJnWWRoSjl6bzF2MDR4ZFpFR1lvZkg5ZFQxeEV4RkFPcTlvUHBzX01BcmEtY0gyTFQtNkVYX0I3Z0FNZHVWeHlfX2Npbnh5R0hDdVNpQ0hFWDdnTV9UWXoyLVE?oc=5",
-        "domain": "securityweek",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260831T112417Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "BSA data exposes the vulnerability gap brokers may be missing in this year's remortgage wave",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYmtFMjl6aThodjFub3ZFclNOQnl2NXlDOEl2ODFyVk1ueGdZaFRZbzg1SldOYUVQV1BBRlRPSkhROEw2YmFESEdJcThWZllfdzlIUTJZRC1iNk5ucURQNGdLaG1TcGFaZTdvZG1uM3Myckp6TnIyaF9HVmlua3d5cnFPeVhkVDE3cVc0Nk43Umh2djdsVmV6bEN3MGJodnRkX2M5ZXRIbndXUC1PNDRtM1FPWkIwOWtBeWNaMDdCanlEa29yd2F5NUpRUWJpenFGYXlj?oc=5",
-        "domain": "mpamag.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T073549Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Researcher Claims CrowdStrike Falcon 0-Day Privilege Escalation Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTjY0eFBmSGpnZUNoQ2JGeUhVRkpLSTZrdzgzMGU2ZDlPcUxpeXdNcDN0Q2s2eE5jbFQ0cWdIZG5uejBpRGFBbjhWc0NvSVpkbk01NDQzV0ttdk4yQkw1dEpGR0pOUdIBa0FVX3lxTE9KN0ZMWFVOc292VU10WTBxdHpSSW5pRHctYXhMN3padWh6MW9HamdaTkRmVlp0UVBfUk5nTkJZVXYxVUN6UFRZVWd6eHFFX1RvclFXZDM4dDNHdXVTbzhJNUlKYWI2S1FrSjI4?oc=5",
-        "domain": "cybersecuritynews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T063732Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hundreds of thousands of X users targeted in cyberattack, DOJ investigating",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jRVJ4dHFGTWxUcHppcl8ycHB3RHhRZmtXdkI1RmpENC1sUUd1NmhVdTVpSy0zZThsd0JQRHh0VENLaEZ1dTMxcGlCTTI0cTBXeFpWelZiMFpnaTFjdnBZ?oc=5",
-        "domain": "thejerusalempost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260902T221341Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GitLab CVE-2026-19478: CVSS 9.4 Flaw Exploited in Days",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1NnptVVJWU1NLSFNmM25VcmJJeENuSVZtckhNR3Yzd1RjRlp2QUxmTE4tRXZnM3NJalNwVzh4VlFhZTNLV0g4Y21XaHByQVpselAwbzhzN1doYnZTY0Ntdmk5cWpyUkFOZUdkZTVwYy1OWVcwWHBvOA?oc=5",
-        "domain": "tech-insider.org",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T032303Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Thomson Reuters Cyberattack Hits North American Courts",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1I1TERGRWhHUHExMHFhQk5vNVN3c25pc05ERXl3T0RTNFVmWUwzekRGbE04Q1NuRUN6LTc5ZGdIRXdEN2Rfak9ueDgzcndNYXl5Wk5OcHZRcnZlNUwzNGtUd0lGX1RjS2lwc3AxY0x0RS1SMmdPN19HY1VGbmlfZnJhTlJMb2JJc2ktbUo5cTh3WkYzQjZiM0Nn0gFWQVVfeXFMUDJadktrVVB6SnFrbkZKbE16UTJqRXZ1eDVQTzZQWHVUNWRHeEo1aEpUTkVNeWZqdm85SnQzRjhwenZ2elFaRy04ZVBFLXloQkhQNFA2S0E?oc=5",
-        "domain": "law360",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T004100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cybersecurity experts issue warning after Winona County pays $128k following ransomware attack",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVo5MV9nSHpyWjlsc2ZTX3RQUzdodWEyWWhTek1nc2RQOFdVZHRVSEItTE95b2JucUdmTXFYLXp1N3JJZ3I4T1FYdy1SUy1IMWlLME1kTFdGeEhVcloyX2U3NTdzSTlmYU9zbDdpdzlWLVMtNzJLV3dSZXYwZ0k1aTZBVUNITXdoSGNaVU54VGdkOFZsRW9ySmZUcG84dHgteG5MTlhfU1BZUDRocklyeC1GZGZZTnJUYXJveE9IOA?oc=5",
-        "domain": "kaaltv.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260901T215100Z",
+        "seendate": "20260903T114526Z",
         "source": "GoogleNews"
       },
       {
         "title": "Thomson Reuters hit by cyberattack that saw court documents across 11 states accessed by a hacker",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSTFxZGJjcGRoNDBManRyZ3dyVGdudC1RNzIwR3F3X2puVFlMNVJhM2otNm1KZGpweVI3QWljYXliREczUVgwZzdQSU5MNUtxSjhSWTV1WENEbUZMZEViclVnQ0tyR25ub0tEcjN2YkJnMmk2cGRVM0RlX25mS1JTMFg4aWpLYjBXODVrcmgtcE9NaVlSd0JyOVJ3NTM?oc=5",
-        "domain": "yahootech",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbWpaYTJ0UlluWU0zaHNteDh0ZzNKdWtuR2NIYTNCb3F2WXNKQVcxVG5FaHFJSHFzakxIaWk4bWpEWE54cDhkY1d6YmJZRkpzOWU2MFd2eWZYQVB4N2Y4UWZua1hKcE5HbnlVVVNrejZrdE10ZXFFU180UkdSQ29LQWdmU2puODdGTG1lLTU3WHB1eEJRSTdSdUpvTTA0cE5HQktyeU5Cd1dLLWxXN3J4WEM3TkRVS3ZxREpkcEdxREJ5LXJlYzFtV0ZaQlZRQ1BJZlE?oc=5",
+        "domain": "techradar",
         "language": "",
         "tone": 0,
         "seendate": "20260903T141000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Ransomware attack hits Norcross' computer systems, leaving disruptions, officials say",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWRPTnRvTmkycUtTRzZxODF4cHJRMWxNZlRkNkt4d1RIU2NveEdHTU9UNTZWSjlEd0swek5PNldVVVdJMkpObzM3YmNHRWpOa051S1VYN0NwdlBFNm1wbExKdGttUGV2MWlyWTM4Z3lDeURFVkMzODZFTXdodTZhTEZiMmFhUUdLRlE5alFJeXBiOFVvLWFjWjFleE9jVWpvZDF3R1hkMGJWQ3l3RDNjTlF3MVNwOXNZZDE2bw?oc=5",
-        "domain": "cbsnews",
+        "title": "Luminis Health facilities dealing with a cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORkp4Z2FkWDd2T1ZBUzM1Y2RKcjRvVURRN3RLbTIyZmk0YTNyVDJCNHVuekVVYVBaTjBSbElOZnd3Z2dTQTdHR2JoWi13RVBuQWlucmZJOVlWVnFaU3oxSW55VTVBMHlqek9ybm5HN094NDZ5ZkdXd3AwMWZ3UXFxYTNpM2g?oc=5",
+        "domain": "baltimoresun",
         "language": "",
         "tone": 0,
-        "seendate": "20260831T174714Z",
+        "seendate": "20260902T001343Z",
         "source": "GoogleNews"
       },
       {
-        "title": "McKesson Supplies 1 in 3 Hospital Prescriptions. Now It's Responding to a Cyberattack Linked to 284 Million Records",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWdSZDFRRDNzOFYwMXU3c01SVEFmdXcya184RnR2QmZYVDFXY3Vxa2ZhRGRtM0hRRFh6c2RXMl9pcHZIYi1OOU43ZHlMZDlMVG1jZ180eERaYlFFTmt4ZHBtV3VpbFBnQ3p0VHpRRkZ6Mi1BQkxzLW01YXZfMzRydmNia0NXU0ZoUTUzdTV6VUxvQm9pRDlsLVhWU2U5MTJWYlpYWktoZnNFUTNTb1h0eVhuaDV4WEZLVnNpX1diVGZlalNsRnV4NEN2SnlqOUNNV0dhYlhYWQ?oc=5",
-        "domain": "inc.com",
+        "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTAyal9KY1kyWFNrcDQ3X2pMNmdSY1pxMHVMLUZUVmljTGpXZTA3NTBKLXd4MWNzQjRuLUx2X3J5ajFYQk9qeFN4NGV4Sy1yR2g1dlpnRzdTVThScVdHdXhvMlpXRDNKUWZEbTZaNkdraDVZUWczWkZQVFgwOGhsOV9XSFp6RFpQMHBacHJFdDJtaENXWDdzUTFRM0hZWGhHUnFKdDZQVHlNMzBzQTRlNUszWUgtMm9MUkRGUUVNenpUazFx?oc=5",
+        "domain": "techtimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260901T210040Z",
+        "seendate": "20260903T121803Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Winona County, Minn., Paid $128K Ransom to Restore Services",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmJzSEROb0J2dkVXaHNpWnd5OUtlMFNLTmZuOVVoWlV6ZjR2QWZhN0NlaDViQW1Da1hkS2lOX01ycF9wYk1NY2NLVUVFN2UzZjM2dXNSZk5fUWpkV1IxLU41TDNhTzNlM3ROWDRRSHhsOFZEbFFoV0FsSlgwd3NuWkR4dEFWMkhnMUVINVNVSUFmQQ?oc=5",
-        "domain": "govtech",
+        "title": "Hospitals in Anne Arundel and Prince George’s counties hit with cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWnpuc0I2cUg0QmVlSUZSRXN6MEhxVTEydXo1aHdCZWd5VW0yMFh2cXBtWjQzVGUxQ3RjNm9MOWMyZXA4d3ZiTFJkMlZ6SHp0dFd0RmdiQ09NdmdCNkgwTXZORXBlNVNReG1qUjNDaTFFVktoRHlwcjhWVG8taG45M1IyVlFDUnVjZjBlMkVUcTZjdWYwMGdZM3lKVnBOZjRld0tCOE1NaHo?oc=5",
+        "domain": "thebanner.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260901T211019Z",
+        "seendate": "20260902T214046Z",
         "source": "GoogleNews"
       }
     ],
@@ -573,28 +573,37 @@
     {
       "title": "H1 2026 Malware and Vulnerability Trends",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTEpUenNsdVNGcW9tbnEtbGNBV2VzVzJPSXR2Z3RBanlaRXZXYl95UVFvSFk2YTY5MUtuWGYzU1ZlZ3ViV1R4ODlYMlN2VGVsbm5SZm5ocUQ1WHhlNG5FYXhpdHRFblFFUmR5YkczU0RFWUN1SS05V2c5Z29CT2FBV2hn?oc=5",
-      "domain": "recordedfuture.com",
+      "domain": "recordedfuture",
       "language": "",
       "tone": 0,
       "seendate": "20260903T144802Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Two Maryland hospitals hit by cyberattack, compromising systems",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdl85bWQ5dTZuSU5QSU92cnZobE5iOFlMRWdfbUpCY3g0TlQzM2NCU2pJT3ExRjFCOXlYbzNZMm9sQU9BdlRaM2xCTExFdmc2eURCOFlFY25FTlBFRGFCNnE1NUN3RVZ4WUlmdnVwVEdWRko0OTZfQmZMY2k5NDNFcVZiVHZibXh2eGxUNmRSTEo0ZnlaYlkwaDg1MVZCTUFyQTNVRGpsWQ?oc=5",
-      "domain": "wypr",
+      "title": "Luminis Health cyber-attack disrupts Anne Arundel Medical Center",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUk1Q0VRY2c3RUMxd0U0REFiZ2NDNUllRzRjZFdlcnhocGFYNnl3aTE3RFB2LXQ1cTd2WnNYTEp2LTVYYjgyR2d6NS1XOGx3aG1rQ1A4SUNSc3lrZFZ2elNmMXNjMDE1YnRGcldUVHoyWHZFdHJ5TTR5aklOWldlNlJuMG5BQQ?oc=5",
+      "domain": "wbaltv.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260903T001600Z",
+      "seendate": "20260903T112100Z",
       "source": "GoogleNews"
     },
     {
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NdVZYenoxdEdpdGp2ZUtyeHQySDdrUTd2ZFJKbFJDWTR0N3hDUGMyTVZVUjVyQUFWTVZDbWlRMEtEV3N6bHpBYzdDVWRoLTctMmtrU1BIZlRmb1FqWHc0LXBmTGJpX1lMR2w3di02TWlsamNXTVkyalV2MDVpQQ?oc=5",
-      "domain": "thehackernews",
+      "title": "Attackers Behind UK Airport Cyberattack Release Stolen Data",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUp2Vy12enFtSmVfRWhzNk4wcF80MHdEdVMtWUxBblpzT3ozbzlrT2NKTjlsQjdtcW4wQ1BBVERxTFdtRUZiemV0Skw2MXFRQkRlZ05LYjBleXlDeV95RkN1WEVLaHNWQmVZRnhielExT3NKZU5HNEZSSGs5bkp4NUFwd090RmpWTDhRM0EwMkxSNmht?oc=5",
+      "domain": "cybermagazine",
       "language": "",
       "tone": 0,
-      "seendate": "20260903T051900Z",
+      "seendate": "20260903T143830Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Two Maryland hospitals hit by cyberattack, compromising systems",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdl85bWQ5dTZuSU5QSU92cnZobE5iOFlMRWdfbUpCY3g0TlQzM2NCU2pJT3ExRjFCOXlYbzNZMm9sQU9BdlRaM2xCTExFdmc2eURCOFlFY25FTlBFRGFCNnE1NUN3RVZ4WUlmdnVwVEdWRko0OTZfQmZMY2k5NDNFcVZiVHZibXh2eGxUNmRSTEo0ZnlaYlkwaDg1MVZCTUFyQTNVRGpsWQ?oc=5",
+      "domain": "wypr.org",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260903T001600Z",
       "source": "GoogleNews"
     },
     {
@@ -609,19 +618,28 @@
     {
       "title": "Five Healthcare Providers Report Ransomware-Related Data Breaches",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSFVuQ3Q5b0UzRnRCZXhBNU1nd1BraWVEaDRSa245ek9HZ0tVWl81LXpsTXo0eDk2bG9QQXMzQWxlNG1pZ2RqSWV0UUtKTUlsbS1QX3lQeDhSOFZDeFRzQmtyenZQX2FYYzNHUE03dmo2OHR3cV9HbkE1bFhqUHJ3MzJB?oc=5",
-      "domain": "thehipaajournal",
+      "domain": "hipaajournal.com",
       "language": "",
       "tone": 0,
       "seendate": "20260903T141917Z",
       "source": "GoogleNews"
     },
     {
-      "title": "SUN | Luminis Health facilities dealing with a cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2Zy1aMzZiY3pCbkFKdkZlczJ3VFVWMFZzLUVXZFA2VjQ4S0xlY0MxWmhYTDNFTmZxVG4ySU9Rejc5WVNNd1pSVzh3cE11b2x6NUZ6WnN6dWdWM1pUd0RYb0dvX3BsSXRGOEFHby1TSTluakN0UlY2eVU5WlJDUQ?oc=5",
-      "domain": "wbff",
+      "title": "Luminis Health Cyber Incident Reported; Investigation Ongoing",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjNOaTdxNmY2SXhVUmlfZUZSMDlqRXFyS0RaNmhPZ280M1ktVklOWk8wRkNtRl9WUFo2UHlEWDNnRTkxcVVvWjVfcGdRbTVOOXExWWJqYUhTclFVeThfRks3b3Rqb2lGWlpOaklsUzJ3QlVOS3poOGVfSnJYeFpVV3BYVXg?oc=5",
+      "domain": "classaction.org",
       "language": "",
       "tone": 0,
-      "seendate": "20260902T233720Z",
+      "seendate": "20260903T193903Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NdVZYenoxdEdpdGp2ZUtyeHQySDdrUTd2ZFJKbFJDWTR0N3hDUGMyTVZVUjVyQUFWTVZDbWlRMEtEV3N6bHpBYzdDVWRoLTctMmtrU1BIZlRmb1FqWHc0LXBmTGJpX1lMR2w3di02TWlsamNXTVkyalV2MDVpQQ?oc=5",
+      "domain": "thehackernews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260903T051900Z",
       "source": "GoogleNews"
     },
     {
@@ -634,12 +652,12 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Attackers Behind UK Airport Cyberattack Release Stolen Data",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUp2Vy12enFtSmVfRWhzNk4wcF80MHdEdVMtWUxBblpzT3ozbzlrT2NKTjlsQjdtcW4wQ1BBVERxTFdtRUZiemV0Skw2MXFRQkRlZ05LYjBleXlDeV95RkN1WEVLaHNWQmVZRnhielExT3NKZU5HNEZSSGs5bkp4NUFwd090RmpWTDhRM0EwMkxSNmht?oc=5",
-      "domain": "cybermagazine",
+      "title": "SonicWall urges immediate patching of chained vulnerabilities",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0dmbEZEbHJqekYwUENsS21nQWwxMkNEX3FUR3lfRzZNZkZwc2FCUEVpMm9xd25HUllUd2d6UjlNendGakZIM3JQUGFEbTQtcTBSN19GU1BySDZJLXpSOFVKazczTE9VMEY3elFjV09HLXNyVVJtbV9yWmZhVkZzbzZZazdScGZaNzQ4WXVyQUFpOFk1TmhMYTNIUTR3eFRp?oc=5",
+      "domain": "cybersecuritydive",
       "language": "",
       "tone": 0,
-      "seendate": "20260903T143730Z",
+      "seendate": "20260903T160422Z",
       "source": "GoogleNews"
     },
     {
@@ -661,48 +679,30 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Radiology vs. ransomware: How to defend imaging departments against cyberattacks",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFY1bF9UZUt4R0tKNG04UE5La241RjhRUzUyYWJvSENBSjNpTVRKTUxqU195LVR0dHlzZF9qSi1TUUg3b2FmVHozODNtWS1la0VoRzdfUzhCY3JreThyYUpyak5PTWJuSkVjOVpCY0JLSmJ6eEYta3lZOFRreENTYjhFNjU?oc=5",
-      "domain": "healthcare-in-europe.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260903T040112Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Node.js: Old Technique Makes a Comeback",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IU1ltSGEtQ09yTVlBRXYxUWNmSFoxN3ZQaEJpbjNfbWNIZjhINERxNTdfdFJMMGxtMVp4a1hsanJqWHRPS00yazE0eUtqa3RpNDNKSGdlQ2FPX2xQa2Q5MmpfMkFab3V0TGxLT1BHeHpSMV82UkNjbEl3OA?oc=5",
-      "domain": "security.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260903T101808Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Commentary: America’s hidden national security vulnerability",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVRTbGpxYllBSWo2cUk2cWxjRjBNYlJmM192VFJUSEhJbHFFV0RHcy1vam5WWG9xbERncXFJT3c3cXVTZzQ1RzA3SXo2NlRuNFluZ1l4RlhNcE9UMkxGcDk5VFl0QmRDQ005cXBkR1pabG9HVnRCM21mcFNORGlMcVlRWjVfX2FUaXVxMlBrNGk3TnMtLUQ2YXptcVZQeW80U2hWb0htWkFmOFJBYmJ6a2I2ekNibGlpMkxRai12SDNWR0VlQlFIZVN2OGoySXZETngzS0tRdl8wbm1iTVFV0gHkAUFVX3lxTE5KNm1EaVZvbWx1Q1d4RmQydElZTDVCN1FzMVJHV2ljMEhtd094d1A5MW9uQTZhQW9MUjltUEVtVGJuOUlIeEFWZ1RMSmZCTjJWdFJnMmJvX2VYOVVfaFJrMF9zbkItUXc1ZHNGX054emRiMXc1Z0wzM2xkYTc0YklRa1VNak85VTBJaWpsMERZX1NZRHNSMVkyeWVHQkwyellRM2J2R1dJRzlPdDJiSDZLWTZXRU9IamFic2xUdUpTdzFrR0lxb285WktPQzN4UVJ1RnZLeDNlZEJQT0xSTzE5UkE3Tg?oc=5",
-      "domain": "yakimaherald-republic",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260903T120755Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Oncology firm Novocure says cyberattack exposed US patient records",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHJMX3RpZ25VWXZTemh4NXRiWWZmUGxJWXdCZjJIaWdsN0tOZmJRNlNOVWtBM3FvelF1ajlPVDhDbGJRbGN5YXNWSzQ3OG53UC12RC1DMXVvZWhHS21rNnUwdUh0MVFOYjVlUjYzbVFFQTlUa2I1YTB3UGJwOUVhSDI4VTViV3dlV1IwcWFTMThlV2xnNVdKX1FLSEswdWFJYlB5aGhhVGpzdTRCMFNaM3BhbmtWeUFlMDZN?oc=5",
-      "domain": "reuters",
+      "domain": "reuters.com",
       "language": "",
       "tone": 0,
       "seendate": "20260901T134101Z",
       "source": "GoogleNews"
     },
     {
-      "title": "AI agents carried out every step of this ransomware attack – then left the victim an 80-page security audit",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQUJkX0VXdElDcDRWQzl0MnU2bGxpTjZLTjUtTzEtY29YeFVXdVNILWhHRnRuYUJsYmdUTnBJUF9hSTlmejBSbGN0NDVXZ3g3WEh4SGRTVWZmOVhuVFFENkZWc2pTYXVTanhsMUV6cEpkdWVxb0g0VklNT1pwdmJraHRfbDkxUXZ4VTdFY2dSN0dnQ2tqckJ3Z3R1M2VTYXRzWWtnNi1DR0FNZHJYTzFuYzNWc29KalBPcDZXd0NYR3lPeHFEWjdzcVpOQU5HN24zQ190QXd0Z2NwMHkzX0l2QzRRdTFTaHV4S2lzSzg5UFFvT1E?oc=5",
-      "domain": "theregister",
+      "title": "SUN | Luminis Health facilities dealing with a cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2Zy1aMzZiY3pCbkFKdkZlczJ3VFVWMFZzLUVXZFA2VjQ4S0xlY0MxWmhYTDNFTmZxVG4ySU9Rejc5WVNNd1pSVzh3cE11b2x6NUZ6WnN6dWdWM1pUd0RYb0dvX3BsSXRGOEFHby1TSTluakN0UlY2eVU5WlJDUQ?oc=5",
+      "domain": "foxbaltimore.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260902T182800Z",
+      "seendate": "20260902T233720Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Cyberattack targeting Thomson Reuters' C-Track impacts courts in multiple jurisdictions",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbEhVVnIxYWZzWXZ6VVF2M0JLSVVEWk1EMjdHM3lBYzctQ1B3dHNvSENfTW9qQWc0LU5ENkVfSUx5cGRXMk9xV0pRRGYweXRXbVBCdDJ1MHo4MElpV3JQOGZiTUp6X3h4VzYxM0pNM3dBYlV5U0RxUmwwZXZfT1lwQ2U3YUliX250Mk45dVZfSnFuX3Zya0V4ekhweWRNdHNGaDE3MWxrRmExbnFGU3h1ME9BVEdocUdidFBlRGNrbjNFS3Vf?oc=5",
+      "domain": "abajournal",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260903T155900Z",
       "source": "GoogleNews"
     }
   ],
