@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-09-11T16:47:33.672094+00:00",
+    "generated": "2026-09-11T21:22:27.351639+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "35",
+      "value": "36",
       "delta": "deduplicated"
     },
     {
@@ -40,52 +40,34 @@
         "domain": "dw.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T075928Z",
+        "seendate": "20260911T140419Z",
         "source": "GoogleNews"
       },
       {
-        "title": "EU Cyber Resilience Act reporting rules take effect, putting vulnerability disclosure and product security in focus",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOa3FncklTak5MblI2clBvNGVxQUcycVNoaGF1d09xYTBhYXk0akFoT3FqQjM1SmFTZHpnWFdnUGNVZGFFUTlMNkczM1ZIRW5kVEVKdzBWdjZMSEdRcTd3OV9lM1FnUmhXUmlkcHdwQnFBVjBRQXNMY3I0SnVMUGxtd0J1bzU3WkhWdk42UkEzVVZ0cG14UUg2QkRfcjdWRzdXU1BPcVBzWTlKYUNKc1NzUjd4NG1mV3M0QVhjSFdkcllsaGQyQUVPbTVMTUd0MjVodjBCVHpEWmNZdXRFRW1JSVhfVEVTWG13MnpXRnc0dmpSZnhTSFJnMHotNlpFSUFzYW1GWWR0U2ZiUQ?oc=5",
+        "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUdFVW1kVmNiWlNVOWFhaXpOZlJWbkFSSWlRM1JMNDBRdnRxMjVScEpuUmV6MTZBam5Gek5JVDcwbUtEUThUNTdabkxTWFZva1RPeFdQUmhlU0MxeXhsNV8tSjcyQTRyYTI0VHhhbjVIMjd2aF9PdmhxVzA5a0hlX3pkTQ?oc=5",
+        "domain": "thehackernews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T163000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Finite State highlights firmware visibility challenge as EU Cyber Resilience Act vulnerability reporting begins",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbFBsQ09JeEdXLXZJR0ZQWVhsSk5IclgzUW1YQjdESS1Bb2ZEcFBRMnlSSFVkRnFNdTNJbFpPeVVLYjhrbVp6QmhZYWF2SnlhaGg3d01sNUhkblgwSnFXWWFydXFhT182Yk9ETFkzNWIyR3V3ZkltQ0taZHpSNTVrcHVXcnBtRGZXYy13WjdKMzVEVFJzeUEwS3BHa1ZKbWhwOHMtWm5YVTMyc0FMLTJaS1dyVlVBMkp0THZiTi1LaXhmX0xUQThYREx5T2hVYnMyX2lWaUJ3SVZ0WUVt?oc=5",
         "domain": "industrialcyber",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T155157Z",
+        "seendate": "20260911T154636Z",
         "source": "GoogleNews"
       },
       {
         "title": "Veradigm reports third-party vendor cyberattack",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWF6YlpNWnFHYnozQUozTWdQelpfVW9vd2UtRHRkaF9XQndhOWRlUW55Q2VNVHp3d0xUN3ZzQW83ZUJxNnNIanNEcENFTXlXTXZoVjNITi1ENjNkV1JIMENlZ1hZekppRnVOWnlEVUdVaDl2SVJiNHZYQW5GV2F3TllLRmx2anBTOXExY0VB?oc=5",
-        "domain": "healthcareitnews.com",
+        "domain": "healthcareitnews",
         "language": "",
         "tone": 0,
         "seendate": "20260911T150545Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BR0NFQlQ0ZUR0enN5RE84MzZPUy1rOGI3X1pSV1FFZjcxdURjYUFRNEdPN0NQeDdWME1sY1FQLVN6akxMWXZfNnV5OXpnR0tEcHdqSTFfcW03Z0xqb2lxVTJIT1U0UQ?oc=5",
-        "domain": "therecordfromrecordedfuturenews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T121152Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘Stark wakeup call’: Cyberattack on Hilltop Bank highlights growing online threats",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWURHcUVia1Y2OFJ0YTNiNEVqOU5hN3Z6dl9mZmtlM2xjd1prU2Y5TjB4WnpHVms0UzFyRTZOUllkcEJ4dU1IQ1lkeWFGVXFUOFNQWml1T2hYU1lINm5UMnpKRlBnOTl2Qnp1LU1PQUh6akxWdW5YV2I3cDJXTzhRbEZLT0hfZHFkdEliTFM1NzFJcFdEM2dNVk5yXzcxNHJ5SWI0bmRfVWpFLUpiRk1yVHptY0hMcVgtM3ItZUJtMTZubDQ?oc=5",
-        "domain": "capcitynews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T124219Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtRHJFWjVHdVR6RlNmTFlmU2dFUGpaUlJFMEZKVm9lcmlzYndtOWlPdmN1MHNXcTFPZjBwbzdZQ2FjVWRfWTduNFQ5OGJxOEFjbHptWDdsZWVGck5rLTNOZjdyaXdPcFpvdnkwSFhidmdiMi1ydllyT0R3UnlVZw?oc=5",
-        "domain": "thehackernews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T061900Z",
         "source": "GoogleNews"
       },
       {
@@ -98,6 +80,33 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Orthanc DICOM Server Vulnerability Can Lead to Denial of Service",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZG1rZk1UeHBscm9fTi1yOXBLVjU2V05xNU96NmJCeUp3LW92aUljMjZlOXhURnlEam1Yei05aUltdEswY1ZObW85cUxFNjhYclRCR3dwRUU3YWRIVGNwMlJaODVfeHJwVGRkOW9XTWZyakNsTklQa2xCaUNzLWFqcDVNcHBMY2puZHc?oc=5",
+        "domain": "hipaajournal.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T115752Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Springfield schools prepare to reopen after nine-day cyberattack shutdown",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMENCRWRSTXV0UEdOZ01tZDdFYmF1UXhqTXp6UExoYWNyaGhuejJKOFVGYUl3cEpsZmpFb056ZWl2YXJoRlFkWWhsQWFYUThVVm9SSE9hMVNLekZ1MzlOQTdRRERidXYwa0M2YnE5SUt6bS1xNndBaFFPVnpIdUVEc243aDRVZHU1VmpLR25VbHk3WlJiblE1cE5udFd3LUQwVUVyaXNRbmktdFVOeFNDWk92Q3o?oc=5",
+        "domain": "westernmassnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T191100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BR0NFQlQ0ZUR0enN5RE84MzZPUy1rOGI3X1pSV1FFZjcxdURjYUFRNEdPN0NQeDdWME1sY1FQLVN6akxMWXZfNnV5OXpnR0tEcHdqSTFfcW03Z0xqb2lxVTJIT1U0UQ?oc=5",
+        "domain": "therecordfromrecordedfuturenews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T121152Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Anne Arundel Medical Center cyberattack delays patient care",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEJ6eG1CME15d0k2RkNsd2pSRmpsYTcwLUgtTnRIMHhKdkRDOF9sZ0xILUhqNjZCU3A3Uy1hQ0JqMW5xWWpNcWRzbjVrOXZ2OU41YjlHenRRbmpEOFpmZEpDRm42bGhWa1RHbWpKbkcyckFSRHl5dVdPV3E4OW9FTHNEb0RhZElnS24weUQxVVYtdnEzX3NXV1ZEUjQ?oc=5",
         "domain": "wbal-tv",
@@ -107,21 +116,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Orthanc DICOM Server Vulnerability Can Lead to Denial of Service",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZG1rZk1UeHBscm9fTi1yOXBLVjU2V05xNU96NmJCeUp3LW92aUljMjZlOXhURnlEam1Yei05aUltdEswY1ZObW85cUxFNjhYclRCR3dwRUU3YWRIVGNwMlJaODVfeHJwVGRkOW9XTWZyakNsTklQa2xCaUNzLWFqcDVNcHBMY2puZHc?oc=5",
-        "domain": "thehipaajournal",
+        "title": "Boston Scientific continues to make progress on cyberattack recovery",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnRiVlhoQ1RZZWtZLVRRaGJxeU9vRWNTcVdURXRrUjZMaTZGOEZ1QUlqdTZnTFFaaVJ6VU9yem1YV3VoQ3VJZjdKSXp1elBJQlkzNl9QR3JwV21acTRqLW1qTVBnT2dZTmY2UXRIMjF3MmM2SjhtRkFYekpGb1hMRWhvMXhiT1BrMVA5MWg4Y2JYa2FWMWJvOGNza2Y?oc=5",
+        "domain": "massdevice",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T115752Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Springfield officials give public update on cyberattack on school district",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmdFaXJtMzZRbVhBVS1jREtUMWV0a0t1OWJ2SFRMNmlnLUNoS0RYUkZjT2hLOEVRV0haR0NmeTdaclhoeHhQcXZyYU0zQ1BCbWtGNmNpMWU0NGZldWFEMGRUNzNUcUl0SVhsMEg5OTN3S3l4RE9kaUx1cEhwNHg1YU9YRDRGd2g1VE9YZmdqejFmVW0zLUZNcWdJXy1NN2xla0lIaGxydklSbUwxaWExUkZB0gHGAUFVX3lxTE9mUWI0RnR2NUhFdU1CaTBHMDJ5d2VKM0h5U1FobkJRSHhDaTBkRUJ5R01xMkVvUmpMWkxkVFRzWW1rSDU1Q29CUkM3RkowcmRRZGM0QjlNLTIxcXNvOW5zMThqOGtzSDYyaVlFcG5WUm55Q1BBa1BJMEdKNHZhSHRkVV83R1l6WWt0OEFUeHctZG9XMEZGTV9Bb2xvbzNQenFFcjB5dmd4dzk5dFBjZjR6Vzc5TnoyenN6S3RXeVRCZGhKQVBoUQ?oc=5",
-        "domain": "westernmassnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260910T221900Z",
+        "seendate": "20260911T184233Z",
         "source": "GoogleNews"
       },
       {
@@ -134,6 +134,33 @@
         "source": "GoogleNews"
       },
       {
+        "title": "EU Cyber Resilience Act Reporting Now Live | CRA Article 14 & ENISA SRP Guide",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOVV2N0NLS2h5aEk5R3pESWE4YU9JSTNZSGtxclFFZzBkcndzSWNSY0ppZXpuY1lsX3NzQUk5anhoVGI0R29yejJqazFyU0xWRWpZNjNORHNOYXRxZzJNSnBIWXJqTHc4dTlMclQ3UzZnVTZTVXZzS3J6YVFGYV8zcnc3aS05dlNtalVsbnJCQzAxWU5LbUI1b01wQzl6ckVPU1BIZmlXMThKcVlrQUVfeFpnVDZLdVFreGdOejVIUkNTN0ZkQTJvbGxiQ1BjazZxVVE?oc=5",
+        "domain": "crowell.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T201926Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘Stark wakeup call’: Cyberattack on Hilltop Bank highlights growing online threats",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWURHcUVia1Y2OFJ0YTNiNEVqOU5hN3Z6dl9mZmtlM2xjd1prU2Y5TjB4WnpHVms0UzFyRTZOUllkcEJ4dU1IQ1lkeWFGVXFUOFNQWml1T2hYU1lINm5UMnpKRlBnOTl2Qnp1LU1PQUh6akxWdW5YV2I3cDJXTzhRbEZLT0hfZHFkdEliTFM1NzFJcFdEM2dNVk5yXzcxNHJ5SWI0bmRfVWpFLUpiRk1yVHptY0hMcVgtM3ItZUJtMTZubDQ?oc=5",
+        "domain": "capcitynews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T124219Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Boston Scientific Restores Key Operations After Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanlad1Jpd0FxNm5pSnQzUlJfQng2VVVLNUpVRFRBSFJZOExsZDl5Vk9XbnJndWs5WFNGdWdTY0NTZklMN1ZsV1VfV0M4cEVSV2FKcHNwck11bnAwcXVIZlZQV19vbTdSQXk1Zm0yTnBGdGV4bkpaeTJFb2RZNW1NMEpnX3c1TjBRTTVfVzlnYjI1RVVmeGEtOHNBWXU1SXpyWEJyUXhua24?oc=5",
+        "domain": "wsj.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T153100Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Building a ransomware decision tree before the call comes in",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWnpkbzhlLWl1cGtJZGJ5VzBaLWhMWThseGxoc0d1ZTY0MzJka2ZtbllDY2Z1MEVMVnh5NUJkNVBoVVA2amlybjZkd0lzM21KM3k2b1p0N0NsQjFnUkZSRXNaM3RkS2Q5UEZzYl81U1ZSbGhBQ3BDcnhZWFpRVnc?oc=5",
         "domain": "helpnetsecurity",
@@ -143,48 +170,39 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack halts state financial aid office operations",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzRGRTTXZZZDk2S3BXcVJxd0YteTNDYU85QzBsUl8zVFFVZDFvdXQtUFE3Ny1QQUp1el9MM2ZVcUNjNWtuV1NyOXZtcVJBY19NeXdEWlgzMVQ3OE11ZzFMa1YweEotWi04TXZwZlp3YWM4Q2FFX1kwbVh3?oc=5",
-        "domain": "mississippitoday",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260910T233921Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Boston Scientific Restores Key Operations After Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanlad1Jpd0FxNm5pSnQzUlJfQng2VVVLNUpVRFRBSFJZOExsZDl5Vk9XbnJndWs5WFNGdWdTY0NTZklMN1ZsV1VfV0M4cEVSV2FKcHNwck11bnAwcXVIZlZQV19vbTdSQXk1Zm0yTnBGdGV4bkpaeTJFb2RZNW1NMEpnX3c1TjBRTTVfVzlnYjI1RVVmeGEtOHNBWXU1SXpyWEJyUXhua24?oc=5",
-        "domain": "wsj",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260910T153100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Anthropic disrupts AI-assisted weapons, cyberattack attempts",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS281dmlyYUY4ZzNJU2FoLWRqOHdWZ1QwWXFrMld2MDQ5Y1R0YUpJMW9KWHN5Z0F5b04xS3lkQ3JBZTF1RmlNdFZRMzBzWl9zX2kxWU5vbU1hUXFtdWgwbVNyc0pBNzhtQ1diN2lDZ0Z5cThtSDI3MWNsR0ttMV9zbFZkbDFfRmsyQ3psLWtRa0daVDB0YkR5aWhFbklibEF2V3dr?oc=5",
-        "domain": "thejournalrecord",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T141402Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EU's Cyber Resilience Act starts the 24-hour vulnerability clock",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUF1SHdfYzNZYXlLRjY5cTJpSlhYUW1ZbUd6amVmMlVVLVlleGFzOHBvX2FGT1ZKYlRJQVdveU8xd210aU03X09VbnVDcjRtMTREbUVTY0ZUXzZseGQwQUlOX3ZVZHNCQlhncG50eU9QZFBHR3AwZ0Q0Vk5PZC1hZndTWnJNWFJLZHltaUlYNXd6dGxYYndnd3AzYUVuOG4yN0pGejFmNm8tNkFvLWVrV0tpMkFNQUNFU2dz?oc=5",
-        "domain": "theregister",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T113441Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Finite State highlights firmware visibility challenge as EU Cyber Resilience Act vulnerability reporting begins",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbFBsQ09JeEdXLXZJR0ZQWVhsSk5IclgzUW1YQjdESS1Bb2ZEcFBRMnlSSFVkRnFNdTNJbFpPeVVLYjhrbVp6QmhZYWF2SnlhaGg3d01sNUhkblgwSnFXWWFydXFhT182Yk9ETFkzNWIyR3V3ZkltQ0taZHpSNTVrcHVXcnBtRGZXYy13WjdKMzVEVFJzeUEwS3BHa1ZKbWhwOHMtWm5YVTMyc0FMLTJaS1dyVlVBMkp0THZiTi1LaXhmX0xUQThYREx5T2hVYnMyX2lWaUJ3SVZ0WUVt?oc=5",
+        "title": "EU Cyber Resilience Act reporting rules take effect, putting vulnerability disclosure and product security in focus",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOa3FncklTak5MblI2clBvNGVxQUcycVNoaGF1d09xYTBhYXk0akFoT3FqQjM1SmFTZHpnWFdnUGNVZGFFUTlMNkczM1ZIRW5kVEVKdzBWdjZMSEdRcTd3OV9lM1FnUmhXUmlkcHdwQnFBVjBRQXNMY3I0SnVMUGxtd0J1bzU3WkhWdk42UkEzVVZ0cG14UUg2QkRfcjdWRzdXU1BPcVBzWTlKYUNKc1NzUjd4NG1mV3M0QVhjSFdkcllsaGQyQUVPbTVMTUd0MjVodjBCVHpEWmNZdXRFRW1JSVhfVEVTWG13MnpXRnc0dmpSZnhTSFJnMHotNlpFSUFzYW1GWWR0U2ZiUQ?oc=5",
         "domain": "industrialcyber",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T154147Z",
+        "seendate": "20260911T160828Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtRHJFWjVHdVR6RlNmTFlmU2dFUGpaUlJFMEZKVm9lcmlzYndtOWlPdmN1MHNXcTFPZjBwbzdZQ2FjVWRfWTduNFQ5OGJxOEFjbHptWDdsZWVGck5rLTNOZjdyaXdPcFpvdnkwSFhidmdiMi1ydllyT0R3UnlVZw?oc=5",
+        "domain": "thehackernews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T061900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Springfield officials give public update on cyberattack on school district",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmdFaXJtMzZRbVhBVS1jREtUMWV0a0t1OWJ2SFRMNmlnLUNoS0RYUkZjT2hLOEVRV0haR0NmeTdaclhoeHhQcXZyYU0zQ1BCbWtGNmNpMWU0NGZldWFEMGRUNzNUcUl0SVhsMEg5OTN3S3l4RE9kaUx1cEhwNHg1YU9YRDRGd2g1VE9YZmdqejFmVW0zLUZNcWdJXy1NN2xla0lIaGxydklSbUwxaWExUkZB0gHGAUFVX3lxTE9mUWI0RnR2NUhFdU1CaTBHMDJ5d2VKM0h5U1FobkJRSHhDaTBkRUJ5R01xMkVvUmpMWkxkVFRzWW1rSDU1Q29CUkM3RkowcmRRZGM0QjlNLTIxcXNvOW5zMThqOGtzSDYyaVlFcG5WUm55Q1BBa1BJMEdKNHZhSHRkVV83R1l6WWt0OEFUeHctZG9XMEZGTV9Bb2xvbzNQenFFcjB5dmd4dzk5dFBjZjR6Vzc5TnoyenN6S3RXeVRCZGhKQVBoUQ?oc=5",
+        "domain": "westernmassnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T221900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "FBI unveils Cyber Strategy as state-backed actors target critical infrastructure and ransomware threats escalate",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZkg2MG5PbXhUc3JxalB4Q2hnLVZTQW1RTzZlNTQxTGdod2xPakZDUDAtNXJrV1dtT2NmaEMxM0RPX3AwekpqR0RieVM5YS1ISElRWl9pYXdkRDBhbjQ0a0c5bEo5eXJwSnpyaDBMaEN1SVJlS2swLVJEX1lRaEtpZ0t0ZndGWTUxYzNnaUQzcHVKSWd6aDhIRk5hd2x5UHJycGR0THI5VDFSUkxJdGUxSHpmU0VuN2piVWdtc0ZJNi1Kcm1fNHJmbTJYcUkzcWdpanY0aHVacGVzTVFsdG50MXhFRVNYNm5yUFJGVA?oc=5",
+        "domain": "industrialcyber",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T154636Z",
         "source": "GoogleNews"
       },
       {
@@ -206,84 +224,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "FBI unveils Cyber Strategy as state-backed actors target critical infrastructure and ransomware threats escalate",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZkg2MG5PbXhUc3JxalB4Q2hnLVZTQW1RTzZlNTQxTGdod2xPakZDUDAtNXJrV1dtT2NmaEMxM0RPX3AwekpqR0RieVM5YS1ISElRWl9pYXdkRDBhbjQ0a0c5bEo5eXJwSnpyaDBMaEN1SVJlS2swLVJEX1lRaEtpZ0t0ZndGWTUxYzNnaUQzcHVKSWd6aDhIRk5hd2x5UHJycGR0THI5VDFSUkxJdGUxSHpmU0VuN2piVWdtc0ZJNi1Kcm1fNHJmbTJYcUkzcWdpanY0aHVacGVzTVFsdG50MXhFRVNYNm5yUFJGVA?oc=5",
-        "domain": "industrialcyber",
+        "title": "What’s known about Springfield cyberattack follows familiar pattern, according to expert",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY1dpZkg0SDk3d1RDNUR5c1pVeVo0TVFMdXFZdTVpQW15R1ZwaVFoc0xqVGdhSkZRblpOeG1LT0tfay1FcGk1WEVkcHMzUXM2RWVTSUcxWklYQXZtcXljcGtRZ2VaUXJwUl9xRlFicTFsVnIzTkNBdExWclFJUXdFYVJSa1N1R3F3UFlQNDJST0ltNHZnRjdwdmFjTVZ0bGdzaFNLX2tXRkJNSkFrLVVFLWgtM1BJZ1JqbXZjclR5QUtaaTc4TW1KU3lFeS1HZ3h0N1E?oc=5",
+        "domain": "masslive.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T154636Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Boston Scientific Won’t Meet Guidance Due to Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQU1QWGlJWDQ1bXROelFDaGEwVXBlcFk2ZWdBeXd1eWQ0d1RyT29seGN0Q19Vb3E5VDhPeGZTMnA3dGU4TS13bTdJMmNhVlpUcXhnSmdaTVpwblVmalRDb2xBU3RQV2liMmpGQUxQR1dBTElVQVhCYXM2UGlITFN3Q2x6VU1rcEFCOVF4eUFhQ1Biak1abW5ESA?oc=5",
-        "domain": "wsj",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260908T105800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Active exploitation of Cisco Secure Firewall Management Center vulnerabilities",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56TnptV1RTMGhXanliQlMzcDBQU3BieFVhUEFQTnl1aXo5dGpGd24xVVZZQUU4UWhVRDJwRndVYThUeWJrZHVkemZzS2VBWGg4X0Z4TEVBYVU1NHVFdU5SQVIzcXNUMTNncWYzYg?oc=5",
-        "domain": "ciscotalosblog",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260909T161321Z",
+        "seendate": "20260911T180200Z",
         "source": "GoogleNews"
       },
       {
         "title": "Threat groups enhance cyberattack capabilities with AI",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFdLMUhZWHBrNm1rOUVqWkdBNDVxUkh2WThLSHo3T0wtMTkzMFJ2SDRseldtQjRPdm93bjlZNUFZZ1U4ZkhGSHR0SnJNdnNnVllvMkRUelFxemxDTWZ6MnZyNzdQZXdOejh5QWF2bWRSajlCYk03T3pvc2tjQUl4UEsxUW9OZHRfcDlnMjRFbVp0bzNPc19rN2RaemE?oc=5",
-        "domain": "cybersecuritydive.com",
+        "domain": "cybersecuritydive",
         "language": "",
         "tone": 0,
         "seendate": "20260910T163021Z",
         "source": "GoogleNews"
       },
       {
-        "title": "GitLab urges users to patch max severity path traversal flaw",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzlTZzdUMi1YZzgyZWNzNFQ4c3FNdjEyZ19JSnhwQW9faEthSkYxM3ZsN3pMT3VjZ01sanppbUxEUVZQOWhZWE9IWk0wTnpiMXp6MnJPd1pvVklKMUNRTXo4dFFFVVcxMTdyQm5BUXZSXzVuX0J0UThkUWdHa2Qwc3AydzhueG5meU05R2RYaHVKR3doMUZEZEc5Q293eTk1cXVfMGhYb2dUa3Zv0gGyAUFVX3lxTE9DTmpMV3NNcElqaW9ySDRSeFpWci05T3hVUmdpQ3VIU2d2YWg3T3dxYXA1ejdwdzVhX3lBLWVwMzhXQ19HbjFQcE9QSG5LVVRPaXhUbzBGM0ZYNnVPS2tFOUVuYm9QWTlidVcxZ1kyeEFDS01HNEZTaXVtZm12NlZ2VGc0dWduUGlpVl9fa1loWHhURGdzbFdvX1RPOGN5djRiMm1lZUI3U1ZxZ2l4YzJlLVE?oc=5",
-        "domain": "bleepingcomputer.com",
+        "title": "Stryker still working through cyberattack after-effects, stock down more than 10% this week",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOemtIUGRJQTJIaG0tRjFYcldNcEozRkpLREktTWRET2VSX1d1ZW8wVG9QQXVkSWdkMzRNNFMzQTFJSDVoZ0RfWmNMVHJ1UTFIdGkxbUN3cWdTTjdWcHBHcTJRVmdGOW5zNE5qRE5zWFJMeTU1bzBMOTcyLTFSTUFSNDFQRFpHNmMzaVl6bVZMTDMwMUptYXhiWDc3c3djTzU4WjNyMjBTekFjcXpzdl9rNDlQa1RNSFNN?oc=5",
+        "domain": "massdevice",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T111522Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Patients struggle to access care more than a week after Luminis Health cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LWkFPRDJRbXZxTGRhQ2NUTk5VS19VcHcyVHFQUnF5b3ZPSlZ5cUFBa2RRN3pLNzktdUNjTjlJNUZGdHBIbTB0QmxOZzlybUF4UUk0Z3M0dzZRT2pUR0hrak8xcWhzX3k5N1NtQW1rYUtEYXFDSHdESWdCTQ?oc=5",
-        "domain": "wbff",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260910T194502Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Massachusetts school system cancels classes after 'Level 4' cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUlfTzV4TWxDTVlrWEJnQ2ZsNWk0cktMYTcxRHp6R0k0SXV0QklwXy1IdnJJM3BSZGtaYmMtRktZTEhfLUhSOUlXX0ttbmVkTHYzaWotRmw0Y0RsOFlpZ3hPYjRrUFl4Ml80dnl1Tmo5M3YxZGoxSnZ3Y1RRYzA0VWdvSmhiTjJuZk1xcXl2aHdhYWhQR1VKdG9Id9IBoAFBVV95cUxNa0FRbk96NDVnZ05uMTNOQ3RTWDRlbHhOWVR1dGoxZ0JhSEU4enVOeEFWV29xZE11Nm9PWHBjdDhpclRia2kya1VaYlJxME1iUDdLMlF3U1BLUElzS25FckVmNlBlOFRETTVtWW1YVVRFNEhvODVaTnZTMm9GRm55TllZTnpkS0paNDRURjduYVRacG5qQVY2dVFkb3U4cVdf?oc=5",
-        "domain": "abcnews-breakingnewslatestnewsandvideos",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260910T160034Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Conti ransomware crew member sentenced to four years in prison",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSEdnYmxndjVMRS1rOVNVX2k2Tmd5d1BOazdGSFVaTGpkWUJSZ3dfcHo3NWktc3M3RTBoT0trUlUxb1Rhdl9kckliNVpJaEFmVl94QThZbWJfSGdDY05sRDcwTzlVSGJFcjI5TA?oc=5",
-        "domain": "cyberscoop",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260910T205457Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0hfNmdmb2ZPZlZjVU9TOVduRl8zU0d6c1VDOUVRd2lBX09oWGtLdTBNZ1hjWGJpZkY3UFFBZnlZU0doQWdOTXNMeWQ0RTUzLW5hTUlsbk1ZVmItcXJHY2hyTUF2UnZ0OGE5ZTdOMHF6ZVB5UW1UektuMTc4NlQwV09mNzBVQ3R2anNxb05mNVhHMm9yUkxDQUxjZGV0eTRVYTlSdlBZMTY3bm00bUJLTg?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260908T134358Z",
+        "seendate": "20260911T182118Z",
         "source": "GoogleNews"
       },
       {
@@ -296,12 +260,57 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Springfield teachers union raises concerns over return to school following cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEVxNzhDZDRiWi1sY1RLZ2dqcTVDcGpsaU5oNE5GREFLaEVtUGNCTFQ1T3FMUjNWYnlhbWVRY1kyNHdMZ2dLbEJuQnRoTGs4bEY0bEE1X3pzQ3lUb0N3Q3gyanc0dGhRV01FckNxRW9TVUQ5U2F6WG1LQ1BZQ0ZyZms0U2VERVFyWHgzeUFlWkcwLTc3ZHFmamxhTE56c05CbG5mV0ZoWDI1azEyd0ZqOV82SXpvN0wxeGxwc3JXWdIBxAFBVV95cUxOLWRmejRzeVBxV1B1VzR3WGFRVE5ZMGxaX2lwUnFvcEtfaHNMQ2tyc3AyQVZJTEw3N2NVSVhGRTlFUUItbkxYd0NZRlotRy03cDVhVElHMHZWNWdOT0U5MzVHSHItOXVxeUJLY3FxYm8zMWhRbUpjQ3I2NjBoRHlPcnAzTUctVEFoQjV4QVdjRV9odnlGVVJKcEdGeEhmVWlLdTNJYlVSZV9KbElfX2p3RkFPb2VCQ29TOUJ0amx4WV94M0gz?oc=5",
-        "domain": "wwlp",
+        "title": "Active exploitation of Cisco Secure Firewall Management Center vulnerabilities",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56TnptV1RTMGhXanliQlMzcDBQU3BieFVhUEFQTnl1aXo5dGpGd24xVVZZQUU4UWhVRDJwRndVYThUeWJrZHVkemZzS2VBWGg4X0Z4TEVBYVU1NHVFdU5SQVIzcXNUMTNncWYzYg?oc=5",
+        "domain": "ciscotalosblog",
         "language": "",
         "tone": 0,
-        "seendate": "20260910T193529Z",
+        "seendate": "20260909T161321Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Anthropic disrupts AI-assisted weapons, cyberattack attempts",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS281dmlyYUY4ZzNJU2FoLWRqOHdWZ1QwWXFrMld2MDQ5Y1R0YUpJMW9KWHN5Z0F5b04xS3lkQ3JBZTF1RmlNdFZRMzBzWl9zX2kxWU5vbU1hUXFtdWgwbVNyc0pBNzhtQ1diN2lDZ0Z5cThtSDI3MWNsR0ttMV9zbFZkbDFfRmsyQ3psLWtRa0daVDB0YkR5aWhFbklibEF2V3dr?oc=5",
+        "domain": "thejournalrecord",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T143414Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Critical Infrastructure Cyberattack Encrypts Central IT Structures",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFYybTlwWjNGTmg1ZjM5ckdwb2EyNWZmaW43Y0lPcGk0QWV1VEY4WDlLS01xRTJ4NFF5eC04TGhKbktHd2ZvczBITDdOMXluMFQ1OEJqYW9qWmtyUDEycVR6dVliTnJsdm1yUktFVl94X2JwbTB4RE9acEVQTjJqeXA5NHkzSENKdF92d3FCbnc5QTdMU1VRZVhhclpOVHc2TEdrd1FrRXpNekNmRDY2Q1oxS2JHQQ?oc=5",
+        "domain": "securitymagazine",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T180000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack halts state financial aid office operations",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzRGRTTXZZZDk2S3BXcVJxd0YteTNDYU85QzBsUl8zVFFVZDFvdXQtUFE3Ny1QQUp1el9MM2ZVcUNjNWtuV1NyOXZtcVJBY19NeXdEWlgzMVQ3OE11ZzFMa1YweEotWi04TXZwZlp3YWM4Q2FFX1kwbVh3?oc=5",
+        "domain": "mississippitoday",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T233921Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Massachusetts school system cancels classes after 'Level 4' cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUlfTzV4TWxDTVlrWEJnQ2ZsNWk0cktMYTcxRHp6R0k0SXV0QklwXy1IdnJJM3BSZGtaYmMtRktZTEhfLUhSOUlXX0ttbmVkTHYzaWotRmw0Y0RsOFlpZ3hPYjRrUFl4Ml80dnl1Tmo5M3YxZGoxSnZ3Y1RRYzA0VWdvSmhiTjJuZk1xcXl2aHdhYWhQR1VKdG9Id9IBoAFBVV95cUxNa0FRbk96NDVnZ05uMTNOQ3RTWDRlbHhOWVR1dGoxZ0JhSEU4enVOeEFWV29xZE11Nm9PWHBjdDhpclRia2kya1VaYlJxME1iUDdLMlF3U1BLUElzS25FckVmNlBlOFRETTVtWW1YVVRFNEhvODVaTnZTMm9GRm55TllZTnpkS0paNDRURjduYVRacG5qQVY2dVFkb3U4cVdf?oc=5",
+        "domain": "abcnews-breakingnewslatestnewsandvideos",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T160034Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "GitLab urges users to patch max severity path traversal flaw",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzlTZzdUMi1YZzgyZWNzNFQ4c3FNdjEyZ19JSnhwQW9faEthSkYxM3ZsN3pMT3VjZ01sanppbUxEUVZQOWhZWE9IWk0wTnpiMXp6MnJPd1pvVklKMUNRTXo4dFFFVVcxMTdyQm5BUXZSXzVuX0J0UThkUWdHa2Qwc3AydzhueG5meU05R2RYaHVKR3doMUZEZEc5Q293eTk1cXVfMGhYb2dUa3Zv0gGyAUFVX3lxTE9DTmpMV3NNcElqaW9ySDRSeFpWci05T3hVUmdpQ3VIU2d2YWg3T3dxYXA1ejdwdzVhX3lBLWVwMzhXQ19HbjFQcE9QSG5LVVRPaXhUbzBGM0ZYNnVPS2tFOUVuYm9QWTlidVcxZ1kyeEFDS01HNEZTaXVtZm12NlZ2VGc0dWduUGlpVl9fa1loWHhURGdzbFdvX1RPOGN5djRiMm1lZUI3U1ZxZ2l4YzJlLVE?oc=5",
+        "domain": "bleepingcomputer.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T111522Z",
         "source": "GoogleNews"
       },
       {
@@ -311,6 +320,87 @@
         "language": "",
         "tone": 0,
         "seendate": "20260909T091100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Update on recent cybersecurity incident",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93MGNzZWgtLW1GSDVGMmtzajVyei1QMm8wVm1sT1lGNDNEZEpwUGt1Z3ZzU21yLWQ1OXVESVdGWnY3M2M0a3F5Z1MzRTlNY3k1a2pWOHVqZlBaOUI1VDVtaWs5SlpxVjh5UE1jT2VfVERDbFRKcXU1V3R3MVA4dw?oc=5",
+        "domain": "bostonscientific",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260909T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Patients struggle to access care more than a week after Luminis Health cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LWkFPRDJRbXZxTGRhQ2NUTk5VS19VcHcyVHFQUnF5b3ZPSlZ5cUFBa2RRN3pLNzktdUNjTjlJNUZGdHBIbTB0QmxOZzlybUF4UUk0Z3M0dzZRT2pUR0hrak8xcWhzX3k5N1NtQW1rYUtEYXFDSHdESWdCTQ?oc=5",
+        "domain": "wbff",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T194502Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU's Cyber Resilience Act starts the 24-hour vulnerability clock",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUF1SHdfYzNZYXlLRjY5cTJpSlhYUW1ZbUd6amVmMlVVLVlleGFzOHBvX2FGT1ZKYlRJQVdveU8xd210aU03X09VbnVDcjRtMTREbUVTY0ZUXzZseGQwQUlOX3ZVZHNCQlhncG50eU9QZFBHR3AwZ0Q0Vk5PZC1hZndTWnJNWFJLZHltaUlYNXd6dGxYYndnd3AzYUVuOG4yN0pGejFmNm8tNkFvLWVrV0tpMkFNQUNFU2dz?oc=5",
+        "domain": "theregister",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T113441Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A new Android attack combines malware and ransomware in a cocktail of cybercrime",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNnkwY2duNS1xdTI0TGNUODZEWTZIWUYwRnVSV24zUHpwNllxcXk3cktZcy1oY0NhT3MxdHQxRnJzT0ZCNFp0UEppeWdGSlRlRDl2VlF2MXBuOWJKQ2dRb0V6TjNScVhHYU9EOXhmVG13MjB5S0pRQTdUOWo2WVU3OGZSZlRxUjhZUXF4ai13YTFKbDdxSlJsSUttUlhwamNHX0VhRVFoc25SZnFvdkFFZkxYNXBOS0tCWHpz?oc=5",
+        "domain": "techradar",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T130500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Springfield teachers union raises concerns over return to school following cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEVxNzhDZDRiWi1sY1RLZ2dqcTVDcGpsaU5oNE5GREFLaEVtUGNCTFQ1T3FMUjNWYnlhbWVRY1kyNHdMZ2dLbEJuQnRoTGs4bEY0bEE1X3pzQ3lUb0N3Q3gyanc0dGhRV01FckNxRW9TVUQ5U2F6WG1LQ1BZQ0ZyZms0U2VERVFyWHgzeUFlWkcwLTc3ZHFmamxhTE56c05CbG5mV0ZoWDI1azEyd0ZqOV82SXpvN0wxeGxwc3JXWdIBxAFBVV95cUxOLWRmejRzeVBxV1B1VzR3WGFRVE5ZMGxaX2lwUnFvcEtfaHNMQ2tyc3AyQVZJTEw3N2NVSVhGRTlFUUItbkxYd0NZRlotRy03cDVhVElHMHZWNWdOT0U5MzVHSHItOXVxeUJLY3FxYm8zMWhRbUpjQ3I2NjBoRHlPcnAzTUctVEFoQjV4QVdjRV9odnlGVVJKcEdGeEhmVWlLdTNJYlVSZV9KbElfX2p3RkFPb2VCQ29TOUJ0amx4WV94M0gz?oc=5",
+        "domain": "wwlp",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T193529Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0hSb3BmdHJ0ZlFMdkp6c0Uxb1VJRmdUWXU2WEtBeWM3bUZvS1Jqclp2UVVfZUlRVzFSbHA2Y0FQNWUzaEsyaWdUX1h3QkF0UkFnaXRqTzFHR0FGc0RiVDlFWjByT1VkakQ0UWFwQUlQVVFqTTJmUTMxYVk3U0N2V0xGR1hDLVM2UnFzVldyTGk4VnJxTFNITzRQTHRFYm5oWXVfbG8xTTlvNXAzMjI4OV9oSQ?oc=5",
+        "domain": "theregister",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260909T002522Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Panzer ransomware targets Italian manufacturer as ESXi capability raises industrial security concerns",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNam5JY0pSV0RUc2FfRVplenl5OHR1QUJ5ZkM1QVlQZm5LX3REN1ZZNkhxYWF5U1dzUXVQZi1Rb3BWVVAyckptWDRDZmFJYU0xYURDTHp6ZnpZa1piOGZqTGdrWTh6T2dhNkpzeFB1OUhUNGxUUHd2TV9qY3Z4RmtEd25FMldJa1ZsaDFkSmhhcVc4UUhOVXo1TnE4ZzFXekxybGJ3X2hPWDlackRkVTM4Q0M5QV9OTlN6VGNDMDI4Z2JkeDNDakt3c1NEOWJzdUN1U0RPREVsdTdRenc?oc=5",
+        "domain": "industrialcyber",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T131136Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-87491: Chrome V8 Zero-Day Exploited in the Wild Enables Arbitrary Code Execution",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FVFlZTk5mclhSN1RhYjdTcVlURll6Q1g0b1lDNzZvb3FDTW9nQnRlTkNVZ1UzeWh6QVc1LWZzSFd3UFc5U09qYnd6dzBsb3NhanhRUWpDUlRnVmFhVkZNZVk0RU1CaGN5aEpXOVdzOUVtSjkxUnBvUFlR?oc=5",
+        "domain": "socprime",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T020459Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-85880 & CVE-2026-81963 Windows Zero-Days",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2UnNfZ1JCcFBPMWZ1cGsyQWRZbWZLXzdQZk1nT0Nwb2JzUlNnMVpfYXI4eWlybG9vd3l2VWxkYWhhRWpJbkE0aTR6MGxnNVo1aEdvMnpwZGJRc1czbVM5aFNpMDRvby1LVVJfTUhVV0FwdEFHTGJFMg?oc=5",
+        "domain": "socprime",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260909T232346Z",
         "source": "GoogleNews"
       },
       {
@@ -332,6 +422,33 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Ransomware Is The New Normal: Cybersecurity Considerations for Fiduciaries",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3F4MGZpS2dSZm53ZTNxOHZmVU9hYTJpMklsU0RzY1V0c3Z4ekNoOVlvSGtfUDNrMDdrQzZGaGdLekNsaHpQMDZIVTBVRnAtWFlsdWUtOWVpVTFESy04bGJVREhqMF9LYmtSVWx0WlprQnJoSWdOMTBVVDRpekRTMF9SUllQSFZoWDlJc3gxY1pwWVFKMFZFMzhMMWwyUngtR3hDZHI1RlFVdllM?oc=5",
+        "domain": "cybercrimemagazine",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260909T125703Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yY1hjMGVadnJZbXZOczUzMzJpVTh6Tm9XWWkzcFJyM3hrVW9BS1VHQjdDLUkyY2c5WHVVYkZuV1JrUVZMS2paNDZNclktOTRGbVV6eTNlX0RFeUI0WVhHUWR4OWxqcFQ2cjJLWVJDcHRhZWJYVVpKdjZmZS1DZw?oc=5",
+        "domain": "thehackernews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260909T044100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Conti ransomware crew member sentenced to four years in prison",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSEdnYmxndjVMRS1rOVNVX2k2Tmd5d1BOazdGSFVaTGpkWUJSZ3dfcHo3NWktc3M3RTBoT0trUlUxb1Rhdl9kckliNVpJaEFmVl94QThZbWJfSGdDY05sRDcwTzlVSGJFcjI5TA?oc=5",
+        "domain": "cyberscoop",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T205457Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Interim HealthCare Ransomware Attack: What We Know",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM093andXRWhtam1rcjRJLWF5ZTd4cjVaQmJ2Qm1aWWJoNW5MSWhBa1dCZFJ4STJvajdDcFFKdjJqdDN0c3dva1pZbGZPSjBXNnA1XzNJSHd6T01OdlozVXBLc2s4b1RCRW5yU3lOMEhQdnBUMG9oeF9iRy1WZTZmZw?oc=5",
         "domain": "tech-insider.org",
@@ -350,93 +467,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Conti ransomware developer sentenced to four years in US prison",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUlYyb2tlSWo3bUFhLS1UdGdMWXFlUF9GMXdlMUlEVXRQYjhPbnBDWjFjY3lKSkxwNTdpdEVxSVdCUDY0QU1qR1M3cjBhOWttRjZ6T2JwNFdhOGo4N1AxMjYyajZEa082Wm9kc0ltOE9LaGxZNTdPd0hxM1NYLWdDTXhQZUIxRWhYamZBTEFKZFJEZ2FKRlgyUnhUSGxlekpJT2w0?oc=5",
-        "domain": "bitdefender",
+        "title": "Cyberattack in Berlin: 1.4 million files on the dark web",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHltRm9ibGhrN1FpQ2o3V1NHSmhCdGJCYW42ckpLX2tNQ0dNOWZSdGp4aHY5MWNhQlZuck5sWG55S0FIeHVobkNqVjVBSEk5RWJ4YnBGY1ZlMm9tOUhQSUI1a0gyZzBwMXhIYUxHb2RfTVczb3lMVUVUTE1YWU5HTDJqcUR2MHVlVkFEem1QLTZCZVRJ?oc=5",
+        "domain": "oodaloop.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T105300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Panzer ransomware targets Italian manufacturer as ESXi capability raises industrial security concerns",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNam5JY0pSV0RUc2FfRVplenl5OHR1QUJ5ZkM1QVlQZm5LX3REN1ZZNkhxYWF5U1dzUXVQZi1Rb3BWVVAyckptWDRDZmFJYU0xYURDTHp6ZnpZa1piOGZqTGdrWTh6T2dhNkpzeFB1OUhUNGxUUHd2TV9qY3Z4RmtEd25FMldJa1ZsaDFkSmhhcVc4UUhOVXo1TnE4ZzFXekxybGJ3X2hPWDlackRkVTM4Q0M5QV9OTlN6VGNDMDI4Z2JkeDNDakt3c1NEOWJzdUN1U0RPREVsdTdRenc?oc=5",
-        "domain": "industrialcyber",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260910T131136Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0hSb3BmdHJ0ZlFMdkp6c0Uxb1VJRmdUWXU2WEtBeWM3bUZvS1Jqclp2UVVfZUlRVzFSbHA2Y0FQNWUzaEsyaWdUX1h3QkF0UkFnaXRqTzFHR0FGc0RiVDlFWjByT1VkakQ0UWFwQUlQVVFqTTJmUTMxYVk3U0N2V0xGR1hDLVM2UnFzVldyTGk4VnJxTFNITzRQTHRFYm5oWXVfbG8xTTlvNXAzMjI4OV9oSQ?oc=5",
-        "domain": "theregister",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260909T002522Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CVE-2026-85880 & CVE-2026-81963 Windows Zero-Days",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2UnNfZ1JCcFBPMWZ1cGsyQWRZbWZLXzdQZk1nT0Nwb2JzUlNnMVpfYXI4eWlybG9vd3l2VWxkYWhhRWpJbkE0aTR6MGxnNVo1aEdvMnpwZGJRc1czbVM5aFNpMDRvby1LVVJfTUhVV0FwdEFHTGJFMg?oc=5",
-        "domain": "socprime",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260909T232346Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CVE-2026-87491: Chrome V8 Zero-Day Exploited in the Wild Enables Arbitrary Code Execution",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FVFlZTk5mclhSN1RhYjdTcVlURll6Q1g0b1lDNzZvb3FDTW9nQnRlTkNVZ1UzeWh6QVc1LWZzSFd3UFc5U09qYnd6dzBsb3NhanhRUWpDUlRnVmFhVkZNZVk0RU1CaGN5aEpXOVdzOUVtSjkxUnBvUFlR?oc=5",
-        "domain": "socprime",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260910T020459Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUdFVW1kVmNiWlNVOWFhaXpOZlJWbkFSSWlRM1JMNDBRdnRxMjVScEpuUmV6MTZBam5Gek5JVDcwbUtEUThUNTdabkxTWFZva1RPeFdQUmhlU0MxeXhsNV8tSjcyQTRyYTI0VHhhbjVIMjd2aF9PdmhxVzA5a0hlX3pkTQ?oc=5",
-        "domain": "thehackernews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T163000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware Is The New Normal: Cybersecurity Considerations for Fiduciaries",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3F4MGZpS2dSZm53ZTNxOHZmVU9hYTJpMklsU0RzY1V0c3Z4ekNoOVlvSGtfUDNrMDdrQzZGaGdLekNsaHpQMDZIVTBVRnAtWFlsdWUtOWVpVTFESy04bGJVREhqMF9LYmtSVWx0WlprQnJoSWdOMTBVVDRpekRTMF9SUllQSFZoWDlJc3gxY1pwWVFKMFZFMzhMMWwyUngtR3hDZHI1RlFVdllM?oc=5",
-        "domain": "cybercrimemagazine",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260909T125703Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware attack reaches Victorian business through external technology provider",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObUtIMHVnbml5bzNVVGtFcklKejVhZjVZd3lFTmJVbC03aDJLcEd3enkzVl9QWk13Rk1aaTRGOU5jVGJZQmZqc2JkR1lGOWw0MFF6eE9LS1VaODJMbzM1b2hWcFhPTzRpaHFZbFJXdUdxa0NVaDA0dE1aYllNNDVVdEk3RHFvUjlsTm8xT2RhREE0Tl80LVE0c05aSFJ0bTNtMktwcVljUGVqbjVkVnc5d3RQQU96cm5lZmFSQ2hZZmF4eTJQd1J1eFVZeVNvXzY5MTVXQU1OaElxUGJu?oc=5",
-        "domain": "insurancebusinessmag.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T075437Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Stryker (SYK) Could Be 13% Undervalued After Cyberattack And Vision Pro Milestone",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGNZb3hMZmMxQnNKTTdjY21ocndyWUM2TDA2cjNtS0NONlczbUh2dnlENlNoQ2I1TWNUS0ZPZFNsVHpGWVBDMFpFVjFucEU2RjVMMTc5Y0xodmRqQ0ZkYVB2dVVGME9Yd3FrbDl1Nk9ab2VaUHBuZ21QZnV6bnY0VFFZOHQtd1QzR3VhYTNfLWIwbHIwOXhzdm9xdU9TSlJPWVRDdFFMX3dIVFBmcFdmWTA1c1dLakp1M3A1aXVCZEVTemfSAcgBQVVfeXFMTlF5SXhBNlFmallFMHNhbW11aDdmN0RGVHlmTWIzYWhQaFplN3pJQ21BaTNtSzRQQ3dQX1pTbjBCc0Vhd1NtQlJIX05hb3N0NDJKZWlpZXRjbkNoaEFnMzNUeWJSb0xiV2hzSUFrQmFWeXdwS2xNM05oX2RVaTVnTkpyZW5Xd0lxTWFRZ2RGOWJrSmpIbWpUUG8xTjdNM2RUMkJxci1PZ2JRT3ZfSkRVYTA5bkZtMFFkcG5UZTZ6WmpDYVBPdWlaSFc?oc=5",
-        "domain": "simplywall.st",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T134407Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yY1hjMGVadnJZbXZOczUzMzJpVTh6Tm9XWWkzcFJyM3hrVW9BS1VHQjdDLUkyY2c5WHVVYkZuV1JrUVZMS2paNDZNclktOTRGbVV6eTNlX0RFeUI0WVhHUWR4OWxqcFQ2cjJLWVJDcHRhZWJYVVpKdjZmZS1DZw?oc=5",
-        "domain": "thehackernews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260909T044100Z",
+        "seendate": "20260911T170456Z",
         "source": "GoogleNews"
       },
       {
@@ -446,42 +482,6 @@
         "language": "",
         "tone": 0,
         "seendate": "20260909T092906Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack Targets Japan’s Digital Agency, Putting Personal Data at Risk",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPamhPdXZ4cC1kS2ZiR0k5dm1fUzVhRVVicVhpaWh3alNxWHBYMkRNdHZGblI5a2Vac01YX0VZaTdxUC0tY1VPUndYNlFhWW5lWkJJVkd6Q2NZTmh4QnhWWVVxUWdBZGdhdllOdUNmcVRiYmwzaTdhSkN6RGZzZFA5cHBkSVNoQ2JOZF9oVFkyRG5pOFgweW1nRy01TTYwekUwaUZwN2ttTHdjVkpPSWc?oc=5",
-        "domain": "fananews-",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T143303Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Gallery: ‘Kismet & Control’ explores fate, vulnerability through photography",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1RmYUQzM1UtOTI2VFhvUTFrVDlPd1dTLVpNNXFocTNZcGdsVmlhWjVfSnU4QnFlX2g5MDdac0tSUFFvZjVGX25zbkRUV3EtdlNNYzJ5UlMyY2h1YlhxZFFQbno4UkNVaWZWSUpRZkl2Z3RNUVVhUTJHeFdUTU50Tm11UEdEYjh4WkthZ2NqbGprMXhqd1BzU2R5SVFUdFk2MnhOdjhRNFhtX1FM?oc=5",
-        "domain": "usistudentnewspaper",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T135037Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKY2JyVnl5Vy1NdngzSGdhUGZDQ0pJZmQyS2hSZldONlM5TUM5UGNtTndhbGFmaTU0V3AzWFE3VmtzbjdHLVVfWURKSEduU1RmcGY4LWY0U243bHQ3REFFTG1VN05Gd3ZhUm1HYk1HU2RwLWtJOXYwaC1EX2d5QQ?oc=5",
-        "domain": "thehackernews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260909T042700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Two Ransomware Groups Claim Attacks on Nationwide Home Healthcare Provider",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFYmZMU3FGZUNlY2JGVFRUdzJrZXV1ekxHSHNrQzZEaXlkS0Z2SXRJYWhCUWExSTR1U1pUcFYzZUV6MzhaQUdvSkQ2M3RzS05fUGVqZGF3U1YyMGhzUVlSZG1PZkhKdGxNRXZJ?oc=5",
-        "domain": "thehipaajournal",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260909T100518Z",
         "source": "GoogleNews"
       }
     ],
@@ -576,52 +576,34 @@
       "domain": "dw.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260911T075928Z",
+      "seendate": "20260911T140419Z",
       "source": "GoogleNews"
     },
     {
-      "title": "EU Cyber Resilience Act reporting rules take effect, putting vulnerability disclosure and product security in focus",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOa3FncklTak5MblI2clBvNGVxQUcycVNoaGF1d09xYTBhYXk0akFoT3FqQjM1SmFTZHpnWFdnUGNVZGFFUTlMNkczM1ZIRW5kVEVKdzBWdjZMSEdRcTd3OV9lM1FnUmhXUmlkcHdwQnFBVjBRQXNMY3I0SnVMUGxtd0J1bzU3WkhWdk42UkEzVVZ0cG14UUg2QkRfcjdWRzdXU1BPcVBzWTlKYUNKc1NzUjd4NG1mV3M0QVhjSFdkcllsaGQyQUVPbTVMTUd0MjVodjBCVHpEWmNZdXRFRW1JSVhfVEVTWG13MnpXRnc0dmpSZnhTSFJnMHotNlpFSUFzYW1GWWR0U2ZiUQ?oc=5",
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUdFVW1kVmNiWlNVOWFhaXpOZlJWbkFSSWlRM1JMNDBRdnRxMjVScEpuUmV6MTZBam5Gek5JVDcwbUtEUThUNTdabkxTWFZva1RPeFdQUmhlU0MxeXhsNV8tSjcyQTRyYTI0VHhhbjVIMjd2aF9PdmhxVzA5a0hlX3pkTQ?oc=5",
+      "domain": "thehackernews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260911T163000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Finite State highlights firmware visibility challenge as EU Cyber Resilience Act vulnerability reporting begins",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbFBsQ09JeEdXLXZJR0ZQWVhsSk5IclgzUW1YQjdESS1Bb2ZEcFBRMnlSSFVkRnFNdTNJbFpPeVVLYjhrbVp6QmhZYWF2SnlhaGg3d01sNUhkblgwSnFXWWFydXFhT182Yk9ETFkzNWIyR3V3ZkltQ0taZHpSNTVrcHVXcnBtRGZXYy13WjdKMzVEVFJzeUEwS3BHa1ZKbWhwOHMtWm5YVTMyc0FMLTJaS1dyVlVBMkp0THZiTi1LaXhmX0xUQThYREx5T2hVYnMyX2lWaUJ3SVZ0WUVt?oc=5",
       "domain": "industrialcyber",
       "language": "",
       "tone": 0,
-      "seendate": "20260911T155157Z",
+      "seendate": "20260911T154636Z",
       "source": "GoogleNews"
     },
     {
       "title": "Veradigm reports third-party vendor cyberattack",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWF6YlpNWnFHYnozQUozTWdQelpfVW9vd2UtRHRkaF9XQndhOWRlUW55Q2VNVHp3d0xUN3ZzQW83ZUJxNnNIanNEcENFTXlXTXZoVjNITi1ENjNkV1JIMENlZ1hZekppRnVOWnlEVUdVaDl2SVJiNHZYQW5GV2F3TllLRmx2anBTOXExY0VB?oc=5",
-      "domain": "healthcareitnews.com",
+      "domain": "healthcareitnews",
       "language": "",
       "tone": 0,
       "seendate": "20260911T150545Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BR0NFQlQ0ZUR0enN5RE84MzZPUy1rOGI3X1pSV1FFZjcxdURjYUFRNEdPN0NQeDdWME1sY1FQLVN6akxMWXZfNnV5OXpnR0tEcHdqSTFfcW03Z0xqb2lxVTJIT1U0UQ?oc=5",
-      "domain": "therecordfromrecordedfuturenews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260911T121152Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "‘Stark wakeup call’: Cyberattack on Hilltop Bank highlights growing online threats",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWURHcUVia1Y2OFJ0YTNiNEVqOU5hN3Z6dl9mZmtlM2xjd1prU2Y5TjB4WnpHVms0UzFyRTZOUllkcEJ4dU1IQ1lkeWFGVXFUOFNQWml1T2hYU1lINm5UMnpKRlBnOTl2Qnp1LU1PQUh6akxWdW5YV2I3cDJXTzhRbEZLT0hfZHFkdEliTFM1NzFJcFdEM2dNVk5yXzcxNHJ5SWI0bmRfVWpFLUpiRk1yVHptY0hMcVgtM3ItZUJtMTZubDQ?oc=5",
-      "domain": "capcitynews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260911T124219Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtRHJFWjVHdVR6RlNmTFlmU2dFUGpaUlJFMEZKVm9lcmlzYndtOWlPdmN1MHNXcTFPZjBwbzdZQ2FjVWRfWTduNFQ5OGJxOEFjbHptWDdsZWVGck5rLTNOZjdyaXdPcFpvdnkwSFhidmdiMi1ydllyT0R3UnlVZw?oc=5",
-      "domain": "thehackernews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260911T061900Z",
       "source": "GoogleNews"
     },
     {
@@ -634,6 +616,33 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Orthanc DICOM Server Vulnerability Can Lead to Denial of Service",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZG1rZk1UeHBscm9fTi1yOXBLVjU2V05xNU96NmJCeUp3LW92aUljMjZlOXhURnlEam1Yei05aUltdEswY1ZObW85cUxFNjhYclRCR3dwRUU3YWRIVGNwMlJaODVfeHJwVGRkOW9XTWZyakNsTklQa2xCaUNzLWFqcDVNcHBMY2puZHc?oc=5",
+      "domain": "hipaajournal.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260911T115752Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Springfield schools prepare to reopen after nine-day cyberattack shutdown",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMENCRWRSTXV0UEdOZ01tZDdFYmF1UXhqTXp6UExoYWNyaGhuejJKOFVGYUl3cEpsZmpFb056ZWl2YXJoRlFkWWhsQWFYUThVVm9SSE9hMVNLekZ1MzlOQTdRRERidXYwa0M2YnE5SUt6bS1xNndBaFFPVnpIdUVEc243aDRVZHU1VmpLR25VbHk3WlJiblE1cE5udFd3LUQwVUVyaXNRbmktdFVOeFNDWk92Q3o?oc=5",
+      "domain": "westernmassnews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260911T191100Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BR0NFQlQ0ZUR0enN5RE84MzZPUy1rOGI3X1pSV1FFZjcxdURjYUFRNEdPN0NQeDdWME1sY1FQLVN6akxMWXZfNnV5OXpnR0tEcHdqSTFfcW03Z0xqb2lxVTJIT1U0UQ?oc=5",
+      "domain": "therecordfromrecordedfuturenews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260911T121152Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Anne Arundel Medical Center cyberattack delays patient care",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEJ6eG1CME15d0k2RkNsd2pSRmpsYTcwLUgtTnRIMHhKdkRDOF9sZ0xILUhqNjZCU3A3Uy1hQ0JqMW5xWWpNcWRzbjVrOXZ2OU41YjlHenRRbmpEOFpmZEpDRm42bGhWa1RHbWpKbkcyckFSRHl5dVdPV3E4OW9FTHNEb0RhZElnS24weUQxVVYtdnEzX3NXV1ZEUjQ?oc=5",
       "domain": "wbal-tv",
@@ -643,21 +652,12 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Orthanc DICOM Server Vulnerability Can Lead to Denial of Service",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZG1rZk1UeHBscm9fTi1yOXBLVjU2V05xNU96NmJCeUp3LW92aUljMjZlOXhURnlEam1Yei05aUltdEswY1ZObW85cUxFNjhYclRCR3dwRUU3YWRIVGNwMlJaODVfeHJwVGRkOW9XTWZyakNsTklQa2xCaUNzLWFqcDVNcHBMY2puZHc?oc=5",
-      "domain": "thehipaajournal",
+      "title": "Boston Scientific continues to make progress on cyberattack recovery",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnRiVlhoQ1RZZWtZLVRRaGJxeU9vRWNTcVdURXRrUjZMaTZGOEZ1QUlqdTZnTFFaaVJ6VU9yem1YV3VoQ3VJZjdKSXp1elBJQlkzNl9QR3JwV21acTRqLW1qTVBnT2dZTmY2UXRIMjF3MmM2SjhtRkFYekpGb1hMRWhvMXhiT1BrMVA5MWg4Y2JYa2FWMWJvOGNza2Y?oc=5",
+      "domain": "massdevice",
       "language": "",
       "tone": 0,
-      "seendate": "20260911T115752Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Springfield officials give public update on cyberattack on school district",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmdFaXJtMzZRbVhBVS1jREtUMWV0a0t1OWJ2SFRMNmlnLUNoS0RYUkZjT2hLOEVRV0haR0NmeTdaclhoeHhQcXZyYU0zQ1BCbWtGNmNpMWU0NGZldWFEMGRUNzNUcUl0SVhsMEg5OTN3S3l4RE9kaUx1cEhwNHg1YU9YRDRGd2g1VE9YZmdqejFmVW0zLUZNcWdJXy1NN2xla0lIaGxydklSbUwxaWExUkZB0gHGAUFVX3lxTE9mUWI0RnR2NUhFdU1CaTBHMDJ5d2VKM0h5U1FobkJRSHhDaTBkRUJ5R01xMkVvUmpMWkxkVFRzWW1rSDU1Q29CUkM3RkowcmRRZGM0QjlNLTIxcXNvOW5zMThqOGtzSDYyaVlFcG5WUm55Q1BBa1BJMEdKNHZhSHRkVV83R1l6WWt0OEFUeHctZG9XMEZGTV9Bb2xvbzNQenFFcjB5dmd4dzk5dFBjZjR6Vzc5TnoyenN6S3RXeVRCZGhKQVBoUQ?oc=5",
-      "domain": "westernmassnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260910T221900Z",
+      "seendate": "20260911T184233Z",
       "source": "GoogleNews"
     },
     {
@@ -670,39 +670,39 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Building a ransomware decision tree before the call comes in",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWnpkbzhlLWl1cGtJZGJ5VzBaLWhMWThseGxoc0d1ZTY0MzJka2ZtbllDY2Z1MEVMVnh5NUJkNVBoVVA2amlybjZkd0lzM21KM3k2b1p0N0NsQjFnUkZSRXNaM3RkS2Q5UEZzYl81U1ZSbGhBQ3BDcnhZWFpRVnc?oc=5",
-      "domain": "helpnetsecurity",
+      "title": "EU Cyber Resilience Act Reporting Now Live | CRA Article 14 & ENISA SRP Guide",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOVV2N0NLS2h5aEk5R3pESWE4YU9JSTNZSGtxclFFZzBkcndzSWNSY0ppZXpuY1lsX3NzQUk5anhoVGI0R29yejJqazFyU0xWRWpZNjNORHNOYXRxZzJNSnBIWXJqTHc4dTlMclQ3UzZnVTZTVXZzS3J6YVFGYV8zcnc3aS05dlNtalVsbnJCQzAxWU5LbUI1b01wQzl6ckVPU1BIZmlXMThKcVlrQUVfeFpnVDZLdVFreGdOejVIUkNTN0ZkQTJvbGxiQ1BjazZxVVE?oc=5",
+      "domain": "crowell.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260911T053053Z",
+      "seendate": "20260911T201926Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Cyberattack halts state financial aid office operations",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzRGRTTXZZZDk2S3BXcVJxd0YteTNDYU85QzBsUl8zVFFVZDFvdXQtUFE3Ny1QQUp1el9MM2ZVcUNjNWtuV1NyOXZtcVJBY19NeXdEWlgzMVQ3OE11ZzFMa1YweEotWi04TXZwZlp3YWM4Q2FFX1kwbVh3?oc=5",
-      "domain": "mississippitoday",
+      "title": "‘Stark wakeup call’: Cyberattack on Hilltop Bank highlights growing online threats",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWURHcUVia1Y2OFJ0YTNiNEVqOU5hN3Z6dl9mZmtlM2xjd1prU2Y5TjB4WnpHVms0UzFyRTZOUllkcEJ4dU1IQ1lkeWFGVXFUOFNQWml1T2hYU1lINm5UMnpKRlBnOTl2Qnp1LU1PQUh6akxWdW5YV2I3cDJXTzhRbEZLT0hfZHFkdEliTFM1NzFJcFdEM2dNVk5yXzcxNHJ5SWI0bmRfVWpFLUpiRk1yVHptY0hMcVgtM3ItZUJtMTZubDQ?oc=5",
+      "domain": "capcitynews",
       "language": "",
       "tone": 0,
-      "seendate": "20260910T233921Z",
+      "seendate": "20260911T124219Z",
       "source": "GoogleNews"
     },
     {
       "title": "Boston Scientific Restores Key Operations After Cyberattack",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanlad1Jpd0FxNm5pSnQzUlJfQng2VVVLNUpVRFRBSFJZOExsZDl5Vk9XbnJndWs5WFNGdWdTY0NTZklMN1ZsV1VfV0M4cEVSV2FKcHNwck11bnAwcXVIZlZQV19vbTdSQXk1Zm0yTnBGdGV4bkpaeTJFb2RZNW1NMEpnX3c1TjBRTTVfVzlnYjI1RVVmeGEtOHNBWXU1SXpyWEJyUXhua24?oc=5",
-      "domain": "wsj",
+      "domain": "wsj.com",
       "language": "",
       "tone": 0,
       "seendate": "20260910T153100Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Anthropic disrupts AI-assisted weapons, cyberattack attempts",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS281dmlyYUY4ZzNJU2FoLWRqOHdWZ1QwWXFrMld2MDQ5Y1R0YUpJMW9KWHN5Z0F5b04xS3lkQ3JBZTF1RmlNdFZRMzBzWl9zX2kxWU5vbU1hUXFtdWgwbVNyc0pBNzhtQ1diN2lDZ0Z5cThtSDI3MWNsR0ttMV9zbFZkbDFfRmsyQ3psLWtRa0daVDB0YkR5aWhFbklibEF2V3dr?oc=5",
-      "domain": "thejournalrecord",
+      "title": "Building a ransomware decision tree before the call comes in",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWnpkbzhlLWl1cGtJZGJ5VzBaLWhMWThseGxoc0d1ZTY0MzJka2ZtbllDY2Z1MEVMVnh5NUJkNVBoVVA2amlybjZkd0lzM21KM3k2b1p0N0NsQjFnUkZSRXNaM3RkS2Q5UEZzYl81U1ZSbGhBQ3BDcnhZWFpRVnc?oc=5",
+      "domain": "helpnetsecurity",
       "language": "",
       "tone": 0,
-      "seendate": "20260911T141402Z",
+      "seendate": "20260911T053053Z",
       "source": "GoogleNews"
     }
   ],
