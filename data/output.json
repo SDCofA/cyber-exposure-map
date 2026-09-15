@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-09-15T17:20:06.662396+00:00",
+    "generated": "2026-09-15T21:48:59.175170+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "36",
+      "value": "34",
       "delta": "deduplicated"
     },
     {
@@ -40,16 +40,61 @@
         "domain": "wsj",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T163357Z",
+        "seendate": "20260915T212410Z",
         "source": "GoogleNews"
       },
       {
-        "title": "ConnectWise ScreenConnect vulnerability allows unauthorized file transfers",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXNacFhiVURzZTFjZlFlcTg2aEVWcFM3QkNuZGkyTzJ3dkpDOWRIMlZjTmFrS19BcTNfSy04clltQU9GSVJsRlFVbVhxRkpnWTBFTi1CWFVfS1h3YlpNTGtpVUZCc2ZvWWtaU0F5Q3pVYmZYdDhpNjgyRlVqLTRJVHdJOXFCZ0hjUXl0TV9MOUxrbkdCV19qdk41empRdW82R1VUMlVCbmoyZw?oc=5",
+        "title": "Global ransomware attacks hit record 997 in August 2026 as utility, healthcare and business attacks surge",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTDVNVmEtTXZjVktPSXpMZ0ZqSjNWaU5iY2tyeUhjdmtkUHd5YmU1aHlvZ1dzSVJ1ZTFXQUR2T3lZa2RFRFVXSE1MRjFyY2Rpbm5sUlJubGNNdXoweVM0Y0ZtY1NNajU5T2I3TWJtbFdiTzI5ZFMzS0VBRTBtSG4tM19oNWVMcVBoc1dkVDI1UGRIb1BEUnBBUGtyalFCRnBZWWRaU0RKc21MdERiaWJpTTVSWVY1OTliaU1ieW9WSUZnbzN0MkxJMGdpZ3FlZWxJazZWUXY5MUI0RDQ?oc=5",
+        "domain": "industrialcyber",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260914T105519Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UAB researchers highlight vulnerability in modern blood pressure thresholds for pediatric traumatic injuries",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX28xVjREQU5EMUVsOVgxdUZuRUZFaUg3MU9qWkVEWmVjWFNnMXdiMEJoSGJORW9SV2w2SHAyNDJ3MDRmak80WVk0ZW1GeVlpUkVhX3lSY3ZTeHJfalV2U2ZsOVBVM1ROWVlzTWY3bm5wZnBsX1prem5tQndkZGluMDVFOTlCbEtESXpmZEpZd09iOGtNbHpWN0ZScmk5bHhkNFphZElaMXBkWEd6TXJlbzE0WkVtRUROWVVnZ3JteXRHY3pSSzdkVVh1VHV5dzRRS3k0N3pnaF9LN0xPazk3MTFSVjNQaWZI?oc=5",
+        "domain": "uab.edu",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T194315Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "GitLab users urged to patch critical path traversal vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTdxZHdqS3I5UVpDSVpqc1NSSEJfbU85NFBHMVh6T1lNV3Z6RTJzSnNWdjl4V1BzS0lxVGFwQ3lFVXh1RU56UFhKNG1YZTRGTU4xUjBzZGxobDBNSEFEV0FEM3lEU1VGT2VtVzVfdkZMTGZTVWx1cmZldlhjaXVtR2hlRkJNWjhBNXlnblpjdm92ZjBOYmJ3Mzh0RFdGQQ?oc=5",
         "domain": "msspalert",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T142157Z",
+        "seendate": "20260915T145049Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Mankato Clinic investigating cyberattack after hacker group’s claim",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDQxNTJYcHR1RkYwN3ZGY1lmU1VJMzJjdXl4cTBCX1BTX085bXZPZnBjdXpvOWZuU3BxMEEtd05pODRyRHBTcEhJUnVFaHBTQlRxWEMzc1B0SWZlT3VFZDBPODZxTlVHNkptRW5uQXJyQVkzRmZpR3lDanE2RE5iNHZMZ2o5ejF2dlN1Z2dNR3RyUjBJWHA1cjh4OVYxVVd10gG0AUFVX3lxTE9GbW4tekZGcERBM3NScFAtcjBYSTFUSTc3endWQUFvdWpRSXpFRFBpNlpDQi1CekRZQUIxdmd0MkF6NXdXaHhXUkJXcmR5bU45ZlFSdGxpY3U5OHZjSktCWDlpRzFhR2xSQzlyNXVvWVNGdzJPekNQV0t3U2lYLXZkazN0R0hfY2FIZVZXbVQ0VTNpLXNmWDlyQ3ZEdmtjVV96d2R6cm1Ub2VUOWYwbkVpbFNBRQ?oc=5",
+        "domain": "keycnewsnow",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T161400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cybersecurity expert says ‘zero trust’ approach can help prevent scams, ransomware attacks",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1lJWUhjT3hCQjJKaXRjNzFLUmZCaU1CZkhGYlRXNWU4QktUQWN5S2NEaWFYZEllN3Nxc1RvQTV5OENoV1FGV0NOSDk0M3Q4N0R3OGFoZkRRYThYVnpKZ2FHbUxaU0Naak5YMUROZXpDQUUyQVdMOGUyZ1lLbFhGN24xUzRVTHdRUUlMRXVadDhTdkMxcnVoSmtHbjhiaFo4blp6QTBEY1RyWU5jRUJhSFAzTHB2SlVXNndpN3h6UQ?oc=5",
+        "domain": "wvir",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T123300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXU4dDEwTUZHeWZUUktLYjBpX1dublVNczZmWnMtOF9mN0lraWxobk8yS0lvMkxwS3JmcHFDRjhaT1FyLUk4Yktmb1MyWlJxTmhJdUVMNUJEUE5IZ3B3RktKeXV2NE01aTNSOElNY0RWeVp1NEJjQTEySlc1UXJ5YVVzT2w5Q2x1ek8xWFJJYjVGa0xrOFI1eFo1d2gyM0FaOE5DVmZhVVBrU1dLanpKb0g0c21rOFFuVWVz0gHAAUFVX3lxTFBWcXNOMVBKYmp0WVVvT1hhUWl2SURkZXlaaXQweXNvR2oxRS1CWllBeG1IVmQwd1RROU9aNGxsUk12VDlYeVp5cDJaa0o1M055REFoUGRfZGZiWmRYWk5aay1oQU5MVGlpcnhKa19uU3VUeG4xS0lZUUhwSVVDQTBoVG5IMF9iRXdBeEZPRFgtdFRyREFLMTNsbURDMG54WVduakVic1NIY0xYRndOM1JFbllILUtSeWxhQkxTUF85ZA?oc=5",
+        "domain": "bleepingcomputer",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T121632Z",
         "source": "GoogleNews"
       },
       {
@@ -62,21 +107,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cybersecurity expert says ‘zero trust’ approach can help prevent scams, ransomware attacks",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzFOZHp0TUVOVlB3Vl9zWWlqQkRJYm0waDNVQTEyUzEtYThpLUlRbFVQZzd5V3BFRDVGLTFlclRhb2ljbUdBc083UDFyZnRmdUFUbTdqMzJlLWxCdUR5SVlOOVBCNjdzbWpDOW45eGw4cEktaEU1QWZBLUhsUmNuekV4SDNUWGlOcDJyYXd6cWM1VHp0LV9qZDk2NlppUDZWbkNPa0ZKREhkSENCSHlzUEJzSGQtOFB2QzAtY3VQUFE3UHpsQkk0?oc=5",
-        "domain": "wwbt",
+        "title": "Ransomware Recovery is almost Impossible, says Study",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzFaTi1FQnlzdjRJYjJCUVQyNWJtS0t0THhuSFFkVy1aWGQyRmNoQ0VQNHNRQi0xbU5pV0pZY01qZDMwZS14QzZaV0J3NzBlUVdaNnBQLTJZNUZYb1k3T1JpbUlEVmxOb1ZhN09Vc1R3eUhmbzhHRzBEdkI0bVlkdVFVaE5yd2Y2azZYcHg4U0xHeHpJV1E?oc=5",
+        "domain": "cybersecurityinsiders",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T123300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Global ransomware attacks hit record 997 in August 2026 as utility, healthcare and business attacks surge",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTDVNVmEtTXZjVktPSXpMZ0ZqSjNWaU5iY2tyeUhjdmtkUHd5YmU1aHlvZ1dzSVJ1ZTFXQUR2T3lZa2RFRFVXSE1MRjFyY2Rpbm5sUlJubGNNdXoweVM0Y0ZtY1NNajU5T2I3TWJtbFdiTzI5ZFMzS0VBRTBtSG4tM19oNWVMcVBoc1dkVDI1UGRIb1BEUnBBUGtyalFCRnBZWWRaU0RKc21MdERiaWJpTTVSWVY1OTliaU1ieW9WSUZnbzN0MkxJMGdpZ3FlZWxJazZWUXY5MUI0RDQ?oc=5",
-        "domain": "industrialcyber",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260914T105519Z",
+        "seendate": "20260915T152735Z",
         "source": "GoogleNews"
       },
       {
@@ -91,55 +127,10 @@
       {
         "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2ctYkszWjgzRlkxWmIzNzNINlNhdVNURmd2WDNXWXNzdm9LdGpiOFFueGw4bnp4LXRpaGZqa2hQdnJ0TkJybFFKNnJzc09BODU0NFJyeTlqNGYwZXNET0ZSZmtKamhfa1NKRGdVZGxXYVhJc3lXZkxoOFZTWE1ucmFaUkt2dmh4TW5CNHNTaFhKRFkyaVc5NUdWTTNqajBrS3ZWNkx30gGrAUFVX3lxTE5VNmpWXzAwTlY1VzFVemotSXhOb2RLYTV3MUVZMlY4b1YtMUdrVHlJX05OcnJkT2p6dTF1emlqd25zYksyYmJrTGJBMWRZWXhJZU02M3pwV1NTREpJdnBNMUlWb2RNeEVsYkJtRWU4RExKUl9fdmNVOWpyNlM5aWRlUXNiMlE1VGRyQlZ2UERsaXZmYVZMTEtyLUVYcUtUakJudmszdU9ya1dZWQ?oc=5",
-        "domain": "securityweek",
+        "domain": "securityweek.com",
         "language": "",
         "tone": 0,
         "seendate": "20260915T051851Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Malicious actors already using critical GitLab flaw, CISA and others warn",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTdhdUVYV2QwM1lheDdmNThLRHFWcEJ5MERHNjF0VEZaRFJfTDAwM2RPTGFDVmpzclJTSDZFRTdRRkdhZUdSMmZITFlSVnpZeHVZWHR6Um5BcHlfV1ZSdTVueHh6azlqODVGcHN4dG9uUG1XVzVoYTVyU1NMWHVCY3lfdFIyZnJZeFhvSjBXR3RlNFU?oc=5",
-        "domain": "cybersecuritydive",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260914T151921Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXhEVVNIV0tnM19PZHI5aWI2R0NHMk1mcC0zdkZ0cGVkZnhxNjBha3FucFBYWGJHdmN1ZlpzNmFHMmNtMnY2cjRnTTlCS3ZnMk9nUDJqdjFJcy1wUlNzUGczYUxuODJLMXJnanFQLU1ZMDhGYWdjM2pwcU9WRGxDZ3lFNW5tUzgxU0xZaTZfY0NpbldSdXptVDVmWjJXT2VfS0VkZllUX0cxdXNYWmNxbEhLTnZ5Q2hyUGh2OVpIZk52UjlFWGltd1lMQzFzVjZGMkp5bEpodHpVVWZUcUtIQg?oc=5",
-        "domain": "theregister",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T133200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Rapid Reaction: GitLab Path Traversal Vulnerability (CVE-2026-85706)",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaThMQUxuVl9pQ3ZFR1plbkFIOHc0bEZ5TDFucEdNbnZtS1l0dzhJdlhqNlBINVNJaDNpU1QxOTdtNDlFUG5STzYyVnppeDJkazh4c0VkczJIMG92SVFCb0VSc0g0TVUwOU9yU2R3U040cmRIYUFscWpDUnN1SG9CUE9ySDVNN01xalFPdzktS1Rsd25IeTh2LXNaMTFFN1pUZmJtWFBpdV91MFk?oc=5",
-        "domain": "watchtowr",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T183229Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Astelia: “Vulnerability does not exist on a server alone”",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yZW9JTDRZV2tiU3kxdzVHeG5HSEZabl9FemV3OGIyR3dBYUQxME9aN3gzLTFzYjBQOEFTYzBpUXE2dmt1S1VRTXVfeW4tMWhqLWRyN09oczQ2NDBSX1pmZW53MnNJZDQ?oc=5",
-        "domain": "calcalistech.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T061200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "VMware vCenter RCE CVE-2026-59310: CVSS 9.8 [2026]",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xa0VtclZUQjVpYV9kT29kS2syOTNOcDNraUxBX0dSWnZMMVU0ckd4eFZPd3ZnZ196WXNDY0MzWmlyVnJqTVVuOGZyaXQ5d3hkVmJVWkd6dVhCOXljSnRiQzlnS05mRGpRQVQ1Q3BadnpCTVdEa1RTZ0d5MA?oc=5",
-        "domain": "shattered.io",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T141044Z",
         "source": "GoogleNews"
       },
       {
@@ -152,12 +143,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "New cloud security vulnerability uncovered",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTEZvVVE0YWttYzFuS0VPck8zY3NHallnV0xKSDN4amkzVDlSdlFoY1ZwdWRfUkc2ZkNra0lBWmMzaFE1X3M0VldRbW5KVHFOOHBGSjJtdjFQRDdGSzk1bzdfMUE1MVpxNlhpM2VyVHJPUkUxR29yV3lR?oc=5",
-        "domain": "techxplore",
+        "title": "Car Repairer Advances Insurance Claims Over Ransomware Attack",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGlXREx0R1pQX3hDeTNiQV9oOV9OcWl0QzJhY2lKZ2JFWnpVdlB3dnhhS2FnaG5BaWY5aV9KUzF6NExhNTdhVWo5QTRBSWx5SWhqZHQzMUhHRmRUTzhtMldjQWRIT2d5aW1zRjJCbE5mWnRLVUxySjBWT1VZc1FQZW44Y0hWUnoybjlHRWtTeDN5TDZVRlBERk1Pd0tUaGJqd2xR?oc=5",
+        "domain": "bloomberglawnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T134008Z",
+        "seendate": "20260915T184200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rapid Reaction: GitLab Path Traversal Vulnerability (CVE-2026-85706)",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaThMQUxuVl9pQ3ZFR1plbkFIOHc0bEZ5TDFucEdNbnZtS1l0dzhJdlhqNlBINVNJaDNpU1QxOTdtNDlFUG5STzYyVnppeDJkazh4c0VkczJIMG92SVFCb0VSc0g0TVUwOU9yU2R3U040cmRIYUFscWpDUnN1SG9CUE9ySDVNN01xalFPdzktS1Rsd25IeTh2LXNaMTFFN1pUZmJtWFBpdV91MFk?oc=5",
+        "domain": "watchtowr",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T183229Z",
         "source": "GoogleNews"
       },
       {
@@ -170,30 +170,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "ETHS board honors student athletes and post-cyberattack IT team",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUdoeXF6S3ZSVzRESFFIaU1idXhyT3hsSXdrRW5wbEVTZ0ZyTW4zMHVDdGk3R3NMZ3dORE4yZGRXR21SaWRzV0pRbFZfNE5Mc3drbnZ3MFptZGRuU3UxSEJsYkx3WG9CLU9JUVhRQktFSGl5em1INUJOVmhjc2NJNUVkRTFIT21EQlNra1JDZ192WG9fUmc?oc=5",
-        "domain": "evanstonroundtable",
+        "title": "Luminis Health cyberattack: Patients still waiting for care, answers nearly two weeks late",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOczhobFRwU3BfOHZPOHV5OXRhM0hreUxIV0xnNS1QZ3VrdVRYOUFhanNQUWFGcG55Z1RnU2NuREZmaFVsalRJUk52ZlRmQ0tIRUN6UGliejFVdm9ZanN1YzBkTjFrYllveV9xaVl4aUFPWm43blIzWnZrRVJsODRUOHE2cHZzdC1uWE03TkZPd3gxOXV0MkFhNA?oc=5",
+        "domain": "wbff",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T060324Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXU4dDEwTUZHeWZUUktLYjBpX1dublVNczZmWnMtOF9mN0lraWxobk8yS0lvMkxwS3JmcHFDRjhaT1FyLUk4Yktmb1MyWlJxTmhJdUVMNUJEUE5IZ3B3RktKeXV2NE01aTNSOElNY0RWeVp1NEJjQTEySlc1UXJ5YVVzT2w5Q2x1ek8xWFJJYjVGa0xrOFI1eFo1d2gyM0FaOE5DVmZhVVBrU1dLanpKb0g0c21rOFFuVWVz0gHAAUFVX3lxTFBWcXNOMVBKYmp0WVVvT1hhUWl2SURkZXlaaXQweXNvR2oxRS1CWllBeG1IVmQwd1RROU9aNGxsUk12VDlYeVp5cDJaa0o1M055REFoUGRfZGZiWmRYWk5aay1oQU5MVGlpcnhKa19uU3VUeG4xS0lZUUhwSVVDQTBoVG5IMF9iRXdBeEZPRFgtdFRyREFLMTNsbURDMG54WVduakVic1NIY0xYRndOM1JFbllILUtSeWxhQkxTUF85ZA?oc=5",
-        "domain": "bleepingcomputer",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T121632Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GitLab users urged to patch critical path traversal vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTdxZHdqS3I5UVpDSVpqc1NSSEJfbU85NFBHMVh6T1lNV3Z6RTJzSnNWdjl4V1BzS0lxVGFwQ3lFVXh1RU56UFhKNG1YZTRGTU4xUjBzZGxobDBNSEFEV0FEM3lEU1VGT2VtVzVfdkZMTGZTVWx1cmZldlhjaXVtR2hlRkJNWjhBNXlnblpjdm92ZjBOYmJ3Mzh0RFdGQQ?oc=5",
-        "domain": "msspalert",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T145049Z",
+        "seendate": "20260915T193510Z",
         "source": "GoogleNews"
       },
       {
@@ -206,39 +188,129 @@
         "source": "GoogleNews"
       },
       {
+        "title": "ConnectWise ScreenConnect vulnerability allows unauthorized file transfers",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXNacFhiVURzZTFjZlFlcTg2aEVWcFM3QkNuZGkyTzJ3dkpDOWRIMlZjTmFrS19BcTNfSy04clltQU9GSVJsRlFVbVhxRkpnWTBFTi1CWFVfS1h3YlpNTGtpVUZCc2ZvWWtaU0F5Q3pVYmZYdDhpNjgyRlVqLTRJVHdJOXFCZ0hjUXl0TV9MOUxrbkdCV19qdk41empRdW82R1VUMlVCbmoyZw?oc=5",
+        "domain": "msspalert",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T142157Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSS1zQjBYVGdmTHRjNk1YWmZWcW5LNTNfY2FXZF9oN0VKYmh6YVN4encwSm5ZZUdkdHV2TEVTVW5hOFVURUs4bllJRFdzb2RLRmQwVmUzZlcwV1o5VDY2bnY2d3ZqSWJkTmJYV25rRmU4SHRlWHZPbERoN2FyaC1RRnhkYnRGQzFMT3ZHcjZaSmtGYTI3WFd3eDRSaXVhb3RTNzBMclRLNmxjVXB4TmdJcFRLUm5tMnhpLWR3X0Nxd9IBxAFBVV95cUxQOWRON1BUTm5JSEdub1hJQWpLU3pFQk44bEVjYlRBV0ktdnB3ZmVkUE9iQUo1SkF5eEFldnhBcGl0bUUyMjI3UmdNNjJGSHNmM2lUbU5fb3p1cFRYTTM0Z3BvQlpzcW1Sdms1LWN0YlQ1U0RMVmFCTkRBOTBFV0k1UVJHcWRCdk11YXpDbHAzQXY1SHZHMTY4SDJqYlg4TTNXMXMxUEZSSmg4cy1qYlN1VzNLOER2d2RIeUlCa2hyM09QZXhu?oc=5",
-        "domain": "securityweek",
+        "domain": "securityweek.com",
         "language": "",
         "tone": 0,
         "seendate": "20260915T094025Z",
         "source": "GoogleNews"
       },
       {
+        "title": "Thai Broadband Provider Hacked via Fortinet Vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjdTZmhhWXRMVHlrcHdjdTd6czBSNTVadUZBcmU0Nm51WkZta3VQWmlKNVRGa1Fjb3pYbUdFTEQ2MEZiWUQtRHg5NThyUTBtZjdWTGZRb28tSW9OMjFsRkR6bGlaa3ZvcWluQW02WnBXS0U4dklYeExlcWZ0Uk1LdmRpMDlmUDVYaGZSRFhNZ1_SAZYBQVVfeXFMTm5oN1BfaDRyTVRyck9tQmU0Zi1jZ1F0WDNieGxmajljN1JlLWZhekttUlgzSE9qRVkzR2dnTmFKb2RWSnJ5UUxpRERTYzh5UGFEX2o4M0pxbnhwYVBDUlkyRVJqaGJWSXJrNHhzQmZpQ1V2ZHFLNkt2alZ1eTVaSjZfUTVSY1pGZkRUWHlRTGI1OHdWeEpR?oc=5",
+        "domain": "securityweek.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T133358Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "VMware vCenter RCE Hits CVSS 9.8, Ransomware Live [2026]",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xa0VtclZUQjVpYV9kT29kS2syOTNOcDNraUxBX0dSWnZMMVU0ckd4eFZPd3ZnZ196WXNDY0MzWmlyVnJqTVVuOGZyaXQ5d3hkVmJVWkd6dVhCOXljSnRiQzlnS05mRGpRQVQ1Q3BadnpCTVdEa1RTZ0d5MA?oc=5",
+        "domain": "shattered.io",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T142343Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVNZWE5NU2V6Q014RTJXUnNzaXowUC1hSENlbkVQNEJKSkVkX1NpVm5QZzVLclc4YzZ6a3hsRW9YTDRkc1p0RUFIUzhvTUZLSGlOQ3gxdERLelNRS1VsUVZaanlZWGlfQm1nSUpFaHFReENPOGhFdlp2STJzb0tUbUF4Mk1SWTdCMzkyMjluek5FMlM5SnJpNHpqNVc2WDIxR01aS2d2VVRLRW5x0gGyAUFVX3lxTFBHd01BczMwcEd1TTZma0xjOUpHZlp2NE4ySDk2N1ExLUFrZmtmSmxnc1pUOFlTZTZELXQ3bEZkNFN4TUE4LTV0MFZTcVczaVM3QVJxSGNZQTNMb0JpNWpLZzRiZEtwZktpVjF1TEdRTWpvQVFZcWhmOTk1VFh0TlpWNmJ5V1liTWpPVTNlQVdIYXFfamdwOXBEZlByd01SeUlscmxZYk9VV1o0Vl9DLW9aREE?oc=5",
-        "domain": "securityweek",
+        "domain": "securityweek.com",
         "language": "",
         "tone": 0,
         "seendate": "20260914T082514Z",
         "source": "GoogleNews"
       },
       {
-        "title": "CISA: Ransomware Now Exploits Critical VMware vCenter Bug",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmlYSE1VUkkycVZsY2R3YlZNNVdYeU9GRlRSczBMSkNBbWZ0ckxSQ0MtQlpjTUZ1bHJMeTdSSDB3YkJtQ1ZNcFY4aDBZdlk4cU5TRlltemxLa2sycDJEcUE4dDk2VksyMFhXWHc5QXVjMlRKM3hQS0J5X0JEZ0tNNXZBZ2JJcDg?oc=5",
-        "domain": "tech-insider.org",
+        "title": "Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXhEVVNIV0tnM19PZHI5aWI2R0NHMk1mcC0zdkZ0cGVkZnhxNjBha3FucFBYWGJHdmN1ZlpzNmFHMmNtMnY2cjRnTTlCS3ZnMk9nUDJqdjFJcy1wUlNzUGczYUxuODJLMXJnanFQLU1ZMDhGYWdjM2pwcU9WRGxDZ3lFNW5tUzgxU0xZaTZfY0NpbldSdXptVDVmWjJXT2VfS0VkZllUX0cxdXNYWmNxbEhLTnZ5Q2hyUGh2OVpIZk52UjlFWGltd1lMQzFzVjZGMkp5bEpodHpVVWZUcUtIQg?oc=5",
+        "domain": "theregister",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T132434Z",
+        "seendate": "20260915T133200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-76461: Critical Cisco Secure Email Gateway Zero-Day Enables Root RCE",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0pFcHJXNXh0MjU4RXZ5dlBrN2RvZ0F0dHduanNWYjR6a1hacUZKQ0JkczBJcTVGcnQxbEZ3dVZvUDA1Y193SER0SU9KUjNOTF9YQ1NDOFBvd2pYZU5CNmlneHhmZ3lMY0VZNWdDeU5nR2JYZF84SlJIUF9mMHFXUDl6RXlPbFd0VnJJQnE5WmxGbUlUSS1jTmZJZ2F2QXUtZDYyOUF3?oc=5",
-        "domain": "socprime",
+        "title": "Astelia: “Vulnerability does not exist on a server alone”",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yZW9JTDRZV2tiU3kxdzVHeG5HSEZabl9FemV3OGIyR3dBYUQxME9aN3gzLTFzYjBQOEFTYzBpUXE2dmt1S1VRTXVfeW4tMWhqLWRyN09oczQ2NDBSX1pmZW53MnNJZDQ?oc=5",
+        "domain": "calcalistech.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T150856Z",
+        "seendate": "20260915T061200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWktsX0o4SThJOVVIdnAzZ25uenhJSXJSVy1xTXk3NXJmVEJmb05BSExEY292dFpjZFJNdUFWdkJmUWJ3UmNXc1ZFU1U1YlNXZmtLS1F1OXJ4eU0zWi0yakE0Zk5tcXl4bE1LS2dQM3djLVBMV1hZMGprU2VaSEpLa0FfdDFtUUF0dWE1Tk4yVUZGTUR3eDN0LUprMTdlNkhFZmZ4Ym9nMkM2NlI0MFVyZmMzM1ZSendmVjZYczlMT3IyQlhyVE9N0gHMAUFVX3lxTFBNNkVRTXVYa2J5OHlvU0trdkowNk9fS2YtYWVNTTBwMWM4OG5peGdwcHNHazVTczR0TWdiNnd3SERrS0hPQVZad3c5cmQ1aDE4RURFc1lEeml2aHB2Zm5QMmhnYW5wVTdpcGJhOWJnT3NZN3FfNXFnR2VDYXVOdTZiRG5VdEdYaUg1TkJxLWlUVWZ0YUtKLUVfVW14YVRIRlNFX1YxSDE1aXBxNWl4a3BvOFpqWTBQWTY4UlU0SzF2Q0owbzlhZHRzS3BBWQ?oc=5",
+        "domain": "crudeoilpricestodayoilprice.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T210000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Residents Press Andover Officials For Answers On Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDZrYUFvR1Z4UFNTckZtVFIzYkp2bGVWNHVWYW1hQnlaWWJFYWMxbUpFYkRpUk1WZWZWSXRNRmtNcy1WRXVaWHlialowRzdZTm5uNlpXdXZ2MWphYnFGV3M3RUViTGpoVVNUX2w0WEhmQ1h1RU9kaDVZb1htSlZfdExXV2FRSlg3ZGU1dFI3b0c?oc=5",
+        "domain": "andovermanews.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T174045Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware Groups Target Critical VMware vCenter Flaw",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pWkRZVUFlYXVpVElsOVZ3a1dfeXVQblBLSzRlY20yNC1URGJhQ3VOYk5JbmVCZXhzdy1BamJSRGdfSDJTU2YwSWF3NkVpZTFieWxRNTFIYlF2ckxkSHo5THVpR1NRNFk?oc=5",
+        "domain": "petriitknowledgebase",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T174758Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "FOX45: Luminis Health cyberattack: Two weeks later, patients still waiting for care, answers",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbElkVXRuRmRvNFp3dUtfejlKbTRFRzIweHQyLTNSR0RyOEhEODJ5NlBFeWFrODYweVJYU2lhOWZCOXZkQjBSWWFHT2hqQ2VGSldJYkVFRnRYRnRvUkdvSjFtaXllOFpUODlwM1BjbnJvc3lGaHM4NlRQUzFEUGNQRldVR0hIdlhEcU5wV1pSRy1oekppaGx3djYwdGdLQQ?oc=5",
+        "domain": "baltimoresun",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T195738Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New cloud security vulnerability uncovered",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTEZvVVE0YWttYzFuS0VPck8zY3NHallnV0xKSDN4amkzVDlSdlFoY1ZwdWRfUkc2ZkNra0lBWmMzaFE1X3M0VldRbW5KVHFOOHBGSjJtdjFQRDdGSzk1bzdfMUE1MVpxNlhpM2VyVHJPUkUxR29yV3lR?oc=5",
+        "domain": "techxplore",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T134008Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWJJZS01emNRRkVEM0hmYkpHU085RmV3R3VMaUtTVFJIRVpDeUw4R2hUM01LdUtVZFJIM2tia0FmZEFLQXoxazhWSk8ydXotZmZXU285cWJTVkFTbVBaZ3hUOTkzaTM5bXp6UlZvSHY4UTV6LVhRVUVVbjcxSXIxQzVXMHhFSmxLXzk3M2FjLUlJMUxpN0J1Vk5DZ29hZ0RNRUYzRjNJb283YURMNkFWVNIBtgFBVV95cUxPNGE2ZTFkQ04xSjBEY1hvZ3hsc0Vja20xX2d3c0t5dUpKOFlaRmdhVkJib1hSa2hRV3J0N09RYzNkNkxjRXd1RWN4UmRKVmFpQnNnRVdHLXowV2FyLUJ6dER2N0lfOEQ3eVZjVG8tUGVrQy0zdlpoSUZhdDhoNDhfa2dtSGVxNXk4RVI3QjhUNHpaX1IwNWxIdlNxT3R0MUlwU2UzWVA2MUlJaWs1STQ3bURraDc1QQ?oc=5",
+        "domain": "bleepingcomputer",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T164014Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "ETHS board honors student athletes and post-cyberattack IT team",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUdoeXF6S3ZSVzRESFFIaU1idXhyT3hsSXdrRW5wbEVTZ0ZyTW4zMHVDdGk3R3NMZ3dORE4yZGRXR21SaWRzV0pRbFZfNE5Mc3drbnZ3MFptZGRuU3UxSEJsYkx3WG9CLU9JUVhRQktFSGl5em1INUJOVmhjc2NJNUVkRTFIT21EQlNra1JDZ192WG9fUmc?oc=5",
+        "domain": "evanstonroundtable",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T060324Z",
         "source": "GoogleNews"
       },
       {
@@ -251,12 +323,75 @@
         "source": "GoogleNews"
       },
       {
+        "title": "GKE Fragnesia Bug (CVE-2026-46300) Grants Root [2026]",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xOXVzZ3UtVGxFWEo2YkNxaWEwT29aTVNhSVZVblNyVkctMlIwaW1xV0t6YlBlclFYX1pla0tqRWMwbkV3U05wSllsSVM1N05qSTBLMEp2WEo3cnlaRFhLVFF3WkxKS1MtWXE5Tnc4d2Z4UkEtYllTZFFINUg?oc=5",
+        "domain": "shattered.io",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T201809Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE Authorities Make Score 8 Look More Like the New 10",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHVnTXN0ODlnU2VZTHhxZWlJMF9KekxhQjQ0T0pNdUdMTExzV29mOGltYllpTWFRalptRzBDY1ZUeTd4S3d5alRsS0NjeDRHUG1KVXNCSGRaTzIxUmxsWHlKcVltUVFsSzFPNndpeGFEV2psVHFSQktrOXhXMzR5bkJHbnpTcWJmLWp4a1RBbVZhNGtGQ2c?oc=5",
+        "domain": "bankinfosecurity",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T210726Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "The Vulnerability Was Real; The Exploit Was Impossible; The EU Cyber Resilience Act Reporting Obligation Was … Unclear?",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb210LTB2X0xab255eUpMaUNUQ2V6ZkYzUDE2SC1rd0ZXTWFsMzJJZ0RJRWM0YkxpcDJZaFk5Q3dkclI3SkU5TE5oZzlCc2QxWWw5NS05U25oSU01ZXlXSUhXdlRYMzFFYi1UYUZsUUVhVkpBSDd2ZFZ1dGhReDBuT2FmU1F0NlhkTEt2cDRrdWhSZjV0eXdKVmVwSXBlaEpCLUhUaWVfUFZGLTdiTUcxN2k4XzdYc2tCRG5IUTM5NW5OVE9xaEkwN2ZwUUdVOEhEVzc4aDlrMklqOTFZ?oc=5",
         "domain": "ropesgrayllp",
         "language": "",
         "tone": 0,
         "seendate": "20260914T094549Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CISA: Ransomware Now Exploits Critical VMware vCenter Bug",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmlYSE1VUkkycVZsY2R3YlZNNVdYeU9GRlRSczBMSkNBbWZ0ckxSQ0MtQlpjTUZ1bHJMeTdSSDB3YkJtQ1ZNcFY4aDBZdlk4cU5TRlltemxLa2sycDJEcUE4dDk2VksyMFhXWHc5QXVjMlRKM3hQS0J5X0JEZ0tNNXZBZ2JJcDg?oc=5",
+        "domain": "tech-insider.org",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T132434Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Homebrew 7.0.0 released with built-in vulnerability scanner and improved security",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmJpaV8ydVFJN2JfaGZjc3dVR3JtUWwxb0FZSWxmMFVzTFJlNjhGbV9nakNEck5lMzd3REE2TFc1SXBWZVMyY183eHpXZHpQSVBSR2NmbVk1czlMbEQ2UFpMNlFtamYzNjFEQURIeUtOcWtvNzhzLTVwU2dGYUhxMTBOSlc4LWNsQUl1a3lYNklSLUxOVi01cVZxTy1fems5NW5qQktodGpwUm12NUY0Wg?oc=5",
+        "domain": "scmedia",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T202233Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CISA: WatchGuard Bug Hits Ransomware List, 265 Days [2026]",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOFFLSGhQSGkyRGRVUk0tODhfTXl0SEc1YVBmQjVPVnNOSlR1OHFGZ3BWczF6SFkzMGxSUHdlTEVKbEF2ZzMyaURrRmdXSXpMcWZqLVJKYUIzd1NsSmJ2NU1VaFo1M1FzN1RhRnluNUY2NThleWRQZ3ZzZHJ6X1EzS1lfTms4U0U?oc=5",
+        "domain": "tech-insider.org",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T133531Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Clone Systems Rebuilds CloneGuard With 4x the Vulnerability Detection, Private AI Remediation, and Authenticated Testing You Can Buy Online",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRmVBQzlYS1lXRDJIMWxROVFfT19kLTdqX0hHdmwtaWVOc01lOEhHdVJoZC05LU5Bc2VJLVN0amRBOVNHZWV0MXU0TkVjTklRZHV2YVJVMnhydGdUc3lqU0ZHc04zaHRIMkJuYk00SHBQa0NmUU9haUYydDRhZExlaW5BYnBudFVXUnNWRDV5a0dxclgwLWwxN0tZeWpuSUpKVkVFdktqQ25WbzVwX3BQa1VsM1hVVkEyREEwYlBqN2JJZGtqeGpLTk1YczdQOElETENmdTE5a1R4M05sUXE5S19GUlM4UG9iZjd0bURBSDFmZ2lJdEJITnBNQjNYU2J0OEYzLTQ1NEVmTFdfMTR2UVVMdC04eEx6aFN5U0d3?oc=5",
+        "domain": "prnewswire",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T205100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nintendo patches critical Nintendo Switch vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNUdVWWdQRC1KelJLVnJqdzRBTXhfMEtwZ0ZIeW5IV3JhSnBUcFp1VzlNMmU1MlFtRzVBYlp0QndTQ2VwZVVkckRRYlVscG1ma2tUZUt0OEhuZHRkN3dBVFQyTUdCRVU1ZXhYY1ZaaXhDazlVeEtiSXFCRTVaVklYM1FNNTFQNUJydFZWZW5B?oc=5",
+        "domain": "scmedia",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T202356Z",
         "source": "GoogleNews"
       },
       {
@@ -278,6 +413,15 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Patched VMware vCenter bug targeted in ransomware campaigns",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSk1aOTJfS2wyblFmMlFKdVA0SFB3M0tLU0xNM0U0QU0tc3ZJbTB1R0Q5THhIbXp5SUU3dG5lNU5LRTVBMWtuYl9vTHBxcC1RczdBQ2dKOVVlbDhTZ2JXWDFyZ3FBQ3NUTHpMQWJkb1FjWWxBdDQtUFBlMGtsTFhwQ1NobHd0MGZlRVBLYXR1b0lxQQ?oc=5",
+        "domain": "scmedia",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T191326Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtRHJFWjVHdVR6RlNmTFlmU2dFUGpaUlJFMEZKVm9lcmlzYndtOWlPdmN1MHNXcTFPZjBwbzdZQ2FjVWRfWTduNFQ5OGJxOEFjbHptWDdsZWVGck5rLTNOZjdyaXdPcFpvdnkwSFhidmdiMi1ydllyT0R3UnlVZw?oc=5",
         "domain": "thehackernews",
@@ -287,30 +431,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Vexy Ransomware Targets Strad Solutions",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKSkxSc3g2N3dZanBDRkxtRDcyVDFBWEdQMGg1VWRBOWtrTFJfNWxFZ1pBMEl4cVVTUTFncGZlaGRJR2tCWnBpVW84RlF5WURDa3QxeWZoQnZoOExHbHpZSkNneVBlT3BsOGdIWGp0OGQ?oc=5",
-        "domain": "dexpose",
+        "title": "Sisterhood of the Traveling Packets: How 1,300 Practitioners Hacked a Ransomware Gang’s Leak Site (Flare CTF Writeup)",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNFgtRzg5TEd5SkxzLUhRSE1ablRJQlN0d0hrY0hVZXBMUE1lR3NpZnBHMDRVSUFCekxlc2l5M1FEbDhnWUphYmZhcVVLTW5HWDZjeVNCQl9ZY1RyX05oT0piQi1wbjVuVlc5TW5OV2x0ZEtYNnFDU3FLU3ZQNjdMVTBUbklSMXliRUEyQlhBWUhlQW5zakVDY2tzQ3laVExuNFZZcXhYdExpSGUtcEV6M1VHNHBkSkFPZ0dCc0JFVUc3UnJLSTJVZ19lZFJFTlRHcV9ScDYwUDdoeTJEMFpCaVlpMDNYQQ?oc=5",
+        "domain": "securityboulevard",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T000000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "M&S Grocery Sales Soar as Hit From Cyberattack Fades, Data Show",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTNidU5zYUMwVkUycEloRDRyY2l3VzRydmVfak5iblBQdl9tcUV2UG5SdjhPV2VWb0NLYnRLMTkyZFBMQzl5TTJJWUpBaEt0bUNibFJMMnMySE5MLWlUT281aV9PX2k2ZFFZQ0pBQnk0RlFNWVpZd2tqSVoxRW1ReWJ3dVdhUlNNLVBqS2tYTHNYMVlXNWRqV3cweUdxTWFpWVJCOUdNNXlUYi1QLVkxRzQ1SQ?oc=5",
-        "domain": "bloomberg.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T075653Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Boston Scientific (BSX) Faces Cyberattack And Recall Fallout, Is The Sell Off Overdone?",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3o4UDBiVVRYQ3pBanpPUFlDa0R3SEN1RGFtSFFHZWhiQW0yOThnbVBaZnpvOVlZaFpaTXNqZjlVeW01Q0swWE1WdVZNZTMyRVhxdXI0U3NZWXFZNV9fbk93WHYtcHhONlVJUHpkazhtcHNjX050YUFDMGt4TVVSeHRpeUl4T2VaV0dWVWRXOHREdkhQWHl0UGl0bzBnSzZhdEpzaUJmTzljdGtHQ0ViaFAweXZjaEJBZUdCanJoMTVxOEFsbG9rMVBvZnV4b0pO0gHWAUFVX3lxTE9mWmxuMWtYQ2xIYVFqVnhSYUY2Y25iV0lWQW4ycXBRcEU0VHhTNHZqdlJSV3NCUHYyWGdjNXpZM0FJWXVqTW5ubms1VUdtYmFvU2k3SGtWR01ZQ0w3Y1FwLWxmWWk5WFljM0JIbFpaZUltNUFwb0VKaGpOTGVwT0c2MnFucVYxYmhERFFxTXpCVThPa0pHYW90Nk8zM3JXU21KdWFVVkl0UVJtUDY3ZmxVUkxWSnRVbU9oeVI3aGw1Vlh2UnM3aXN0aDJQYmFrb0NsYmdHVWc?oc=5",
-        "domain": "simplywall.st",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T153303Z",
+        "seendate": "20260915T201139Z",
         "source": "GoogleNews"
       },
       {
@@ -323,6 +449,24 @@
         "source": "GoogleNews"
       },
       {
+        "title": "CVE-2026-76461: Critical Cisco Secure Email Gateway Zero-Day Enables Root RCE",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0pFcHJXNXh0MjU4RXZ5dlBrN2RvZ0F0dHduanNWYjR6a1hacUZKQ0JkczBJcTVGcnQxbEZ3dVZvUDA1Y193SER0SU9KUjNOTF9YQ1NDOFBvd2pYZU5CNmlneHhmZ3lMY0VZNWdDeU5nR2JYZF84SlJIUF9mMHFXUDl6RXlPbFd0VnJJQnE5WmxGbUlUSS1jTmZJZ2F2QXUtZDYyOUF3?oc=5",
+        "domain": "socprime",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T150856Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Luminis Health cyberattack: Patients still waiting for care, answers nearly two weeks late",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2RTeVNWdGlmcmF4Zk4yWWZMWEd3WU5PZjIxOGZaaWhlVXJnY000cFB6c0phZnVRQ0VTM2FESnZtak91NGJHR0t5N3RJRWZtdGtXMDJOU1NRVnRZcUlJSGYzc05zRzRuM1Q0dmxXcE9rOE52SUhELWlNUzBTT0RiT2Rudk1Nd3RZMldpR1JScjM2M2hFWTZkVjNWRWVhRlNIZG1J?oc=5",
+        "domain": "wbff",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260915T193954Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUdFVW1kVmNiWlNVOWFhaXpOZlJWbkFSSWlRM1JMNDBRdnRxMjVScEpuUmV6MTZBam5Gek5JVDcwbUtEUThUNTdabkxTWFZva1RPeFdQUmhlU0MxeXhsNV8tSjcyQTRyYTI0VHhhbjVIMjd2aF9PdmhxVzA5a0hlX3pkTQ?oc=5",
         "domain": "thehackernews",
@@ -332,156 +476,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. shows vulnerability in run for fifth straight World Cup title ahead of L.A. Olympics",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnNZLWQyUTFmM2dFczZaQ1lYSDd2dlpWQTZZVDlkTDlYMHFaX2R1VWlOQ3FXZzJpQVhKcnJfcXpfeFBZMlF0WF9aM3lRREdfc0VGRV9VZDgyTUxlcTdwZXJ3SkhzRGxrbFlrZExycko3MVh6bDZkVzQxSDdmUXVXRGpFeWtVc0pRNzY0STA5TUxjSTBIcUxiSmdWQVpoZ1Q1TTUyWV9kRjY1X1VDaWNSOXcxXzVGUndfRENB?oc=5",
-        "domain": "washingtontimes",
+        "title": "Boston Scientific (BSX) Faces Cyberattack And Recall Fallout, Is The Sell Off Overdone?",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3o4UDBiVVRYQ3pBanpPUFlDa0R3SEN1RGFtSFFHZWhiQW0yOThnbVBaZnpvOVlZaFpaTXNqZjlVeW01Q0swWE1WdVZNZTMyRVhxdXI0U3NZWXFZNV9fbk93WHYtcHhONlVJUHpkazhtcHNjX050YUFDMGt4TVVSeHRpeUl4T2VaV0dWVWRXOHREdkhQWHl0UGl0bzBnSzZhdEpzaUJmTzljdGtHQ0ViaFAweXZjaEJBZUdCanJoMTVxOEFsbG9rMVBvZnV4b0pO0gHWAUFVX3lxTE9mWmxuMWtYQ2xIYVFqVnhSYUY2Y25iV0lWQW4ycXBRcEU0VHhTNHZqdlJSV3NCUHYyWGdjNXpZM0FJWXVqTW5ubms1VUdtYmFvU2k3SGtWR01ZQ0w3Y1FwLWxmWWk5WFljM0JIbFpaZUltNUFwb0VKaGpOTGVwT0c2MnFucVYxYmhERFFxTXpCVThPa0pHYW90Nk8zM3JXU21KdWFVVkl0UVJtUDY3ZmxVUkxWSnRVbU9oeVI3aGw1Vlh2UnM3aXN0aDJQYmFrb0NsYmdHVWc?oc=5",
+        "domain": "simplywall.st",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T101326Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Conti Ransomware Member Sentenced to 4 Years in Jail",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80X2dtOWFXdFdnXzZKbGJWSEpQbVNtazBUeFgzdHVyRm54UlE4ZHJLaG1HOEZWQjdhMjhneDE1VFNxR0t5VVpVLU0zVFpwdDVlVkIyQ0F3ZkM4S3ZfWldtT29YUXVWVFAzLUc4d1RNd1ZUdXJUSVh5OVNwdw?oc=5",
-        "domain": "thehipaajournal",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260914T124841Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A CISO's Lessons in Ransomware Response and Recovery After a Real-World LockBit Attack",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUR2czJEM2FMNmRuXzRjMDVOME1nS1dDTzktSzAwVlN6SUdzWGtGeDZrZzRZRjlsTG9nblgtUnpqSlFVbzRJemx4cnBVRXl2b3FPemZjMkNMR192WE9oQ0Q0SjA0RVBrNVNOcWkycTIxdzJxbUl5bXRScjJiOElkWGdB?oc=5",
-        "domain": "infosecuritymagazine",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260914T133000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Has Your Accent Just Become a Security Vulnerability?",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RVXVTVXd4TTdiWEJEeldNV29KUVhnRjJTZkdCSUFhUkV2V1F3eHNlYkQ1M2x6VVpBeS1TQ1VoUHFJSXh0QUpjNDlQLVBTZWNKMUtKUzEwUDVRb0NSck1vZnhUMV95M0FJTENxQzdB?oc=5",
-        "domain": "wsj",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260913T170000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Springfield students return after weeklong cyberattack shutdown",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYTEzVWlaeGxNTU56ZVhjVE1IX3V0dUdzY3g4c2NpaFlqcHgwTjNSNkNvYkVJZjZYZ0tuV3VUN202SlJrcHJiNlpHMkFuemQ3VTJiXzR1cjcteHE2a1RoYlgxTkFCTFlmYUFZNUJpTEtyY3BnSzRQbDc1WXplWlZFREpZbzZoMTl3b0tTWjVHR2ljSHI2Vk9mSUtab2J3WHp1bmJmTEtRWWdsWFHSAb8BQVVfeXFMTzJYUTBOb0t5a2FERVNaRW9lRmVZWktyMVNoTWM3RXNYRDZ0aEx0U2dsRTJ4TlR2QzI3LTNkSVJmYVl1cllBcUphTWdRbEVZemxQb1J3N3JkRE0wWUxDNTRDbUNqMUR5RWUzVDZVLWlkUEVDXzEtOEZWMDJzTzcyMTRUcHpUazNSWEQwNkFneF9UaXJ3OUpNVFRUV2lUMEdGOHozQXpMX3BiWWY3R01NRWt2RXV3cEV6S3Yya0R6Vk0?oc=5",
-        "domain": "westernmassnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260914T155300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Eudora’s just-terminated IT administrator says foreign ransomware is behind ‘big mess’ with city’s and sheriff’s computer systems",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOVERXSlRsSV9RM0VwcFY3Q19VX0ZsdlhKOHg0dGVkRUxNNTF0WTB0ak1uODkydDZWQjA5Skt4Tk04X2xKOUNOa2Y3QlpTeGhBd3hZc19iMDl2QWRLY245SURwRnh5RnAxZmNnVGNCcXg3UnRzaVVxUWtTS0t6OGtXQnhKQ0I4eWVQVXl3UFRRMHUtMW1CMF9XQXpGdjd4bU5ETEpvblhvWjRhN25rT25wSjVMSEZrWWgyQV8zVmlMSU9FeUVNVzE3anEzMENQYnNIR3RiVzdDeTl5ZWNORFZNdlo4MWNoWFpRWUM4ZWhub3FobjQ2YnFZYnk4SmNjQjdBQndHNW1MTWI2di1ERFE?oc=5",
-        "domain": "ljworld.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260914T232100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukrainian Conti Ransomware Member Gets 4 Years in US Prison",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZWE0VUpHSEw2b3FMaFBydG10NlRodnppZFFVcGZCclFUR1B6YThZZk9wVlgtYXktMmpjRU1vel9XamQyb0FhcXNhZVNsMm50RHpBckFhTno4dDdQcUlzUEF4NDZRMlFsT3gtYVBuVjd4M3JXZG1GdGNZNkxtZw?oc=5",
-        "domain": "hackread",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T154516Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Microsoft Releases Emergency Patch to Fix RDS Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQblNMNDFiN2tCN0JvbTBJWlIwVEdleEFnR3RXQTdFYk53OFRkS1B0UTlDQUp2RDZtRVZtNlI4QlJHWWpQYkNvR0NCWEVYX0xYQzRQUFoyVVdZcmFtNWcwT2dpeUZjaTh0UFo5akl5UUdITGlXbTR1UEZsVVFhZ1JTaFFNVUE?oc=5",
-        "domain": "infosecuritymagazine",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T084000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "McKesson confirms data theft in cyberattack involving third-party apps",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWUwMjdpS0ZvZk1iWVFoLTgxUzNhOXFsTXlySmdhS0l2eHB6RC1jZWF2elF0X0Z1RXE2cE41ZDJRVVFtNjM3NWxTcnB3aHlqbHJrN3J5WXEtRFFxSkp5N1hkV09QVHF6eWZfWVp0cl9RYkRycFRLZFcxeW9kdDl4azQxVHNxNERCaHNINm1LMlRxOWdjVU92N3NtWjRHUDBLNExIXzFkMm5zQ1h1cDJZOQ?oc=5",
-        "domain": "healthcaredive",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260902T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GitLab Unauthenticated Path Traversal Exploited in the Wild (CVE-2026-85706)",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDhNWWpCUDJ0cVJDWVE3bGdaWElkNzVRN3RRZFRGSHVYVzdCbWR4bjJaUnJ5dENHNnBhRUNOQXdNZFlOQjJIZU94WFY1OXp1YktIaVM3d1BUZnJyUmNpeW16T1Y1a19pY205MVVDY1huTGFTOHUzempMRGlQeVhpRnB4RjZpYUJMeFpGWll0UWZGa0FRU2tER29odzBYSXdGZnRqaDVHWmpuUlYxTWtraUJsNA?oc=5",
-        "domain": "securityboulevard",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T112202Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hilltop Bank bouncing back, Wyoming can take lesson from cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUtvTVFhRGt0b24xWm5CdUliN3dFaTZ1YzN4VW5RYlEwZXZrZjRDdnNKeE1ZZFRMZUNZbF9lNElpYmlPU0lmckZDVE5naU0xdHBHTHVxd0tJeUZmWXRLdklSTXRERFN6d3d5RlUtMUppck1ZLS1ra0FhWmUxRkNFNHh6aElycXk5MXFmVU5saDZlZkp0VnpaUkYtV04zdlluWXdUSHV6MVQ0UkFyZEt5Z1J1dnhLemVMeklqdXNuNDR3WHh6ZDAzRU03MW13aEF2V2tkaGhMSkZObGltZHNCUW1vYjZSRFNYQjg3dWxSRENMUQ?oc=5",
-        "domain": "yourwyominglink",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260914T211600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iODZ0eWdVZ0FSNzNwTGc2bDlHb0ZHc1ZJalFYSEJ6VFZ6TkJVcUtUTnJKWWtHMlZ4QTV2QUM1aGFDTGlLSGpHOUh6UUxjNnF2TkxRUGRBcm0xSmxvSUJWcFN0alQxXy1vZ2lkYW5CWHdvRmFabkhBSmlVcXVycEk?oc=5",
-        "domain": "thehackernews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260915T053100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak Models",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nUzZVZ0lEeDUyZjlkMURzaTVZbVUxendtbmtRZlB0MzVqM0x1WGtZNC1KUDYzeGFKVUJpa2dDaWRUd3JqSTdFZmxDMXpHWVVCNTFOenJkWUVpbHgwazMwQTczbXRsTE5TcURuY2lsaG8tdw?oc=5",
-        "domain": "cloudflareblog",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware gang leaks more than half-a-million files after Florida DMV hack",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWNjY2RLQnFTSEQyb0JsNXJaaVVPNzQ1WDdXRGJsVmVLSWFLZEhqWGVSbGQ3TkpnYWdITDVxWUNyNVZvemNac2hIRVgtN3VzUU1PanRUTGtOaV91VGlsTkxjRHJzNnZTZTRndm9CREFLX0Z2clM2UFNtS3hOVFZIUzJ6eHpySHluR2NUSHNzaU51bmN4M014eTY1VQ?oc=5",
-        "domain": "straightarrow",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260914T190026Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "AI poses ‘shared vulnerability’ to US and China",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTjdSbkpRYXVHbnlYSjZUc3VJM1N0aWIydFl1NV80bnYtbHp6WDRxZWtFYXgwaHktSVIyTUhCU2xrLUl3dm9rTUJTNWpmQlhHdThHVHN1N1hvQzI1QmNMUm12Yy1zWHhpNGFFV25wck5IS1poRlRxRVZrWnVaOVNLT3h2aFpZcXRpR2RBbzV3Yw?oc=5",
-        "domain": "theworldfromprx",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260914T211710Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Perfect-10 GitLab bug under attack days after patch lands",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2pGWFByUnBYTWlqeUVzbWNma0lQZ2pqekxfWF9xbWNYMDVrRkVEVGFiMzRKTjBobjJEcEJNVUJZa2pvZy10bl9RSkxtb0ZYbWZSVE1oVTNXSENQSnFIbE1oRGg3YVpUdlNyQWhLOUt0M1oyUWMtcnE1VEdTUGpiYTktUkhQRXBVSXA3cWM2UWJESVh4Y0F3RzA0T3F4WGd3dWJ0S1NVd1pJUUVwZml5VTR3dw?oc=5",
-        "domain": "theregister",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260914T143000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical SonicWall SMA1000 Vulnerabilities CVE-2026-83548, CVE-2026-83549 Exploited in the Wild",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDdXaHRPQVBuTDdIeFlRdGtOMkt2NEhrbVpfaTg3NUh1bmJ5bjJOamliMlQxS3V2cDU3VzNPMkR0Vi13MEJnWF8tQzAzamlXRDJNUlZBaDZ3X09LSTZUMWVSbnltX3ZhcXA5YklXYmV2T1o1MmxIX29SZmY5QVB3RlBrZzRUM0JZMlhWNk03U0wtZ0FnYTB6cDdBUTZjMy1QOV81UmhfVDczS1hTTHc1WGlDdjdGOFY4SlpjWEM4WWlOd19JYkJnb3dTR3A?oc=5",
-        "domain": "rapid7",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260902T070000Z",
+        "seendate": "20260915T162406Z",
         "source": "GoogleNews"
       }
     ],
@@ -576,16 +576,61 @@
       "domain": "wsj",
       "language": "",
       "tone": 0,
-      "seendate": "20260915T163357Z",
+      "seendate": "20260915T212410Z",
       "source": "GoogleNews"
     },
     {
-      "title": "ConnectWise ScreenConnect vulnerability allows unauthorized file transfers",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXNacFhiVURzZTFjZlFlcTg2aEVWcFM3QkNuZGkyTzJ3dkpDOWRIMlZjTmFrS19BcTNfSy04clltQU9GSVJsRlFVbVhxRkpnWTBFTi1CWFVfS1h3YlpNTGtpVUZCc2ZvWWtaU0F5Q3pVYmZYdDhpNjgyRlVqLTRJVHdJOXFCZ0hjUXl0TV9MOUxrbkdCV19qdk41empRdW82R1VUMlVCbmoyZw?oc=5",
+      "title": "Global ransomware attacks hit record 997 in August 2026 as utility, healthcare and business attacks surge",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTDVNVmEtTXZjVktPSXpMZ0ZqSjNWaU5iY2tyeUhjdmtkUHd5YmU1aHlvZ1dzSVJ1ZTFXQUR2T3lZa2RFRFVXSE1MRjFyY2Rpbm5sUlJubGNNdXoweVM0Y0ZtY1NNajU5T2I3TWJtbFdiTzI5ZFMzS0VBRTBtSG4tM19oNWVMcVBoc1dkVDI1UGRIb1BEUnBBUGtyalFCRnBZWWRaU0RKc21MdERiaWJpTTVSWVY1OTliaU1ieW9WSUZnbzN0MkxJMGdpZ3FlZWxJazZWUXY5MUI0RDQ?oc=5",
+      "domain": "industrialcyber",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260914T105519Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "UAB researchers highlight vulnerability in modern blood pressure thresholds for pediatric traumatic injuries",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX28xVjREQU5EMUVsOVgxdUZuRUZFaUg3MU9qWkVEWmVjWFNnMXdiMEJoSGJORW9SV2w2SHAyNDJ3MDRmak80WVk0ZW1GeVlpUkVhX3lSY3ZTeHJfalV2U2ZsOVBVM1ROWVlzTWY3bm5wZnBsX1prem5tQndkZGluMDVFOTlCbEtESXpmZEpZd09iOGtNbHpWN0ZScmk5bHhkNFphZElaMXBkWEd6TXJlbzE0WkVtRUROWVVnZ3JteXRHY3pSSzdkVVh1VHV5dzRRS3k0N3pnaF9LN0xPazk3MTFSVjNQaWZI?oc=5",
+      "domain": "uab.edu",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260915T194315Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "GitLab users urged to patch critical path traversal vulnerability",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLTdxZHdqS3I5UVpDSVpqc1NSSEJfbU85NFBHMVh6T1lNV3Z6RTJzSnNWdjl4V1BzS0lxVGFwQ3lFVXh1RU56UFhKNG1YZTRGTU4xUjBzZGxobDBNSEFEV0FEM3lEU1VGT2VtVzVfdkZMTGZTVWx1cmZldlhjaXVtR2hlRkJNWjhBNXlnblpjdm92ZjBOYmJ3Mzh0RFdGQQ?oc=5",
       "domain": "msspalert",
       "language": "",
       "tone": 0,
-      "seendate": "20260915T142157Z",
+      "seendate": "20260915T145049Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Mankato Clinic investigating cyberattack after hacker group’s claim",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDQxNTJYcHR1RkYwN3ZGY1lmU1VJMzJjdXl4cTBCX1BTX085bXZPZnBjdXpvOWZuU3BxMEEtd05pODRyRHBTcEhJUnVFaHBTQlRxWEMzc1B0SWZlT3VFZDBPODZxTlVHNkptRW5uQXJyQVkzRmZpR3lDanE2RE5iNHZMZ2o5ejF2dlN1Z2dNR3RyUjBJWHA1cjh4OVYxVVd10gG0AUFVX3lxTE9GbW4tekZGcERBM3NScFAtcjBYSTFUSTc3endWQUFvdWpRSXpFRFBpNlpDQi1CekRZQUIxdmd0MkF6NXdXaHhXUkJXcmR5bU45ZlFSdGxpY3U5OHZjSktCWDlpRzFhR2xSQzlyNXVvWVNGdzJPekNQV0t3U2lYLXZkazN0R0hfY2FIZVZXbVQ0VTNpLXNmWDlyQ3ZEdmtjVV96d2R6cm1Ub2VUOWYwbkVpbFNBRQ?oc=5",
+      "domain": "keycnewsnow",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260915T161400Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Cybersecurity expert says ‘zero trust’ approach can help prevent scams, ransomware attacks",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1lJWUhjT3hCQjJKaXRjNzFLUmZCaU1CZkhGYlRXNWU4QktUQWN5S2NEaWFYZEllN3Nxc1RvQTV5OENoV1FGV0NOSDk0M3Q4N0R3OGFoZkRRYThYVnpKZ2FHbUxaU0Naak5YMUROZXpDQUUyQVdMOGUyZ1lLbFhGN24xUzRVTHdRUUlMRXVadDhTdkMxcnVoSmtHbjhiaFo4blp6QTBEY1RyWU5jRUJhSFAzTHB2SlVXNndpN3h6UQ?oc=5",
+      "domain": "wvir",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260915T123300Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXU4dDEwTUZHeWZUUktLYjBpX1dublVNczZmWnMtOF9mN0lraWxobk8yS0lvMkxwS3JmcHFDRjhaT1FyLUk4Yktmb1MyWlJxTmhJdUVMNUJEUE5IZ3B3RktKeXV2NE01aTNSOElNY0RWeVp1NEJjQTEySlc1UXJ5YVVzT2w5Q2x1ek8xWFJJYjVGa0xrOFI1eFo1d2gyM0FaOE5DVmZhVVBrU1dLanpKb0g0c21rOFFuVWVz0gHAAUFVX3lxTFBWcXNOMVBKYmp0WVVvT1hhUWl2SURkZXlaaXQweXNvR2oxRS1CWllBeG1IVmQwd1RROU9aNGxsUk12VDlYeVp5cDJaa0o1M055REFoUGRfZGZiWmRYWk5aay1oQU5MVGlpcnhKa19uU3VUeG4xS0lZUUhwSVVDQTBoVG5IMF9iRXdBeEZPRFgtdFRyREFLMTNsbURDMG54WVduakVic1NIY0xYRndOM1JFbllILUtSeWxhQkxTUF85ZA?oc=5",
+      "domain": "bleepingcomputer",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260915T121632Z",
       "source": "GoogleNews"
     },
     {
@@ -598,21 +643,12 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Cybersecurity expert says ‘zero trust’ approach can help prevent scams, ransomware attacks",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzFOZHp0TUVOVlB3Vl9zWWlqQkRJYm0waDNVQTEyUzEtYThpLUlRbFVQZzd5V3BFRDVGLTFlclRhb2ljbUdBc083UDFyZnRmdUFUbTdqMzJlLWxCdUR5SVlOOVBCNjdzbWpDOW45eGw4cEktaEU1QWZBLUhsUmNuekV4SDNUWGlOcDJyYXd6cWM1VHp0LV9qZDk2NlppUDZWbkNPa0ZKREhkSENCSHlzUEJzSGQtOFB2QzAtY3VQUFE3UHpsQkk0?oc=5",
-      "domain": "wwbt",
+      "title": "Ransomware Recovery is almost Impossible, says Study",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzFaTi1FQnlzdjRJYjJCUVQyNWJtS0t0THhuSFFkVy1aWGQyRmNoQ0VQNHNRQi0xbU5pV0pZY01qZDMwZS14QzZaV0J3NzBlUVdaNnBQLTJZNUZYb1k3T1JpbUlEVmxOb1ZhN09Vc1R3eUhmbzhHRzBEdkI0bVlkdVFVaE5yd2Y2azZYcHg4U0xHeHpJV1E?oc=5",
+      "domain": "cybersecurityinsiders",
       "language": "",
       "tone": 0,
-      "seendate": "20260915T123300Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Global ransomware attacks hit record 997 in August 2026 as utility, healthcare and business attacks surge",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTDVNVmEtTXZjVktPSXpMZ0ZqSjNWaU5iY2tyeUhjdmtkUHd5YmU1aHlvZ1dzSVJ1ZTFXQUR2T3lZa2RFRFVXSE1MRjFyY2Rpbm5sUlJubGNNdXoweVM0Y0ZtY1NNajU5T2I3TWJtbFdiTzI5ZFMzS0VBRTBtSG4tM19oNWVMcVBoc1dkVDI1UGRIb1BEUnBBUGtyalFCRnBZWWRaU0RKc21MdERiaWJpTTVSWVY1OTliaU1ieW9WSUZnbzN0MkxJMGdpZ3FlZWxJazZWUXY5MUI0RDQ?oc=5",
-      "domain": "industrialcyber",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260914T105519Z",
+      "seendate": "20260915T152735Z",
       "source": "GoogleNews"
     },
     {
@@ -627,55 +663,10 @@
     {
       "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2ctYkszWjgzRlkxWmIzNzNINlNhdVNURmd2WDNXWXNzdm9LdGpiOFFueGw4bnp4LXRpaGZqa2hQdnJ0TkJybFFKNnJzc09BODU0NFJyeTlqNGYwZXNET0ZSZmtKamhfa1NKRGdVZGxXYVhJc3lXZkxoOFZTWE1ucmFaUkt2dmh4TW5CNHNTaFhKRFkyaVc5NUdWTTNqajBrS3ZWNkx30gGrAUFVX3lxTE5VNmpWXzAwTlY1VzFVemotSXhOb2RLYTV3MUVZMlY4b1YtMUdrVHlJX05OcnJkT2p6dTF1emlqd25zYksyYmJrTGJBMWRZWXhJZU02M3pwV1NTREpJdnBNMUlWb2RNeEVsYkJtRWU4RExKUl9fdmNVOWpyNlM5aWRlUXNiMlE1VGRyQlZ2UERsaXZmYVZMTEtyLUVYcUtUakJudmszdU9ya1dZWQ?oc=5",
-      "domain": "securityweek",
+      "domain": "securityweek.com",
       "language": "",
       "tone": 0,
       "seendate": "20260915T051851Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Malicious actors already using critical GitLab flaw, CISA and others warn",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTdhdUVYV2QwM1lheDdmNThLRHFWcEJ5MERHNjF0VEZaRFJfTDAwM2RPTGFDVmpzclJTSDZFRTdRRkdhZUdSMmZITFlSVnpZeHVZWHR6Um5BcHlfV1ZSdTVueHh6azlqODVGcHN4dG9uUG1XVzVoYTVyU1NMWHVCY3lfdFIyZnJZeFhvSjBXR3RlNFU?oc=5",
-      "domain": "cybersecuritydive",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260914T151921Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXhEVVNIV0tnM19PZHI5aWI2R0NHMk1mcC0zdkZ0cGVkZnhxNjBha3FucFBYWGJHdmN1ZlpzNmFHMmNtMnY2cjRnTTlCS3ZnMk9nUDJqdjFJcy1wUlNzUGczYUxuODJLMXJnanFQLU1ZMDhGYWdjM2pwcU9WRGxDZ3lFNW5tUzgxU0xZaTZfY0NpbldSdXptVDVmWjJXT2VfS0VkZllUX0cxdXNYWmNxbEhLTnZ5Q2hyUGh2OVpIZk52UjlFWGltd1lMQzFzVjZGMkp5bEpodHpVVWZUcUtIQg?oc=5",
-      "domain": "theregister",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260915T133200Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Rapid Reaction: GitLab Path Traversal Vulnerability (CVE-2026-85706)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaThMQUxuVl9pQ3ZFR1plbkFIOHc0bEZ5TDFucEdNbnZtS1l0dzhJdlhqNlBINVNJaDNpU1QxOTdtNDlFUG5STzYyVnppeDJkazh4c0VkczJIMG92SVFCb0VSc0g0TVUwOU9yU2R3U040cmRIYUFscWpDUnN1SG9CUE9ySDVNN01xalFPdzktS1Rsd25IeTh2LXNaMTFFN1pUZmJtWFBpdV91MFk?oc=5",
-      "domain": "watchtowr",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260911T183229Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Astelia: “Vulnerability does not exist on a server alone”",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yZW9JTDRZV2tiU3kxdzVHeG5HSEZabl9FemV3OGIyR3dBYUQxME9aN3gzLTFzYjBQOEFTYzBpUXE2dmt1S1VRTXVfeW4tMWhqLWRyN09oczQ2NDBSX1pmZW53MnNJZDQ?oc=5",
-      "domain": "calcalistech.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260915T061200Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "VMware vCenter RCE CVE-2026-59310: CVSS 9.8 [2026]",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xa0VtclZUQjVpYV9kT29kS2syOTNOcDNraUxBX0dSWnZMMVU0ckd4eFZPd3ZnZ196WXNDY0MzWmlyVnJqTVVuOGZyaXQ5d3hkVmJVWkd6dVhCOXljSnRiQzlnS05mRGpRQVQ1Q3BadnpCTVdEa1RTZ0d5MA?oc=5",
-      "domain": "shattered.io",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260915T141044Z",
       "source": "GoogleNews"
     },
     {
@@ -688,12 +679,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "New cloud security vulnerability uncovered",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTEZvVVE0YWttYzFuS0VPck8zY3NHallnV0xKSDN4amkzVDlSdlFoY1ZwdWRfUkc2ZkNra0lBWmMzaFE1X3M0VldRbW5KVHFOOHBGSjJtdjFQRDdGSzk1bzdfMUE1MVpxNlhpM2VyVHJPUkUxR29yV3lR?oc=5",
-      "domain": "techxplore",
+      "title": "Car Repairer Advances Insurance Claims Over Ransomware Attack",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGlXREx0R1pQX3hDeTNiQV9oOV9OcWl0QzJhY2lKZ2JFWnpVdlB3dnhhS2FnaG5BaWY5aV9KUzF6NExhNTdhVWo5QTRBSWx5SWhqZHQzMUhHRmRUTzhtMldjQWRIT2d5aW1zRjJCbE5mWnRLVUxySjBWT1VZc1FQZW44Y0hWUnoybjlHRWtTeDN5TDZVRlBERk1Pd0tUaGJqd2xR?oc=5",
+      "domain": "bloomberglawnews",
       "language": "",
       "tone": 0,
-      "seendate": "20260915T134008Z",
+      "seendate": "20260915T184200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Rapid Reaction: GitLab Path Traversal Vulnerability (CVE-2026-85706)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaThMQUxuVl9pQ3ZFR1plbkFIOHc0bEZ5TDFucEdNbnZtS1l0dzhJdlhqNlBINVNJaDNpU1QxOTdtNDlFUG5STzYyVnppeDJkazh4c0VkczJIMG92SVFCb0VSc0g0TVUwOU9yU2R3U040cmRIYUFscWpDUnN1SG9CUE9ySDVNN01xalFPdzktS1Rsd25IeTh2LXNaMTFFN1pUZmJtWFBpdV91MFk?oc=5",
+      "domain": "watchtowr",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260911T183229Z",
       "source": "GoogleNews"
     },
     {
