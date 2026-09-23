@@ -1,15 +1,10 @@
-﻿# Cyber Threat Exposure Map Configuration
+# Published scope: topical news coverage only. No risk or exposure index is calculated.
 project:
   id: cyber-exposure-map
-  name: "Cyber Threat Exposure Map"
-  description: "Real-time CVE exploits and exposed infrastructure."
-
-openrouter:
-  model: "nvidia/nemotron-3-super-120b-a12b:free"
-  fallback_model: "z-ai/glm-5.2:free"
+  name: "Cyber Threat News Monitor"
+  description: "Source-linked topical news coverage monitor."
 
 news_query: "(cyberattack OR ransomware OR vulnerability OR CVE)"
-include_forex: true
 
 sources:
   - name: "Google News RSS"
@@ -17,10 +12,3 @@ sources:
 refresh:
   interval_hours: 6
   retry_attempts: 3
-
-scoring:
-  scale: "1-10"
-  thresholds:
-    high: 7
-    medium: 4
-    low: 0
