@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-09-26T16:47:59.828166+00:00",
+    "generated": "2026-09-26T21:37:37.508215+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,19 +23,49 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "35"
+      "value": "36"
     }
   ],
   "live_data": {
     "news_articles": [
       {
+        "title": "Meta’s Muse reportedly has a shocking one-click vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkhCemVtSVZpeERUY0kyQlVRWWd1bWxkaS1uTjh5TFhSaV9fMVFtRUo5VjNIQW4zejFGaVVZZFFhU2gydGtvNUJjTGlUOTk4Q0djX2ktTHlzT1V4N1RBODhRZkhpNlAzQnRLQktaenNSU2lFcWpVcU5qb1pOZGs5VA?oc=5",
+        "domain": "mashable.com",
+        "publisher": "Mashable",
+        "publisher_url": "https://mashable.com",
+        "language": "",
+        "seendate": "20260926T210645Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack on Arizona courts may have exposed protective order addresses",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnp5WHBCa1Y1dW9RNWo4VFNvdmdER3lPRGNfYlBkXzlzNGI1Nnk3SnNBaFBxSWM0TzBBTjBUcmJOMG9Tb0plR2lMVjlDUWlIVlItYUJTSEx5Q1hXalg5R3otZmJ4TkpxZ3V1eUxxRC1JbEhuLVRudElRSTBfUUw0UVMzYVRBRDZvTzhXTVlmYkVMWXQtMnU3RkMyM2hZTTRORVVhTjRvQ0hQbWI5UkpYSHFIaEc?oc=5",
+        "domain": "www.azfamily.com",
+        "publisher": "AZ Family",
+        "publisher_url": "https://www.azfamily.com",
+        "language": "",
+        "seendate": "20260926T143300Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Arizona court system target in cyberattack by criminal hackers",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpBUG9LR21KeHBqR042eXMwdHpYc29KdVpZYWVSNkdaWEJpM3M1eG1MZUR0dlN0am1adDg4aXhBamdma2RmWlRPcDJBQXd3VUVObktpQUQ4WktNMzY4TmNYV05yRnNwWWlPX0dVZ1FXbkhtLUUyRTEzUDkyenE3NnlNRVRHa04zS0tmM0Y3TGlyUTFzYmFXaG5sQQ?oc=5",
         "domain": "www.abc15.com",
-        "publisher": "abc15.com",
+        "publisher": "ABC15 Arizona",
         "publisher_url": "https://www.abc15.com",
         "language": "",
-        "seendate": "20260926T124922Z",
+        "seendate": "20260926T185107Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "FBI probes cyberattack tied to third-party jobs portal",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODBtdUYzckJXMG0wQ0hKWUk2SHV2ZlVPNXhXd2Zhdm5aMU9IdUVwSjNHVTF2Y3J1ZjVCaFFXNnZPTFRSLVFKTWl6ZGUyeW5FSEQ1dnVSLTNFTTczdlN5ZWtmNDA2M29JbVdOZEctblRVb0FVbFFQRnU5S3R1a19ZcnBMTV9lcm8?oc=5",
+        "domain": "www.cybersecuritydive.com",
+        "publisher": "cybersecuritydive.com",
+        "publisher_url": "https://www.cybersecuritydive.com",
+        "language": "",
+        "seendate": "20260923T184930Z",
         "source": "GoogleNews"
       },
       {
@@ -49,23 +79,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "FBI probes cyberattack tied to third-party jobs portal",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODBtdUYzckJXMG0wQ0hKWUk2SHV2ZlVPNXhXd2Zhdm5aMU9IdUVwSjNHVTF2Y3J1ZjVCaFFXNnZPTFRSLVFKTWl6ZGUyeW5FSEQ1dnVSLTNFTTczdlN5ZWtmNDA2M29JbVdOZEctblRVb0FVbFFQRnU5S3R1a19ZcnBMTV9lcm8?oc=5",
-        "domain": "www.cybersecuritydive.com",
-        "publisher": "Cybersecurity Dive",
-        "publisher_url": "https://www.cybersecuritydive.com",
+        "title": "Securin Takes Aim at the Gap Between Vulnerability Detection and Exploitability",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMG1CNmpsZlVSLWVId0h5RVlkRGM1eHM1ZlBNbm92Q2NDUTE3UWdudFB4MFhsb2tFVEREejFQc2JUWTNFbFlBLS1HM3NXMjVkNjh3UEZZOXNpeWk2azFFUEl2S0lKRmFsQWJNQ0gwM2ZDMU0wVUlhWS0zQXRwalZKWU1DcnRmSFUyZ0hZQ0Q2c1laU0dlQTJSZXN5QjY4YUlqRVRuQy1wMUFyc1l6UlA3OFRkR19DclJkSEVz?oc=5",
+        "domain": "www.cybersecurity-insiders.com",
+        "publisher": "Cybersecurity Insiders",
+        "publisher_url": "https://www.cybersecurity-insiders.com",
         "language": "",
-        "seendate": "20260923T184930Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack on Arizona court system may have exposed personal data, officials say",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnp5WHBCa1Y1dW9RNWo4VFNvdmdER3lPRGNfYlBkXzlzNGI1Nnk3SnNBaFBxSWM0TzBBTjBUcmJOMG9Tb0plR2lMVjlDUWlIVlItYUJTSEx5Q1hXalg5R3otZmJ4TkpxZ3V1eUxxRC1JbEhuLVRudElRSTBfUUw0UVMzYVRBRDZvTzhXTVlmYkVMWXQtMnU3RkMyM2hZTTRORVVhTjRvQ0hQbWI5UkpYSHFIaEc?oc=5",
-        "domain": "www.azfamily.com",
-        "publisher": "azfamily.com",
-        "publisher_url": "https://www.azfamily.com",
-        "language": "",
-        "seendate": "20260926T143300Z",
+        "seendate": "20260926T165356Z",
         "source": "GoogleNews"
       },
       {
@@ -92,7 +112,7 @@
         "title": "CVE-2026-87902: Critical WordPress Core Flaw Enables Unauthenticated RCE Under Certain Conditions",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iajRCMThZUDNqT0RYak9rcXdFZ1p4bG1aWTMwbDZuNHhCSEFUdFkyejdIdnEzQ2ljVFNVZm5KQndScjE1dXJpNE9xWjRmWHhqTmpvcnZQa3VkMmIwblVQa3BVVjRfc0cyeGVJWHJoeW4yQzNrbGk3Mi1oVkVjX3M?oc=5",
         "domain": "socprime.com",
-        "publisher": "SOC Prime",
+        "publisher": "socprime.com",
         "publisher_url": "https://socprime.com",
         "language": "",
         "seendate": "20260923T175933Z",
@@ -129,16 +149,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Springfield School Committee approves revised schedule after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHpjYUQ5TTg4aks0eTVSVXM1UUVJbDJ2YVQ4ZEhIUjJSaTIyNGVkbTYtck0xcERXOW9iT3VsZHFERzZTQXRsZTRqX3dEb3cwbWVVWkdSbkFoQm1vZmkxNkZMWDhUM0oyZERFT3l5aGhNWjR5dTJJX1Q0d3VvTFh0V0FIblhUM01oQjRaaFZqS0NKNGp3X3k3QzE5WWdSbWd6cmdLSmFXN0xBOHAzWG5IancwSEU4bU0?oc=5",
-        "domain": "www.westernmassnews.com",
-        "publisher": "Western Mass News",
-        "publisher_url": "https://www.westernmassnews.com",
-        "language": "",
-        "seendate": "20260926T020200Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Interlock ransomware claim triggers lawsuit against NFM Lending",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEt2UDlQSW5jM3ZoZmNEc3BMdGdBcmNHcDZJamVhcl85eFFlVmNubV85STFSMDNFM1dHeUdoXzV4UlZEYVhhZHV0WmpFbTdQZXpiT2lHeEJjZmdJUERqQ2d6ZjFPYmJlc0dxTHJ0QUM5MXpE?oc=5",
         "domain": "www.housingwire.com",
@@ -159,30 +169,20 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ridge Security warns of high-severity TDengine vulnerability that can disrupt industrial telemetry and monitoring",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZlBVS29MS2ZjMFRJcDI5bTBHbWRYeTJrUDRKVWxGSFNIWnFWX1ZjR21oMm5hMkFPblljMjNDQjVJVDhtcElib1Z0SnppY19SQzhTeW9KOFZUN0MwM293aVBILWdsV0RxMW1sX2lWalc2ci1BV3dmbWpVZUVINGV3M0phckpHaXY1d2VEc191ZGlrWTNMUFg4bzhvWkhRcmlrelI4UGZQWHNZMGZjdUlwdUJ4N1FuSWgyaDdPZWpYM2Zia2ZORm1hdER4OGNHejVEX1J5ejN1VURnYzU1MnJBandpeUlXTTJLczhvQVdiYWZwb0RBZkJSZldn?oc=5",
-        "domain": "industrialcyber.co",
-        "publisher": "industrialcyber.co",
-        "publisher_url": "https://industrialcyber.co",
+        "title": "CVE-2026-87902: Critical Vulnerability in WordPress",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbmVHaGctR3ZxVGlsdTc2RHM2TTAzNlA2bTZFZXJVSEdLck5hYWxwcU1mbmJ3b2JxdVNTNDZ2anV1SElET24zTWlPd1hOajlnZk1LeTJMWXE4THZlTzk0V2hSZkpRcFIyTEdUOHl5cTdtUkdBdUpkQThTM0h2RjJIWjZR?oc=5",
+        "domain": "www.kaspersky.com",
+        "publisher": "Kaspersky",
+        "publisher_url": "https://www.kaspersky.com",
         "language": "",
-        "seendate": "20260925T104135Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack Hits Spanish Train Operator User Data",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWVGw3THhqNHctbjNVcjVva2dWRDVVOUZNek1rdHVibzhqSGlYMmNvWUNzQ2dheU8wSllfa0U4LV9WeURYdHJMYkxadw?oc=5",
-        "domain": "www.kyivpost.com",
-        "publisher": "Kyiv Post",
-        "publisher_url": "https://www.kyivpost.com",
-        "language": "",
-        "seendate": "20260926T051503Z",
+        "seendate": "20260925T152346Z",
         "source": "GoogleNews"
       },
       {
         "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127)",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTURvS3lMVVRNNnh4QVJ5d0JodUtGVHJvNnZibkQ1TUVlOFNrSjN3UC1wT0NjaF9WcTdqbGxIblFESlFFUG9CM2xITXNZM2JFbHMzZEpiZUVMUEc2bjI4WEVST2ZwdlNpVmRDYlkxY0pvck9BQXdSZzRTM29zLTczNTh1R1Z0Nk96MTBzcTdvdl9zNkliVms4TnJxanQ1V2pYNklTTk5xbkdHU3BUbG9md0NuZ1g?oc=5",
         "domain": "labs.watchtowr.com",
-        "publisher": "watchTowr Labs",
+        "publisher": "labs.watchtowr.com",
         "publisher_url": "https://labs.watchtowr.com",
         "language": "",
         "seendate": "20260923T232044Z",
@@ -209,23 +209,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CISA launches CVE Quality Era framework to improve vulnerability data quality, infrastructure, program governance",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1hudzZrT3ZfX3lDOURITG42blFSeGV1ZUVLQS1NQnJPLU4zZ3otZDBMR290dU9TODRaT0o3eWtNRk1DbXZFeWU1d0dqOTlqczVVdVYyZmloV1luTm5FRGRpckJ1bnpWV1NsX2JHZHdWaURhXzNsZlZIQmUwaU5BRVFTVHhMSklDRXVrY1g2N2RFMGEtczdOeFRXYWRYWHpQZFQ1blJtdmk5VllqNnlkTHhBbGlPZnlvem5RTWhwTWVRSkF4RXMwWjlRSmUxR3BHbmszYWdwNUNLU0tGbHdJMEw0TU1MV0lxcHBR?oc=5",
-        "domain": "industrialcyber.co",
-        "publisher": "industrialcyber.co",
-        "publisher_url": "https://industrialcyber.co",
+        "title": "Ransomware gang claims big hack at NFM Lending",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemd0bTh1RjhDdWs4bFN4YlUwZ2FNUUJrOWVmcDMzUHVmTDhVVGROWjBZRC0tZlh0MlBZQ2VjNndtdDlWZkJydGtjZmFuTzhERGlvN2xTY0tZWWs4eGlGZGFyUmVXT2V3SHByYktTd21YRUNDNV9VSUdzaVpVelMwU0dQakRReEhXdzVCTmtLZ1h5dw?oc=5",
+        "domain": "www.nationalmortgagenews.com",
+        "publisher": "National Mortgage News",
+        "publisher_url": "https://www.nationalmortgagenews.com",
         "language": "",
-        "seendate": "20260925T104135Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNi00NWxsazhoQXFxRzVMSExtclBGOXFIbEJFaWFRbUdDc3dIdXYxVi1IaGdNaXh2RG8xVW5YMWZmQlVaZldQd2U3eXlJcWxNeHo4U1VzcEFSQVFyakRYa2xCWXczSExnUjRzSHhORVZ3SE8zR2xjWkxmbXBPNm50dA?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20260926T084900Z",
+        "seendate": "20260924T100000Z",
         "source": "GoogleNews"
       },
       {
@@ -239,23 +229,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-87902: Critical Vulnerability in WordPress",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbmVHaGctR3ZxVGlsdTc2RHM2TTAzNlA2bTZFZXJVSEdLck5hYWxwcU1mbmJ3b2JxdVNTNDZ2anV1SElET24zTWlPd1hOajlnZk1LeTJMWXE4THZlTzk0V2hSZkpRcFIyTEdUOHl5cTdtUkdBdUpkQThTM0h2RjJIWjZR?oc=5",
-        "domain": "www.kaspersky.com",
-        "publisher": "Kaspersky",
-        "publisher_url": "https://www.kaspersky.com",
+        "title": "WordPress patches a critical severity security vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXFzaklzNVFrVXVXVFlMUk8ySDdybTc1VkZ1YVlnbE8zeWY1clN5SDVWSmNBWjlPNHhhOTRwaXk1UG1jZG5leHdXRG1oelRyUVoyVEo1YjFYWlk3RnNGa0l0dnpMbGdqX29BSTFEZGpaZEtYNGRLQ0xtT21VWXBmakY1QTRMX09WMTdseWRwR0lLUTJPckM0aW9aRUxyNkxiTm0yQ1JtMjdudEU?oc=5",
+        "domain": "www.csoonline.com",
+        "publisher": "csoonline.com",
+        "publisher_url": "https://www.csoonline.com",
         "language": "",
-        "seendate": "20260925T152346Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Meta’s Muse reportedly has a shocking one-click vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkhCemVtSVZpeERUY0kyQlVRWWd1bWxkaS1uTjh5TFhSaV9fMVFtRUo5VjNIQW4zejFGaVVZZFFhU2gydGtvNUJjTGlUOTk4Q0djX2ktTHlzT1V4N1RBODhRZkhpNlAzQnRLQktaenNSU2lFcWpVcU5qb1pOZGs5VA?oc=5",
-        "domain": "mashable.com",
-        "publisher": "Mashable",
-        "publisher_url": "https://mashable.com",
-        "language": "",
-        "seendate": "20260924T205131Z",
+        "seendate": "20260924T202751Z",
         "source": "GoogleNews"
       },
       {
@@ -269,13 +249,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "WordPress patches a critical severity security vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXFzaklzNVFrVXVXVFlMUk8ySDdybTc1VkZ1YVlnbE8zeWY1clN5SDVWSmNBWjlPNHhhOTRwaXk1UG1jZG5leHdXRG1oelRyUVoyVEo1YjFYWlk3RnNGa0l0dnpMbGdqX29BSTFEZGpaZEtYNGRLQ0xtT21VWXBmakY1QTRMX09WMTdseWRwR0lLUTJPckM0aW9aRUxyNkxiTm0yQ1JtMjdudEU?oc=5",
-        "domain": "www.csoonline.com",
-        "publisher": "csoonline.com",
-        "publisher_url": "https://www.csoonline.com",
+        "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWN0LWRObDhEekVvZTlDM3ptZWRPT2lnXzd1bmlSNVhlWHp6SVRZVHNDZzBQaXFHcUZoN25yWFI5eTBtUWZfYTlWTkJwU0IyX04zZThIMnBhODNDdEVVREw1V2s5ZWUtNkFuVUN2RW5fbHBXY3AzLWlpRHVaUU1BdGVB?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20260924T202751Z",
+        "seendate": "20260925T101400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNi00NWxsazhoQXFxRzVMSExtclBGOXFIbEJFaWFRbUdDc3dIdXYxVi1IaGdNaXh2RG8xVW5YMWZmQlVaZldQd2U3eXlJcWxNeHo4U1VzcEFSQVFyakRYa2xCWXczSExnUjRzSHhORVZ3SE8zR2xjWkxmbXBPNm50dA?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20260926T084900Z",
         "source": "GoogleNews"
       },
       {
@@ -289,20 +279,10 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWN0LWRObDhEekVvZTlDM3ptZWRPT2lnXzd1bmlSNVhlWHp6SVRZVHNDZzBQaXFHcUZoN25yWFI5eTBtUWZfYTlWTkJwU0IyX04zZThIMnBhODNDdEVVREw1V2s5ZWUtNkFuVUN2RW5fbHBXY3AzLWlpRHVaUU1BdGVB?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20260925T101400Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2FQOFBCSVZrbXVTdmlFYVNWTS1Ndm5XYk5hY3I2QjMwcWd3aS05SklQOEpaZ1dMZHRWa2xfRlkyMGYwZEZLTF9qZWQ1bjlFbVNIRW1oN18xNGlmTS1QZDBBbzdoVlJWWHFuNWFBRkotWDRyZHNuTnd2OFlSRFZjYUY1cHlfWWlSSjlJVVNJeGY0MmpJV0xzc2o3dTBqLW95WGlWZFFUUmI1TFRZMVJ3Ul9Ka2sxc2c?oc=5",
         "domain": "www.theregister.com",
-        "publisher": "The Register",
+        "publisher": "theregister.com",
         "publisher_url": "https://www.theregister.com",
         "language": "",
         "seendate": "20260924T163300Z",
@@ -319,16 +299,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3c1TzRzZVdTNm91VVBGMUxEc3VZUFdFb0VQTVdCc1ZnWktEWW5BNk1oblp5NDV6ZEp0MjNrbF9USXRLdDFDbndkUjRleXRlbjZXWXIwbU1RT0ljNTY4MjRpZzFhNkZRNUNLaTdnYWJsNTNkS21hcGNHdmFjSHQ2ZERrVTItMnc?oc=5",
-        "domain": "therecord.media",
-        "publisher": "The Record from Recorded Future News",
-        "publisher_url": "https://therecord.media",
-        "language": "",
-        "seendate": "20260925T203056Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "The EU spent billions on a cyberattack shield — nobody checked if it worked",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGVWVkl5V0hJc1pySnJwRURUMEtOMW12MU1aSllicFhhbm5mU2w1UWhYLVZWQVhaVEsteFJVQWZKSXdoMzBpUU9IenYybTdaWEdxOW9FaFJEOUkxd2ZKcTUzT3hObUNORXQ4MENjMnNzWXZ5bVFRbW93QmlVMnlIamo0QkNQLUl3UnhlNXU5NVFzUGNkRE5FdWp6S2V4VXhMTDhRRFExakRxcTk2WlE?oc=5",
         "domain": "www.euronews.com",
@@ -336,6 +306,16 @@
         "publisher_url": "https://www.euronews.com",
         "language": "",
         "seendate": "20260922T111400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajNXeExNODcxNFNRMDFEYTdjd3BOME42c0FkTGVfcG00NUQ0VUlUeGpKSjRHNnRWb2FoNHBYRTM4T0RFSkhlbUhIdjVEVmhzMG0tVDhkOWdSM2c0TmZTYVBnRmZQdmxUTWRtSFRpYVRITUF0M1Q2WlU0OVFUaTJqcTFITEdfRlZ4cU1QOURUY0o5emhKbWNXMXZ5SEdKVktNcmM3ci00R3k?oc=5",
+        "domain": "www.wiz.io",
+        "publisher": "wiz.io",
+        "publisher_url": "https://www.wiz.io",
+        "language": "",
+        "seendate": "20260911T070000Z",
         "source": "GoogleNews"
       },
       {
@@ -359,13 +339,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Artifactory Under Attack: In-the-Wild Exploitation of CVE-2026-42016, CVE-2026-42018 & CVE-2026-82329",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOajNXeExNODcxNFNRMDFEYTdjd3BOME42c0FkTGVfcG00NUQ0VUlUeGpKSjRHNnRWb2FoNHBYRTM4T0RFSkhlbUhIdjVEVmhzMG0tVDhkOWdSM2c0TmZTYVBnRmZQdmxUTWRtSFRpYVRITUF0M1Q2WlU0OVFUaTJqcTFITEdfRlZ4cU1QOURUY0o5emhKbWNXMXZ5SEdKVktNcmM3ci00R3k?oc=5",
-        "domain": "www.wiz.io",
-        "publisher": "wiz.io",
-        "publisher_url": "https://www.wiz.io",
+        "title": "Springfield School Committee approves revised schedule after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHpjYUQ5TTg4aks0eTVSVXM1UUVJbDJ2YVQ4ZEhIUjJSaTIyNGVkbTYtck0xcERXOW9iT3VsZHFERzZTQXRsZTRqX3dEb3cwbWVVWkdSbkFoQm1vZmkxNkZMWDhUM0oyZERFT3l5aGhNWjR5dTJJX1Q0d3VvTFh0V0FIblhUM01oQjRaaFZqS0NKNGp3X3k3QzE5WWdSbWd6cmdLSmFXN0xBOHAzWG5IancwSEU4bU3SAcsBQVVfeXFMTXZ3YmRIVEI3UVBPdTRtUjl3LXBUaGNNY212UHdaUy1DMXV1WXNHNm9tM3NvNmhKVm91TWhfMThzWmg4OXFHN2pTU0VqNGwzdjNsRXRGTlpRZVhXem9wamV2dnlabmxHT2F2bVYxdmNrb0tRTjh1ZWFPN2FmSy03RURVdHZiNmhwMkpTOUNsS0RKcDhIX1VKUGRHS3NjSUFhYTNLTmNrZW5hSXh1VkY5TklfbE9CNk9iLWJCdFU1ZXNjeXAxR3htbk1mY2s?oc=5",
+        "domain": "www.westernmassnews.com",
+        "publisher": "Western Mass News",
+        "publisher_url": "https://www.westernmassnews.com",
         "language": "",
-        "seendate": "20260911T070000Z",
+        "seendate": "20260926T020200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack Hits Spanish Train Operator User Data",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWVGw3THhqNHctbjNVcjVva2dWRDVVOUZNek1rdHVibzhqSGlYMmNvWUNzQ2dheU8wSllfa0U4LV9WeURYdHJMYkxadw?oc=5",
+        "domain": "www.kyivpost.com",
+        "publisher": "Kyiv Post",
+        "publisher_url": "https://www.kyivpost.com",
+        "language": "",
+        "seendate": "20260926T051503Z",
         "source": "GoogleNews"
       },
       {
@@ -382,7 +372,7 @@
         "title": "CISA plans CVE overhaul as vulnerability volume explodes",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2xHZFQwakdwclh1TVVXcl9yOVR5U240WmdDZDJxZUJmUGl1YnFiQ1FDdWZUdkhUcVZTUF90OWFYby0tZUxqNDBkUEpGa29URHdrQlRvQXJ6aWd2UWtWQUFPVGhnRVZONVQyOThadFdrS09EMmhIckZEVDVnN0hBVFcxZFNHSFlZcWowQnNGdkFRNGpQcFJISGpkZ0xncFAxRFhBX2hkdWVNanI1YmEwOG1OQnR5U05MM0Nfd2V4dw?oc=5",
         "domain": "www.msspalert.com",
-        "publisher": "MSSP Alert",
+        "publisher": "msspalert.com",
         "publisher_url": "https://www.msspalert.com",
         "language": "",
         "seendate": "20260925T165010Z",
@@ -392,30 +382,10 @@
         "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmJQUG4wQ2txLThqMHl6RGpxVE0yMWlTQjRITXdoeVlPX0hCOTBSeGdzLVdPMGJsVmxJdGRUc0t5cEd1bEQ2Q2s1VDNGenhIdTlaRlFLdndMVVFkR1Bfb21TRTFvX2hTNHotOE9BbE5OZDd3SzhWVnAwb3c5RXNuUTYxcklaYWRLd1F5NE530gGTAUFVX3lxTE9nUWU4cWdjdWoxaWx3eUl6S19iVm5XVWNnc2hUT0h2S3ZiVXEwMG11VmtvemRBckQwang3TGVJRmRIUUNXVE0ybHJUcUEzOWw0bmI0bmRqVVVLUEJKSkZROUQ4eDd3NWhfcFNhblBkZlBIbm9NQ1F1ZGZYbHlyME5zNWltcmdBdWJWcXRuNUU1UEJ6bw?oc=5",
         "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
+        "publisher": "securityweek.com",
         "publisher_url": "https://www.securityweek.com",
         "language": "",
         "seendate": "20260925T065740Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Vulnerable OBS overlay and Chromium flaw enable Twitch chat message code execution",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPemRpSVBuSGYzcDJJZ2FlRVhlc1pYZzdQcTBsZll4YUdkUDZwMXFsbE5sb1I4Q1d4cWZYNEpsY3hVSFdyX2tSTzE4dG15UGstQUxtSmV1ZEhNR2V1QXZNd0Z2WlZiZHpXYmZwUDV4cXBOUjYxaDFtY0ZyYkNXZ0RaWWV0ZmUxZGFvNklGVEZZV0lZZjQxNGJubVVCSWVXMmtzMUJ6UkVmeHFVc09VUXFXXzFB?oc=5",
-        "domain": "www.scworld.com",
-        "publisher": "SC Media",
-        "publisher_url": "https://www.scworld.com",
-        "language": "",
-        "seendate": "20260925T215744Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Two Maryland hospitals still dealing with system issues after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNalR2VkR6YlFxa2JNVE1CbEMtTmY4azFMOGl2Q3laVU9ZSE9ZYk12cG1FMDZXYWpQMjJmZm1xUV9udlJRQ2p2VXhzZXBjM0dLeWlXSjJzUmRLdXdkeEhKR01YUWUtMHU1b2ZVVlJERW5aN2trcGNfNnZsNkRxSnd5TGhUYlJpWmtKZUZNXzV0RWtGXzlwWU1Ea3pnYVlEa0d4aDRqV1dmeVRPSlpqVFRQREl6cFEtUQ?oc=5",
-        "domain": "www.wypr.org",
-        "publisher": "WYPR",
-        "publisher_url": "https://www.wypr.org",
-        "language": "",
-        "seendate": "20260922T155100Z",
         "source": "GoogleNews"
       },
       {
@@ -449,13 +419,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HU0NVeTkwTU43ZEpkRDRSdFNYT1I4eWt4VlhFTDF6WnNqX1dMZS0xREdNY2hRWEliTDFwS2M3cG1sampINTJ0c1JEai1QZUFrTWFPUjY4NmdGMmVsdWdZdXU3YjNxNUtZZ1ZQRlUtU2k1T3ZOcnZFeGxGV1liZw?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
+        "title": "Two Maryland hospitals still dealing with system issues after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNalR2VkR6YlFxa2JNVE1CbEMtTmY4azFMOGl2Q3laVU9ZSE9ZYk12cG1FMDZXYWpQMjJmZm1xUV9udlJRQ2p2VXhzZXBjM0dLeWlXSjJzUmRLdXdkeEhKR01YUWUtMHU1b2ZVVlJERW5aN2trcGNfNnZsNkRxSnd5TGhUYlJpWmtKZUZNXzV0RWtGXzlwWU1Ea3pnYVlEa0d4aDRqV1dmeVRPSlpqVFRQREl6cFEtUQ?oc=5",
+        "domain": "www.wypr.org",
+        "publisher": "WYPR",
+        "publisher_url": "https://www.wypr.org",
         "language": "",
-        "seendate": "20260922T053100Z",
+        "seendate": "20260922T155100Z",
         "source": "GoogleNews"
       },
       {
@@ -466,6 +436,16 @@
         "publisher_url": "https://www.infosecurity-magazine.com",
         "language": "",
         "seendate": "20260924T150000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HU0NVeTkwTU43ZEpkRDRSdFNYT1I4eWt4VlhFTDF6WnNqX1dMZS0xREdNY2hRWEliTDFwS2M3cG1sampINTJ0c1JEai1QZUFrTWFPUjY4NmdGMmVsdWdZdXU3YjNxNUtZZ1ZQRlUtU2k1T3ZOcnZFeGxGV1liZw?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20260922T053100Z",
         "source": "GoogleNews"
       },
       {
@@ -482,20 +462,10 @@
         "title": "WordPress 7.1.2 fixes critical unauthenticated path traversal vulnerability (CVE-2026-87902)",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXNPUjFxUFY2RkRqZ3c5Tmk4XzU2TllEQ1R6UTRGaHNGaWVGTmpRUTRpZ1FkWGZDSHVJaXdYQVRaMnQ2V2NRdWRDNmRqZi1Memk3c196N2VTVlhsMTZBeVBySG9tc2lNTTlPNllyLXQ0NTZUT0hvckgzN2tqLV9iRUgycGZnS2tuRzJWLWtqT3Qxb1h6V3c?oc=5",
         "domain": "www.helpnetsecurity.com",
-        "publisher": "helpnetsecurity.com",
+        "publisher": "Help Net Security",
         "publisher_url": "https://www.helpnetsecurity.com",
         "language": "",
         "seendate": "20260923T090145Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Elementor plugin vulnerability allows admin account creation",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0tYQUZQTkwzTEdQVWVZN2twZnV0aVluSUNDdW1EcVdJa29VUzh0eE8zYlczazBhVzBIWkdTUEdJWUxGaWZYVDJ4MGxkU3c2WVJQX3JTT2ZLWHBLVGk0WjFQREZoUEVMRnFzMEI2NXB5V0tVYzdtWVVUQU1OYUpGOWMwSGxEd0tMN2ZGdjFzdEk3al9s?oc=5",
-        "domain": "www.scworld.com",
-        "publisher": "SC Media",
-        "publisher_url": "https://www.scworld.com",
-        "language": "",
-        "seendate": "20260925T215324Z",
         "source": "GoogleNews"
       },
       {
@@ -522,23 +492,83 @@
         "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95bEY3aXdIdElqSGtrMmh1Sk13ck5nLV83dUVUQ0N4X0JJUW0wWXVmclNxcGVTb3NLd2xPbW4tQ2Z0X1JhMk13d2EzV0VmY0hmMGRCcnlkVmpTd2ZyVjk4N2U4YkNLZ21DOWktYUJaVnNMWUptQ1VDY3lRT2MwUdIBgwFBVV95cUxNVmxwcVM0MjYxaHd6R1NHdmpXSTgtVXBrRDNWdjh1MmdzX3JEdGVmbGtDUzBwSlVHQkJHb3ZHRVpvMXpNWGxiQWozWkltM0lFSk5ta2JzaTdMc0V6UVZUNEtlRW5WRU1HVnp4bWhodS1RVWt3dm5tOWhjRnpodEtIbDlCVQ?oc=5",
         "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
+        "publisher": "securityweek.com",
         "publisher_url": "https://www.securityweek.com",
         "language": "",
         "seendate": "20260922T102227Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Alabama nursing license website remains down after cyberattack, paper applications offered",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmxrR0Q0RjdUeEFNQmNWOXJDRFZ6RGQ4TUpkQm1xNjZFS2ZOUWVTVVoxaGdvTnpTTmItM0s5VjVCWWdPNnBfNVZJREp2TVZfYlFKQ296bk1oM0NxVUQzbzRYdXhLSjYtUkdLcThCc3I1cTlKNzdSTDJFaG9kUlB3cXI1djRMYjdEY1pOdFlLUmVMUjN3MlVmdGM0MlBoNjg0bTlXcGVob2x4MHpOdnlvcGVwNWVzNnJ0V0s5OA?oc=5",
+        "domain": "mynbc15.com",
+        "publisher": "mynbc15.com",
+        "publisher_url": "https://mynbc15.com",
+        "language": "",
+        "seendate": "20260924T031639Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Qa25aWnd6RXJnWEI2RFd4YXM5V1JXTTdrMGg1dEZZOVVyS0lyQnpFZFVGaDB4X2VfWjhvRS1JNmdnNms3U1hKMGhnb0xmekcwUEtBc3N5aWtQZ1pEWHQ0S3lZNGlpbGFjVGI1c3ZxMk4zR01QZkJNQWwxRG51WTg?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20260923T160600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Records: Andover Hired Ransomware Specialists On First Night Of Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFBzTU8zeFFxUl8xVllfWW1peWNsdEVIb2Nqa0h1cnVqcHJhcjk2M3dXdXU3SWdCU1Jpak5jRFdLRE1YekE3YlVpQnNPOC1wOHlCSHFhYThpbkJzTmliLTF5SUQ3akRmNy1nSEJQZndrd2ItN3lFb201ckZPWkwwNDg2SGN4cjdLazM0ekNXRWlUMnc2RGE2XzMxWHZUREdnSWdz?oc=5",
+        "domain": "andovermanews.com",
+        "publisher": "andovermanews.com",
+        "publisher_url": "https://andovermanews.com",
+        "language": "",
+        "seendate": "20260925T163442Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
+      "title": "Meta’s Muse reportedly has a shocking one-click vulnerability",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkhCemVtSVZpeERUY0kyQlVRWWd1bWxkaS1uTjh5TFhSaV9fMVFtRUo5VjNIQW4zejFGaVVZZFFhU2gydGtvNUJjTGlUOTk4Q0djX2ktTHlzT1V4N1RBODhRZkhpNlAzQnRLQktaenNSU2lFcWpVcU5qb1pOZGs5VA?oc=5",
+      "domain": "mashable.com",
+      "publisher": "Mashable",
+      "publisher_url": "https://mashable.com",
+      "language": "",
+      "seendate": "20260926T210645Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Cyberattack on Arizona courts may have exposed protective order addresses",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnp5WHBCa1Y1dW9RNWo4VFNvdmdER3lPRGNfYlBkXzlzNGI1Nnk3SnNBaFBxSWM0TzBBTjBUcmJOMG9Tb0plR2lMVjlDUWlIVlItYUJTSEx5Q1hXalg5R3otZmJ4TkpxZ3V1eUxxRC1JbEhuLVRudElRSTBfUUw0UVMzYVRBRDZvTzhXTVlmYkVMWXQtMnU3RkMyM2hZTTRORVVhTjRvQ0hQbWI5UkpYSHFIaEc?oc=5",
+      "domain": "www.azfamily.com",
+      "publisher": "AZ Family",
+      "publisher_url": "https://www.azfamily.com",
+      "language": "",
+      "seendate": "20260926T143300Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Arizona court system target in cyberattack by criminal hackers",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpBUG9LR21KeHBqR042eXMwdHpYc29KdVpZYWVSNkdaWEJpM3M1eG1MZUR0dlN0am1adDg4aXhBamdma2RmWlRPcDJBQXd3VUVObktpQUQ4WktNMzY4TmNYV05yRnNwWWlPX0dVZ1FXbkhtLUUyRTEzUDkyenE3NnlNRVRHa04zS0tmM0Y3TGlyUTFzYmFXaG5sQQ?oc=5",
       "domain": "www.abc15.com",
-      "publisher": "abc15.com",
+      "publisher": "ABC15 Arizona",
       "publisher_url": "https://www.abc15.com",
       "language": "",
-      "seendate": "20260926T124922Z",
+      "seendate": "20260926T185107Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "FBI probes cyberattack tied to third-party jobs portal",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODBtdUYzckJXMG0wQ0hKWUk2SHV2ZlVPNXhXd2Zhdm5aMU9IdUVwSjNHVTF2Y3J1ZjVCaFFXNnZPTFRSLVFKTWl6ZGUyeW5FSEQ1dnVSLTNFTTczdlN5ZWtmNDA2M29JbVdOZEctblRVb0FVbFFQRnU5S3R1a19ZcnBMTV9lcm8?oc=5",
+      "domain": "www.cybersecuritydive.com",
+      "publisher": "cybersecuritydive.com",
+      "publisher_url": "https://www.cybersecuritydive.com",
+      "language": "",
+      "seendate": "20260923T184930Z",
       "source": "GoogleNews"
     },
     {
@@ -552,23 +582,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "FBI probes cyberattack tied to third-party jobs portal",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODBtdUYzckJXMG0wQ0hKWUk2SHV2ZlVPNXhXd2Zhdm5aMU9IdUVwSjNHVTF2Y3J1ZjVCaFFXNnZPTFRSLVFKTWl6ZGUyeW5FSEQ1dnVSLTNFTTczdlN5ZWtmNDA2M29JbVdOZEctblRVb0FVbFFQRnU5S3R1a19ZcnBMTV9lcm8?oc=5",
-      "domain": "www.cybersecuritydive.com",
-      "publisher": "Cybersecurity Dive",
-      "publisher_url": "https://www.cybersecuritydive.com",
+      "title": "Securin Takes Aim at the Gap Between Vulnerability Detection and Exploitability",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMG1CNmpsZlVSLWVId0h5RVlkRGM1eHM1ZlBNbm92Q2NDUTE3UWdudFB4MFhsb2tFVEREejFQc2JUWTNFbFlBLS1HM3NXMjVkNjh3UEZZOXNpeWk2azFFUEl2S0lKRmFsQWJNQ0gwM2ZDMU0wVUlhWS0zQXRwalZKWU1DcnRmSFUyZ0hZQ0Q2c1laU0dlQTJSZXN5QjY4YUlqRVRuQy1wMUFyc1l6UlA3OFRkR19DclJkSEVz?oc=5",
+      "domain": "www.cybersecurity-insiders.com",
+      "publisher": "Cybersecurity Insiders",
+      "publisher_url": "https://www.cybersecurity-insiders.com",
       "language": "",
-      "seendate": "20260923T184930Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cyberattack on Arizona court system may have exposed personal data, officials say",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnp5WHBCa1Y1dW9RNWo4VFNvdmdER3lPRGNfYlBkXzlzNGI1Nnk3SnNBaFBxSWM0TzBBTjBUcmJOMG9Tb0plR2lMVjlDUWlIVlItYUJTSEx5Q1hXalg5R3otZmJ4TkpxZ3V1eUxxRC1JbEhuLVRudElRSTBfUUw0UVMzYVRBRDZvTzhXTVlmYkVMWXQtMnU3RkMyM2hZTTRORVVhTjRvQ0hQbWI5UkpYSHFIaEc?oc=5",
-      "domain": "www.azfamily.com",
-      "publisher": "azfamily.com",
-      "publisher_url": "https://www.azfamily.com",
-      "language": "",
-      "seendate": "20260926T143300Z",
+      "seendate": "20260926T165356Z",
       "source": "GoogleNews"
     },
     {
@@ -595,7 +615,7 @@
       "title": "CVE-2026-87902: Critical WordPress Core Flaw Enables Unauthenticated RCE Under Certain Conditions",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iajRCMThZUDNqT0RYak9rcXdFZ1p4bG1aWTMwbDZuNHhCSEFUdFkyejdIdnEzQ2ljVFNVZm5KQndScjE1dXJpNE9xWjRmWHhqTmpvcnZQa3VkMmIwblVQa3BVVjRfc0cyeGVJWHJoeW4yQzNrbGk3Mi1oVkVjX3M?oc=5",
       "domain": "socprime.com",
-      "publisher": "SOC Prime",
+      "publisher": "socprime.com",
       "publisher_url": "https://socprime.com",
       "language": "",
       "seendate": "20260923T175933Z",
@@ -632,16 +652,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Springfield School Committee approves revised schedule after cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHpjYUQ5TTg4aks0eTVSVXM1UUVJbDJ2YVQ4ZEhIUjJSaTIyNGVkbTYtck0xcERXOW9iT3VsZHFERzZTQXRsZTRqX3dEb3cwbWVVWkdSbkFoQm1vZmkxNkZMWDhUM0oyZERFT3l5aGhNWjR5dTJJX1Q0d3VvTFh0V0FIblhUM01oQjRaaFZqS0NKNGp3X3k3QzE5WWdSbWd6cmdLSmFXN0xBOHAzWG5IancwSEU4bU0?oc=5",
-      "domain": "www.westernmassnews.com",
-      "publisher": "Western Mass News",
-      "publisher_url": "https://www.westernmassnews.com",
-      "language": "",
-      "seendate": "20260926T020200Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Interlock ransomware claim triggers lawsuit against NFM Lending",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEt2UDlQSW5jM3ZoZmNEc3BMdGdBcmNHcDZJamVhcl85eFFlVmNubV85STFSMDNFM1dHeUdoXzV4UlZEYVhhZHV0WmpFbTdQZXpiT2lHeEJjZmdJUERqQ2d6ZjFPYmJlc0dxTHJ0QUM5MXpE?oc=5",
       "domain": "www.housingwire.com",
@@ -662,23 +672,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Ridge Security warns of high-severity TDengine vulnerability that can disrupt industrial telemetry and monitoring",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZlBVS29MS2ZjMFRJcDI5bTBHbWRYeTJrUDRKVWxGSFNIWnFWX1ZjR21oMm5hMkFPblljMjNDQjVJVDhtcElib1Z0SnppY19SQzhTeW9KOFZUN0MwM293aVBILWdsV0RxMW1sX2lWalc2ci1BV3dmbWpVZUVINGV3M0phckpHaXY1d2VEc191ZGlrWTNMUFg4bzhvWkhRcmlrelI4UGZQWHNZMGZjdUlwdUJ4N1FuSWgyaDdPZWpYM2Zia2ZORm1hdER4OGNHejVEX1J5ejN1VURnYzU1MnJBandpeUlXTTJLczhvQVdiYWZwb0RBZkJSZldn?oc=5",
-      "domain": "industrialcyber.co",
-      "publisher": "industrialcyber.co",
-      "publisher_url": "https://industrialcyber.co",
+      "title": "CVE-2026-87902: Critical Vulnerability in WordPress",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbmVHaGctR3ZxVGlsdTc2RHM2TTAzNlA2bTZFZXJVSEdLck5hYWxwcU1mbmJ3b2JxdVNTNDZ2anV1SElET24zTWlPd1hOajlnZk1LeTJMWXE4THZlTzk0V2hSZkpRcFIyTEdUOHl5cTdtUkdBdUpkQThTM0h2RjJIWjZR?oc=5",
+      "domain": "www.kaspersky.com",
+      "publisher": "Kaspersky",
+      "publisher_url": "https://www.kaspersky.com",
       "language": "",
-      "seendate": "20260925T104135Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cyberattack Hits Spanish Train Operator User Data",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWVGw3THhqNHctbjNVcjVva2dWRDVVOUZNek1rdHVibzhqSGlYMmNvWUNzQ2dheU8wSllfa0U4LV9WeURYdHJMYkxadw?oc=5",
-      "domain": "www.kyivpost.com",
-      "publisher": "Kyiv Post",
-      "publisher_url": "https://www.kyivpost.com",
-      "language": "",
-      "seendate": "20260926T051503Z",
+      "seendate": "20260925T152346Z",
       "source": "GoogleNews"
     }
   ],
