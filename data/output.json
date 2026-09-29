@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-09-28T23:34:14.353017+00:00",
+    "generated": "2026-09-29T06:16:59.305695+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "40"
+      "value": "41"
     }
   ],
   "live_data": {
@@ -35,7 +35,7 @@
         "publisher": "Unit 42",
         "publisher_url": "https://unit42.paloaltonetworks.com",
         "language": "",
-        "seendate": "20260928T190707Z",
+        "seendate": "20260928T202422Z",
         "source": "GoogleNews"
       },
       {
@@ -49,16 +49,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnI4b2JTVDlieEZMVGxLQkIzaV9hR2VxSGxYTVRZTlNyb3dNRHZDR2FBQXRhaElDQVBnWFpaSVBHUHllNGxZaFJMcG1lZVhOZWtTcmVWenRMTk5meE5tWjdtQk1WUnZDRWRwM2t2clpCT0lUOHhKdEhOOC1Bc0pIWUZGMnZUSy1uTkQwLXZMM3BvT2Etd1B4VUdNbEVJVXFucUhNTVBvQzNiS1BQZWRYUmw1RmZZOUwwT25jTXlR?oc=5",
-        "domain": "labs.watchtowr.com",
-        "publisher": "watchTowr Labs",
-        "publisher_url": "https://labs.watchtowr.com",
-        "language": "",
-        "seendate": "20260928T123543Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQUUtbE43MU9RQXUtbVFJWHo4Z1dDTEp5b0U1NGhya2s1MFVralVmdjdscHVPcjBTQUMyNEI5NnN6UWVSTVhlalRhMi1VNHFlQk5rM3dOaGJRZW1YSWttZkYwWEZ3WjlzajhQZktSbjhINUxicjNHVGszeG5OM1RxOWYxd3Zzc1FoaDdBOEI4cUd3VU9vV3RVUjl2WkhCRWQycnAtM0NmS2dvTDhWS0wtSUR3YUM1WWVnRjRGYmU1Q3Rrc0s5clNPRA?oc=5",
         "domain": "www.rapid7.com",
@@ -69,13 +59,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Citrix urges immediate upgrades of NetScaler amid widespread exploitation attempts",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQldjTkhIeDJUWFlLLUN4Nkx0ckRfYjVBNHR0aU1JZkJ6d18yZlJWdVRWVjJueVc5bmxfM1RIdGI3MU1zVTZQR3JfLVpBemI1d2g2cXRrellCWUhjdEVCcndOT2YzUTVVNzFvZzAwdFZuX0Z4Ym4taUZBUGxicm15Q21MWW5HMkRyMkt1QTRB?oc=5",
-        "domain": "www.cybersecuritydive.com",
-        "publisher": "Cybersecurity Dive",
-        "publisher_url": "https://www.cybersecuritydive.com",
+        "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnI4b2JTVDlieEZMVGxLQkIzaV9hR2VxSGxYTVRZTlNyb3dNRHZDR2FBQXRhaElDQVBnWFpaSVBHUHllNGxZaFJMcG1lZVhOZWtTcmVWenRMTk5meE5tWjdtQk1WUnZDRWRwM2t2clpCT0lUOHhKdEhOOC1Bc0pIWUZGMnZUSy1uTkQwLXZMM3BvT2Etd1B4VUdNbEVJVXFucUhNTVBvQzNiS1BQZWRYUmw1RmZZOUwwT25jTXlR?oc=5",
+        "domain": "labs.watchtowr.com",
+        "publisher": "watchTowr Labs",
+        "publisher_url": "https://labs.watchtowr.com",
         "language": "",
-        "seendate": "20260928T165807Z",
+        "seendate": "20260928T123543Z",
         "source": "GoogleNews"
       },
       {
@@ -89,23 +79,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ransomware activity hits 2026 high as industrial sector bears 31% of attacks and Qilin dominates",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ21RM1BuUnozVjdGRGhUc2NLSlljTVlzaHZIbTlKLUFlUjJpVFpRZGVkXy0ySlllaDR5YnFjejJmV0ZCVUhHWk5zXzM2WWx1TWZmSGxfSkRkaGZ1UEsweUZtZkV0akszZDVCb3hDNVoxOTc2eDFfdUVEZjBWcnI0aXl3VDFPQmoxQ1RJeURNNUhaalR5cEs3R0NPNjEtR2JnbUxvUGdsbmZfa3lhUTBVaUFlX0RyVmlvY1dlZy1UYmFCMDZJdWU1LXBqdjlIUTA?oc=5",
-        "domain": "industrialcyber.co",
-        "publisher": "industrialcyber.co",
-        "publisher_url": "https://industrialcyber.co",
+        "title": "Citrix urges immediate upgrades of NetScaler amid widespread exploitation attempts",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQldjTkhIeDJUWFlLLUN4Nkx0ckRfYjVBNHR0aU1JZkJ6d18yZlJWdVRWVjJueVc5bmxfM1RIdGI3MU1zVTZQR3JfLVpBemI1d2g2cXRrellCWUhjdEVCcndOT2YzUTVVNzFvZzAwdFZuX0Z4Ym4taUZBUGxicm15Q21MWW5HMkRyMkt1QTRB?oc=5",
+        "domain": "www.cybersecuritydive.com",
+        "publisher": "Cybersecurity Dive",
+        "publisher_url": "https://www.cybersecuritydive.com",
         "language": "",
-        "seendate": "20260928T080853Z",
+        "seendate": "20260928T165807Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjdIMFVpTXpQMHB3RnZmZlNIVXJ1UHl6V2RLZENGRUYxeG9sZnd1dm80aVd3elVXRl80Z1M3V3FjREEtOEhTejN3LVRZa2c4UkNVMS1CZUQ0eVpYaWNvY2kxOHl4d29XVS1iSXRuVG5uanU2dUtoa3FKRlZLSWhCWFcwM0JWMDJ6QTJiUzRwcGZ6clNOOUQwLW84UjFyaEZVUFcxMzlvZnFvSExCOU5fWG10Y3YwU1RxemN1UDZ0eGlFdw?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
+        "title": "Apple Products Remote Code Execution Vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZURvOEctQzlTUWhxQVFiR3IyeVlqdlUtSnVOSENBajBhY19ka01UU2prNkVscjZlRWZ3V2pDZENOaWdoUHBhYTZ3aWJYbUlmU2NVM01RUnY1WFlpZGp3eUxtcTBOWkg2QVpCamxuVDZ3VkZBRzRMNXRHeVVRR2pXSTdOUHFBOElncmx5LTg4V0MtOHVWU1JDSUJDYVVGYW5BWnc?oc=5",
+        "domain": "www.hkcert.org",
+        "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
+        "publisher_url": "https://www.hkcert.org",
         "language": "",
-        "seendate": "20260928T095132Z",
+        "seendate": "20260929T022657Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Phishing scam may have exposed thousands of Arizona court records",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTB3UURMdU5sTEFIX3MxQ0pWWVZ4MHpILWlWUkMzQURMZElDWUpFQjVhRkM1U1hKaXJsXzFrY21Wa1NpcEZfUVBzZTljWVlHRUZBa0gxN3Q4NkRzVW96WTJuc3Ruc2RwX2RPd0xJRmpwWnpRcVlWandYclc2VEFTb05uNHdPaUd5bnpwUTRIRlFwRC15RXY4TThoR21tNHpROHg3QmFlSW4zWmpjODA1amtCVUrSAboBQVVfeXFMUHdtaUJUaUIzbE9UMDc5bGdBR1ZUTEhnYjRNajNPYnpFWWZ2eVVoRDZtTWFnTTdPcV9vc3BCV2ZkN3F0TlE0S0VudWtJR1BhSEplNlpObnVYd09vQS1fM0xQMEx5VTRMTHAwVF9sOEgxZzNxNVB5a0E5TFlUdGlZWnRTQTRxQ0FxQjF1X3lsNWtZS3VzbE5xRjNWWmRzNFN5M3FnUlNVbENtZ1lFU1B6TFFOUThWNWJwX2VB?oc=5",
+        "domain": "www.fox10phoenix.com",
+        "publisher": "FOX 10 Phoenix",
+        "publisher_url": "https://www.fox10phoenix.com",
+        "language": "",
+        "seendate": "20260929T042129Z",
         "source": "GoogleNews"
       },
       {
@@ -129,23 +129,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack targeted Arizona courts. Here's who might have been affected.",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX2trbmUwbWtmb2FVTWhxVVdIbjI5dC1pLU5TZUhlb1pZVWN6UE5QNVZRTXVBUndIc0oteXFEakZMM3Q0WXItb1VLOU1FS3UxZGpEcnZwMzJvanVfdEc2SE92WmhQNjRGWG1DbV9zc0NzcHZha1JGUHRyTGhlWmotTF9fOUd5QlhUSnZVaGxxVXZvbUIydWxHNGhPVVBKOWduN3kyR2F4VGVUMDdDeEpiTmJWQzItQXV2T1lGSUQ5OGNvbDdlNU9kYjRZcVBiLXdrSWRpREUtYmFpcG5hWEtuX2l2YnlmV0xreGc?oc=5",
-        "domain": "www.12news.com",
-        "publisher": "12News",
-        "publisher_url": "https://www.12news.com",
+        "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUhIMXRsbkFUSnhodWNOUWlndzlDS0NVRl9Tb3pQZl9nSWhxdHUyaUFjX3R0YWRwMEFkc196blh4SEVIVEdxTEpLTS1NZ29Sdk5zZW9nLTRoNmhKa1R0TlYtSDNCSUE1cVNCdVFmMVhNWVJmeC1EMHZKY2I0THFFQlAxZ0RxSkE2RXlFNHpTYUhqQktBV1kwM1J6Y9IBoAFBVV95cUxPaVZkR01nVDA3LVAtc2F0Qko5b2pPSGJXdl8ydWJsZndXMFl5VWxCVEJHaTBmWUpPblQ3dUd5QXhnVUxpeVBCNVdYWktMY3VCeXlaakNJM3dmZm1vXzN0Smd6Tk1SV245ZlFMblJxaFZYRjJJTUduUl9hYzVRR3Ywc2p1WnJ0LUZoRFNBcU9yUHpQT2NQLUxwU20wcUNZUWFu?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
         "language": "",
-        "seendate": "20260928T193200Z",
+        "seendate": "20260927T092309Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Citrix Products Multiple Vulnerabilities",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYnI4THAtWmdMZXVZZ0JLRkN4RU5pTXNxX2Q2YkQ3d1ZQNWVjUmhXeE9DbkRoT2pTalBjY1NiSG1lcVU5NWtMVjZzYlRkQ2dsclNYeDBXQUF5T20wRkNCNzBkem5MelEyd1QxY085bmh2S0pnRmR3aG0xdldBaldwU0R6SC03N2xQWllSZ3lfMnRhNklX?oc=5",
-        "domain": "www.hkcert.org",
-        "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
-        "publisher_url": "https://www.hkcert.org",
+        "title": "Ransomware activity hits 2026 high as industrial sector bears 31% of attacks and Qilin dominates",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ21RM1BuUnozVjdGRGhUc2NLSlljTVlzaHZIbTlKLUFlUjJpVFpRZGVkXy0ySlllaDR5YnFjejJmV0ZCVUhHWk5zXzM2WWx1TWZmSGxfSkRkaGZ1UEsweUZtZkV0akszZDVCb3hDNVoxOTc2eDFfdUVEZjBWcnI0aXl3VDFPQmoxQ1RJeURNNUhaalR5cEs3R0NPNjEtR2JnbUxvUGdsbmZfa3lhUTBVaUFlX0RyVmlvY1dlZy1UYmFCMDZJdWU1LXBqdjlIUTA?oc=5",
+        "domain": "industrialcyber.co",
+        "publisher": "Industrial Cyber",
+        "publisher_url": "https://industrialcyber.co",
         "language": "",
-        "seendate": "20260928T023332Z",
+        "seendate": "20260928T080853Z",
         "source": "GoogleNews"
       },
       {
@@ -159,33 +159,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Another lender faces a class action case after ransomware claims",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWFYWFJTZEpoa2FKbFJyc3o0UVljbHNkRGh0QkUyb2pobjVRX09ONjJNTkJyRkZCWGlkTHVWOFE4cFBITkZUUDd3RUxoZHBLdkNHRzdLNk5nekZfT0RWMnh3ZTF4OGhRVEZoODBxTVY1RDJfUjZnY3NKZmhxSVFWc2gyakhjek90QUxIVEx4SWdIRzQ2LWpUQlZ5RTRMRi1Iek5GQ21HXzI2Zw?oc=5",
-        "domain": "www.nationalmortgagenews.com",
-        "publisher": "National Mortgage News",
-        "publisher_url": "https://www.nationalmortgagenews.com",
+        "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjdIMFVpTXpQMHB3RnZmZlNIVXJ1UHl6V2RLZENGRUYxeG9sZnd1dm80aVd3elVXRl80Z1M3V3FjREEtOEhTejN3LVRZa2c4UkNVMS1CZUQ0eVpYaWNvY2kxOHl4d29XVS1iSXRuVG5uanU2dUtoa3FKRlZLSWhCWFcwM0JWMDJ6QTJiUzRwcGZ6clNOOUQwLW84UjFyaEZVUFcxMzlvZnFvSExCOU5fWG10Y3YwU1RxemN1UDZ0eGlFdw?oc=5",
+        "domain": "www.helpnetsecurity.com",
+        "publisher": "Help Net Security",
+        "publisher_url": "https://www.helpnetsecurity.com",
         "language": "",
-        "seendate": "20260928T203700Z",
+        "seendate": "20260928T095132Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXd5YTJ2Mlk5V3l2T3RMeDIyVW5VaGtNR0lLVE5LdlVIMXhDcUFqY2RsOWJrTmxSOEpsREJJYkNJd3BuZlRObjdIQUM3Wm1lQTVteHoyWXM1aWNRVFJxd0xsSWczMkFOSS1EZlVoNnJ1U1B0Z1kwTTJ4NmNVaWxhQzNsN2VrYXZlbjMtV3RiWWthcGIwMnkzNEpSN2wwWE52X254c19WZ2xLcEQ5NFNNcFVoWEpYUlFVLVlpUA?oc=5",
-        "domain": "www.ncsc.gov.uk",
-        "publisher": "National Cyber Security Centre",
-        "publisher_url": "https://www.ncsc.gov.uk",
+        "title": "Swarming Against Citrix 0-Day Exploitation",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zaHdlRXVhdEdhcjk0QW45RFdrMzUxNzlvdmRFYTRfZURKNWE4N2psMGpRWVlvLWlaU3ZJWDFDaWVhRTE0SUVIMnV1dzIwUjNoaEppWFM4djN2ZExWV0R5SHhJdjBnc2FQTVpjU1NWMHdYTnlSYU9xNFV4RmI?oc=5",
+        "domain": "www.greynoise.io",
+        "publisher": "GreyNoise",
+        "publisher_url": "https://www.greynoise.io",
         "language": "",
-        "seendate": "20260928T120000Z",
+        "seendate": "20260928T175302Z",
         "source": "GoogleNews"
       },
       {
-        "title": "How Ransomware Groups Are Adapting by Using Encrypted Exfiltration Methods",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkZ1Yk5XTERfSzVFLXlRY2pNVmloT0l5TFREc1JXQVdvMG90Vll1TkctUGNUR2E3SUs5NkFhSEZmRkp3U1RkQ1g1eFBaTUpucE5PcjNTN3hCUVRydkFHRUN2MlBQZ0cxM2FSaVduOWlzOW5STWxtVjR1SUNYSEdsc1FtYVBfRXFKVWdYR09tZFVJVTJocGFr?oc=5",
-        "domain": "shattered.io",
-        "publisher": "shattered.io",
-        "publisher_url": "https://shattered.io",
+        "title": "Victims of Columbus ransomware attack get a win",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEFmMm9RNG8wd0tfcmwyYXlSbTAtMTZMT1d2cTlfMFdOMFV3eS15Z3M0Q2lTaDZUeXo1Y1VaYnFtbWtyWFZST0NLYVlNdllxTW9rOXl3RFFSNy1hRHZJZXBQX0lIeTJOLVJEMV9SNVJHNGRGSFlGaFNiRXRHSVF0a3F4aXo2alpKYVJCcXBn?oc=5",
+        "domain": "www.nbc4i.com",
+        "publisher": "NBC4 WCMH-TV",
+        "publisher_url": "https://www.nbc4i.com",
         "language": "",
-        "seendate": "20260928T191125Z",
+        "seendate": "20260928T213411Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2JsUUFvdXYyRENfVi1nS19VQ0FNc2dfZmZVQjZCM3FZTWRwQng4VTNCc2Z4MUxIdEhCSFd6RlBKTkhHNjNSUnNNSExNblR5ZEFfd1BXSXVKdXc3S3ozMVJpNEl1cTl2N0VVWDlJdFp0SU81SDUwWmNTZmdJcTR0UGhaRE1FUHlnODhlMXZLTkUtN2Y4blBVZjF6ZzVfbENVUzl3TDlFMUlDRlFZWkVVV0xYd9IBuAFBVV95cUxPMkdFUVhpSF84dEpiNi11T1hXSXA0Nm1iTzZ3MS1UWV9vNzNoaG5ub2JlOUszQTdPVzZHMDNQRURBa3BiOVUyNFFQc1BZazI2RVFiY1dzMUJKVXR3TzkyUGQ5Tzh5R1ZqVEhxNzRtODZDUkRNTUdwTTRCQVAyVmlaYjY4Zll5X3p2dFZOT2Jqb1hqVDd3eEZVdmJVTkZWRGw0VTMwenVTTy11Ym9uMExUODVPQ0VjQkxM?oc=5",
+        "domain": "www.bleepingcomputer.com",
+        "publisher": "BleepingComputer",
+        "publisher_url": "https://www.bleepingcomputer.com",
+        "language": "",
+        "seendate": "20260928T205647Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "iOS 26.7.1 Fixes Vulnerability Used in Targeted Attacks",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JM0NkQmd4WEFjVGlxQlo3RVVjTEt0Ulg1M3I0ZF84eUl3ZVZENTRFRGx5VlhXb2w2cG80Znc2SENoYXYtUU13azU5a1gyOVZUWGlNcFg4YkhKYkViQnhzZDFPcGlPTlFtTkxoWUoyV1ppNzV1RGNTWA?oc=5",
+        "domain": "www.macrumors.com",
+        "publisher": "MacRumors",
+        "publisher_url": "https://www.macrumors.com",
+        "language": "",
+        "seendate": "20260928T184553Z",
         "source": "GoogleNews"
       },
       {
@@ -202,70 +222,10 @@
         "title": "CVE-2026-88771: Citrix NetScaler ADC & Citrix NetScaler Gateway Vulnerability",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjQxbE9aaThWZDcyX0Ixcl9NeFpzVGVUR0VTR2pKMEI4ek5YVlI4NG9jVzI4X2htR3pzaURNMmlEeEhZZzVoSy1idTJubTVqM3NubnFMbnRBemVqTlhOdElpa1p2VWx0VmJrMGQ2SV9hMEtPWEJ6MVphMDEtandPY0toOUl3WE0zamRiVTlXdjBzWklKNjFHdU9kNkhDTW13Wmh2cV9ZWDJmOUxCd2l4UHZBWVJmV2tKQ3c?oc=5",
         "domain": "watchtowr.com",
-        "publisher": "watchTowr",
+        "publisher": "watchtowr.com",
         "publisher_url": "https://watchtowr.com",
         "language": "",
         "seendate": "20260927T212400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekdwSDJ1ZE9xN0p2NnVUTllGckdROVcwYUVCMHZYQ2xnQlR2NFdwT2RNeVVEZ2xzdXduMmE2ZmVuUUtucXgyUXdjZDNsQ19NcDIwVUZ2SEdQOGV2R2Q2YWtfLUZQQlIzdlhvUHROY3psdFJNR3NTYUZzM3A1S2ZGRFh4Zw?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20260928T072100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kiteworks lifts advisory after precautionary warning for customers to shut down systems",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmVmR2pGTmRwblpMZVBVZHk4WU04SmZHRlpxTEhweFNMcy1qZ1ZrUDJCVlkxTXp3RnNKTDJ6RzZUS0Z2MmVkVUZqSXFfcE5fUFEzVnBpQldqZWNLeVVDeEdFeEx0OHlyeFp1TDlFWUZzZlpzQjU0V3VSMWFhek1rWThNMXNneDNJTXRmRFpveDZEM25WRDd4OA?oc=5",
-        "domain": "www.cybersecuritydive.com",
-        "publisher": "Cybersecurity Dive",
-        "publisher_url": "https://www.cybersecuritydive.com",
-        "language": "",
-        "seendate": "20260928T165807Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "iOS 26.7.1 Fixes Vulnerability Used in Targeted Attacks",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JM0NkQmd4WEFjVGlxQlo3RVVjTEt0Ulg1M3I0ZF84eUl3ZVZENTRFRGx5VlhXb2w2cG80Znc2SENoYXYtUU13azU5a1gyOVZUWGlNcFg4YkhKYkViQnhzZDFPcGlPTlFtTkxoWUoyV1ppNzV1RGNTWA?oc=5",
-        "domain": "www.macrumors.com",
-        "publisher": "MacRumors",
-        "publisher_url": "https://www.macrumors.com",
-        "language": "",
-        "seendate": "20260928T184553Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Fishers dental office reports ransomware attack on patient records",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWYxdU9pbDlJdWRWMndRNXg3aW9BLXlTX0JQVjBaUHdyRzVoaHVzY1hIeWxNRVlsQnlxS215bFVjNXZ6c3daTUVMd3Y2YkhTczhtZnpZZFJhZXdlZ2NST2tNM0FMaGN0VlFubkliR0NNaWoyeVRvc29uZXBxS3Ztc3RjcXhJLW5YbFE?oc=5",
-        "domain": "www.larryinfishers.com",
-        "publisher": "LarryInFishers",
-        "publisher_url": "https://www.larryinfishers.com",
-        "language": "",
-        "seendate": "20260928T133020Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New Citrix vulnerability affects hospitals and government",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFcwMWpaTmUyaEFxVkZpUm0zNVl1T3dHTGh4SWh2a3JpeFpvLWs2TlhZTHZ1a0lJVjRRdWo5Z2VnbUdhWTFtWE9XeE1uQmd1a0llY0JjZDRsWHlJeEtPSTFaYkdRM1BpNzJSWnZJTUd0MVZ5REZVT2VWWEdyU2RINXg5NDd1N3RvYW9fakdsaU92RHFhLVBudUcxSDFwdkpZb1hIZXl3?oc=5",
-        "domain": "www.techzine.eu",
-        "publisher": "Techzine Global",
-        "publisher_url": "https://www.techzine.eu",
-        "language": "",
-        "seendate": "20260928T071321Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2c3VHpKOTdfRnRuazRlTi03Wk9LelRMSkk2ZmtsVjFhaS02UEhfYk9VN2xxZldFV1V3UnBQWXFtSUFEZ3VlSnJiX2FqOVRCZkFnTHhaUVBjUlUyREx1WktoN0pKd0RMY0pueDcwbnZnVER5NzBSTU5DcnpQQmd0OTBvajdvMEx4RDFVdjV4U1pLMXBlNW9aTlFlTU4wYlV3RFdvSDhSQlkyd2czM0N2N3Z4ZWNhRGMwNjlsVzg4eUg?oc=5",
-        "domain": "techcrunch.com",
-        "publisher": "TechCrunch",
-        "publisher_url": "https://techcrunch.com",
-        "language": "",
-        "seendate": "20260925T155213Z",
         "source": "GoogleNews"
       },
       {
@@ -279,23 +239,83 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Victim says Arizona court cyberattack has left her feeling ‘vulnerable’",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0RIUzZHb1A4a2ZiUDNnQlJ5RzZ1SnlEUjFFYnFZcml4bzlpWW80ZGhRUTlwbHRPMXQwYUpvU1duUGFGQkpaUloxYVlMU1lobm1IWE04OHZlWWJPYjFKZktGbmQzdFdmaElpdHFQNFR4UWxHT3RtUjB6ZUZWdmhSNnBMQmdhblc0MUp0UmExQmtCdnFYWXFJSGp4TTdhMy1KNkJSRjJfaHk4Z9IBvgFBVV95cUxOUXVwUTlBbGRIVnlITkwtOGt1QlNnMlFpdno2X1ZvLTVPSXdwMG9RcUV4TTNqLXFxQTVMOHNWSWxyV0Fxb3YyV1k3SXJQVndHWGs1ODY4ZEg4VEs2bDEtTjV2X1BvTXZCMWdaejRyNGVJSUVjd2RIWEhqaG5IMGljTUczdEgtdGZWalplMHR3WGtMWWo4ZHM3SVBDT01LNDY3SklXT1FXbEVoaXFLUkRoaWVVenEzTVdUbFc5Szh3?oc=5",
-        "domain": "www.azfamily.com",
-        "publisher": "AZ Family",
-        "publisher_url": "https://www.azfamily.com",
+        "title": "Another lender faces a class action case after ransomware claims",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWFYWFJTZEpoa2FKbFJyc3o0UVljbHNkRGh0QkUyb2pobjVRX09ONjJNTkJyRkZCWGlkTHVWOFE4cFBITkZUUDd3RUxoZHBLdkNHRzdLNk5nekZfT0RWMnh3ZTF4OGhRVEZoODBxTVY1RDJfUjZnY3NKZmhxSVFWc2gyakhjek90QUxIVEx4SWdIRzQ2LWpUQlZ5RTRMRi1Iek5GQ21HXzI2Zw?oc=5",
+        "domain": "www.nationalmortgagenews.com",
+        "publisher": "National Mortgage News",
+        "publisher_url": "https://www.nationalmortgagenews.com",
         "language": "",
-        "seendate": "20260926T143300Z",
+        "seendate": "20260928T203700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Active Exploitation of Citrix NetScaler ADC and Gateway Zero-Day Vulnerabilities (CVE-2026-88771, CVE-2026-88772) – Urgent Patch Required",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQXZqMWNobFJaeGJkNHQwcDFDOTJLX1JoSGVaZG9OdUJZeGVIbFFKN3NEb3RMQU5tTTJuQW5zSDdYMk90YVZhSkI1S1MyZ09KYlBHcEpRLXhzM2RwQVMteEJ4SElFUHI5M2hLNS0zTTVuSENfWFUwU3RrZGRfa1RBUFZGWGEtRjFtTzNqd2VXQzNUUWRCTV9PeVNEYUpxSDBjaG8yQmQwdk5Iemx2WTNmYnY3andpcHMzeXJIbFpINXpoZmJSZ1FnVHVIN2xhTktzVDBubE9DVzJ0X3FLd3lJNlE5NA?oc=5",
+        "title": "Active Exploitation Alert: Orkes Conductor Unauthenticated RCE via GraalVM Script Evaluators — CVE-2026-58138",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2WDNQQUFwcG56Tld5dUdXLWlyNENKTUlmM2NtU2hTcXk2OUQ3MjVWZF9sdk44LUNCeGFQVUtzYVNqalVndkd2ck9FSzA5QjhBVXVFRWgwSER6bkdxR2R0UUJpZlp0WC1qc0pIbU9BaThPYkVNSUMwRkVB?oc=5",
         "domain": "www.rescana.com",
         "publisher": "Rescana",
         "publisher_url": "https://www.rescana.com",
         "language": "",
-        "seendate": "20260928T062756Z",
+        "seendate": "20260929T051756Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack targeted Arizona courts. Here's who might have been affected.",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX2trbmUwbWtmb2FVTWhxVVdIbjI5dC1pLU5TZUhlb1pZVWN6UE5QNVZRTXVBUndIc0oteXFEakZMM3Q0WXItb1VLOU1FS3UxZGpEcnZwMzJvanVfdEc2SE92WmhQNjRGWG1DbV9zc0NzcHZha1JGUHRyTGhlWmotTF9fOUd5QlhUSnZVaGxxVXZvbUIydWxHNGhPVVBKOWduN3kyR2F4VGVUMDdDeEpiTmJWQzItQXV2T1lGSUQ5OGNvbDdlNU9kYjRZcVBiLXdrSWRpREUtYmFpcG5hWEtuX2l2YnlmV0xreGc?oc=5",
+        "domain": "www.12news.com",
+        "publisher": "12News",
+        "publisher_url": "https://www.12news.com",
+        "language": "",
+        "seendate": "20260928T193200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Victims of Columbus ransomware attack get a win",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEFuLTZfek91RU9icHE3VzROdUxVNklSYkxiMm8wZ1Bmb2dzSW1UaXdVUHdPSElLY0FlenVrTVlXRWtKUHpoOFREVkZ2T0NvNTJrVE4zaXNaNzEyaWVHaEc0V1poSGx2dmt3MFhKWEZxaGJVTkFrYkxOZlY1ai1aTXZKaWtVMGtaNzdSc2dkUWpYT2RYaVNv?oc=5",
+        "domain": "www.yahoo.com",
+        "publisher": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
+        "language": "",
+        "seendate": "20260928T233000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Citrix Products Multiple Vulnerabilities",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYnI4THAtWmdMZXVZZ0JLRkN4RU5pTXNxX2Q2YkQ3d1ZQNWVjUmhXeE9DbkRoT2pTalBjY1NiSG1lcVU5NWtMVjZzYlRkQ2dsclNYeDBXQUF5T20wRkNCNzBkem5MelEyd1QxY085bmh2S0pnRmR3aG0xdldBaldwU0R6SC03N2xQWllSZ3lfMnRhNklX?oc=5",
+        "domain": "www.hkcert.org",
+        "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
+        "publisher_url": "https://www.hkcert.org",
+        "language": "",
+        "seendate": "20260928T023332Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekdwSDJ1ZE9xN0p2NnVUTllGckdROVcwYUVCMHZYQ2xnQlR2NFdwT2RNeVVEZ2xzdXduMmE2ZmVuUUtucXgyUXdjZDNsQ19NcDIwVUZ2SEdQOGV2R2Q2YWtfLUZQQlIzdlhvUHROY3psdFJNR3NTYUZzM3A1S2ZGRFh4Zw?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20260928T072100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2c3VHpKOTdfRnRuazRlTi03Wk9LelRMSkk2ZmtsVjFhaS02UEhfYk9VN2xxZldFV1V3UnBQWXFtSUFEZ3VlSnJiX2FqOVRCZkFnTHhaUVBjUlUyREx1WktoN0pKd0RMY0pueDcwbnZnVER5NzBSTU5DcnpQQmd0OTBvajdvMEx4RDFVdjV4U1pLMXBlNW9aTlFlTU4wYlV3RFdvSDhSQlkyd2czM0N2N3Z4ZWNhRGMwNjlsVzg4eUg?oc=5",
+        "domain": "techcrunch.com",
+        "publisher": "TechCrunch",
+        "publisher_url": "https://techcrunch.com",
+        "language": "",
+        "seendate": "20260925T155213Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXd5YTJ2Mlk5V3l2T3RMeDIyVW5VaGtNR0lLVE5LdlVIMXhDcUFqY2RsOWJrTmxSOEpsREJJYkNJd3BuZlRObjdIQUM3Wm1lQTVteHoyWXM1aWNRVFJxd0xsSWczMkFOSS1EZlVoNnJ1U1B0Z1kwTTJ4NmNVaWxhQzNsN2VrYXZlbjMtV3RiWWthcGIwMnkzNEpSN2wwWE52X254c19WZ2xLcEQ5NFNNcFVoWEpYUlFVLVlpUA?oc=5",
+        "domain": "www.ncsc.gov.uk",
+        "publisher": "ncsc.gov.uk",
+        "publisher_url": "https://www.ncsc.gov.uk",
+        "language": "",
+        "seendate": "20260928T120000Z",
         "source": "GoogleNews"
       },
       {
@@ -309,23 +329,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Roundcube SQLi CVE-2026-48842 Hits CVSS 8.1, No Auth Needed [2026]",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKQXBFTm9sQlEtZGxLaHk2aTV6M3FYbnMyWmVFN1RSREtLZEtSaUtTN2NULWUzTWVYaDEtTFpETkpvSEQ2MkRteXh5M1l2LWVkU2dNY1JpM0dUbUlqMXJKbVU1ZWdWYmhjZ2poR0NPaFZ1Wk0?oc=5",
+        "title": "Victim says Arizona court cyberattack has left her feeling ‘vulnerable’",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0RIUzZHb1A4a2ZiUDNnQlJ5RzZ1SnlEUjFFYnFZcml4bzlpWW80ZGhRUTlwbHRPMXQwYUpvU1duUGFGQkpaUloxYVlMU1lobm1IWE04OHZlWWJPYjFKZktGbmQzdFdmaElpdHFQNFR4UWxHT3RtUjB6ZUZWdmhSNnBMQmdhblc0MUp0UmExQmtCdnFYWXFJSGp4TTdhMy1KNkJSRjJfaHk4Z9IBvgFBVV95cUxOUXVwUTlBbGRIVnlITkwtOGt1QlNnMlFpdno2X1ZvLTVPSXdwMG9RcUV4TTNqLXFxQTVMOHNWSWxyV0Fxb3YyV1k3SXJQVndHWGs1ODY4ZEg4VEs2bDEtTjV2X1BvTXZCMWdaejRyNGVJSUVjd2RIWEhqaG5IMGljTUczdEgtdGZWalplMHR3WGtMWWo4ZHM3SVBDT01LNDY3SklXT1FXbEVoaXFLUkRoaWVVenEzTVdUbFc5Szh3?oc=5",
+        "domain": "www.azfamily.com",
+        "publisher": "AZ Family",
+        "publisher_url": "https://www.azfamily.com",
+        "language": "",
+        "seendate": "20260926T143300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Ransomware Groups Are Adapting by Using Encrypted Exfiltration Methods",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkZ1Yk5XTERfSzVFLXlRY2pNVmloT0l5TFREc1JXQVdvMG90Vll1TkctUGNUR2E3SUs5NkFhSEZmRkp3U1RkQ1g1eFBaTUpucE5PcjNTN3hCUVRydkFHRUN2MlBQZ0cxM2FSaVduOWlzOW5STWxtVjR1SUNYSEdsc1FtYVBfRXFKVWdYR09tZFVJVTJocGFr?oc=5",
         "domain": "shattered.io",
         "publisher": "shattered.io",
         "publisher_url": "https://shattered.io",
         "language": "",
-        "seendate": "20260928T141550Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "One Packet Can Crash OT Servers in Industrial Sectors",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkxJdkctVEpGX0VSSlB2YVZWeEIwYV92ZjlSaUk5eng1VkF1NnNBaVRJZHBPXzc2cEJtUGc2c3drZ1RDOWhsYVVRd0pqZlp4M2Ztck84eFZyUm40LTNQd0ZVeTFfRUw3cm9nWHJLM1JSUWFKTS1XQjVVR3ViZHhHdFRsbw?oc=5",
-        "domain": "www.darkreading.com",
-        "publisher": "Dark Reading",
-        "publisher_url": "https://www.darkreading.com",
-        "language": "",
-        "seendate": "20260928T212107Z",
+        "seendate": "20260928T191125Z",
         "source": "GoogleNews"
       },
       {
@@ -339,63 +359,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Clop ransomware gang moves to new server after Grav CMS vulnerability exploited",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2hFNUZkRndfeGRxSjZvU1VJY0c4S2tyNW90cXBGSEc3QklLZTBIR05ZNDRCek44YkF6bkVKejduXzB4UWx1OEJHOUs1dVBGMXVVQVY4QWFFMmYwS1EwOFc0anMtSDRPVl9uQnZwX2E3NGNtZjNyMktTZEl0RGpYMWVVblZWdTI5MnAwcnV0VU5CcS03UzZQcVpzWXR6NWxUVUk4SUg0VnNyLUhGd0E?oc=5",
-        "domain": "www.scworld.com",
-        "publisher": "SC Media",
-        "publisher_url": "https://www.scworld.com",
+        "title": "Fishers dental office reports ransomware attack on patient records",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWYxdU9pbDlJdWRWMndRNXg3aW9BLXlTX0JQVjBaUHdyRzVoaHVzY1hIeWxNRVlsQnlxS215bFVjNXZ6c3daTUVMd3Y2YkhTczhtZnpZZFJhZXdlZ2NST2tNM0FMaGN0VlFubkliR0NNaWoyeVRvc29uZXBxS3Ztc3RjcXhJLW5YbFE?oc=5",
+        "domain": "www.larryinfishers.com",
+        "publisher": "LarryInFishers",
+        "publisher_url": "https://www.larryinfishers.com",
         "language": "",
-        "seendate": "20260928T213325Z",
+        "seendate": "20260928T133020Z",
         "source": "GoogleNews"
       },
       {
         "title": "Single-cell atlas of transcriptomic vulnerability across brain disorders",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tNFZKbVlSYXo3ZWZSd2FDOGFSbkpScFB2RldaMFdPYzgwRHRqMWF1eFZESDBVQTBjWEo5Y2tIN2M3aFd3aVhPaDJCYWFYMmVDMW9pNlJxWjdselFkMVFZ?oc=5",
         "domain": "www.nature.com",
-        "publisher": "Nature",
+        "publisher": "nature.com",
         "publisher_url": "https://www.nature.com",
         "language": "",
         "seendate": "20260923T151953Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Ransomware Attacks in Japan H1 2026: Analysis of The Gentlemen RaaS, Qilin AI-Generated Tools, and GLPI Vulnerabilities",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSmd4cmV0c3Q1SENIUmVDZTNmZEVIQ0FvbGFxMFVTS0FoVWdYNFVmaGdIemtoSW5lUU1aMnBvRVpEemxzYTRVRG1zMjUzalBuSHhZTkZIci1MT3NvOTdWOUdwTFB4ZXU2b3RVb2g5ZmRvMUZVZExERDN3TGFDQVhYVVkzUmMya2NlU1RzeVJoNkpacjUtWHRMY1ZzNU03aUlKQTAtek1kZDQ1elZsVUQ2N0JEb2IzSHJLX3FPMVR6U3ZTMXVGTVFMUHJSZWxTT055N1JfUzFwRnlmN2lkSGc?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
+        "title": "Cyberattack in Berlin: 1.4 million files on the dark web",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWWFNcEtKR0NvbG1FRm1FMnpjeF9tdzZubkhYSnVfSXllZVlRNFM4MWM2TmluU3hmZWd5Y2dNSHR6NlI3eWpLUUJrbk1Hd1VQTEtyNGcxdG1yamVKZUdvOE02UkhCQTVHQjJwbHJpS1FPZnRadzJsTURBRXJIZ0hoVEtmbEVWVzN1RTZmVDRkV0zSAZABQVVfeXFMUHA0V2NuQ2toR3B4Z3ViTmlOb2lYS0hrdUxkeDhZc2J2Qkh2NEhObWdLZnZtQUgtXzlhSUZ3X3RCRlp0QmdVWHlMLVdrOVhQRVZ3QVhYWXAteTNaXzlQTnRxTEhXZEdnQk9oTF9mR1pVb3k0NzVWdUlhVVhmZG1ZRnJ1OUtTZnZxQjlPWjVidlZu?oc=5",
+        "domain": "www.dw.com",
+        "publisher": "dw.com",
+        "publisher_url": "https://www.dw.com",
         "language": "",
-        "seendate": "20260928T061756Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hasbro cyberattack caused by 'vishing' and social engineering campaign",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSU4xUllmNWlDaWVlMHlnWUV3MzVyWTEwdm55eG8zTUdHM2lSTFJrWG44MGd5Zlh0LWhXRWNYSFhzWXVnaEhuN1Uzc1FsRUkwTGU2Qy1DMDFhbjN6MW91NG90SDF3Z21lUldWWExXUFdDSkhYWFZ2Q24xM0o4bndaZW5YLUpQOG5XRlFLTlk3Y2dBOHQzazFwTlJpRmJzZw?oc=5",
-        "domain": "www.bizjournals.com",
-        "publisher": "The Business Journals",
-        "publisher_url": "https://www.bizjournals.com",
-        "language": "",
-        "seendate": "20260928T184000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Microsoft SharePoint Server CVE-2026-65660 Actively Exploited: Critical RCE Vulnerability Threatens Unpatched Systems",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQelhrMUJRR3VETGh0TmQ0RlNqWTJPeEM1NUkzZUhiSnVkaThFTTQ2N09jZFcxZ1lzSW5KeUpXZnJla2o0b3B5Rmp1YWgtRG54bHJfVkRkaENadjRTX3hEVWhHNjYwVXhlMGpBel9UMlBlUEhCbnVLN0tBYzkyQ3lENTBfU0QwWmprNVEtaVhnQjctRGFmUmo1SkxkVGpTeW5YYk9PWkNzbVI0Q0luUWphTEdPQ0wtQ1VhQnJ5eHNCN1RxM0lSSzkxaWZyalVBWnhaamJQWHc1dUV1UDloa3c?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
-        "language": "",
-        "seendate": "20260928T061756Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Jewish community not immune to financial vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaFMteU5fNHZ4Z1RRNWV1X2w3U0d4emRKaUJqamcxVlRybEo1UTVaVzlpU3BrcDJYSjN4SkxOeTNHN1FWOTlHZm9OQ0ltVnpHMHgzWHdNOEcxdWw2MGpqVGR4Y0pmZGg3U0FhUW1kQzl6OWhNTnBoREp1Z3NrMkpPYXliemNqV1VVYTJWU3NKWXdmLW1BNHRPZFNqdllXOHl5NXpIbVlGYXA3aG5wQ2RJeEttaWNLSzZfYy1haktnbnRDWElzMk55anZQNHhWZXp4QUJ0X2pzcFU4SXNqUS02STVnRXQ5c2NiODVfMtIB8gFBVV95cUxPNkNnRmRacG80c3dtcFkxWFJQWUI5cTVyUWdEeDczMVN3dzF4U3k0NElOZ09PbjN4Mng0TXRtbGZhQWJmZjdwLThaVDBlR216NFU4d0xMLURxQThPRVVqM0ZUbnF0Tm0xWTdfVWNYMlVSOG5EWXRqVUprUWZfQ1VsSXJsa2NkNEdBc2NITzdKcVFTdWdvRHpkdkFLcjdVeUx5Q19GOUtEWlVRNFhJY2l2aUtJdGlGZndFenlEdlYyQzhZclpvdUFwUEpfblNOUU9ndW1zTEFLby1ZdWxob3lqdzZGZ0xqb1VHWDZCVllMZFk4Zw?oc=5",
-        "domain": "www.clevelandjewishnews.com",
-        "publisher": "clevelandjewishnews.com",
-        "publisher_url": "https://www.clevelandjewishnews.com",
-        "language": "",
-        "seendate": "20260928T123000Z",
+        "seendate": "20260910T070000Z",
         "source": "GoogleNews"
       },
       {
@@ -405,37 +395,7 @@
         "publisher": "CUTimes",
         "publisher_url": "https://www.cutimes.com",
         "language": "",
-        "seendate": "20260928T210509Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kiteworks tells users to shut down servers amid fears of 'imminent' cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWI4V2c3Q282RDk1Z0wzaVNpdzQzbGtWT2o2NUlwZ1lJNktETlp0dmVXejg0cHdTNjM4a0t2akNRZDN0TUlEVldrbTNBLTY1VU5pNjhYbzZoWmg4ck5nSnpiMnA3U0FnSjJfcjVvS05SOFZKN1FZVVNqOEZENlFjUUxPZmthdU5YLUlxUG1Ia1JOMEpkQ0tZbnlCLXhUZUNrYTB2SXpfbjdOWmpVNXhXQy1GczlyMms?oc=5",
-        "domain": "www.techradar.com",
-        "publisher": "TechRadar",
-        "publisher_url": "https://www.techradar.com",
-        "language": "",
-        "seendate": "20260928T142000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack in Berlin: 1.4 million files on the dark web",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWWFNcEtKR0NvbG1FRm1FMnpjeF9tdzZubkhYSnVfSXllZVlRNFM4MWM2TmluU3hmZWd5Y2dNSHR6NlI3eWpLUUJrbk1Hd1VQTEtyNGcxdG1yamVKZUdvOE02UkhCQTVHQjJwbHJpS1FPZnRadzJsTURBRXJIZ0hoVEtmbEVWVzN1RTZmVDRkV0zSAZABQVVfeXFMUHA0V2NuQ2toR3B4Z3ViTmlOb2lYS0hrdUxkeDhZc2J2Qkh2NEhObWdLZnZtQUgtXzlhSUZ3X3RCRlp0QmdVWHlMLVdrOVhQRVZ3QVhYWXAteTNaXzlQTnRxTEhXZEdnQk9oTF9mR1pVb3k0NzVWdUlhVVhmZG1ZRnJ1OUtTZnZxQjlPWjVidlZu?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
-        "language": "",
-        "seendate": "20260910T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Arizona courts report cyberattack, possible personal data theft",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0RSZFVHQkJ5RG4wWHFCOVVZUGZ6enNNWHhiaDhXVDd4d0lUSTJ0dHUyTE9NUkRmOE5Sb1E0UjBEcjRoMlIxQTR3WUxlWlBQbU1LUnozcHhGOVlQT2tIMlVHYWY3THBRa29oNVBTVGd1b2s2M1hvQXV0Rjl0OW5iQlpwNWhfRkZCREo3M2NSUGg1UQ?oc=5",
-        "domain": "tucson.com",
-        "publisher": "Arizona Daily Star",
-        "publisher_url": "https://tucson.com",
-        "language": "",
-        "seendate": "20260928T160230Z",
+        "seendate": "20260928T211404Z",
         "source": "GoogleNews"
       },
       {
@@ -449,6 +409,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWHN4cW5EbDQtM0ZtOHpYbWFubTdlWVlSUkdHQ0ZZT1g5dVVxaDlsZ3c2ZWluczVHYjVqY0ZldHF1d2xDTFBTQTJvTGg3d1NQQ09ITzhNNlJOblkwNDY0Q3VKNlg5bXdfdlhsSHVjbk95RTFZYkM2MEVlTmoxSU5KVGdrMFN2NjdiUjZ3RWtkaFozSi1PSVM1dkNJMWvSAaIBQVVfeXFMTnc3MkZOX0VQWHdWeU5nYVRXQjVWYWEzUk9IMXowOHlnbmNlSnRaQVJncVlYazV5bFBkSTl1bzdEejBrYS1fcnl6MUgzU3hvcUZiVndRdWxzM3pGVkduMzlkX0NrdUhSN3Mzd0hpa09naENLUEVjVE16b1BmT0UtT0JiTEF6a2dsbzh2UVJFN2U3OVVhcGR6NktRODVhYk5kN25R?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
+        "language": "",
+        "seendate": "20260928T072951Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Kiteworks tells users to shut down servers amid fears of 'imminent' cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWI4V2c3Q282RDk1Z0wzaVNpdzQzbGtWT2o2NUlwZ1lJNktETlp0dmVXejg0cHdTNjM4a0t2akNRZDN0TUlEVldrbTNBLTY1VU5pNjhYbzZoWmg4ck5nSnpiMnA3U0FnSjJfcjVvS05SOFZKN1FZVVNqOEZENlFjUUxPZmthdU5YLUlxUG1Ia1JOMEpkQ0tZbnlCLXhUZUNrYTB2SXpfbjdOWmpVNXhXQy1GczlyMms?oc=5",
+        "domain": "www.techradar.com",
+        "publisher": "TechRadar",
+        "publisher_url": "https://www.techradar.com",
+        "language": "",
+        "seendate": "20260928T142000Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlZqdDJMbGltTkJQNU9KZFgwRDdEa0sxZGZDNmdDdWduYk56bXJLcVJPRV9GRnVTOGNldHlaWHRYSFBDaTUtcDhQSWd2UmtwOTFUdjkzdDdxTVMzRFB0T3p3dW43Unh1UFJrWThaa0dlTXBJM2ZnZm1UemZIUDNOUA?oc=5",
         "domain": "thehackernews.com",
@@ -459,23 +439,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Roundcube SQL injection CVE-2026-48842 is now being exploited in the wild",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeW9ybFNvWElZRUNyd2JHcnBjUlloR3p2a3NGd19YWUpUeDJzU3dQbzhwVGNHVDZZYXlmUnpDTk9kRFNlTGxVVzQtREN6ZFN2SVdCQVRPWnJFZmlGT3E2aG5XNEEzUlZwWDlwT3Z4UDJNUEVSd2NfQjNfYWR2VVg5SVdfYVE2MldPb3hBeGp1WllPQWt6bnFPN0ZTb24xMS1ZRENWYjZzTnNsdkp4M0ppTm93UWMtLVNDOTl3V2hrb9IBxAFBVV95cUxNNVJlc1V5dG1VaFV5REp0aVMyeUt1VkgwS05wbjR0Z19FY0ZqRVRkVjNoLWJma09oU1c3MHpKQmFQdzZCbm15UUtpZmROdldYYUxzRVV2VWNPR1FmUG9sdThjS0ZZSFRobVJaQ1JwTDR4aVF6Z05meFM3MkhTb1RQdXVCczV3a3o4bERIT0k0QUFkdTNBU3JiUS00S2FHV1VXaVlzazdFX3VCQVMyLVFvNW82Rjc3eUpheXV6dTFJcnFZUXA2?oc=5",
-        "domain": "securityaffairs.com",
-        "publisher": "securityaffairs.com",
-        "publisher_url": "https://securityaffairs.com",
+        "title": "QR code vulnerability allows attackers to hijack branded domains",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0F3VjhOaFdtdXJSOUNNN29Gd2RuVWgwbml2RFVadUVvcmNNWlM5Y0Z0bmx3R2hfTFlmQUM1X0gxNFplcTdqU3pmSXgxUER3c2xEbVV3QzZYbjdQZHUyTEhjd2lrSWdtOTFnZzdPMWFRTkVSZkZRZ1RNSmRYWnpQbi16Q3psMnB2eDZOS1NaLUxXSkZvZWFaSE13?oc=5",
+        "domain": "www.scworld.com",
+        "publisher": "SC Media",
+        "publisher_url": "https://www.scworld.com",
         "language": "",
-        "seendate": "20260928T062704Z",
+        "seendate": "20260928T215756Z",
         "source": "GoogleNews"
       },
       {
-        "title": "OPINION: Trump’s White House reveals a vulnerability the Constitution cannot fix",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVV9pVWZNei1rMTRBMDZwMXhFamdHenJHaHpJREEwVUlyZGZoWXpvVEVQOGJteUhoN2Mtc09MMDYwZkNSZENad01WVE9pbjBSOS00alV2NjhfUTROOGJxeTRwWHpRYUhqUDJCZWhlNWJDY292a0hzTEdlSjg1X2l6anl6d2EwOXQ0MmdhVkF5QTdVcnBLdEt4SlZQWFplMjJIcHVWUEpPRTRUV2xaMlZpQ2NLTUp6OEU?oc=5",
-        "domain": "www.homernews.com",
-        "publisher": "Homer News",
-        "publisher_url": "https://www.homernews.com",
+        "title": "CVE reporting needs to evolve from its ‘growth era’ into a ‘quality era’, CISA says",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkNGTjNoZW9OamszdkNYYkYyUTBlLWtQdTlnaFB1X2VjQ0lwWTk3U2pEd3lXdGZZeDh0SnpieTB0LTlQM2hUTlNsb2R6VjFwNmsyR0F6azFBb3k3T0hUMmxiaHRYZWdMZ1hNaUpLbnVWb21ZZTRLMEFRNW9NOWN3MVFZTHNRTjcwMF8zMmowWFpsTnVlQWcxQmFYbUlUZTJpSTkwQ3VSWWctRlJEdk1Vem8wTlVFVmwzLXJmTnBfeHJxSTF5T2wwNWZ4TUlWUQ?oc=5",
+        "domain": "www.cybersecurityconnect.com.au",
+        "publisher": "cybersecurityconnect.com.au",
+        "publisher_url": "https://www.cybersecurityconnect.com.au",
         "language": "",
-        "seendate": "20260928T123235Z",
+        "seendate": "20260929T014647Z",
         "source": "GoogleNews"
       },
       {
@@ -489,23 +469,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-87902: Critical Vulnerability in WordPress",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbmVHaGctR3ZxVGlsdTc2RHM2TTAzNlA2bTZFZXJVSEdLck5hYWxwcU1mbmJ3b2JxdVNTNDZ2anV1SElET24zTWlPd1hOajlnZk1LeTJMWXE4THZlTzk0V2hSZkpRcFIyTEdUOHl5cTdtUkdBdUpkQThTM0h2RjJIWjZR?oc=5",
-        "domain": "www.kaspersky.com",
-        "publisher": "Kaspersky",
-        "publisher_url": "https://www.kaspersky.com",
+        "title": "Roundcube SQLi CVE-2026-48842 Hits CVSS 8.1, No Auth Needed [2026]",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKQXBFTm9sQlEtZGxLaHk2aTV6M3FYbnMyWmVFN1RSREtLZEtSaUtTN2NULWUzTWVYaDEtTFpETkpvSEQ2MkRteXh5M1l2LWVkU2dNY1JpM0dUbUlqMXJKbVU1ZWdWYmhjZ2poR0NPaFZ1Wk0?oc=5",
+        "domain": "shattered.io",
+        "publisher": "shattered.io",
+        "publisher_url": "https://shattered.io",
         "language": "",
-        "seendate": "20260925T152346Z",
+        "seendate": "20260928T141550Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUhIMXRsbkFUSnhodWNOUWlndzlDS0NVRl9Tb3pQZl9nSWhxdHUyaUFjX3R0YWRwMEFkc196blh4SEVIVEdxTEpLTS1NZ29Sdk5zZW9nLTRoNmhKa1R0TlYtSDNCSUE1cVNCdVFmMVhNWVJmeC1EMHZKY2I0THFFQlAxZ0RxSkE2RXlFNHpTYUhqQktBV1kwM1J6Y9IBoAFBVV95cUxPaVZkR01nVDA3LVAtc2F0Qko5b2pPSGJXdl8ydWJsZndXMFl5VWxCVEJHaTBmWUpPblQ3dUd5QXhnVUxpeVBCNVdYWktMY3VCeXlaakNJM3dmZm1vXzN0Smd6Tk1SV245ZlFMblJxaFZYRjJJTUduUl9hYzVRR3Ywc2p1WnJ0LUZoRFNBcU9yUHpQT2NQLUxwU20wcUNZUWFu?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
+        "title": "New Citrix vulnerability affects hospitals and government",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFcwMWpaTmUyaEFxVkZpUm0zNVl1T3dHTGh4SWh2a3JpeFpvLWs2TlhZTHZ1a0lJVjRRdWo5Z2VnbUdhWTFtWE9XeE1uQmd1a0llY0JjZDRsWHlJeEtPSTFaYkdRM1BpNzJSWnZJTUd0MVZ5REZVT2VWWEdyU2RINXg5NDd1N3RvYW9fakdsaU92RHFhLVBudUcxSDFwdkpZb1hIZXl3?oc=5",
+        "domain": "www.techzine.eu",
+        "publisher": "Techzine Global",
+        "publisher_url": "https://www.techzine.eu",
         "language": "",
-        "seendate": "20260927T092309Z",
+        "seendate": "20260928T071321Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Clop ransomware gang moves to new server after Grav CMS vulnerability exploited",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2hFNUZkRndfeGRxSjZvU1VJY0c4S2tyNW90cXBGSEc3QklLZTBIR05ZNDRCek44YkF6bkVKejduXzB4UWx1OEJHOUs1dVBGMXVVQVY4QWFFMmYwS1EwOFc0anMtSDRPVl9uQnZwX2E3NGNtZjNyMktTZEl0RGpYMWVVblZWdTI5MnAwcnV0VU5CcS03UzZQcVpzWXR6NWxUVUk4SUg0VnNyLUhGd0E?oc=5",
+        "domain": "www.scworld.com",
+        "publisher": "SC Media",
+        "publisher_url": "https://www.scworld.com",
+        "language": "",
+        "seendate": "20260928T213325Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Jewish community not immune to financial vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaFMteU5fNHZ4Z1RRNWV1X2w3U0d4emRKaUJqamcxVlRybEo1UTVaVzlpU3BrcDJYSjN4SkxOeTNHN1FWOTlHZm9OQ0ltVnpHMHgzWHdNOEcxdWw2MGpqVGR4Y0pmZGg3U0FhUW1kQzl6OWhNTnBoREp1Z3NrMkpPYXliemNqV1VVYTJWU3NKWXdmLW1BNHRPZFNqdllXOHl5NXpIbVlGYXA3aG5wQ2RJeEttaWNLSzZfYy1haktnbnRDWElzMk55anZQNHhWZXp4QUJ0X2pzcFU4SXNqUS02STVnRXQ5c2NiODVfMtIB8gFBVV95cUxPNkNnRmRacG80c3dtcFkxWFJQWUI5cTVyUWdEeDczMVN3dzF4U3k0NElOZ09PbjN4Mng0TXRtbGZhQWJmZjdwLThaVDBlR216NFU4d0xMLURxQThPRVVqM0ZUbnF0Tm0xWTdfVWNYMlVSOG5EWXRqVUprUWZfQ1VsSXJsa2NkNEdBc2NITzdKcVFTdWdvRHpkdkFLcjdVeUx5Q19GOUtEWlVRNFhJY2l2aUtJdGlGZndFenlEdlYyQzhZclpvdUFwUEpfblNOUU9ndW1zTEFLby1ZdWxob3lqdzZGZ0xqb1VHWDZCVllMZFk4Zw?oc=5",
+        "domain": "www.clevelandjewishnews.com",
+        "publisher": "Cleveland Jewish News",
+        "publisher_url": "https://www.clevelandjewishnews.com",
+        "language": "",
+        "seendate": "20260928T123000Z",
         "source": "GoogleNews"
       },
       {
@@ -519,13 +519,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "AI-Driven Cyberattack Targets Adif and Renfe: 500GB Data Exfiltrated from Spanish Railway Infrastructure",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSDdsanV6Ul9JN2lCNUV5aU52VW11V3VCa3A3U1otOVhxVXpvRHNZamt6YUdWV05Wb3FhWUh0RUlqejB0YTd2b2cwNGRMTzgyQkdEd2xNSFYybEdnZDhZNmhpNlVRZ2RaT3pkcndjdmM3ZU1ZNER2VnQ1UGxvclRHYS1WNjd1WUxWZDdoR0FZcTVPR0RwQWJHVXJCUmRvNDR1cWxGTlIxUFBWdnUxTm5Jd3JlRld4b0FucWtKSDFzV1Q0TTZPUWJGakhJYzQ?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
+        "title": "Hasbro cyberattack caused by 'vishing' and social engineering campaign",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSU4xUllmNWlDaWVlMHlnWUV3MzVyWTEwdm55eG8zTUdHM2lSTFJrWG44MGd5Zlh0LWhXRWNYSFhzWXVnaEhuN1Uzc1FsRUkwTGU2Qy1DMDFhbjN6MW91NG90SDF3Z21lUldWWExXUFdDSkhYWFZ2Q24xM0o4bndaZW5YLUpQOG5XRlFLTlk3Y2dBOHQzazFwTlJpRmJzZw?oc=5",
+        "domain": "www.bizjournals.com",
+        "publisher": "The Business Journals",
+        "publisher_url": "https://www.bizjournals.com",
         "language": "",
-        "seendate": "20260928T073256Z",
+        "seendate": "20260928T184000Z",
         "source": "GoogleNews"
       }
     ]
@@ -538,7 +538,7 @@
       "publisher": "Unit 42",
       "publisher_url": "https://unit42.paloaltonetworks.com",
       "language": "",
-      "seendate": "20260928T190707Z",
+      "seendate": "20260928T202422Z",
       "source": "GoogleNews"
     },
     {
@@ -552,16 +552,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnI4b2JTVDlieEZMVGxLQkIzaV9hR2VxSGxYTVRZTlNyb3dNRHZDR2FBQXRhaElDQVBnWFpaSVBHUHllNGxZaFJMcG1lZVhOZWtTcmVWenRMTk5meE5tWjdtQk1WUnZDRWRwM2t2clpCT0lUOHhKdEhOOC1Bc0pIWUZGMnZUSy1uTkQwLXZMM3BvT2Etd1B4VUdNbEVJVXFucUhNTVBvQzNiS1BQZWRYUmw1RmZZOUwwT25jTXlR?oc=5",
-      "domain": "labs.watchtowr.com",
-      "publisher": "watchTowr Labs",
-      "publisher_url": "https://labs.watchtowr.com",
-      "language": "",
-      "seendate": "20260928T123543Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQUUtbE43MU9RQXUtbVFJWHo4Z1dDTEp5b0U1NGhya2s1MFVralVmdjdscHVPcjBTQUMyNEI5NnN6UWVSTVhlalRhMi1VNHFlQk5rM3dOaGJRZW1YSWttZkYwWEZ3WjlzajhQZktSbjhINUxicjNHVGszeG5OM1RxOWYxd3Zzc1FoaDdBOEI4cUd3VU9vV3RVUjl2WkhCRWQycnAtM0NmS2dvTDhWS0wtSUR3YUM1WWVnRjRGYmU1Q3Rrc0s5clNPRA?oc=5",
       "domain": "www.rapid7.com",
@@ -572,13 +562,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Citrix urges immediate upgrades of NetScaler amid widespread exploitation attempts",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQldjTkhIeDJUWFlLLUN4Nkx0ckRfYjVBNHR0aU1JZkJ6d18yZlJWdVRWVjJueVc5bmxfM1RIdGI3MU1zVTZQR3JfLVpBemI1d2g2cXRrellCWUhjdEVCcndOT2YzUTVVNzFvZzAwdFZuX0Z4Ym4taUZBUGxicm15Q21MWW5HMkRyMkt1QTRB?oc=5",
-      "domain": "www.cybersecuritydive.com",
-      "publisher": "Cybersecurity Dive",
-      "publisher_url": "https://www.cybersecuritydive.com",
+      "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnI4b2JTVDlieEZMVGxLQkIzaV9hR2VxSGxYTVRZTlNyb3dNRHZDR2FBQXRhaElDQVBnWFpaSVBHUHllNGxZaFJMcG1lZVhOZWtTcmVWenRMTk5meE5tWjdtQk1WUnZDRWRwM2t2clpCT0lUOHhKdEhOOC1Bc0pIWUZGMnZUSy1uTkQwLXZMM3BvT2Etd1B4VUdNbEVJVXFucUhNTVBvQzNiS1BQZWRYUmw1RmZZOUwwT25jTXlR?oc=5",
+      "domain": "labs.watchtowr.com",
+      "publisher": "watchTowr Labs",
+      "publisher_url": "https://labs.watchtowr.com",
       "language": "",
-      "seendate": "20260928T165807Z",
+      "seendate": "20260928T123543Z",
       "source": "GoogleNews"
     },
     {
@@ -592,23 +582,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Ransomware activity hits 2026 high as industrial sector bears 31% of attacks and Qilin dominates",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ21RM1BuUnozVjdGRGhUc2NLSlljTVlzaHZIbTlKLUFlUjJpVFpRZGVkXy0ySlllaDR5YnFjejJmV0ZCVUhHWk5zXzM2WWx1TWZmSGxfSkRkaGZ1UEsweUZtZkV0akszZDVCb3hDNVoxOTc2eDFfdUVEZjBWcnI0aXl3VDFPQmoxQ1RJeURNNUhaalR5cEs3R0NPNjEtR2JnbUxvUGdsbmZfa3lhUTBVaUFlX0RyVmlvY1dlZy1UYmFCMDZJdWU1LXBqdjlIUTA?oc=5",
-      "domain": "industrialcyber.co",
-      "publisher": "industrialcyber.co",
-      "publisher_url": "https://industrialcyber.co",
+      "title": "Citrix urges immediate upgrades of NetScaler amid widespread exploitation attempts",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQldjTkhIeDJUWFlLLUN4Nkx0ckRfYjVBNHR0aU1JZkJ6d18yZlJWdVRWVjJueVc5bmxfM1RIdGI3MU1zVTZQR3JfLVpBemI1d2g2cXRrellCWUhjdEVCcndOT2YzUTVVNzFvZzAwdFZuX0Z4Ym4taUZBUGxicm15Q21MWW5HMkRyMkt1QTRB?oc=5",
+      "domain": "www.cybersecuritydive.com",
+      "publisher": "Cybersecurity Dive",
+      "publisher_url": "https://www.cybersecuritydive.com",
       "language": "",
-      "seendate": "20260928T080853Z",
+      "seendate": "20260928T165807Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjdIMFVpTXpQMHB3RnZmZlNIVXJ1UHl6V2RLZENGRUYxeG9sZnd1dm80aVd3elVXRl80Z1M3V3FjREEtOEhTejN3LVRZa2c4UkNVMS1CZUQ0eVpYaWNvY2kxOHl4d29XVS1iSXRuVG5uanU2dUtoa3FKRlZLSWhCWFcwM0JWMDJ6QTJiUzRwcGZ6clNOOUQwLW84UjFyaEZVUFcxMzlvZnFvSExCOU5fWG10Y3YwU1RxemN1UDZ0eGlFdw?oc=5",
-      "domain": "www.helpnetsecurity.com",
-      "publisher": "Help Net Security",
-      "publisher_url": "https://www.helpnetsecurity.com",
+      "title": "Apple Products Remote Code Execution Vulnerability",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZURvOEctQzlTUWhxQVFiR3IyeVlqdlUtSnVOSENBajBhY19ka01UU2prNkVscjZlRWZ3V2pDZENOaWdoUHBhYTZ3aWJYbUlmU2NVM01RUnY1WFlpZGp3eUxtcTBOWkg2QVpCamxuVDZ3VkZBRzRMNXRHeVVRR2pXSTdOUHFBOElncmx5LTg4V0MtOHVWU1JDSUJDYVVGYW5BWnc?oc=5",
+      "domain": "www.hkcert.org",
+      "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
+      "publisher_url": "https://www.hkcert.org",
       "language": "",
-      "seendate": "20260928T095132Z",
+      "seendate": "20260929T022657Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Phishing scam may have exposed thousands of Arizona court records",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTB3UURMdU5sTEFIX3MxQ0pWWVZ4MHpILWlWUkMzQURMZElDWUpFQjVhRkM1U1hKaXJsXzFrY21Wa1NpcEZfUVBzZTljWVlHRUZBa0gxN3Q4NkRzVW96WTJuc3Ruc2RwX2RPd0xJRmpwWnpRcVlWandYclc2VEFTb05uNHdPaUd5bnpwUTRIRlFwRC15RXY4TThoR21tNHpROHg3QmFlSW4zWmpjODA1amtCVUrSAboBQVVfeXFMUHdtaUJUaUIzbE9UMDc5bGdBR1ZUTEhnYjRNajNPYnpFWWZ2eVVoRDZtTWFnTTdPcV9vc3BCV2ZkN3F0TlE0S0VudWtJR1BhSEplNlpObnVYd09vQS1fM0xQMEx5VTRMTHAwVF9sOEgxZzNxNVB5a0E5TFlUdGlZWnRTQTRxQ0FxQjF1X3lsNWtZS3VzbE5xRjNWWmRzNFN5M3FnUlNVbENtZ1lFU1B6TFFOUThWNWJwX2VB?oc=5",
+      "domain": "www.fox10phoenix.com",
+      "publisher": "FOX 10 Phoenix",
+      "publisher_url": "https://www.fox10phoenix.com",
+      "language": "",
+      "seendate": "20260929T042129Z",
       "source": "GoogleNews"
     },
     {
@@ -632,23 +632,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Cyberattack targeted Arizona courts. Here's who might have been affected.",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX2trbmUwbWtmb2FVTWhxVVdIbjI5dC1pLU5TZUhlb1pZVWN6UE5QNVZRTXVBUndIc0oteXFEakZMM3Q0WXItb1VLOU1FS3UxZGpEcnZwMzJvanVfdEc2SE92WmhQNjRGWG1DbV9zc0NzcHZha1JGUHRyTGhlWmotTF9fOUd5QlhUSnZVaGxxVXZvbUIydWxHNGhPVVBKOWduN3kyR2F4VGVUMDdDeEpiTmJWQzItQXV2T1lGSUQ5OGNvbDdlNU9kYjRZcVBiLXdrSWRpREUtYmFpcG5hWEtuX2l2YnlmV0xreGc?oc=5",
-      "domain": "www.12news.com",
-      "publisher": "12News",
-      "publisher_url": "https://www.12news.com",
+      "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUhIMXRsbkFUSnhodWNOUWlndzlDS0NVRl9Tb3pQZl9nSWhxdHUyaUFjX3R0YWRwMEFkc196blh4SEVIVEdxTEpLTS1NZ29Sdk5zZW9nLTRoNmhKa1R0TlYtSDNCSUE1cVNCdVFmMVhNWVJmeC1EMHZKY2I0THFFQlAxZ0RxSkE2RXlFNHpTYUhqQktBV1kwM1J6Y9IBoAFBVV95cUxPaVZkR01nVDA3LVAtc2F0Qko5b2pPSGJXdl8ydWJsZndXMFl5VWxCVEJHaTBmWUpPblQ3dUd5QXhnVUxpeVBCNVdYWktMY3VCeXlaakNJM3dmZm1vXzN0Smd6Tk1SV245ZlFMblJxaFZYRjJJTUduUl9hYzVRR3Ywc2p1WnJ0LUZoRFNBcU9yUHpQT2NQLUxwU20wcUNZUWFu?oc=5",
+      "domain": "www.securityweek.com",
+      "publisher": "SecurityWeek",
+      "publisher_url": "https://www.securityweek.com",
       "language": "",
-      "seendate": "20260928T193200Z",
+      "seendate": "20260927T092309Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Citrix Products Multiple Vulnerabilities",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYnI4THAtWmdMZXVZZ0JLRkN4RU5pTXNxX2Q2YkQ3d1ZQNWVjUmhXeE9DbkRoT2pTalBjY1NiSG1lcVU5NWtMVjZzYlRkQ2dsclNYeDBXQUF5T20wRkNCNzBkem5MelEyd1QxY085bmh2S0pnRmR3aG0xdldBaldwU0R6SC03N2xQWllSZ3lfMnRhNklX?oc=5",
-      "domain": "www.hkcert.org",
-      "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
-      "publisher_url": "https://www.hkcert.org",
+      "title": "Ransomware activity hits 2026 high as industrial sector bears 31% of attacks and Qilin dominates",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ21RM1BuUnozVjdGRGhUc2NLSlljTVlzaHZIbTlKLUFlUjJpVFpRZGVkXy0ySlllaDR5YnFjejJmV0ZCVUhHWk5zXzM2WWx1TWZmSGxfSkRkaGZ1UEsweUZtZkV0akszZDVCb3hDNVoxOTc2eDFfdUVEZjBWcnI0aXl3VDFPQmoxQ1RJeURNNUhaalR5cEs3R0NPNjEtR2JnbUxvUGdsbmZfa3lhUTBVaUFlX0RyVmlvY1dlZy1UYmFCMDZJdWU1LXBqdjlIUTA?oc=5",
+      "domain": "industrialcyber.co",
+      "publisher": "Industrial Cyber",
+      "publisher_url": "https://industrialcyber.co",
       "language": "",
-      "seendate": "20260928T023332Z",
+      "seendate": "20260928T080853Z",
       "source": "GoogleNews"
     },
     {
@@ -662,23 +662,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Another lender faces a class action case after ransomware claims",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWFYWFJTZEpoa2FKbFJyc3o0UVljbHNkRGh0QkUyb2pobjVRX09ONjJNTkJyRkZCWGlkTHVWOFE4cFBITkZUUDd3RUxoZHBLdkNHRzdLNk5nekZfT0RWMnh3ZTF4OGhRVEZoODBxTVY1RDJfUjZnY3NKZmhxSVFWc2gyakhjek90QUxIVEx4SWdIRzQ2LWpUQlZ5RTRMRi1Iek5GQ21HXzI2Zw?oc=5",
-      "domain": "www.nationalmortgagenews.com",
-      "publisher": "National Mortgage News",
-      "publisher_url": "https://www.nationalmortgagenews.com",
+      "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjdIMFVpTXpQMHB3RnZmZlNIVXJ1UHl6V2RLZENGRUYxeG9sZnd1dm80aVd3elVXRl80Z1M3V3FjREEtOEhTejN3LVRZa2c4UkNVMS1CZUQ0eVpYaWNvY2kxOHl4d29XVS1iSXRuVG5uanU2dUtoa3FKRlZLSWhCWFcwM0JWMDJ6QTJiUzRwcGZ6clNOOUQwLW84UjFyaEZVUFcxMzlvZnFvSExCOU5fWG10Y3YwU1RxemN1UDZ0eGlFdw?oc=5",
+      "domain": "www.helpnetsecurity.com",
+      "publisher": "Help Net Security",
+      "publisher_url": "https://www.helpnetsecurity.com",
       "language": "",
-      "seendate": "20260928T203700Z",
+      "seendate": "20260928T095132Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXd5YTJ2Mlk5V3l2T3RMeDIyVW5VaGtNR0lLVE5LdlVIMXhDcUFqY2RsOWJrTmxSOEpsREJJYkNJd3BuZlRObjdIQUM3Wm1lQTVteHoyWXM1aWNRVFJxd0xsSWczMkFOSS1EZlVoNnJ1U1B0Z1kwTTJ4NmNVaWxhQzNsN2VrYXZlbjMtV3RiWWthcGIwMnkzNEpSN2wwWE52X254c19WZ2xLcEQ5NFNNcFVoWEpYUlFVLVlpUA?oc=5",
-      "domain": "www.ncsc.gov.uk",
-      "publisher": "National Cyber Security Centre",
-      "publisher_url": "https://www.ncsc.gov.uk",
+      "title": "Swarming Against Citrix 0-Day Exploitation",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zaHdlRXVhdEdhcjk0QW45RFdrMzUxNzlvdmRFYTRfZURKNWE4N2psMGpRWVlvLWlaU3ZJWDFDaWVhRTE0SUVIMnV1dzIwUjNoaEppWFM4djN2ZExWV0R5SHhJdjBnc2FQTVpjU1NWMHdYTnlSYU9xNFV4RmI?oc=5",
+      "domain": "www.greynoise.io",
+      "publisher": "GreyNoise",
+      "publisher_url": "https://www.greynoise.io",
       "language": "",
-      "seendate": "20260928T120000Z",
+      "seendate": "20260928T175302Z",
       "source": "GoogleNews"
     }
   ],
