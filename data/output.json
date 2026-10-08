@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-10-08T14:05:29.644973+00:00",
+    "generated": "2026-10-08T23:34:40.396225+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,11 +23,31 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "38"
+      "value": "43"
     }
   ],
   "live_data": {
     "news_articles": [
+      {
+        "title": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLWsyRW1sbFV4TFZiVmpDTTY3eFZHN1NXRldHYi1qVG56dlduOV9Ia1lFbU9JbENKSHRYMjU2VmRCMzYtcW1uMEw2U1dJQUJhdG9rNHFZQ1NmRXI3SjExcnVrU0VrRm5LZTBleUktZ1FaSWtPa0hScW11X2t4Mm5yTktvV2RpaWdhLXc3dDZFLVEtRmJNMkVfVV81WDNoRlo4b29aTENvbkdRVVdnbXRxdkdwa21iTmJvSkJBejJyQmZWNkltNm0wcGlmTHhoRDdmdElGbXpkWVVhTHlfeHBn?oc=5",
+        "domain": "www.theregister.com",
+        "publisher": "The Register",
+        "publisher_url": "https://www.theregister.com",
+        "language": "",
+        "seendate": "20261008T081500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yZWdTZ3hmWnppV1Nlb3kzNFNmekdDYlBHRE9HWG5uMldkMmh3ZUlPYnJQQVZ2UE8wUlYwZ1k5bG4xWW5wa0c1bkFUWW9LUFdlY2Zwd053M3IwWlk2Rkt1TGVaa2R5QQ?oc=5",
+        "domain": "therecord.media",
+        "publisher": "The Record from Recorded Future News",
+        "publisher_url": "https://therecord.media",
+        "language": "",
+        "seendate": "20261008T171357Z",
+        "source": "GoogleNews"
+      },
       {
         "title": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORzdSb2V0cExFMjhkNzc0SXZOM3F1VzBhXy1XanM5R0Q2R2pNcWp5Uk1xbUQxeVd0TllSQllnSnphV2luLU5IRnRKeko0ZXZWQTBGWFNackJ3Qy0yVGN0dGJDOVA0OHBCT292NmU2ODFoREszRC1ieDhSSkxsZkIyNEJXdU5rcVVfWFp6emRlbndhTHJCamFwRWcteDBqTy1hRE4tVk5CSFE0Q3Z0OGhFM3hGeGJYTUZwUk5FTUV3?oc=5",
@@ -39,23 +59,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ransomware recovery firm boss charged with secretly paying attackers and overcharging victims",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnpMLVBwSEN6OUlCS19iajF4VzJvRVY0c2h2TGNiLXAtcUR5SHk3T3hGR2ZyNUlBZ0kwdEphRmMyRm1EMXZHek1MVG1kbEhOTE8tT0c1XzNyNHlpVi04ZkZTUUkyZl9weEJWUTZ5alY0MFdfdTlVemxISGtZQU9EYnF0X0J6VTctWXQ3WFlsdnk?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
+        "title": "Canadian Mennonite University warns of data breach in cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeDNGYkpZSGRWNVVTU1o5aFAyMjRkbXQ3b3VLN1pkMU5KaUQ3QjZyOWdTVVdGVlNVcHB0a2owUTdXTjNUTnJES21jTFhQYVAwQjNTMzRNQXlhY21BV2JONHhGNlFEWUxrX2ZRR2dkNnc3VWtjSXQzOXM5cjFwZU04MVp0UnJUZzZxXy1JLXcxOU5rcTZI?oc=5",
+        "domain": "www.cbc.ca",
+        "publisher": "CBC",
+        "publisher_url": "https://www.cbc.ca",
         "language": "",
-        "seendate": "20261008T080039Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Building your AI vulnerability harness, Part 1",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWhiVWtMdEdQYmt1ek8yblpKZ1Q3el9PdkhkYzdlS19GMmhDNGQtN090T0luRWxHM3psV25hZWliZ2QzZVptMWNJdmhlakZZdXhTcGQxcFhFN3JPeFBXZDdOYUpTdkFVRjk1STI5UWJveUVNa2sxRV9SY0VrWFNBMXlFTE5xZ3o5eTVXMw?oc=5",
-        "domain": "aws.amazon.com",
-        "publisher": "Amazon Web Services (AWS)",
-        "publisher_url": "https://aws.amazon.com",
-        "language": "",
-        "seendate": "20261007T214943Z",
+        "seendate": "20261008T193954Z",
         "source": "GoogleNews"
       },
       {
@@ -69,33 +79,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Blockchain-enabled IoT security: a multi-layered framework for smart contract vulnerability detection and optimization",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUk03Z2ZGTXRBMHVodWMxc2tlM3hyaWpndWxrNnNMTFpZelhxVkEwSDUtTlRSTEdwemRMQ1ZEZFZsLWZyYVFJZEhtMWg3NENVb3hzQjdhcDRxYWtfOWR3?oc=5",
-        "domain": "www.nature.com",
-        "publisher": "Nature",
-        "publisher_url": "https://www.nature.com",
+        "title": "Florida cyber firm owner charged in alleged $19M ransomware payment scheme",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVnU3UlowaEJtbVdMV0p2ZlZRdjNnSkVUOHNQMzYwY0hqVVFEMlUzVzlQZ2JuUXM0MFRRWHgySGNNR2Vpa1NRWVR0OU1uaEVUWWlHMS1DdUZSQW16cDk1ejFaZEpyOGVsSGRBeTg0VWxHWklybHUtOVVLLTBQVUQ5UG03QUp5UnZWQktvQ24xc3RZUENxVVNQZU5CMmdIOFRld1ZvUDItVklCelo5NFB2RHMxa1JFdDNsbE9OMXUzNk5wMloyMVpPQmF2SHlKZkFyRGJDdkJLbUpUYkdtLWVlRDB6NzdFYWZTeERvS19md2dzTEs0a1NmNE5DMXdERE1oQXBxSmNzcFJpUHhtWkY4QVROdWVRMFRDaHpQMmZIQjFfTEt5LWtVWg?oc=5",
+        "domain": "cbs12.com",
+        "publisher": "WPEC",
+        "publisher_url": "https://cbs12.com",
         "language": "",
-        "seendate": "20261008T115628Z",
+        "seendate": "20261008T182329Z",
         "source": "GoogleNews"
       },
       {
-        "title": "3 lessons from frontier AI vulnerability research",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3gyZHZKWTV5UWVFbU5YaDlwdkxtV0t6bTJWWTVSM2laaG11NU1sNnNIX1NNZ0dwTFJRRTltWmtVcnhzWW9ZbXU4YWZYekdzRUdfbTNIUWhVc1JMaUxaQ0JXNldaNkhQQ1FvQk9JaHpkWktyS2w1Ujlkc0RQcEhnU2Exd0Yyay1qYVM1dnM2VUdmQkFZcWFReFBBSElDYU9sM3k0a0RPQVFkZDQ?oc=5",
-        "domain": "www.microsoft.com",
-        "publisher": "Microsoft",
-        "publisher_url": "https://www.microsoft.com",
+        "title": "Ransomware attack on Winona County may have exposed Social Security numbers",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0pkVFd4allWV0Zkbnk1VUxvenNLMXdqN2ticzBySUI4ck1uV2VIQVRaWnlELVA4UVNjTnBaRXVIbXl5ZC1iM212Y2tNcWVJMnZvdkxfS2R1V2lsVkhoQ1N5cEFONmFCVnRzbXU3N2lzRkZLcXJGQmJodEZwemkyZ1NLaVpMdXdWdEY4cXBvTVlUb1dsTGVGb3JTRDBIc2lCbDNNVjJjUkllR1FELXRCeUJ6LWxCalQxbkdlOVFFUXpaNm9ISHVfVHVZb3lIOHZKS1U3ZUthSy1FOGtGNks5SmdBSmJWbVZzSjlQbFVrSGdTbVVOaXYwT2tB?oc=5",
+        "domain": "www.wxow.com",
+        "publisher": "WXOW",
+        "publisher_url": "https://www.wxow.com",
         "language": "",
-        "seendate": "20261007T160000Z",
+        "seendate": "20261008T220000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "SafePay ransomware threatens T-Systems leak in breach claim",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10SnlERWtpbWVDczZleVlfUWhDMzN6c19TUWdqS01XUGtsdTVqcFpQd0RkRnVpck1lcHM0ZnZ3U1RNbWhtd05jTWlDZ0dpOXV3SDlzUGozZHRIR1dNWnRSNlBUeUktNlN4dEtEQy1pQWZTNWxZNFZwRU9n?oc=5",
-        "domain": "cybernews.com",
-        "publisher": "Cybernews",
-        "publisher_url": "https://cybernews.com",
+        "title": "Winona County begins mailing notices to people impacted by cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUd1eVVWSHhDU0RjSllRNHV6ZF9Zb1I1M3RNWjRXUzNqLVFIclRTbXlla3VFR29hTXFfeEFzVHNSUHZibjdGeEFkaVZHcm52eVBxdXhDMUd0dXhtbXdmd2YtRWJ0eTVCR1k2aGpBMk8yd3dOLXAtb1MwQ2xJSUgtY3lKeFlrQ3JPeWdVZy1jT1laSXY1a3NtbC1XRzNjVFU5?oc=5",
+        "domain": "www.kaaltv.com",
+        "publisher": "kaaltv.com",
+        "publisher_url": "https://www.kaaltv.com",
         "language": "",
-        "seendate": "20261008T110000Z",
+        "seendate": "20261008T204632Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware recovery CEO indicted after allegedly paying hackers and pocketing millions",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTF1a0NkQUhQaS1naUdCWjQwN3NDTE50WnU4OVZVM1JSbnlIa0FhS1RHc0gtUlNfSVBlTjlKZzJZVlBNVjFHaXREaVNXeFRQeTNNOE51TWRHQTRVR0JmcU1FaHVhXzZoZFowakZWOHM5aG95UVpRbFFBb3cxd3FDUUYybw?oc=5",
+        "domain": "cyberscoop.com",
+        "publisher": "CyberScoop",
+        "publisher_url": "https://cyberscoop.com",
+        "language": "",
+        "seendate": "20261008T194559Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware recovery firm boss charged with secretly paying attackers and overcharging victims",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnpMLVBwSEN6OUlCS19iajF4VzJvRVY0c2h2TGNiLXAtcUR5SHk3T3hGR2ZyNUlBZ0kwdEphRmMyRm1EMXZHek1MVG1kbEhOTE8tT0c1XzNyNHlpVi04ZkZTUUkyZl9weEJWUTZ5alY0MFdfdTlVemxISGtZQU9EYnF0X0J6VTctWXQ3WFlsdnk?oc=5",
+        "domain": "www.helpnetsecurity.com",
+        "publisher": "Help Net Security",
+        "publisher_url": "https://www.helpnetsecurity.com",
+        "language": "",
+        "seendate": "20261008T080039Z",
         "source": "GoogleNews"
       },
       {
@@ -109,53 +139,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "GuidePoint Security Reports Record-High Ransomware Activity as Victims Rise 75% Year Over Year",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTklvT3Jma09YS0U3Q0luTkJSc2NjQnBBejA4ZVZUQ3l4Sng5czhGNnY1WTNGeFBOanFfaW9Kdy1GRDhxRmlaTXBTU0tTX2VHWmlVdXk0MmxsVmFVa1dLazQyX2YxNW5mZXlOUnd2a0RqdjUzdVdCTWpBU0FKcUJMRnFhLThSbVJ1ZGJaSlJFaHJ6Qk1YVzFZLTJkdWZDX0lYZnVjZEsyUTRoWWVrSHptc3ZlUFQwYk9OS1lCMDJlTGRQZVlMMlp1ZlZ5aDM3N3FlQ0VDc1pNR3RsZEc3aC1GclMyczY?oc=5",
-        "domain": "www.businesswire.com",
-        "publisher": "Business Wire",
-        "publisher_url": "https://www.businesswire.com",
+        "title": "Ransomware Negotiator turns Cyber Criminal: A Twist in the Story",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdm1LdkQ5X3RfaXdHWlhTdDNESnVUOV9mVjlsdXJHc19FUThwQVZJaVB6UUtDLS1zSEl4aXR1aVQxdHNuRFJRX21oblUteU13TXpDNHdfcExQSkRNYjZ6aVc1ZGlRVm9fRXREQjBvZDNjTlo5QmI2T3JrLWljOGhGaGdDYXRFdDNRdmFiVmFkSERVSHoxWDhXR1hiUWtDMEx0MXJVRDhR?oc=5",
+        "domain": "www.cybersecurity-insiders.com",
+        "publisher": "Cybersecurity Insiders",
+        "publisher_url": "https://www.cybersecurity-insiders.com",
         "language": "",
-        "seendate": "20261008T103200Z",
+        "seendate": "20261008T153851Z",
         "source": "GoogleNews"
       },
       {
-        "title": "MonsterCloud CEO charged for paying off hackers to decrypt ransomware",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlV0Rnk0VTdoSmFWclV5ejY0RXBpTlZodHBDR1JHSjFNemJ4cnNRbzY2RGJRZG5pb0pDdVJOVzZMZTZFM1BhNVFUVUtIYWxjRTJuNkE2c1ZVLUUw?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
+        "title": "Arizona's court system hit by cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYU1USlIxY0xNejlOM1VDVUdURmJJZldmZlZETkJSeG9VaHcxYVk5bFRoMEtxY19WckliT1lBX2M2N19MT29USGxqaGxBQjczaGFoUHJEbXAtaFk0UGJSTXNoVjQ3YWNDdmFWMFBXSFNVY0dJbERLaFo4SnpldExBZk9xZ3VrTm8?oc=5",
+        "domain": "www.abajournal.com",
+        "publisher": "ABA Journal",
+        "publisher_url": "https://www.abajournal.com",
         "language": "",
-        "seendate": "20261008T111029Z",
+        "seendate": "20261008T161200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "University of Illinois Chicago affected by ransomware attack on medical school",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fYTdySVJjWjdzazc5RWRYQVlKVE1rUmpiS2xoTWtmb2VfMXp6S1M2N1ozRE9CbmVSeGw2M0ZHcnRkOWVlOGk4d2Y2Q25xLXBWU3JnNnl4c1ZoQUZaSksyZERHOUlqU3B3aVhQNHNBVQ?oc=5",
-        "domain": "therecord.media",
-        "publisher": "The Record from Recorded Future News",
-        "publisher_url": "https://therecord.media",
+        "title": "3 lessons from frontier AI vulnerability research",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3gyZHZKWTV5UWVFbU5YaDlwdkxtV0t6bTJWWTVSM2laaG11NU1sNnNIX1NNZ0dwTFJRRTltWmtVcnhzWW9ZbXU4YWZYekdzRUdfbTNIUWhVc1JMaUxaQ0JXNldaNkhQQ1FvQk9JaHpkWktyS2w1Ujlkc0RQcEhnU2Exd0Yyay1qYVM1dnM2VUdmQkFZcWFReFBBSElDYU9sM3k0a0RPQVFkZDQ?oc=5",
+        "domain": "www.microsoft.com",
+        "publisher": "Microsoft",
+        "publisher_url": "https://www.microsoft.com",
         "language": "",
-        "seendate": "20261006T020746Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLWsyRW1sbFV4TFZiVmpDTTY3eFZHN1NXRldHYi1qVG56dlduOV9Ia1lFbU9JbENKSHRYMjU2VmRCMzYtcW1uMEw2U1dJQUJhdG9rNHFZQ1NmRXI3SjExcnVrU0VrRm5LZTBleUktZ1FaSWtPa0hScW11X2t4Mm5yTktvV2RpaWdhLXc3dDZFLVEtRmJNMkVfVV81WDNoRlo4b29aTENvbkdRVVdnbXRxdkdwa21iTmJvSkJBejJyQmZWNkltNm0wcGlmTHhoRDdmdElGbXpkWVVhTHlfeHBn?oc=5",
-        "domain": "www.theregister.com",
-        "publisher": "The Register",
-        "publisher_url": "https://www.theregister.com",
-        "language": "",
-        "seendate": "20261008T081500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "BREAKING NEWS: 53 companies in Japan hit by ransomware group known as Qilin",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ORGpNSWQyWm15OGdwOVFvQUFUNHBPai1kT1pyN2Jsd1plUWdzdWJTX0ZoT2JEcWlSWUJrSDlsbXhzemw3UUJSaWUtX3lZc0tZUXItS2M2NjF3Zw?oc=5",
-        "domain": "english.kyodonews.net",
-        "publisher": "Japan Wire by Kyodo News",
-        "publisher_url": "https://english.kyodonews.net",
-        "language": "",
-        "seendate": "20261008T083502Z",
+        "seendate": "20261007T160000Z",
         "source": "GoogleNews"
       },
       {
@@ -169,33 +179,83 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Questlove Reflects on the Power of Vulnerability and Being a Trailblazer: ‘I Gotta Be the Change I Want to Be’",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHUxMVk5bjB6ZHZzX0R0Z1R1R2FKdzd4S0FYU05aa2hHN19qWFc2dkRpOUk2OGg1WWFyWHlmRHkxX0hSbnNMU3VtRUFWWURSeUkxXzFadlgyaUFVS3hhNzdqTWFmUFprYnpLTC1lZ21WbTZ0cWE3OEdORU8ySzFHVlBvOXk1XzBsY3p3Ui1uUVpCV0Rxa0FqSTRPVUZ1SHM?oc=5",
-        "domain": "variety.com",
-        "publisher": "Variety",
-        "publisher_url": "https://variety.com",
+        "title": "Andover Confirms Unauthorized Access To Systems During Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObldZQU9MbzAyWWl2SGtFRDBoNjhNaXRRT3R4UHdzQ3Zpb1hXR2FaYzJWQVdqRl9vZGltVE1hZmM3MGFjQmFpX09BQzFScFBPMXZsYWtia3dIR0RQcW9wTVFjeW03SXdyNGI2VnpBbzMwVXNKWUc0Q2xtWUh6MVFONzFZUnRJMlhwRmFhVlI3andpQzhjR2J4cw?oc=5",
+        "domain": "andovermanews.com",
+        "publisher": "andovermanews.com",
+        "publisher_url": "https://andovermanews.com",
         "language": "",
-        "seendate": "20261008T003300Z",
+        "seendate": "20261008T222200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Arizona courts breached by cyberattack, data stolen for more than 1 million people",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDYyZmxoSVlEbjh0bXpUdVRBN0h3M1JEWmVyenIzZlg2cEJza3ZnM0IzVnFFV2pPcVFDN2twcG42NlVwY1NCTlVWZVQ2T2JTeFFkNHBqbm9pR3pqMzZZWVh4YTJ3c2RXR2xhOWt0cFBCRThfbjBrMkNCRktWTGxmTjJrRnhXTE5oRThhbHJKXzV1SWNYcmRZUlprZ3d1SUV2SGpGdDNmVXRZNWlPdkkw0gHDAUFVX3lxTFA2eG1BOVlBT1hSZnk1OHRIa0xVRkNUM2wwb1lfNUUwLVhSUHdQQ1ZzU3hZdTQxckZPZ3B5QjNtYk1vcldjM0ZBSDNQZE5NcXZSaU50U0xQTHpUM1gyOXVXNEtNeGNmQWVBTUJnN0NlSlZoZjkzVmdRbGhfbHgzNWZ2RUhHYWk2RU9nM3hqVjBMT2lRWGc2TWhzRkdIODRQN0hrOVVxRnN2cHRoMFo0LTdoS2c4dXU0YjdwLXJYY2FkS2JCdw?oc=5",
-        "domain": "www.kold.com",
-        "publisher": "KOLD",
-        "publisher_url": "https://www.kold.com",
+        "title": "SafePay ransomware threatens T-Systems leak in breach claim",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10SnlERWtpbWVDczZleVlfUWhDMzN6c19TUWdqS01XUGtsdTVqcFpQd0RkRnVpck1lcHM0ZnZ3U1RNbWhtd05jTWlDZ0dpOXV3SDlzUGozZHRIR1dNWnRSNlBUeUktNlN4dEtEQy1pQWZTNWxZNFZwRU9n?oc=5",
+        "domain": "cybernews.com",
+        "publisher": "Cybernews",
+        "publisher_url": "https://cybernews.com",
         "language": "",
-        "seendate": "20261008T014400Z",
+        "seendate": "20261008T110000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Aon Ransomware Attack Analysis: Termite Group Exploits CVE-2024-50623 in Cleo Software",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPME15QmhWU2FlOXFsOXRZaERvR0I2NmtWVW1XaHo4blc5d2hFVGc3aFkzbFI2UzlqRmtWTEVjRG5kR2xKUHc3c2d4UHB2QUpmd24wd0dIbEZIWHljZC1MVEpMbVRrYWI0VXhMS2R2VnUxV2d6RGFZb0o2QTc4LThNOEZ2aUs5WEhyZEotTmNpOFcybHNneWsyVFlBakNUOVVTQ3RWVnBHekFwOFMtUElSb2FxTFY?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
+        "title": "Luminis Health systems restored 5 weeks after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXFCcS1laHdneGRhSGpENDREb2lqTC1TSWwtT1ozWHZaZFlZZmlfaWgzUWt5S25oZFM2Mk15T0ZRVTNoOVBBanNWWGs3X1MwYXpfdnVjMGthX0ZPc3QzTWtKMHh4MWFnQ29lMnQ0cTROWHRyeWpnRTI1VjR0R25jbVp1cjUwVTNIQlloV0tLTQ?oc=5",
+        "domain": "www.capitalgazette.com",
+        "publisher": "Capital Gazette",
+        "publisher_url": "https://www.capitalgazette.com",
         "language": "",
-        "seendate": "20261007T081754Z",
+        "seendate": "20261008T204535Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Weeks After Cyberattack, Luminis Health Says Systems Are Restored",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXB6ZzkxTlpSOGtfb2dwVkU2Ti1aUEY3YV9wa2FPazVvRkluR1ZubHdWYkZNRlFOZEw0NTdLMmxrdGFpRWJrbldSRTJIeGpHcHJJWWNqdWlDYkxyZWxRdzBTYnNadVZZWXI5NHg1MWEtYmpuQzVYWEVhVExHbEdPajNWdGg4ekprQmZ4Wmcxb2IzQnJPb0tONF9wSjlhdFBkdHJB0gG0AUFVX3lxTE5CTjdZRTJOUU01QUxzNDJqZWhGaWRUc0VLRURzclBGempSd2tHM2o5M2dTTmEzMlpDXzhfbU9RUzZNMW5INTU5c2ZtdE9ZanFidXNCVTBobmRmTk9uREFZVHBtbE5MLUdodTIxbHhYeXJESHlhY0dJZG9FZEZWbEZ3bk5GTTVwMXRSSWpDZkdra1FVVElBSWN0Q3dmZDZXUUY2UWcxbjltRUNZTUpkdWVyeS1ibw?oc=5",
+        "domain": "patch.com",
+        "publisher": "Patch",
+        "publisher_url": "https://patch.com",
+        "language": "",
+        "seendate": "20261008T220928Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware recovery boss accused of secretly paying hackers",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWU9KSkgzZ01FclFXUXo2SUYxYndrT2FPcjBMN1JBY3lQVm5qMFYwVkR1eUU4Z3BrYlNwZ0FLUUlTcUZxVjVrYnE0bXItYkY2X2xSRlpWd09BWXlJN2YtbGlHcndORFhIMGZTV2lpWTQ5cE5yYkVtU3FFZ1VxemE5QVBMdl91NzdmdHNOVjZMQU1pd0thbWZrWlptcGxyYk0xaXdtdg?oc=5",
+        "domain": "www.bitdefender.com",
+        "publisher": "Bitdefender",
+        "publisher_url": "https://www.bitdefender.com",
+        "language": "",
+        "seendate": "20261008T114229Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware Response Firm CEO Accused of Data Recovery Fraud",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmpVYlc4emoyQjVnMUV4eXVrWVFuTG45TDhsVmJWalZnSGhoR29BS0RkY3NqY3IzNE8xRFBvckZnaGpBYlRjdVltUWluRjFMQUd5UUVjdVh5c0pqNWEyRmFibjFHbGFwZmw5aVBrUUIxOUkyTE9CQ1l1R1p6bGg3TFpXRl9CQy1MbGlqcU1yZ2o2S1RwWUNDeW1Tak5NQQ?oc=5",
+        "domain": "www.bankinfosecurity.com",
+        "publisher": "BankInfoSecurity",
+        "publisher_url": "https://www.bankinfosecurity.com",
+        "language": "",
+        "seendate": "20261008T173416Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Easthampton Public Schools suffers cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMXRyLWVZV0g2NmRuS0NZOTZmTkREWDRtTmw2VEk3SWplclVHczFQWkJ0U3ZjcHRsNnRKWVpIYUZFOEdTYmhqLVN4RVVOMHp3VDc1eFY0SEpXLVZVMTBXSUJ2YV91aUtvZ3dLSERPMmtyTkJ6QldLSU9KRFdHY1R6ZzM0WDBpRFpGZVE?oc=5",
+        "domain": "thereminder.com",
+        "publisher": "The Reminder",
+        "publisher_url": "https://thereminder.com",
+        "language": "",
+        "seendate": "20261008T155607Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Blockchain-enabled IoT security: a multi-layered framework for smart contract vulnerability detection and optimization",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUk03Z2ZGTXRBMHVodWMxc2tlM3hyaWpndWxrNnNMTFpZelhxVkEwSDUtTlRSTEdwemRMQ1ZEZFZsLWZyYVFJZEhtMWg3NENVb3hzQjdhcDRxYWtfOWR3?oc=5",
+        "domain": "www.nature.com",
+        "publisher": "Nature",
+        "publisher_url": "https://www.nature.com",
+        "language": "",
+        "seendate": "20261008T115628Z",
         "source": "GoogleNews"
       },
       {
@@ -209,13 +269,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUEhFSVp1Rkt4N3ZuRUh0REtwWTRlREZNaUFleDNPVl92QjFocDJ1bFZwQVZHb2NZbVBWOFZyS2tNU1FoaVdwUklteWxucGV4M2FHMTVRREFaUnhzTGMtd0RBbWh5MGYzXzFjdk5kSzl2MmhfSWpZU3RQeERMSFZGeV9QYmp5WEcwaUNyYkl5SThlUWVwUDRsV1QxMXVybEZfWHRMQXBNYUxJT0hpTm5OMXRVZDhoR3FpZDlxVXZoWXB0NUsyaTZPSWY1alRRWmptaEpNNTEyeWtsdw?oc=5",
-        "domain": "www.theregister.com",
-        "publisher": "The Register",
-        "publisher_url": "https://www.theregister.com",
+        "title": "Ransomware gang targets FlyDubai - and says it has Boeing's code",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0JBN2FMTDMwa01hZmJhcWdrSlVBc0R4U1ktNnl0Q2hXcWx1MGE4ODZTQ3B3M0lkRWcwbERadlIzV0VXSTB4cDRWei16QTlQaGMwd3h6WDBkTi05UUkwaGVoSFI1aEdPbi1BOENRRExkZlB4Nko4bHRfakt2dW5uMDk0YlFpV1dpLUlUR2Nzbm1nRVh4c1VBRGhDREItb1BxQXZvQ2pRRWI4RGEwb3Z1OGxVV1NDYVd2ekNVWDhWcV8zWDA?oc=5",
+        "domain": "www.insurancebusinessmag.com",
+        "publisher": "Insurance Business",
+        "publisher_url": "https://www.insurancebusinessmag.com",
         "language": "",
-        "seendate": "20261008T022955Z",
+        "seendate": "20261007T162842Z",
         "source": "GoogleNews"
       },
       {
@@ -229,13 +289,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Arizona courts breached by cyberattack, data stolen for more than 1 million people",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkZuMDNkeEJfaGlFcXRmWFc4NVNVZENUTjY5aTNReHViVy1ZRFMwNnBNMVVYTDllNjZHa0V3aEFNclJscHMwdE0zTFVmUThWN1QwRFBjamI4eEJuWkdUR1U1WWJ1OHR6WHRyaExVeE9BVVczUWR1eVp2ZjRwaHU3SHQ0Tm1VU0pQb0VKV1A1RGw2cVRvYmpMSHBrdlhoemdRZTdPeDNVVGNmeW01R0w4QzFJS29OdkE?oc=5",
-        "domain": "www.kold.com",
-        "publisher": "KOLD",
-        "publisher_url": "https://www.kold.com",
+        "title": "Ransomware remediation company owner charged with defrauding victims",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXZhSk4ybDQtTkFOQzFQa29GeXZTYjhNTlRSdlF4R0lfUG5RZEFfVmtnMnZPVThfWjhpM1pvZ3VGMF9wM0xMZFc3d3JGaFo4YzQ3TGVOY1lQSE5NMmdkNzFMZ05DXzZHNnBCV2REV3ZXYVlHdGtRaXFrS2tWb2IyZ0R3b1RkSHMxYlVWZXlGT25WTEVWN1NUdVhLcnVqNHc?oc=5",
+        "domain": "www.scworld.com",
+        "publisher": "SC Media",
+        "publisher_url": "https://www.scworld.com",
         "language": "",
-        "seendate": "20261008T004131Z",
+        "seendate": "20261008T150304Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US-Israeli owner of Florida ransomware company charged with defrauding clients",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDhQTUZySklhaTkyNjZhejl6blh4N3NVYjhQM3NmamhmVDNJSDZRaWRteVltNmVyUjNSRU8wM1dUa2J0Ulh3YVBIcFF1alFWT0N0YkZJOHVDaDFxbWZCc2pyOWV5aE1MMUk2NjZGeFNmbXlQYmhxcFpIRHRIZE5kbjJfYWdYQ0tDZWxpU3RXYnFOYkhmZU9IQi13S0tUdEdKYkdmSk9MYmlqRE9EUHBWVHpB?oc=5",
+        "domain": "www.jns.org",
+        "publisher": "JNS.org",
+        "publisher_url": "https://www.jns.org",
+        "language": "",
+        "seendate": "20261008T182345Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Building your AI vulnerability harness, Part 1",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWhiVWtMdEdQYmt1ek8yblpKZ1Q3el9PdkhkYzdlS19GMmhDNGQtN090T0luRWxHM3psV25hZWliZ2QzZVptMWNJdmhlakZZdXhTcGQxcFhFN3JPeFBXZDdOYUpTdkFVRjk1STI5UWJveUVNa2sxRV9SY0VrWFNBMXlFTE5xZ3o5eTVXMw?oc=5",
+        "domain": "aws.amazon.com",
+        "publisher": "Amazon Web Services (AWS)",
+        "publisher_url": "https://aws.amazon.com",
+        "language": "",
+        "seendate": "20261007T214943Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "TruStage CEO: Cyberattack Has Tested Credit Unions' Trust in Company",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXJjdHcydkcyeDducFFmQ1BXMnpTenVycGdFYUNHOHFyd3VKcEJrRzhOM3V0T3NCSktRU0g3UERwVmdrNUx4a3RIOUtXZ3Bpd3M5UTFWSkoxNXFGdU5OMFVjbDZreXFjdlZvcUJqUHpBU0lTakRaNjBUandCYlc5aHM0N3BHQkhpakNSd0VyWk1sQTZQemhXTTJVY28zeG9VX1hCMg?oc=5",
+        "domain": "www.cutimes.com",
+        "publisher": "CUTimes",
+        "publisher_url": "https://www.cutimes.com",
+        "language": "",
+        "seendate": "20261008T204425Z",
         "source": "GoogleNews"
       },
       {
@@ -245,47 +335,17 @@
         "publisher": "Princeton Herald",
         "publisher_url": "https://princetonherald.com",
         "language": "",
-        "seendate": "20261008T130852Z",
+        "seendate": "20261008T131806Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Easthampton schools goes back to paper and pencil following cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYlhNdk9iUWxxU0p5X05WQVpqWVd3cXRBR1NkZnktTGwwRWJSMHpId0FpemVKeFVaR04xTmhrekdRRTVJZ2lHZGdKc1psU01nMEtFZGJsWVpSS0RfV1VkUTM4R01ZZ2Z5NzJ5Qkg2VUpCdjFxeS1fb1E2TThRVW9zMl9WcXJ3LWgtTGUwb2JfTDk5S3hIN2JZekM2Y2FHMHJBRWlxSUpiejB5SHYw0gHAAUFVX3lxTFA2RERCRjZPS295RS1Ga1RfRWRpVVBuTWZoOG15Q08zSTVmRVU2ajZSRDNMcFdWaEFMQXB3VGttd05lRG9FeVJNVkpaYTFxakpheHFLa3NyekFUdGFWaGxKS0U4MmZUUWoxd2dSY2NOR3lyM0pncE1zSk5QTEpWNjNLTllNMHZ1N2xkNmIzbFBQZkRLSF9sakVfYnJiWTdhWmFEVE5YdDJJWU9oYWNuOXU0aTFxT0NjRldxVUFpNEVoUw?oc=5",
-        "domain": "www.westernmassnews.com",
-        "publisher": "Western Mass News",
-        "publisher_url": "https://www.westernmassnews.com",
+        "title": "53 companies in Japan hit by Qilin ransomware group",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE9FZUdXaWVIQ1MtVWFMdDJ2aHZWYVBmVVd0Y2NRdDdTNmg5NElWakdfRmxwM2w5aUVVM25CUGRHd0V6T1l1eFVPY3ZWbVlDZVVCcGFRV2t6MllBTFdHVDFmakZ0blAteUZ0SFJ0Mm8xOE90Vi04dGZJRVlKNFVBem9iNW1SVFhSWUZ2TklQeGFTYm1Oek5jSk1tR2dweXNoT3cteWxsT2tFUVpfdVd0aA?oc=5",
+        "domain": "japantoday.com",
+        "publisher": "Japan Today",
+        "publisher_url": "https://japantoday.com",
         "language": "",
-        "seendate": "20261007T193100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Aon Ransomware Claim Reopens Cleo CVE-2024-50623 [2026]",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xaXZjaEQtekZDQlptRXhFMm50b2FxS1NMSlpPM1gtQlhXa1pzWHpNTU1UdFBHQXhfYzNaMlE0UEkzamhOM0NzMl94VE1YNngzQ0JNNzBodDJvS1lTT0RNZDNMb3NXQ3N4TGtVWFdn?oc=5",
-        "domain": "shattered.io",
-        "publisher": "shattered.io",
-        "publisher_url": "https://shattered.io",
-        "language": "",
-        "seendate": "20261007T151857Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "No EDR, no problem: how Huntress rebuilt an Akira ransomware attack from forensic leftovers",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWktvV2VvaGxfM18yTU84NGhZbDNZMmZjLTRGb2RzX2pGcnJsakRvSm0zMTFIaEpHc0R1WDllTF85X2pWVkl5bGlBOW5mMkM2ZFpzOTlvYmlSSXE4VFpBUGxrTlQ4YnVQb2hJUF9ldDdvcnh4dlNPTF90eFVabnkwek9WTFpTNGtzWUJySkVMTnhneVVFTWlaZXZYTlZESWlkdXZIMkZnYVEzeTB6cE5rcldOY1dya2ZETXItMnlzbFowemtjRGZJR1lQbDU?oc=5",
-        "domain": "www.itsecurityguru.org",
-        "publisher": "IT Security Guru",
-        "publisher_url": "https://www.itsecurityguru.org",
-        "language": "",
-        "seendate": "20261008T101600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GRIT Q3 2026 Ransomware and Cyber Threat Insights Report: Top Takeaways",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRm9vLVhnQlVSYWJPUTdpR2U1VDg4bE15SW0zMDQ5T2RGd0o4bFJXNE5CVExyWW04YTlfcTUxaG9CTmRKTGQ3bjZ2N1ZfVXBMdV9TbzM0SDBOb3B1dlNsUzNjeS1FSTFvSFBqeGUxSWZmWXBCNTFrUW9VSzI5MW5TYmtMT2p0TXVZVEFvbTNISVN3MEVVZU5NdzQxR3NyaGctakxfSjRacm5FUVhEQUE?oc=5",
-        "domain": "securityboulevard.com",
-        "publisher": "Security Boulevard",
-        "publisher_url": "https://securityboulevard.com",
-        "language": "",
-        "seendate": "20261008T103644Z",
+        "seendate": "20261008T214500Z",
         "source": "GoogleNews"
       },
       {
@@ -299,23 +359,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "AI Agents Now Launch Full Ransomware Attacks on Their Own",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNU9VRGIzZi1ISUFlTHN1cER1NmNwZzNWdnZWZURXaFk2RmM4TFZJekUzWXBNX3B5blBYb1REb1JGUkc2aWMwcXkwSnlDN3RmdXp2UDhQMUNsNVVjeHItM21GQWE1UTZsS0lrZTc1VWZEUTBicVFycWtKZUk4eGpDc1NWQmR4VUFt?oc=5",
-        "domain": "www.forbes.com",
-        "publisher": "Forbes",
-        "publisher_url": "https://www.forbes.com",
+        "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTXprUi1HRkZweDZOSVNYVWU5alVwdnVrOHZaT2N1anJRM2YwMWtmMHhqNzRZSU5nY3RUR1FkbmFES0VJckNCTVluRVFLRDVWX21VYnJMYU96N21TblZLS1hiaExMcm11eWV4U3pVZWtIbzlWTEVnMDFhUy1qQVBoN1h2eHFuVlJXaWl4aDNmRlN2V0dpZ3FXNzFVZXczcnFUOUpLWHRVaGtuaFJIUlNQTdIBtgFBVV95cUxONGJfZUN0S2FJWGxOYWxuRm1lQXpwYTRWTWd0OENxTGZJMFg1RHo3eUQzajVBalotQ2tPSTJTb0VQeHU1ckxhVnhabUtTQW5lTGtWQ1hua1JZMjVxeU05WnJLaE54aW1qSUM1My00XzBxT2Z5VVBOMWZ4WGRsZnRTX21qSWVRcW5KQnpYaFNmWHp6TTI3MW41YUpYOE9vd0duVnZfMXpvNjYydGpCVTNPUkZTMG9ZQQ?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
         "language": "",
-        "seendate": "20261007T153416Z",
+        "seendate": "20261008T140444Z",
         "source": "GoogleNews"
       },
       {
-        "title": "AHEAD Joins Chainguard’s Athena Coalition to Help Enterprises Turn Pre-Disclosure Vulnerability Intelligence Into Verified Remediation",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlcxYVYtMi1tT3FSTkxSaUhneW9aNmkxR29ZZzRCbnBDOTVac1M0T2dXZy1ZNno4Q291dmJ3V29MRU9HanFHY245TXpqTTdqbDh4UkFJUGZwWlBnQnM2TWFuWEltYkx6TDZiQ0ZzajdEcy1kUEtDNTVYUTFWc1lvc2YxaU9ySk5fZmNSTFp1ZzdDYWNWS3NLdVl6bTMyeHFMLWZHMUt3?oc=5",
-        "domain": "finance.yahoo.com",
-        "publisher": "Yahoo Finance",
-        "publisher_url": "https://finance.yahoo.com",
+        "title": "MonsterCloud CEO charged for paying off hackers to decrypt ransomware",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlV0Rnk0VTdoSmFWclV5ejY0RXBpTlZodHBDR1JHSjFNemJ4cnNRbzY2RGJRZG5pb0pDdVJOVzZMZTZFM1BhNVFUVUtIYWxjRTJuNkE2c1ZVLUUw?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
         "language": "",
-        "seendate": "20261008T130000Z",
+        "seendate": "20261008T111029Z",
         "source": "GoogleNews"
       },
       {
@@ -329,6 +389,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Aon Ransomware Claim Reopens Cleo CVE-2024-50623 [2026]",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xaXZjaEQtekZDQlptRXhFMm50b2FxS1NMSlpPM1gtQlhXa1pzWHpNTU1UdFBHQXhfYzNaMlE0UEkzamhOM0NzMl94VE1YNngzQ0JNNzBodDJvS1lTT0RNZDNMb3NXQ3N4TGtVWFdn?oc=5",
+        "domain": "shattered.io",
+        "publisher": "shattered.io",
+        "publisher_url": "https://shattered.io",
+        "language": "",
+        "seendate": "20261007T151857Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SeXdMTGgwb09lRmNUdjQtNEt1WERub1kxRVVKaXBaSGhUZEh5S1BnOXJrOE1xQjRWdldVdWEwUkFTdFNRbGJ4bnRjQUgxSEViX0RlQmMxbkVjaWNkR0w0Q0wzRVRpbm50Ukc0alVoMGxuekhMc0E?oc=5",
         "domain": "thehackernews.com",
@@ -339,63 +409,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Object First Named 2026 ‘Post-Breach Recovery Solution of the Year’ by the CyberSecurity Breakthrough Awards Program",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTkwtNVdac3cxRUZPcEJSM1NiNUdtRUxOa3hYM1hCWGExU3M4TFR6WnNPWjB3a0czcXl2T2JIWmtkSmZ6OGdWME00d2tfa2dSR2VjLXV4YUFGS2pzZDlRUUtiYU5CMU9BMVhlcFhfdmd1andCc3V2QWE5c3puWmFnaTFKa2xXX1pXM09ra3V0R1dkNE5kWmN1WUdHcV95cjZaNXB2bzk5Ry1RUXBVLW5mM0tyLWwwZUQ0T2pTWG9kMnBCbl8xS0t3aUo4aTlCdlR6U2duaU9KYU9nX0ttM0x6bFBLZEFVS183eWQ3Mk9WdkRvSWRVdDhtV1VqOVktSXVa?oc=5",
+        "title": "No EDR, no problem: how Huntress rebuilt an Akira ransomware attack from forensic leftovers",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWktvV2VvaGxfM18yTU84NGhZbDNZMmZjLTRGb2RzX2pGcnJsakRvSm0zMTFIaEpHc0R1WDllTF85X2pWVkl5bGlBOW5mMkM2ZFpzOTlvYmlSSXE4VFpBUGxrTlQ4YnVQb2hJUF9ldDdvcnh4dlNPTF90eFVabnkwek9WTFpTNGtzWUJySkVMTnhneVVFTWlaZXZYTlZESWlkdXZIMkZnYVEzeTB6cE5rcldOY1dya2ZETXItMnlzbFowemtjRGZJR1lQbDU?oc=5",
+        "domain": "www.itsecurityguru.org",
+        "publisher": "IT Security Guru",
+        "publisher_url": "https://www.itsecurityguru.org",
+        "language": "",
+        "seendate": "20261008T101600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware Victim Count up and other Digital Transactions News briefs from 10/8/26",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWHFUNlF3dElWODFVRms4bG5lRlFicmJCcjAwclpuLU9lNGdDMGd6VzdEbnRva29ydC1mSkZhTjR6WVVTMTNFb0tFLVVNb2lMVEtGQjhtSDA0TlhCYVpJVUhCWjBmY2hVaEFicGpvWURGM3FqMmRnLUx2SHRjc3FQUms0Z3FYMU9VdGxnZWtTWElWcF9GODZzOHV4R29YY1hGYlRoSVVrX1plRm5peGF2UUdiZUl2VUNLSnhB?oc=5",
+        "domain": "www.digitaltransactions.net",
+        "publisher": "Digital Transactions",
+        "publisher_url": "https://www.digitaltransactions.net",
+        "language": "",
+        "seendate": "20261008T131800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware recovery firm owner charged with secretly paying hackers, pocketing millions",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3cweW13TzM1Y05HdlVReWlUcUtrNGFvYlo5OWUycHFhR05JaG1aVk8xdXM2WEhaN1gyMWs5REQyb3BRYU9ENGEzbk1jNGpXWnVLdnVzU2xtVC1xcm1aMmlRS1FJVEUySDZBOTdPZkNMYlRNd05PRkpZLUlhY0pzdXBvZUZ0RS1UeHBYMVYzekFFaHo5NHBCNEJ4dVo2UXZYZ0JOOEZ3WENBYUpMVXJ1VQ?oc=5",
+        "domain": "www.washingtontimes.com",
+        "publisher": "Washington Times",
+        "publisher_url": "https://www.washingtontimes.com",
+        "language": "",
+        "seendate": "20261008T182941Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "GuidePoint Security Reports Record-High Ransomware Activity as Victims Rise 75% Year Over Year",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTklvT3Jma09YS0U3Q0luTkJSc2NjQnBBejA4ZVZUQ3l4Sng5czhGNnY1WTNGeFBOanFfaW9Kdy1GRDhxRmlaTXBTU0tTX2VHWmlVdXk0MmxsVmFVa1dLazQyX2YxNW5mZXlOUnd2a0RqdjUzdVdCTWpBU0FKcUJMRnFhLThSbVJ1ZGJaSlJFaHJ6Qk1YVzFZLTJkdWZDX0lYZnVjZEsyUTRoWWVrSHptc3ZlUFQwYk9OS1lCMDJlTGRQZVlMMlp1ZlZ5aDM3N3FlQ0VDc1pNR3RsZEc3aC1GclMyczY?oc=5",
         "domain": "www.businesswire.com",
         "publisher": "Business Wire",
         "publisher_url": "https://www.businesswire.com",
         "language": "",
-        "seendate": "20261008T120000Z",
+        "seendate": "20261008T103200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Vulnerability to heat waves varies greatly from one area to another within cities",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeU5yX1dqU3RBeDRaXzZGOUFKZm5ZM2FKQzFZYU1SblFhUXhybU53RkFOTmYtQWhnZnlNMjk5S3VXaUFtN1hLdl9lY3VzYndyNzBwZnR4MXZqTGJHNmhTdVJNLUJQLXFtX0c1Qjlhb0NYOGdETEtxSEEyd2pNdk1pZQ?oc=5",
-        "domain": "phys.org",
-        "publisher": "Phys.org",
-        "publisher_url": "https://phys.org",
+        "title": "GRIT Q3 2026 Ransomware and Cyber Threat Insights Report: Top Takeaways",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRm9vLVhnQlVSYWJPUTdpR2U1VDg4bE15SW0zMDQ5T2RGd0o4bFJXNE5CVExyWW04YTlfcTUxaG9CTmRKTGQ3bjZ2N1ZfVXBMdV9TbzM0SDBOb3B1dlNsUzNjeS1FSTFvSFBqeGUxSWZmWXBCNTFrUW9VSzI5MW5TYmtMT2p0TXVZVEFvbTNISVN3MEVVZU5NdzQxR3NyaGctakxfSjRacm5FUVhEQUE?oc=5",
+        "domain": "securityboulevard.com",
+        "publisher": "Security Boulevard",
+        "publisher_url": "https://securityboulevard.com",
         "language": "",
-        "seendate": "20261007T204001Z",
+        "seendate": "20261008T103644Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX09pTGNTQ1BXdkthcjNETnAxWHgxc0NMX1VZeXJocGwwN1AwOXRtUUNya1I2NDNTem9TZjlyeFBkZGttZFNxdXdlb1BjeTZLMk5NVld3YktwZGlUWGFGeTBGaHppUG9PMjBHTWtOelR1aW5qNnRXR3lFeFFjSHBUVg?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
+        "title": "Critical Bookly IDOR Leads to Booking Disclosure and Deletion (CVE-2026-93399)",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmJyRV9CRXFrUUxYaGNfRUFST19qclZNeGVweUhTc19KN3BfUFFaWmxoUnZHMjZqWk5DRkphM2QyUWlFY29uajdXa0I3d21MT3dGUFJFNlh1SjVZckdXMXdWaG5PaTRwUzJrc0RVdVZPcWs4VW9XUml4eXEyQi13QnpxejhEdE1pMEtNZ2ZjdFFtVkFOQkIzQ1VpcURFdEZqbzN6UmhOMmtDMV9JTlRuM1c3aHhUZw?oc=5",
+        "domain": "securityboulevard.com",
+        "publisher": "Security Boulevard",
+        "publisher_url": "https://securityboulevard.com",
         "language": "",
-        "seendate": "20261003T143600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Microsoft, Adobe, Apple, and Foxit vulnerabilities",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHFSbWc1MGFIaTlDaDQtOVdIQnRRZEt2Q0tqcG81U3lhX1dRVzRSeVhib3lwdEI4M0lMTzhRdHQtUXdBaUFweWxIYTF1aHhBb1ZwWGxLb2ZLbWJBb2RLY1dFWFNsOTBfWDNGOFB5SEM1aV9NcG9vQkxncXhvanJwRlZOYVp4WUIyLVdZ?oc=5",
-        "domain": "blog.talosintelligence.com",
-        "publisher": "Cisco Talos Blog",
-        "publisher_url": "https://blog.talosintelligence.com",
-        "language": "",
-        "seendate": "20261007T193016Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Japan cloud ransomware attack exposes municipal backup vulnerabilities",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnFYWUZYejhHSWFWY2gwT1pCdDR4UzdHMTRIbmFrc2pwNVBNVGVmeHZrZEl6SmRTdVlRRnhyVnRsY1dyMXlMMzYyZXRzUloySFl2LWU0U2VvLTRCVmtkMHpiU2hyRzdET1ZyYkVKd0FOX2E4Ym1PNU93S3NvUUY1OTVxTXRxTUVLRU5NZy01TXVScDJYNWx5OWpOTl83SmJkVzNOcXBIck9lOC15RHZYMWxGRdIBWkFVX3lxTFBfdmVOVk1JQnM2TXRaanRHNlMxaGdTc2pTZGd2WTlScFVUREgxc0tGVGNQQmREcXFhNFMtaU8tUGtrQS14b242Y0FXMS1teWhwZFZWdXZTcDV5Zw?oc=5",
-        "domain": "www.mlex.com",
-        "publisher": "MLex",
-        "publisher_url": "https://www.mlex.com",
-        "language": "",
-        "seendate": "20261008T080132Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Swiss federal pension fund faces data breach after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0c5T3ZlZG1DVDk1aWxoZWtHUjlsdGRENzBDbVlseURXSmF1RmxjT2F4SXVVMEdhR0hGOEtEazloYjM2bzJzR2VPY0U5Nm9MWjlLaF9JNTQwamZTc0NuVmVxZDR6Vy16c1FWSTNPblJxYzlGLWU1SEhGVm5oeThXUjZjcGxTSU1QNWZ1b25IWldaOXpILVNHOXBRMVp5RUVQQ2MzWmUxb0VPcW5aUGREMmNfcnNCUzQ?oc=5",
-        "domain": "www.swissinfo.ch",
-        "publisher": "SWI swissinfo.ch",
-        "publisher_url": "https://www.swissinfo.ch",
-        "language": "",
-        "seendate": "20261008T065500Z",
+        "seendate": "20261008T155313Z",
         "source": "GoogleNews"
       },
       {
@@ -409,113 +479,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Flock Authorized as a CVE Numbering Authority by CISA",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbG9yUTJZb1IwZnpUbDJVcnEzeVVsRmpFa3MzX0xUS3EwSEhXbnpQcTNLcW5mUWNEekM3YldpOTkxc0U1ZWRKWHRUdVpaVGF5aktHVUVSTkFROEVhUGtQYl9rMEFPOTdXLU9jZExXYUFmbUpCNTVuNjZ1ZUNYMWFBUkIwV1psa0w4MDh1cUx4Yw?oc=5",
-        "domain": "www.flocksafety.com",
-        "publisher": "Flock Safety",
-        "publisher_url": "https://www.flocksafety.com",
+        "title": "AI Agents Now Launch Full Ransomware Attacks on Their Own",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNU9VRGIzZi1ISUFlTHN1cER1NmNwZzNWdnZWZURXaFk2RmM4TFZJekUzWXBNX3B5blBYb1REb1JGUkc2aWMwcXkwSnlDN3RmdXp2UDhQMUNsNVVjeHItM21GQWE1UTZsS0lrZTc1VWZEUTBicVFycWtKZUk4eGpDc1NWQmR4VUFt?oc=5",
+        "domain": "www.forbes.com",
+        "publisher": "Forbes",
+        "publisher_url": "https://www.forbes.com",
         "language": "",
-        "seendate": "20261007T130250Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VtbWtVM05TNUNyR2Z4cGhFMWx3a0R6MDFwVndGMFV3d05RUkZKNHFVVXdwVktPRWdmb3FQSW4tQ3UtaHRlWEw4cDNLOWVhb3dNTmNncXdKel85clJSc050QkhhZFRfUG1hR3Y0bVFtNkxnNGFqbVBfNVhJLXdVYjBpWkFsVDV3SDFhWDNTLTM?oc=5",
-        "domain": "www.security.com",
-        "publisher": "SECURITY.COM",
-        "publisher_url": "https://www.security.com",
-        "language": "",
-        "seendate": "20261001T131825Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Personal information for over 1 million people stolen in a cyberattack on Arizona's court system",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzhnVTcwZUU4Qm5vV0VKekpDZEVkRi1iRGJSbzZJTEVEaVNHOVNSZFE2cDZ6N3BQUF8tWTJLODR0a1hYaUswR0xTaWxNZy1iWElCMklwelpXalRlZTAwdWotb1hFa3M0UGJpTmJKbUV5U1FRc2FKdHM2Z1dTajFVYVBRZnhoNlpaLWNxeUs2eHlLOGhWcVBJ?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20261007T000600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Exploitation attempts against critical Atlassian flaw have begun (CVE-2026-21589)",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWlaRTFuTXJhaDBwd3cyVUphbFBaQnNRTnJfZWRRLW1YdXZGYmRkRXFxY3IyREdyVkJuSG1jOWRTQ0ZjaTBaclRETWdDRmpIaHBOV1RGLTBkMFB2by1hZWZIVjZ3dHBmRlJ4SE5kN3FYbFhwRnV0QURlOFFzQ2pzVEtjZFFwZGNHejZIZjZYd2FKa2dDdDI2TlpuOA?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
-        "language": "",
-        "seendate": "20261007T142135Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware gang targets FlyDubai - and says it has Boeing's code",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0JBN2FMTDMwa01hZmJhcWdrSlVBc0R4U1ktNnl0Q2hXcWx1MGE4ODZTQ3B3M0lkRWcwbERadlIzV0VXSTB4cDRWei16QTlQaGMwd3h6WDBkTi05UUkwaGVoSFI1aEdPbi1BOENRRExkZlB4Nko4bHRfakt2dW5uMDk0YlFpV1dpLUlUR2Nzbm1nRVh4c1VBRGhDREItb1BxQXZvQ2pRRWI4RGEwb3Z1OGxVV1NDYVd2ekNVWDhWcV8zWDA?oc=5",
-        "domain": "www.insurancebusinessmag.com",
-        "publisher": "Insurance Business",
-        "publisher_url": "https://www.insurancebusinessmag.com",
-        "language": "",
-        "seendate": "20261007T162842Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Germany arrests member of Qilin hacker group who was extradited from Japan",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTk2WlRyTFF2RzJfT0g5X1FWcEZNSFBvRGVaY3drcWxZX1NpSktZaUxmUmRyRGtDLVlsMFlhVGNQVzFzZ182cHRORHgwVUZvc1ZfRFFiWkxFWnVVNnM2MGlUV0R5c19udFhtUUtVYVJueTYyWUdmT3hlWHNWaE1VbnRVbE9wc0xmWEJncldVOGFQdnFwSF9vZ2Jadjl3ZExmNGc?oc=5",
-        "domain": "www.japantimes.co.jp",
-        "publisher": "The Japan Times",
-        "publisher_url": "https://www.japantimes.co.jp",
-        "language": "",
-        "seendate": "20261008T121900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cisco Firewall Management Center Has Two CVSS 10.0 Unauthenticated RCEs — Interlock Ransomware Exploited One as Zero-Day",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZDJKM1lvRGlTQ2Y2bGp3NTZ2am9JUnhkT0cxUlo1a18tVmphM0J0ZkdKdEw1N1lkOGE4SHV4TnR4M01sdWpYOElkMllxUWQyYjNnakZENGNHcnZYZVFucm9Pb2ZVNjN4XzVic21DNkY4b1hjaEZ2eG5TVkJhVlJQOGl4VjBWd1pJZ19ZR2loSHltcmhXejdURVJ1WVFVVXVqaEhXN1pRRkZyckNaWVJDV3ZXOTBLZ0Nad1RUczVTMnpUWEVFdl8wdE5jMTUxTHhUSmlGV01Ydw?oc=5",
-        "domain": "forkast.news",
-        "publisher": "Forkast News",
-        "publisher_url": "https://forkast.news",
-        "language": "",
-        "seendate": "20261008T062700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5aDdOQTZxdFJ5cGpFVVphbFZpMnZ5ZGIzUXl2U2RZWkVYRlM0X2Q2WWRXalRTa3kxSWJ2SUtpM19wMUZoajY0SmRmTDNVZTV3WUZ1R2U2QzM2SXFWeW1RWThFZ0I2WUhxTmc?oc=5",
-        "domain": "therecord.media",
-        "publisher": "The Record from Recorded Future News",
-        "publisher_url": "https://therecord.media",
-        "language": "",
-        "seendate": "20261005T231334Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware recovery CEO charged over secret ransom payments",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2tlMjRZb2VuVnd0TGVWdFRtN0IybE9RUXVsRVBIM1RSOEZFUjB0UUZwM2VKQ3JuQmpMNFRpVjVNY0JpZkxWN1ZubmtDYmJybkhNMmh4ekFuQnNJWGxfU2ExeVlmalp6ZlVTSWF0OEZUQVdRakZERVFqQUxHUmNsa2xnc2lhMmo1ZE93NEI0dXE2dzJNSW1WSlZwVDJKay1RSUxhRmdWS3hLaVHSAbABQVVfeXFMT056M0l2WkwwVG5OcWo2NjdWTlFSSko1UVZzVEhoampOMUptSDEzeFhIMjVwYXV4V093TXNlTTUwbFh5a3FSWEg4cXdPRUs3WkFCX09OSXluaWcwMXdsRkN0eUVwTW5Zc2VIeEpLS2hYNFk0ZmpaczEwejJHLWN6Yk9nZkExOTljMDh2SHFqQmUxTnZpWS1SdllBUkN4RU40TmZJaHNaQWpNVE1KX00yeTg?oc=5",
-        "domain": "www.bleepingcomputer.com",
-        "publisher": "BleepingComputer",
-        "publisher_url": "https://www.bleepingcomputer.com",
-        "language": "",
-        "seendate": "20261007T230437Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajY5UExndkV6Uk1QSERIMVBVVTEybWoxZWJJRnp4TXBUN3VsdGNVVmU5MzI0SkdlWU1RN2xGRm40VFFrRGp2aXNfT1c4QU82cFRndlhfZ2FSUmJIaDdXNEtkanA3dGw2T1hOR3h2eTBXU3ljaFZaMHFYVlBiTkpPU1I1TVJfaTBLVXJyck94enhDNVVw0gGaAUFVX3lxTE1TRlFyWXBMc3gzdUYwa09lTVBjYXg2MkZYRDJKdk0yNkFwdkRDNDljWHNZTXRNRmM4NXFrb1J6MVRSNW5oWlFKTFJuMG5URXcyOXotM1k0aHJURTdnMGhLVndVWTJvaE9Ub2R1dC12NFF5RGp6bVZSMFZLQU1UZjk2cmpVbVkwQ09QNWREalVSVFNnaGhrZmpXeGc?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
-        "language": "",
-        "seendate": "20261005T110005Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware attacks jump 29% to hit new quarterly high in Q3",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT21pbU9aTlNOcEUtam14WklfcW1PRjdIX1BDU0lybnZNWGh1ZkU5NkFCV3ZaZ0R1ZFIxSjRMdFJ1OVZ2VWtoWThPOHAtNUFqVHhxc3VnUy1hLTM1UVdNanBQeVotVllDNG9jb3ZNMWVMaFB1UW80Rm9PaUhWUjI1SVJwQno?oc=5",
-        "domain": "chainstoreage.com",
-        "publisher": "Chain Store Age",
-        "publisher_url": "https://chainstoreage.com",
-        "language": "",
-        "seendate": "20261007T123000Z",
+        "seendate": "20261007T153416Z",
         "source": "GoogleNews"
       },
       {
@@ -527,10 +497,60 @@
         "language": "",
         "seendate": "20261007T142500Z",
         "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUEhFSVp1Rkt4N3ZuRUh0REtwWTRlREZNaUFleDNPVl92QjFocDJ1bFZwQVZHb2NZbVBWOFZyS2tNU1FoaVdwUklteWxucGV4M2FHMTVRREFaUnhzTGMtd0RBbWh5MGYzXzFjdk5kSzl2MmhfSWpZU3RQeERMSFZGeV9QYmp5WEcwaUNyYkl5SThlUWVwUDRsV1QxMXVybEZfWHRMQXBNYUxJT0hpTm5OMXRVZDhoR3FpZDlxVXZoWXB0NUsyaTZPSWY1alRRWmptaEpNNTEyeWtsdw?oc=5",
+        "domain": "www.theregister.com",
+        "publisher": "The Register",
+        "publisher_url": "https://www.theregister.com",
+        "language": "",
+        "seendate": "20261008T022955Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Sungrow patches iSolarCloud vulnerability after security researchers gain access",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRFJaa1lLUExzMnBRWE5rLWRCWkFCbnZpSE91bTJVNFYyUFBhZGhFZnJkTWZoUVBxWkN2OW1nMURvR1ZKcFo4czk0TDJNb3hKLXVaZDdVSjRsUW9OX0lXbnpkZDl2Tk5QVHc1T0kzNHpPaVdHR2FkRVNfZTVSRDMzZWV3dE5xU0pqRXZ5dVY0NG9nMHRsc1h4eVBiOVAybnRBQm5ISlN5MVpGR2JpME94d2plbXo4bGRhZnhicA?oc=5",
+        "domain": "www.pv-magazine.com",
+        "publisher": "pv magazine Global",
+        "publisher_url": "https://www.pv-magazine.com",
+        "language": "",
+        "seendate": "20261008T120950Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Personal information for over 1 million people stolen in a cyberattack on Arizona's court system",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzhnVTcwZUU4Qm5vV0VKekpDZEVkRi1iRGJSbzZJTEVEaVNHOVNSZFE2cDZ6N3BQUF8tWTJLODR0a1hYaUswR0xTaWxNZy1iWElCMklwelpXalRlZTAwdWotb1hFa3M0UGJpTmJKbUV5U1FRc2FKdHM2Z1dTajFVYVBRZnhoNlpaLWNxeUs2eHlLOGhWcVBJ?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261007T000600Z",
+        "source": "GoogleNews"
       }
     ]
   },
   "events": [
+    {
+      "title": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLWsyRW1sbFV4TFZiVmpDTTY3eFZHN1NXRldHYi1qVG56dlduOV9Ia1lFbU9JbENKSHRYMjU2VmRCMzYtcW1uMEw2U1dJQUJhdG9rNHFZQ1NmRXI3SjExcnVrU0VrRm5LZTBleUktZ1FaSWtPa0hScW11X2t4Mm5yTktvV2RpaWdhLXc3dDZFLVEtRmJNMkVfVV81WDNoRlo4b29aTENvbkdRVVdnbXRxdkdwa21iTmJvSkJBejJyQmZWNkltNm0wcGlmTHhoRDdmdElGbXpkWVVhTHlfeHBn?oc=5",
+      "domain": "www.theregister.com",
+      "publisher": "The Register",
+      "publisher_url": "https://www.theregister.com",
+      "language": "",
+      "seendate": "20261008T081500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yZWdTZ3hmWnppV1Nlb3kzNFNmekdDYlBHRE9HWG5uMldkMmh3ZUlPYnJQQVZ2UE8wUlYwZ1k5bG4xWW5wa0c1bkFUWW9LUFdlY2Zwd053M3IwWlk2Rkt1TGVaa2R5QQ?oc=5",
+      "domain": "therecord.media",
+      "publisher": "The Record from Recorded Future News",
+      "publisher_url": "https://therecord.media",
+      "language": "",
+      "seendate": "20261008T171357Z",
+      "source": "GoogleNews"
+    },
     {
       "title": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORzdSb2V0cExFMjhkNzc0SXZOM3F1VzBhXy1XanM5R0Q2R2pNcWp5Uk1xbUQxeVd0TllSQllnSnphV2luLU5IRnRKeko0ZXZWQTBGWFNackJ3Qy0yVGN0dGJDOVA0OHBCT292NmU2ODFoREszRC1ieDhSSkxsZkIyNEJXdU5rcVVfWFp6emRlbndhTHJCamFwRWcteDBqTy1hRE4tVk5CSFE0Q3Z0OGhFM3hGeGJYTUZwUk5FTUV3?oc=5",
@@ -542,23 +562,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Ransomware recovery firm boss charged with secretly paying attackers and overcharging victims",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnpMLVBwSEN6OUlCS19iajF4VzJvRVY0c2h2TGNiLXAtcUR5SHk3T3hGR2ZyNUlBZ0kwdEphRmMyRm1EMXZHek1MVG1kbEhOTE8tT0c1XzNyNHlpVi04ZkZTUUkyZl9weEJWUTZ5alY0MFdfdTlVemxISGtZQU9EYnF0X0J6VTctWXQ3WFlsdnk?oc=5",
-      "domain": "www.helpnetsecurity.com",
-      "publisher": "Help Net Security",
-      "publisher_url": "https://www.helpnetsecurity.com",
+      "title": "Canadian Mennonite University warns of data breach in cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeDNGYkpZSGRWNVVTU1o5aFAyMjRkbXQ3b3VLN1pkMU5KaUQ3QjZyOWdTVVdGVlNVcHB0a2owUTdXTjNUTnJES21jTFhQYVAwQjNTMzRNQXlhY21BV2JONHhGNlFEWUxrX2ZRR2dkNnc3VWtjSXQzOXM5cjFwZU04MVp0UnJUZzZxXy1JLXcxOU5rcTZI?oc=5",
+      "domain": "www.cbc.ca",
+      "publisher": "CBC",
+      "publisher_url": "https://www.cbc.ca",
       "language": "",
-      "seendate": "20261008T080039Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Building your AI vulnerability harness, Part 1",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWhiVWtMdEdQYmt1ek8yblpKZ1Q3el9PdkhkYzdlS19GMmhDNGQtN090T0luRWxHM3psV25hZWliZ2QzZVptMWNJdmhlakZZdXhTcGQxcFhFN3JPeFBXZDdOYUpTdkFVRjk1STI5UWJveUVNa2sxRV9SY0VrWFNBMXlFTE5xZ3o5eTVXMw?oc=5",
-      "domain": "aws.amazon.com",
-      "publisher": "Amazon Web Services (AWS)",
-      "publisher_url": "https://aws.amazon.com",
-      "language": "",
-      "seendate": "20261007T214943Z",
+      "seendate": "20261008T193954Z",
       "source": "GoogleNews"
     },
     {
@@ -572,33 +582,53 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Blockchain-enabled IoT security: a multi-layered framework for smart contract vulnerability detection and optimization",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUk03Z2ZGTXRBMHVodWMxc2tlM3hyaWpndWxrNnNMTFpZelhxVkEwSDUtTlRSTEdwemRMQ1ZEZFZsLWZyYVFJZEhtMWg3NENVb3hzQjdhcDRxYWtfOWR3?oc=5",
-      "domain": "www.nature.com",
-      "publisher": "Nature",
-      "publisher_url": "https://www.nature.com",
+      "title": "Florida cyber firm owner charged in alleged $19M ransomware payment scheme",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVnU3UlowaEJtbVdMV0p2ZlZRdjNnSkVUOHNQMzYwY0hqVVFEMlUzVzlQZ2JuUXM0MFRRWHgySGNNR2Vpa1NRWVR0OU1uaEVUWWlHMS1DdUZSQW16cDk1ejFaZEpyOGVsSGRBeTg0VWxHWklybHUtOVVLLTBQVUQ5UG03QUp5UnZWQktvQ24xc3RZUENxVVNQZU5CMmdIOFRld1ZvUDItVklCelo5NFB2RHMxa1JFdDNsbE9OMXUzNk5wMloyMVpPQmF2SHlKZkFyRGJDdkJLbUpUYkdtLWVlRDB6NzdFYWZTeERvS19md2dzTEs0a1NmNE5DMXdERE1oQXBxSmNzcFJpUHhtWkY4QVROdWVRMFRDaHpQMmZIQjFfTEt5LWtVWg?oc=5",
+      "domain": "cbs12.com",
+      "publisher": "WPEC",
+      "publisher_url": "https://cbs12.com",
       "language": "",
-      "seendate": "20261008T115628Z",
+      "seendate": "20261008T182329Z",
       "source": "GoogleNews"
     },
     {
-      "title": "3 lessons from frontier AI vulnerability research",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3gyZHZKWTV5UWVFbU5YaDlwdkxtV0t6bTJWWTVSM2laaG11NU1sNnNIX1NNZ0dwTFJRRTltWmtVcnhzWW9ZbXU4YWZYekdzRUdfbTNIUWhVc1JMaUxaQ0JXNldaNkhQQ1FvQk9JaHpkWktyS2w1Ujlkc0RQcEhnU2Exd0Yyay1qYVM1dnM2VUdmQkFZcWFReFBBSElDYU9sM3k0a0RPQVFkZDQ?oc=5",
-      "domain": "www.microsoft.com",
-      "publisher": "Microsoft",
-      "publisher_url": "https://www.microsoft.com",
+      "title": "Ransomware attack on Winona County may have exposed Social Security numbers",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0pkVFd4allWV0Zkbnk1VUxvenNLMXdqN2ticzBySUI4ck1uV2VIQVRaWnlELVA4UVNjTnBaRXVIbXl5ZC1iM212Y2tNcWVJMnZvdkxfS2R1V2lsVkhoQ1N5cEFONmFCVnRzbXU3N2lzRkZLcXJGQmJodEZwemkyZ1NLaVpMdXdWdEY4cXBvTVlUb1dsTGVGb3JTRDBIc2lCbDNNVjJjUkllR1FELXRCeUJ6LWxCalQxbkdlOVFFUXpaNm9ISHVfVHVZb3lIOHZKS1U3ZUthSy1FOGtGNks5SmdBSmJWbVZzSjlQbFVrSGdTbVVOaXYwT2tB?oc=5",
+      "domain": "www.wxow.com",
+      "publisher": "WXOW",
+      "publisher_url": "https://www.wxow.com",
       "language": "",
-      "seendate": "20261007T160000Z",
+      "seendate": "20261008T220000Z",
       "source": "GoogleNews"
     },
     {
-      "title": "SafePay ransomware threatens T-Systems leak in breach claim",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10SnlERWtpbWVDczZleVlfUWhDMzN6c19TUWdqS01XUGtsdTVqcFpQd0RkRnVpck1lcHM0ZnZ3U1RNbWhtd05jTWlDZ0dpOXV3SDlzUGozZHRIR1dNWnRSNlBUeUktNlN4dEtEQy1pQWZTNWxZNFZwRU9n?oc=5",
-      "domain": "cybernews.com",
-      "publisher": "Cybernews",
-      "publisher_url": "https://cybernews.com",
+      "title": "Winona County begins mailing notices to people impacted by cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUd1eVVWSHhDU0RjSllRNHV6ZF9Zb1I1M3RNWjRXUzNqLVFIclRTbXlla3VFR29hTXFfeEFzVHNSUHZibjdGeEFkaVZHcm52eVBxdXhDMUd0dXhtbXdmd2YtRWJ0eTVCR1k2aGpBMk8yd3dOLXAtb1MwQ2xJSUgtY3lKeFlrQ3JPeWdVZy1jT1laSXY1a3NtbC1XRzNjVFU5?oc=5",
+      "domain": "www.kaaltv.com",
+      "publisher": "kaaltv.com",
+      "publisher_url": "https://www.kaaltv.com",
       "language": "",
-      "seendate": "20261008T110000Z",
+      "seendate": "20261008T204632Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Ransomware recovery CEO indicted after allegedly paying hackers and pocketing millions",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTF1a0NkQUhQaS1naUdCWjQwN3NDTE50WnU4OVZVM1JSbnlIa0FhS1RHc0gtUlNfSVBlTjlKZzJZVlBNVjFHaXREaVNXeFRQeTNNOE51TWRHQTRVR0JmcU1FaHVhXzZoZFowakZWOHM5aG95UVpRbFFBb3cxd3FDUUYybw?oc=5",
+      "domain": "cyberscoop.com",
+      "publisher": "CyberScoop",
+      "publisher_url": "https://cyberscoop.com",
+      "language": "",
+      "seendate": "20261008T194559Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Ransomware recovery firm boss charged with secretly paying attackers and overcharging victims",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnpMLVBwSEN6OUlCS19iajF4VzJvRVY0c2h2TGNiLXAtcUR5SHk3T3hGR2ZyNUlBZ0kwdEphRmMyRm1EMXZHek1MVG1kbEhOTE8tT0c1XzNyNHlpVi04ZkZTUUkyZl9weEJWUTZ5alY0MFdfdTlVemxISGtZQU9EYnF0X0J6VTctWXQ3WFlsdnk?oc=5",
+      "domain": "www.helpnetsecurity.com",
+      "publisher": "Help Net Security",
+      "publisher_url": "https://www.helpnetsecurity.com",
+      "language": "",
+      "seendate": "20261008T080039Z",
       "source": "GoogleNews"
     },
     {
@@ -612,53 +642,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "GuidePoint Security Reports Record-High Ransomware Activity as Victims Rise 75% Year Over Year",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTklvT3Jma09YS0U3Q0luTkJSc2NjQnBBejA4ZVZUQ3l4Sng5czhGNnY1WTNGeFBOanFfaW9Kdy1GRDhxRmlaTXBTU0tTX2VHWmlVdXk0MmxsVmFVa1dLazQyX2YxNW5mZXlOUnd2a0RqdjUzdVdCTWpBU0FKcUJMRnFhLThSbVJ1ZGJaSlJFaHJ6Qk1YVzFZLTJkdWZDX0lYZnVjZEsyUTRoWWVrSHptc3ZlUFQwYk9OS1lCMDJlTGRQZVlMMlp1ZlZ5aDM3N3FlQ0VDc1pNR3RsZEc3aC1GclMyczY?oc=5",
-      "domain": "www.businesswire.com",
-      "publisher": "Business Wire",
-      "publisher_url": "https://www.businesswire.com",
+      "title": "Ransomware Negotiator turns Cyber Criminal: A Twist in the Story",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdm1LdkQ5X3RfaXdHWlhTdDNESnVUOV9mVjlsdXJHc19FUThwQVZJaVB6UUtDLS1zSEl4aXR1aVQxdHNuRFJRX21oblUteU13TXpDNHdfcExQSkRNYjZ6aVc1ZGlRVm9fRXREQjBvZDNjTlo5QmI2T3JrLWljOGhGaGdDYXRFdDNRdmFiVmFkSERVSHoxWDhXR1hiUWtDMEx0MXJVRDhR?oc=5",
+      "domain": "www.cybersecurity-insiders.com",
+      "publisher": "Cybersecurity Insiders",
+      "publisher_url": "https://www.cybersecurity-insiders.com",
       "language": "",
-      "seendate": "20261008T103200Z",
+      "seendate": "20261008T153851Z",
       "source": "GoogleNews"
     },
     {
-      "title": "MonsterCloud CEO charged for paying off hackers to decrypt ransomware",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxMlV0Rnk0VTdoSmFWclV5ejY0RXBpTlZodHBDR1JHSjFNemJ4cnNRbzY2RGJRZG5pb0pDdVJOVzZMZTZFM1BhNVFUVUtIYWxjRTJuNkE2c1ZVLUUw?oc=5",
-      "domain": "www.jpost.com",
-      "publisher": "The Jerusalem Post",
-      "publisher_url": "https://www.jpost.com",
+      "title": "Arizona's court system hit by cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYU1USlIxY0xNejlOM1VDVUdURmJJZldmZlZETkJSeG9VaHcxYVk5bFRoMEtxY19WckliT1lBX2M2N19MT29USGxqaGxBQjczaGFoUHJEbXAtaFk0UGJSTXNoVjQ3YWNDdmFWMFBXSFNVY0dJbERLaFo4SnpldExBZk9xZ3VrTm8?oc=5",
+      "domain": "www.abajournal.com",
+      "publisher": "ABA Journal",
+      "publisher_url": "https://www.abajournal.com",
       "language": "",
-      "seendate": "20261008T111029Z",
+      "seendate": "20261008T161200Z",
       "source": "GoogleNews"
     },
     {
-      "title": "University of Illinois Chicago affected by ransomware attack on medical school",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fYTdySVJjWjdzazc5RWRYQVlKVE1rUmpiS2xoTWtmb2VfMXp6S1M2N1ozRE9CbmVSeGw2M0ZHcnRkOWVlOGk4d2Y2Q25xLXBWU3JnNnl4c1ZoQUZaSksyZERHOUlqU3B3aVhQNHNBVQ?oc=5",
-      "domain": "therecord.media",
-      "publisher": "The Record from Recorded Future News",
-      "publisher_url": "https://therecord.media",
+      "title": "3 lessons from frontier AI vulnerability research",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3gyZHZKWTV5UWVFbU5YaDlwdkxtV0t6bTJWWTVSM2laaG11NU1sNnNIX1NNZ0dwTFJRRTltWmtVcnhzWW9ZbXU4YWZYekdzRUdfbTNIUWhVc1JMaUxaQ0JXNldaNkhQQ1FvQk9JaHpkWktyS2w1Ujlkc0RQcEhnU2Exd0Yyay1qYVM1dnM2VUdmQkFZcWFReFBBSElDYU9sM3k0a0RPQVFkZDQ?oc=5",
+      "domain": "www.microsoft.com",
+      "publisher": "Microsoft",
+      "publisher_url": "https://www.microsoft.com",
       "language": "",
-      "seendate": "20261006T020746Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLWsyRW1sbFV4TFZiVmpDTTY3eFZHN1NXRldHYi1qVG56dlduOV9Ia1lFbU9JbENKSHRYMjU2VmRCMzYtcW1uMEw2U1dJQUJhdG9rNHFZQ1NmRXI3SjExcnVrU0VrRm5LZTBleUktZ1FaSWtPa0hScW11X2t4Mm5yTktvV2RpaWdhLXc3dDZFLVEtRmJNMkVfVV81WDNoRlo4b29aTENvbkdRVVdnbXRxdkdwa21iTmJvSkJBejJyQmZWNkltNm0wcGlmTHhoRDdmdElGbXpkWVVhTHlfeHBn?oc=5",
-      "domain": "www.theregister.com",
-      "publisher": "The Register",
-      "publisher_url": "https://www.theregister.com",
-      "language": "",
-      "seendate": "20261008T081500Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "BREAKING NEWS: 53 companies in Japan hit by ransomware group known as Qilin",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ORGpNSWQyWm15OGdwOVFvQUFUNHBPai1kT1pyN2Jsd1plUWdzdWJTX0ZoT2JEcWlSWUJrSDlsbXhzemw3UUJSaWUtX3lZc0tZUXItS2M2NjF3Zw?oc=5",
-      "domain": "english.kyodonews.net",
-      "publisher": "Japan Wire by Kyodo News",
-      "publisher_url": "https://english.kyodonews.net",
-      "language": "",
-      "seendate": "20261008T083502Z",
+      "seendate": "20261007T160000Z",
       "source": "GoogleNews"
     },
     {
@@ -669,16 +679,6 @@
       "publisher_url": "https://www.securityweek.com",
       "language": "",
       "seendate": "20261007T094620Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Questlove Reflects on the Power of Vulnerability and Being a Trailblazer: ‘I Gotta Be the Change I Want to Be’",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHUxMVk5bjB6ZHZzX0R0Z1R1R2FKdzd4S0FYU05aa2hHN19qWFc2dkRpOUk2OGg1WWFyWHlmRHkxX0hSbnNMU3VtRUFWWURSeUkxXzFadlgyaUFVS3hhNzdqTWFmUFprYnpLTC1lZ21WbTZ0cWE3OEdORU8ySzFHVlBvOXk1XzBsY3p3Ui1uUVpCV0Rxa0FqSTRPVUZ1SHM?oc=5",
-      "domain": "variety.com",
-      "publisher": "Variety",
-      "publisher_url": "https://variety.com",
-      "language": "",
-      "seendate": "20261008T003300Z",
       "source": "GoogleNews"
     }
   ],
