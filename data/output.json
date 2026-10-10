@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-10-10T13:05:53.887404+00:00",
+    "generated": "2026-10-10T22:01:44.358493+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,19 +23,39 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "45"
+      "value": "44"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+        "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVdCN3FDcEVILURsd1NwUmNBbllkdUxzUnJTMU85VkZucFM0S0dsUDFFeE1nNXN4Y01iSU03N08yVkZqdmFzRWxfN3RiZXcxSlJsNkMtQzhGbDBSODROZDJJZUZLTVBldXBRRUg5SWUxTnpWekFVVEYtN0pXTjl3cG1Fc3hYUmw4WU1SU1EzWDc?oc=5",
         "domain": "krebsonsecurity.com",
         "publisher": "Krebs on Security",
         "publisher_url": "https://krebsonsecurity.com",
         "language": "",
         "seendate": "20261010T002608Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "FBI arrests cybersecurity executive and ransomware expert in major hack on agents' data",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zdHl2T1ZmYXVwaWg1azJMQmpfSHRZTWdMYkdmaV9BdHFiTC1vTlVxMURzTGw1Y1BiZEh4ay1QLUVoX09OVVk1YS1fUm1LdUVFdFNYbW9aaGpFTDJnRnEtN0E5ajNVaHVDOFNkaEx2RzYyWXg0VlBXMGxNY1g?oc=5",
+        "domain": "www.wbaltv.com",
+        "publisher": "WBAL-TV",
+        "publisher_url": "https://www.wbaltv.com",
+        "language": "",
+        "seendate": "20261010T144500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "City issues statement on recovery following cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaUp0Zlp6YUNmcnVBaktHRFVNcktnc0NTcmlYbEZBQm1RQTc2eDlHOUFaWnBnNWxNbDV0bW1kNWZTMVhoazRsM085bnBKcGUtUEZGVWxTZ2JWUWNtWGZNcHdxeTJGSXZZa2FfR00tbmZKaVFIRlJqVW1YWmVMN01Dc3pFZVFoOHRKWXc?oc=5",
+        "domain": "vicksburgnews.com",
+        "publisher": "Vicksburg Daily News",
+        "publisher_url": "https://vicksburgnews.com",
+        "language": "",
+        "seendate": "20261010T193000Z",
         "source": "GoogleNews"
       },
       {
@@ -69,6 +89,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Canadian ransomware expert Edward Dubrovsky arrested federal hacking probe",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1g0QlZJVmFTR0Z4bEhUSGNKOEhfS2dSaTJsTlZNb1dLV2tmUDNDQlZlX0FsN0xmZlBHRGkxc0k1Q21NZlVsOS0zXzI0bDVQWlBZOTZRcFMxU0pJd2hPUTJxZHljRTZGODNMTmY5R3pWLXc1WUlmTkIyRkMzUWx6R2Vod3p4dUJYT0FKaWE3dHg1N2twZ20tYTROU25fRE0yRlA2b19rQ2pBT1dMd05OLWU1MkFzNy1rdGh4Yg?oc=5",
+        "domain": "news4sanantonio.com",
+        "publisher": "WOAI",
+        "publisher_url": "https://news4sanantonio.com",
+        "language": "",
+        "seendate": "20261010T172835Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "You Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdlYtREwyaF81U0JhVENrOEhTUzFHU0lGZVFsUUtKM01SVkJTWUszNjd3cTlPTVVaeDNSckQ4RXpzUDFJTm4ydEVPYjY5QmJONFhkSmhxMy1ZQWpWMVZ0Q01zZnF6VnAyYnN6VUd0cGpjbGNXNnpSclBGU1hqaUpxRC1wR2V6RUpFOWtnUmVTdjA0Qk4zNGFVZ1BaTnAzVl9KMy1iVnFoV3JKY1NLSzJvZkh3YWdQaHVSMnRKMEJLckNjZG85YXExS09jRjRIalB2SDhhVUprdFRXRkxDUzFN?oc=5",
         "domain": "labs.watchtowr.com",
@@ -89,13 +119,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "French Socialist party primary vote extended due to cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxjYXhZdU1fbFZCS2daZzJLb2NHdTRVSTBMS1hZZHVTaGNpcFAtWEh6UklGSUZYbXlwQ1hWeGxidzRWOUlrUkVrOFp6LXAtUGh4TjcxSmRNbGJvMDBfcmoxTjBQa3VSN0pjb1R6T0VXVG96UWcweGFkMVF0SUNMVDdsMXFUV2pOZnpDZ0IxcFd3anZLNW1pR3dVRldsUXdLaVNR?oc=5",
-        "domain": "www.rfi.fr",
-        "publisher": "RFI",
-        "publisher_url": "https://www.rfi.fr",
+        "title": "Florida cybersecurity owner accused of misleading ransomware victims; prosecutors allege his firm charged",
+        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNN0lrVHY2Z0hDWjhVVUctaF96YWdVQ2dydTAxZjd6VG45MnBHSlFBU2doUXVGLWVxOVlRS0dheFlnSlpZLW1RbFdyUUV4YTNpZTl4bGNDR213U1hHbjd4ZDlqWURvS3ZYMDR4RlN1dU9jRDg5YTlwZ1RtUW1rZ21ROGwxUWdaSVhSUmlRcW5nOEtLNFE3eDhJWnZFb1NjOFlUbHkyY3dVR3hmWHBuMUt0eDJ4enlDeUdMWDU0U0I5dkdJN0J5QlpjS2ZkNGR4cDROcG5acUxZdmJNX01tSUpkOGp6R3lkcWd0N0RacTQxUWdkODR1RHhlYnR1OGNyeERya0xVb1NiU1dPaEVNZ2ZaeTRYaXNyM2RidDRMbnBaVGhhOWtMU0wyQVUxek9RdkpNeDlJa3J1cDV3ZXVmeGo5UkhtaXBiR3NVUHZBWi1UUGtQRm0yVVE1aFVCQ256Y0txbDBjcNIB6gJBVV95cUxOVEQ0ZWpENXp5U2ZVWU9zeUpHczdjblVaY3o4WXBpTDJrMG5oRW05VXh3RUJwX1p3TFNBSmNpVlBHR2lPRmZFSzRVTFNLRjl2NFh3ZWR3ZElJc2otcFFxbTRTVWQ1bmxwUGttX1BvNnhnemo3aGUtOVlWdE9WV0pLMnEyRUZCVlRjRm9YbFU5ZVR3alVXR05ncm9hQkhoRXBOeVNGRGRBelJ0ZXlwWnczcmplcjluU3NQd2ZWNEs4ajlRNDlhTjBibVhQRHA5TUhYcnJDVF9pbUV6UGdYbWNLNEIzc05zWGxURFZ3VWNuYXRSY2Z4S0NuQTBPYzlyODRCc21GZHZTaUZ1TjhQNkc1YWhEYXdPd251MEFpbF94VEthV09uTzlYZDhEU0JFYmxLVUhOWEdHakNjZEJsT2VOMWxqYUlaX2tiM1ZPVFczQmxEMGMyTXRPVjJCeE5yblRQUXpxVG56eWJPQQ?oc=5",
+        "domain": "timesofindia.indiatimes.com",
+        "publisher": "The Times of India",
+        "publisher_url": "https://timesofindia.indiatimes.com",
         "language": "",
-        "seendate": "20261010T111142Z",
+        "seendate": "20261010T182200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Vicksburg begins restoring systems after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWjV0NldqMC1RWVgta0tiYlhjdi13X0c1b3o3bXF1LUY3VnNCMUdYTWVjeDFlTUVRMVF0MjJ5dXRadDk1UmxIMS1qRTV3Q19vRWJUVUJVMWg1ZnVZS2ZqWG84Z0sydWVNRUxoa1ZIY1VkcHVpVUYydnRibVl6bEhrMWFtRFQwLUdsODZ0akx1X2o?oc=5",
+        "domain": "www.vicksburgpost.com",
+        "publisher": "Vicksburg Post",
+        "publisher_url": "https://www.vicksburgpost.com",
+        "language": "",
+        "seendate": "20261010T203455Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The time to close the cyberattack door is shrinking fast",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVy1SQVY3RUxlZ3JFTmpSY2lPakYzM2Q2SlB4dmI2Y1lsTHcyd0ZDTUhLN3hRVjc0NFF5QkhaNU9sTkFCQmk3RG9uZFI4TDhRSDc5UFkydVdCQ3JuQmZ3dWk3OVBMTDFKdFp5WDYxY3pueF9vYTRJQkJjTHhxYk90NWRJYXdEOEd4ZGJac0tzLXp1NF9MOG14cjRB?oc=5",
+        "domain": "edans.medium.com",
+        "publisher": "Medium",
+        "publisher_url": "https://edans.medium.com",
+        "language": "",
+        "seendate": "20261010T095124Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What Mental Health Vulnerability Looks Like When Everyone Is Talking",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmphZFJNWHRWOFJWSnBNS0p2a1BoeWNTWlUxN2tHMW1GSWxhaGJtQ3ZCbWo3X29iV3JROEo3ZFBBNjlZYkVGTTlQVy1zdC01M3JkUE1rMTBVZnZ3RmpzZktuc2RXN2NTUlFua0VIeFNCaTFPd2pVVzhQdkVyNEREM1V0SG1xRjBwWVpESW4zdkJZN3JzZzNlVW1PdDFFb2g1SkN2N2pSQVpBMVNqUTZ3UzlvUDhtN05oc1FZZVFPYlpIS1E?oc=5",
+        "domain": "www.forbes.com",
+        "publisher": "Forbes",
+        "publisher_url": "https://www.forbes.com",
+        "language": "",
+        "seendate": "20261010T140000Z",
         "source": "GoogleNews"
       },
       {
@@ -129,43 +189,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack affects Madison County website",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGRtYkdvMDgyWk5tN3JVMmtJbFFicGd3MHRBNnFjUDZ0dmU0S09zZEozTS12TGZUTTQzWGRnaTVQaVN0eGpPNm1kaWp0TXg5ZTRrR3VZb0R2aThQTzdpa1RoUTlFbmdVWXFEalJXalpyUEduQXozcldKcjdTdmE1TXYyTjkwbjjSAYwBQVVfeXFMUFNPdHpmSTBEaHhBdXVfWEtWWGszR3JmZVQxT1pPTXNJNDlLb1ZkcVcxSkpJNXktWTZKbGVuc2UyTnNoRUhzXy11cVpOTUJNSm5sT1NGSDFBQjhvUGRtZnJ1Vy1WQnFMc0hnUXBVWFdVZ2Z3Wnd4czVETjAwRVp3UHRhdzhobGs4T29yZFM?oc=5",
-        "domain": "www.wjtv.com",
-        "publisher": "WJTV",
-        "publisher_url": "https://www.wjtv.com",
+        "title": "Cyberattack on Korean megachurches may have exposed 850K members",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3Q1Tk1PWEN6Ty1xTlVHV21NZUpKemJFTC04NmdMdnJCR09TeDcyNTVZNFo3VDhXTTZjSmN6YW40VjI0UjM2ZmhWcl9ScjRxTmJ0emJRM1pkSkFYZkY1empTd21vMzdJbGJpRTk0NW11enpScUxyT0VkQjBLaW5yNjZORUFJb0RKTUZIa1Mxc0xSN2N5VGxXQVhhWlJzcFZiaXUzRHRzRQ?oc=5",
+        "domain": "www.christianpost.com",
+        "publisher": "Christian Post",
+        "publisher_url": "https://www.christianpost.com",
         "language": "",
-        "seendate": "20261009T220541Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FBI Arrests Ransomware Negotiation Firm Co-Founder in ShinyHunters Probe",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdUhDMzFEM1hBaWticU5BT1FQTlltYzVVRS1Fa2dUWUhmNWl1X1JZZDY4ZHNhU01xRXVBZTF3ZHlaVmw3TXJSQnBNQTdFbUFmcnpvY1VVMVhJNlhaR05SeDB3MTk1LW1EVUx0UktZaFhmSURxeXNlalAzOE5QRW5hWE1mRQ?oc=5",
-        "domain": "hackread.com",
-        "publisher": "Hackread",
-        "publisher_url": "https://hackread.com",
-        "language": "",
-        "seendate": "20261010T110530Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Socio-Economic Factors Drive Urban Heat Vulnerability Across Diverse Regional Spanish Climates",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zMGpVZ3ZHMzVNenQwLURwaWJNMzBkZThySmZTa1ZIakYxSGxQY01FdGdUMGhYTEtEOW12TDBsYW5kT01GNHRDS0h2SUVJODhvc2pwZG5aTVJPLXBmWjVCSQ?oc=5",
-        "domain": "www.azocleantech.com",
-        "publisher": "AZoCleantech",
-        "publisher_url": "https://www.azocleantech.com",
-        "language": "",
-        "seendate": "20261010T084300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware recovery CEO indicted after allegedly paying hackers and pocketing millions",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTF1a0NkQUhQaS1naUdCWjQwN3NDTE50WnU4OVZVM1JSbnlIa0FhS1RHc0gtUlNfSVBlTjlKZzJZVlBNVjFHaXREaVNXeFRQeTNNOE51TWRHQTRVR0JmcU1FaHVhXzZoZFowakZWOHM5aG95UVpRbFFBb3cxd3FDUUYybw?oc=5",
-        "domain": "cyberscoop.com",
-        "publisher": "CyberScoop",
-        "publisher_url": "https://cyberscoop.com",
-        "language": "",
-        "seendate": "20261009T010234Z",
+        "seendate": "20261010T190900Z",
         "source": "GoogleNews"
       },
       {
@@ -179,33 +209,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cyber Leaders Exchange 2026: CISA’s Chris Butera on tackling AI-fueled cyber risks",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWVWWEpFS1lPSVVid1ltcGNmamdORXZVak9kNEdoNmtwaU52VU9uQzdQam44Q0pLMl9UU29ZY1pNMEE0UnpWc3ZKbDl0cEpBZmIwSjYteUthUF83RXJ1Y1hhajlLcTZ2OERNSFBTRlpqcURjWlgtSS1rYUFCdTQ2UUFqNjFaUEJZUHJzYmlOYWRWdkRRZzRzbHI5REF4WkhZSEpSWVNMNGJEWFg4UVdHRzhZMkdCS3k4TmVGbkdyZDYzUkxpcFdWdTlGbHVUdEk?oc=5",
-        "domain": "federalnewsnetwork.com",
-        "publisher": "Federal News Network",
-        "publisher_url": "https://federalnewsnetwork.com",
+        "title": "Ransomware recovery CEO indicted after allegedly paying hackers and pocketing millions",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTF1a0NkQUhQaS1naUdCWjQwN3NDTE50WnU4OVZVM1JSbnlIa0FhS1RHc0gtUlNfSVBlTjlKZzJZVlBNVjFHaXREaVNXeFRQeTNNOE51TWRHQTRVR0JmcU1FaHVhXzZoZFowakZWOHM5aG95UVpRbFFBb3cxd3FDUUYybw?oc=5",
+        "domain": "cyberscoop.com",
+        "publisher": "CyberScoop",
+        "publisher_url": "https://cyberscoop.com",
         "language": "",
-        "seendate": "20261009T190347Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Fraudster who targeted ransomware victims appears in US court",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2NSY1F6OHpsaDRtMEtES05GVlpKVDdtb1Y5LWVsTngyM2FWdk84RWdBeFFwcHpCRDgzUFdXWmVFMFpMRllBY2RRaG9lVEZiMVlmRGl1c0FwRzhyTlhzMVpITkhwcENMc3Q5cC1uRUJlcGpNNVBLM2JvamFEb05Vd2hrZFI1VVVTVjNPUHlwcGNGMW1YWllRNG9zLXhuX256a0FVT3dhWTJ3ZlU?oc=5",
-        "domain": "www.computerweekly.com",
-        "publisher": "Computer Weekly",
-        "publisher_url": "https://www.computerweekly.com",
-        "language": "",
-        "seendate": "20261009T200119Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Small construction firm collapses after ransomware attack, while another narrowly avoids disaster",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYU14dk5ISjZUYlFHVkdrYTVqd0JqdjNMLWZaNkpSOTZuU1NDRUdTbWd3UjNyTE41TFZXMVNDaW1FOU1CeDU2SjJDUW94cjBlWTBIaG41RUpGak54ZGtwWng2ZVVzNHp5ZzdVNFA1bU04WG5HMkM5S0RxTGxtbk15OGU3QXNQSlhOWmlyM3lBR3B3UlNIRG1Dc1c1TFB2Y0IxTGJ4bG5NbWxLbXRlWVczZDQzdGpMN25MWTR3WGhRSEw4bEJf?oc=5",
-        "domain": "www.scworld.com",
-        "publisher": "SC Media",
-        "publisher_url": "https://www.scworld.com",
-        "language": "",
-        "seendate": "20261009T195201Z",
+        "seendate": "20261009T010234Z",
         "source": "GoogleNews"
       },
       {
@@ -229,63 +239,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The Department of Know: South Korean bank hacks, agents target Wikipedia, ransomware recovery fraud",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkdFeTlPZnFiU3A5UGlwRWNyLXdLcHhFWW00TzE2SFBEYkVIZzZfaXgwdXdJMDUxTXlHenlUNER1YUVTNE1OYUoxVTFFUzByZlF1TGk5WnJCUVIyVGVtZXVzZTRveEVBZ1Y3NWdzWU5heHJkeS05Q2FRR0EzcVc1Vk53MWpYLVhoWHlhTGcweFd4bklrVGx1cEFmZmFFazk3VnJXWWhGb0l4SDFrbkdPcFNFVTNUZXdHZlhXSQ?oc=5",
-        "domain": "cisoseries.com",
-        "publisher": "CISO Series",
-        "publisher_url": "https://cisoseries.com",
+        "title": "French Socialist party primary vote extended due to cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxjYXhZdU1fbFZCS2daZzJLb2NHdTRVSTBMS1hZZHVTaGNpcFAtWEh6UklGSUZYbXlwQ1hWeGxidzRWOUlrUkVrOFp6LXAtUGh4TjcxSmRNbGJvMDBfcmoxTjBQa3VSN0pjb1R6T0VXVG96UWcweGFkMVF0SUNMVDdsMXFUV2pOZnpDZ0IxcFd3anZLNW1pR3dVRldsUXdLaVNR?oc=5",
+        "domain": "www.rfi.fr",
+        "publisher": "RFI",
+        "publisher_url": "https://www.rfi.fr",
         "language": "",
-        "seendate": "20261009T145716Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Warlock Ransomware Attackers Hit Water and Telecom Operators",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VtbWtVM05TNUNyR2Z4cGhFMWx3a0R6MDFwVndGMFV3d05RUkZKNHFVVXdwVktPRWdmb3FQSW4tQ3UtaHRlWEw4cDNLOWVhb3dNTmNncXdKel85clJSc050QkhhZFRfUG1hR3Y0bVFtNkxnNGFqbVBfNVhJLXdVYjBpWkFsVDV3SDFhWDNTLTM?oc=5",
-        "domain": "www.security.com",
-        "publisher": "SECURITY.COM",
-        "publisher_url": "https://www.security.com",
-        "language": "",
-        "seendate": "20261001T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Everest Ransomware Claims Data Theft from Flydubai and Boeing",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcGtiNEZKMkRZSVU2NndvY2JjbmpnNndDVnBvLXRUNnhlQndya3ktTVl1RDBmVjBnVVJFRENQaEp4aWdfZnY1eXV3ZVRyV1JrclJyeERJSTV4ZjUtWWJlb2Z2LWRMY1MtYnBnU0RxQjZ4N29RT1JZcWJ1MVlKVE9jak0wR3FfT21UZktuMWpSS285U0hVTlA5QTE4Zzl6XzlYNTFj?oc=5",
-        "domain": "www.cybersecurity-insiders.com",
-        "publisher": "Cybersecurity Insiders",
-        "publisher_url": "https://www.cybersecurity-insiders.com",
-        "language": "",
-        "seendate": "20261009T153427Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran Exposes an Intolerable U.S. Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHNPcTdjSHJiWDNuSU5XMW8xWTVkNzAxTjdaX2p2MFVFdjVxNjFxalNuM2lON3NYeS1pZ2FoZXZJRDI5Q05STTdYRXQya2sxRE5QUjIyYnJTZ2haWmNiemUweVd3ZXhhaHVpOFRBNjJFSDN3S1VIUjB2c0FvRGY0Qk1TdWxSTDFDeG9sQ2930gGTAUFVX3lxTE9FaFc2dE1HN2FLSnNwRzc3S1NvOUkzNWV2cFpXdFBJTnBDMzgyOGxhcEhJZVV6bHN2bkl3WDRqUkdiOXBxbHJZeG0tYjhBdnQ4bk15ZlFBb0E1NXJxNjA4RjVQX1RMX0NaWG9qT3lHSDl1SVRNaWExMGo1Y2hsUVZGU0Mya3l6ODhyWVpIYlRsc1RVSQ?oc=5",
-        "domain": "www.nationalreview.com",
-        "publisher": "National Review",
-        "publisher_url": "https://www.nationalreview.com",
-        "language": "",
-        "seendate": "20261009T202418Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN?oc=5",
-        "domain": "www.axios.com",
-        "publisher": "Axios",
-        "publisher_url": "https://www.axios.com",
-        "language": "",
-        "seendate": "20261009T225540Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Luminis Health systems are back online 6 weeks after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTl0Q1lCZnVCOFoxSnpOMXFZdEw0eUZCSWdSLS1JdWVWUi1HREN4NFliY3QwcGtNTmlTR3VkTGFSbkhPbVBFMkZBdmg4d3Z5UTNOSEhfcm9vUHgtYUYydnNlYmlGUVpqWWpjZk1YM1JVNGxqb1o5dVBDaHYxRkRyUTdDQmVhemxNMXY5RUhyaEc0MGVwOF9DRXdDZE1VVG1ZQTUzU0g4OWZqdEJXcTBrOGhtTU95cTQ?oc=5",
-        "domain": "www.thebanner.com",
-        "publisher": "The Baltimore Banner",
-        "publisher_url": "https://www.thebanner.com",
-        "language": "",
-        "seendate": "20261009T152400Z",
+        "seendate": "20261010T111142Z",
         "source": "GoogleNews"
       },
       {
@@ -296,26 +256,6 @@
         "publisher_url": "https://www.infosecurity-magazine.com",
         "language": "",
         "seendate": "20261009T120000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware consultant said he would decrypt data, is accused of paying ransoms instead",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1R2OHljejh2ektVSTlUM2hranpieXAzZU0xZ0tFVVRUM2h6S2pibnNuUk1EeHBmTzV3RERwVFljMTV5a2xqanMwWTIyMmttMTFZZ0ZkcVZHNmdhNXRodGRjdjN2VHBtakpJbHV4TEtHWmNoUnowZ3FwdDBTSFE1SThtcUd6eTNHWUc2VERNZ1ZhZ1JyTHhrdFFVTFRRRGduMzhMb3lBd2drRWVIdUtXSDJ0OVZFeW9WU3dJbW8wNXVQVmNySGNjNDJMc2Y?oc=5",
-        "domain": "www.csoonline.com",
-        "publisher": "CSO Online",
-        "publisher_url": "https://www.csoonline.com",
-        "language": "",
-        "seendate": "20261009T154425Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Germany Arrests Suspected Qilin Ransomware Leader After Japan Detention",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMEgxNjA4YlpBWkx2SUZQbzg4d3p4dWo5OGI2QkFSX1B0REhHVTZIT3NrdWctQWtEWThWeTZ2R3Jwbk1OVVl5aXpMU1lpQzJPVmJ4MXBBUEp5ellNa0g0WFVVMTBJUHA4WUJxWFc1b3Z3X1hxZWJnZW05UFZFdVU5RE1sUG91cmdFNGg2TV93cHlEZmgxb3poby1hSDBtZ3F2NFdRcEticHBvcWhZdU9OZ1NiclA3eTVKYkROcm1fQ2FXOW_SAcgBQVVfeXFMUDFfTzA4aHJ4MGRydUd3LWhwRXJEZWtFbk9qU0xpTy01bWdEY1lhZEo4OXBQMGNBY0tsVUdLeUZmRFVGTlpWblotRk12MkZYN3VWQUF6SUxIQWp2YV9qRXljeTBXZHlzb0ZsajZ3U2pnZVRpUGtILU9rMnhDRExRenFCUFFMRkg2ZmdEOFBmUHhXRnhRbmVseTFmM2xlMmw5cVdLYlltTDZwcmVTTTRybmU3cGY2R2dKWkJlNlBOWF9qWlZaMm5DSjI?oc=5",
-        "domain": "securityaffairs.com",
-        "publisher": "Security Affairs",
-        "publisher_url": "https://securityaffairs.com",
-        "language": "",
-        "seendate": "20261009T201838Z",
         "source": "GoogleNews"
       },
       {
@@ -339,43 +279,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Flashpoint Receives Patent for Ransomware Risk Model, Tying Vulnerabilites to Likelihood of Attack",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlQ5OEhpbDRWaTRzNjJmOEpYU1pHRUNlWFFwR3BoRzdyOEt6YmZJczMybXRvaWxLc05TZU9ZNm1uM2w0VkRNZmt2eTE4SFc2VkFEWkkzMFA3RDhFSVM1V01rYjZxbzFDYXpOWG5icW1tN3huYmw5Z0ZoR2Q5VUlUN3I3ZjJXa25sb3BHbTBHLUs0V0R5T0xPQktkYW5zSTFJVWlfM01YSkYteG9JUEZ4VmJXQ1FtZnNIWVppekE2eW1xSXlCRXNtc0o4NGNPSVJtMTFCS2xHMTZHeFcyRHc?oc=5",
-        "domain": "thejournal.com",
-        "publisher": "THE Journal: Technological Horizons in Education",
-        "publisher_url": "https://thejournal.com",
+        "title": "AI Industry Braces for Major Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV1dFNDRvY2o1SGVIM1BOc0V0VTVJR1YyQ0VrX19QdkxwVTV4b0piQ1dyRERaNW1RYVpURmNFeHZZM0tpZXA5MDc0WHVHTy01Yi1PSFRteUtVNFVNSThvT0xYOEtpZW5KRlgxTXg0MVU3TnRYNFUtRmJHR0lCSGp1YjI5c2EydlB1Mko5TExaakZwUlNuWjU5NU1VeHU?oc=5",
+        "domain": "www.yahoo.com",
+        "publisher": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
         "language": "",
-        "seendate": "20261009T182307Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Don't Blame AI Labs for What Hackers Do With Their Tools",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdml4alRYQUE2SUhOVXdmUDJlSEJ2cGJPZnFqMGRLelozS0M0WmRJdkRnM1JndkUyX1hfb1RDZTNmdDd5SUVwYmRROWZpbFpuNms4Nm1mcGk2aEItQnZHcVVWc0RRVkY4UzBKZ1dIVi1ZczM0WXkzRUpRLWF0VGRSRlVrM3JBbmw3RnRCMEpibw?oc=5",
-        "domain": "reason.com",
-        "publisher": "Reason Magazine",
-        "publisher_url": "https://reason.com",
-        "language": "",
-        "seendate": "20261009T202524Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Feds Say Ransomware Expert’s Miracle Cure Was Just Paying the Hackers",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZy1ySlh6dDdvNThsLVVRemNyQlZheDRLeVhJNEVjRnI5MmVUaEd4TjB3LUMyTnlacjlCakFBT2VFOW5Tam5qZFNXQ3FKOWdHMDBVeWE2MEhPRlRsZ1BvdU1jaEZIYXhkTTNDMXRhenA3YWZsQVVVYlBFeTRtOWljaE5xajgwSm9ZSGpMaXRxNVBIZGtUUGVlUHJvN0tsYWNa?oc=5",
-        "domain": "gizmodo.com",
-        "publisher": "Gizmodo",
-        "publisher_url": "https://gizmodo.com",
-        "language": "",
-        "seendate": "20261009T181005Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBVkV1c0pyNXliYl9rLS12MXVuMW1qTDR5Znd5VERtU05rb3M3YWRPODNuUEtPZWUtN1VVZUk5azQ5bXdjUGpBUF9ITE03UE5xSEJjbDhkMTJrTUc4dnFWclZNd1JqZw?oc=5",
-        "domain": "therecord.media",
-        "publisher": "The Record from Recorded Future News",
-        "publisher_url": "https://therecord.media",
-        "language": "",
-        "seendate": "20261009T190023Z",
+        "seendate": "20261009T191756Z",
         "source": "GoogleNews"
       },
       {
@@ -389,13 +299,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Personal information for over 1 million people stolen in a cyberattack on Arizona's court system",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzhnVTcwZUU4Qm5vV0VKekpDZEVkRi1iRGJSbzZJTEVEaVNHOVNSZFE2cDZ6N3BQUF8tWTJLODR0a1hYaUswR0xTaWxNZy1iWElCMklwelpXalRlZTAwdWotb1hFa3M0UGJpTmJKbUV5U1FRc2FKdHM2Z1dTajFVYVBRZnhoNlpaLWNxeUs2eHlLOGhWcVBJ?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
+        "title": "Socio-Economic Factors Drive Urban Heat Vulnerability Across Diverse Regional Spanish Climates",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zMGpVZ3ZHMzVNenQwLURwaWJNMzBkZThySmZTa1ZIakYxSGxQY01FdGdUMGhYTEtEOW12TDBsYW5kT01GNHRDS0h2SUVJODhvc2pwZG5aTVJPLXBmWjVCSQ?oc=5",
+        "domain": "www.azocleantech.com",
+        "publisher": "AZoCleantech",
+        "publisher_url": "https://www.azocleantech.com",
         "language": "",
-        "seendate": "20261007T000600Z",
+        "seendate": "20261010T084300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Department of Know: South Korean bank hacks, agents target Wikipedia, ransomware recovery fraud",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkdFeTlPZnFiU3A5UGlwRWNyLXdLcHhFWW00TzE2SFBEYkVIZzZfaXgwdXdJMDUxTXlHenlUNER1YUVTNE1OYUoxVTFFUzByZlF1TGk5WnJCUVIyVGVtZXVzZTRveEVBZ1Y3NWdzWU5heHJkeS05Q2FRR0EzcVc1Vk53MWpYLVhoWHlhTGcweFd4bklrVGx1cEFmZmFFazk3VnJXWWhGb0l4SDFrbkdPcFNFVTNUZXdHZlhXSQ?oc=5",
+        "domain": "cisoseries.com",
+        "publisher": "CISO Series",
+        "publisher_url": "https://cisoseries.com",
+        "language": "",
+        "seendate": "20261009T145716Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Refinery War And The Vulnerability Of Modern Society – OpEd",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSEl4cHowV05ZdEVWZTFTN1pXMjRFU2pFS3ZvZUszclJQcEpCS2hsRGoyeF9lZU1lN0lteDU4NDZNWDkzZHM1SkNZa0wtczJocUozUGlJU1A3NjRIZ2xQeXRuOEEzcVRiVUg1bUdBRDVqQXlwaXdrWVliTkQ0QzB6YldKTGkyWV9BN3VwTTBvNVVYMWZLSE5WcVhrRkh6aGdyZ1pR?oc=5",
+        "domain": "www.eurasiareview.com",
+        "publisher": "Eurasia Review",
+        "publisher_url": "https://www.eurasiareview.com",
+        "language": "",
+        "seendate": "20261010T160617Z",
         "source": "GoogleNews"
       },
       {
@@ -409,16 +339,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CISO perspectives on managing vulnerability risks in the age of AI",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3U4aVE1MWdjdTE4RmJ5YWJlcFJaWWZfdVNMQWkyMDBsbDFCX3NxbUtWMldzaGpoLXpMVXpyNWNsaWpacGZPOFN2alQzTXJiT0t2V2tPaHV1QlcxeWJnbG1iRUpVNXRjLTJWanBFTnQ4SUZGSjNvTndDUkFqbHRpUVA5LW0yZUptdngyWTh6czhGc2ZVUmRLVHo4UVZSZldtNnl3T0FxWWpOWUhaOFJNa3htYVBIT2RHQ2dzWW1VaENOdw?oc=5",
-        "domain": "www.microsoft.com",
-        "publisher": "Microsoft",
-        "publisher_url": "https://www.microsoft.com",
-        "language": "",
-        "seendate": "20261006T160000Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Florida cyber firm owner charged in alleged $19M ransomware payment scheme",
         "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVnU3UlowaEJtbVdMV0p2ZlZRdjNnSkVUOHNQMzYwY0hqVVFEMlUzVzlQZ2JuUXM0MFRRWHgySGNNR2Vpa1NRWVR0OU1uaEVUWWlHMS1DdUZSQW16cDk1ejFaZEpyOGVsSGRBeTg0VWxHWklybHUtOVVLLTBQVUQ5UG03QUp5UnZWQktvQ24xc3RZUENxVVNQZU5CMmdIOFRld1ZvUDItVklCelo5NFB2RHMxa1JFdDNsbE9OMXUzNk5wMloyMVpPQmF2SHlKZkFyRGJDdkJLbUpUYkdtLWVlRDB6NzdFYWZTeERvS19md2dzTEs0a1NmNE5DMXdERE1oQXBxSmNzcFJpUHhtWkY4QVROdWVRMFRDaHpQMmZIQjFfTEt5LWtVWg?oc=5",
         "domain": "cbs12.com",
@@ -429,73 +349,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Florida ransomware expert said his company could decrypt attacks without paying hackers; prosecutors alle",
-        "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPZjNDdnFzamJFZ2p6WGJfR2RUb1lrUWtMenUtQW5NQ1ZxRmdTQzdoaGprWXh2Zk9CTlJYSXl5VVdvNXRSd2ppaVZYMTFCTjZkV0JvakhVX3IyM0J0WmN3YnMtZFR5Y0ZTUGRSMWgyQWtvRjZJd2R6Vk9XbFQyOG1LdEo3akliWENkT1pNc09aZFc2Q0liSEsxM0c5d19HTmxGTGo0Z3gwWTZPQ2swN002S1ZMaWVwakhVVmVWYUFQazFLZTdoSXRMUTh5MDhDRW1VLWQwbWlFZVBRbnZraEFBRE1vVHdNZE5iZmItYXRzY1lCSlFYVTdveE5rTUxHLU9KcU03MmRtQ1ZmZzFvUWdhQ2ZwcFB5QURfTnpFQkhRQjBIQlI4Tl9tSGQ5bExKOE1QNmQ1Ul9uOE5mdURvVzdMa2Z6Z0U0NnhHaER3QXdzaFZvOENTdWhGb0FMcDlHdHgzOHlhSWtET20ydTNyMDlwQjFvdUVwX2I5R1d0Y3VabkVuQ1V5NUpsZE9n0gGPA0FVX3lxTFBWSGtsTUFrQ1JBallRWG92b2tLQUNsaFhqTmxhclZZdmNSbnFJTThKQ3MtSzdxVlRueFJ0Q0lIVFhKcldfcm5qV1FpVEhPMWVGa3RhX0EyQzlQVE1iZmJ4eXp0cVY2MnVXbGl1UjZLSG9xZF9td3BBcmtxdFh6ZFRJYTlzNmxnU0RBUXExNFF1ZG5XSVdoa2FOVldUVjZoWW0xT0tBdkJIZF9ibmlkWGlPYjBjVWc5Q0s4Y0JEM2ZsOEI2Znd2SEdxR0ZNblhIWGlhRFhrRXRlWmJuOUM2Tl9WT2thSVE2di1uNUxwMlQyNVVvSkt2eXd4bEJqcWFGOTl5NnlaaW01b1NmdVM5a3NaTmFtcXZkc1F3S3dnOVlnX2QxeU5Ib21Ja1phMWpoR0l4WUcwQkNaYWtZUklqT0EzUHRsX1JQU1ZuU0ttLTRqWXlYX0Y4bzhfYWo3TUpGQVYtRldEVGZRdlVWeUJNdDlRTEg1UGtZTWczdUl3bDI3QkZ2OWdScGdCbTZXbjM3RQ?oc=5",
-        "domain": "timesofindia.indiatimes.com",
-        "publisher": "The Times of India",
-        "publisher_url": "https://timesofindia.indiatimes.com",
+        "title": "Personal information for over 1 million people stolen in a cyberattack on Arizona's court system",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzhnVTcwZUU4Qm5vV0VKekpDZEVkRi1iRGJSbzZJTEVEaVNHOVNSZFE2cDZ6N3BQUF8tWTJLODR0a1hYaUswR0xTaWxNZy1iWElCMklwelpXalRlZTAwdWotb1hFa3M0UGJpTmJKbUV5U1FRc2FKdHM2Z1dTajFVYVBRZnhoNlpaLWNxeUs2eHlLOGhWcVBJ?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
         "language": "",
-        "seendate": "20261009T212000Z",
+        "seendate": "20261007T000600Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Google Patches Zero-Click Modem Vulnerability Exploited in Targeted Pixel Attacks",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazMyc2VkTFZJVk9fNy1uTzh2STdMSzRMdnBDTzFUbjFYY2VGZ2JqOFNEYWZEak5HNGFtWkFyVkI4aVQyVUQySzdkZmhRaDFLRDRYRjlmVDRXTWJzNHFka0ZfQ3U1b0k5N1hSMFAyeEE2dENIaTJRc0RCclowWHRrUHFteURfMzYwTS1uMHppWnhNejdFX25NZ0J2alhKOTB6RzdQNGV3QQ?oc=5",
-        "domain": "vocal.media",
-        "publisher": "Vocal",
-        "publisher_url": "https://vocal.media",
+        "title": "CISO perspectives on managing vulnerability risks in the age of AI",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3U4aVE1MWdjdTE4RmJ5YWJlcFJaWWZfdVNMQWkyMDBsbDFCX3NxbUtWMldzaGpoLXpMVXpyNWNsaWpacGZPOFN2alQzTXJiT0t2V2tPaHV1QlcxeWJnbG1iRUpVNXRjLTJWanBFTnQ4SUZGSjNvTndDUkFqbHRpUVA5LW0yZUptdngyWTh6czhGc2ZVUmRLVHo4UVZSZldtNnl3T0FxWWpOWUhaOFJNa3htYVBIT2RHQ2dzWW1VaENOdw?oc=5",
+        "domain": "www.microsoft.com",
+        "publisher": "Microsoft",
+        "publisher_url": "https://www.microsoft.com",
         "language": "",
-        "seendate": "20261010T081744Z",
+        "seendate": "20261006T160000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "16-year-old allegedly led ransomware gang behind hundreds of attacks",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUlo1TENVZXM5VVZVNkgxMHh6VmltdnZid1RFS1VXdTFjUjRHR2VVaUczSFZkNFFwODIxenA2SWpvTEZfaDVJX0g2Wm9TaXQteXd6TGRJMmRlcnpMNTE3NFdFamZEaXZfd25yejFmeU45UXNuQ2JKUW15d1RvNVhBb0pJblpkUnFPY3hZTDJFc2nSAZYBQVVfeXFMTVhEV3RZUGZPckpuNktlNnNVc05UemotYVBvYU02a05yOVNqRWR2eXM2UlJKem9DVVdLdnh4SHdLNDdLWENIYlVxRXgtdWxaTi1zYkNESW10MzY1V01tMW5SUFdGMEJMbXpicTk2Tk8zV2NTSFVEVEw3QXMybzNXSmJCSm51NTFkNGduNkEya01faW9jN3Rn?oc=5",
-        "domain": "www.foxnews.com",
-        "publisher": "Fox News",
-        "publisher_url": "https://www.foxnews.com",
+        "title": "Everest Ransomware Claims Data Theft from Flydubai and Boeing",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcGtiNEZKMkRZSVU2NndvY2JjbmpnNndDVnBvLXRUNnhlQndya3ktTVl1RDBmVjBnVVJFRENQaEp4aWdfZnY1eXV3ZVRyV1JrclJyeERJSTV4ZjUtWWJlb2Z2LWRMY1MtYnBnU0RxQjZ4N29RT1JZcWJ1MVlKVE9jak0wR3FfT21UZktuMWpSS285U0hVTlA5QTE4Zzl6XzlYNTFj?oc=5",
+        "domain": "www.cybersecurity-insiders.com",
+        "publisher": "Cybersecurity Insiders",
+        "publisher_url": "https://www.cybersecurity-insiders.com",
         "language": "",
-        "seendate": "20261009T114642Z",
+        "seendate": "20261009T153427Z",
         "source": "GoogleNews"
       },
       {
-        "title": "GuidePoint Security Reports Record-High Ransomware Activity as Victims Rise 75% Year Over Year",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3JXR2ZDTUxtZG5BUzlEaDFWdUQ5UDlXY1I5RDdWQTlNd3U3ZXQ4d3VCY3RobVJKbms4VHBHanFBVTdqZXRSc2R6RFQ2WXZyOGhVcWcwc1d5SDllRHVkYWl1OWtUTkhQRHlNMzlHVWhzcFJYeTdVSlRLdnVKOHJoa2JyXzZycV9iUDZqbUR2UE96bHFqOTRKVTF3WXA2MTNNN3F6ZW1YMzdoeDc4ZU1sOFBOTWNJY3h6bFE?oc=5",
-        "domain": "vmblog.com",
-        "publisher": "VMblog",
-        "publisher_url": "https://vmblog.com",
+        "title": "Luminis Health systems are back online 6 weeks after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTl0Q1lCZnVCOFoxSnpOMXFZdEw0eUZCSWdSLS1JdWVWUi1HREN4NFliY3QwcGtNTmlTR3VkTGFSbkhPbVBFMkZBdmg4d3Z5UTNOSEhfcm9vUHgtYUYydnNlYmlGUVpqWWpjZk1YM1JVNGxqb1o5dVBDaHYxRkRyUTdDQmVhemxNMXY5RUhyaEc0MGVwOF9DRXdDZE1VVG1ZQTUzU0g4OWZqdEJXcTBrOGhtTU95cTQ?oc=5",
+        "domain": "www.thebanner.com",
+        "publisher": "The Baltimore Banner",
+        "publisher_url": "https://www.thebanner.com",
         "language": "",
-        "seendate": "20261009T200452Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Readers respond: Drazan increased Oregon’s vulnerability to Trump",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1FCaUh5Zzk4TzBubHUySzRXdU1sbGlnREIyY1Z3ekIzeFZ6dlRPM1VtMk15X2hoVDVCc1lIdzU2TDdReWJCYWJLaGpkNHRhOTBmX1Awc1dQWWYwT2Y3X0pwTlcwTlFVdng5bnV6NTBYdkJNb3JZTDF3aGpjMlRGSUg0djAzUUlxNFlmV2Z0YjQta2Z4ZGxGQUtRa01GZEFvZWlXQldDT0xiUzdFVDAtaA?oc=5",
-        "domain": "www.oregonlive.com",
-        "publisher": "OregonLive.com",
-        "publisher_url": "https://www.oregonlive.com",
-        "language": "",
-        "seendate": "20261009T140000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "MonsterCloud CEO charged in alleged ransomware recovery fraud",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUgzQ29KMTdmdkoxM3VITVVJaVpkaThySkd0QUxEM0NuSmFGeWNldUVwZzRRaHJSVk1HMDU1LWJXSDFvWXdJSTc0a0FwRFRXUjdDamktZFhKQWxMeTlWMjJhZnQwYzFhSE5IdG1kOVRSNXFscXNuVFdDQ2EyTlVZQnZXd0dvV3pkdEpsTWRkdlkzZw?oc=5",
-        "domain": "beinsure.com",
-        "publisher": "Beinsure",
-        "publisher_url": "https://beinsure.com",
-        "language": "",
-        "seendate": "20261009T194036Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware Recovery Scam Nets $11M as AI Hits Banks [2026]",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvUEpLa2lfZlFGeFB2ZnktR29jMW1sNDgyT0UtWUhIYlBEYm9fTERERTd2Wi1abExncW80Z3NSZ0hsMHpTSmxYNWpReEZDcTdnMm1ncFJsOFlrYzM1REllX1JUOGV5SFhsM3pxRW9hOXlSUXI5cDV3RVJ6OU16dw?oc=5",
-        "domain": "tech-insider.org",
-        "publisher": "https://tech-insider.org/",
-        "publisher_url": "https://tech-insider.org",
-        "language": "",
-        "seendate": "20261009T182226Z",
+        "seendate": "20261009T152400Z",
         "source": "GoogleNews"
       },
       {
@@ -509,36 +399,166 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGhISC13dG9VX3ZhTVBEdWFma2ltREtud2kyYjNjTkhpNG91OFZ2dW1MUC03dUVfYWozSDkxN0VXM0xTVUtRRkxMSDVURGNJM3RsSmJOczRuaU5mMnR4SzVrdVdWN0w5dnY4MDVQRk9TeGduUDhWSEc2RjVpX19DbWRua19Md3NzV2JrUXk3dEgxT2JZV2l1aUc2SE0tdmQ4S2RjT1ZPejNIWUt2Mzg0QkhsN25UUnRuT0HSAb8BQVVfeXFMUHBnOUNJVWNIQ2daaHB6aFhNb24ybzg3YTh2aGlkdXJVWTYxYU4zYWUyQ3l6ZDE1SklCaVFYYzlpU2gzUV9faWZ5VmFicGpWZ29OWGV0NnF0QkpmZnlFSU9xZTdGNUE2dm9ocDl4VTg2dFdBLTVkTXh3c3hiSWF2RTVfcWt6dlNDTlNYOGMtbU1ld3JscDV4MWZRbnpReEl5TEYwS0YwbUZ4TDkzTUtlc0dqNll1T2s0V19kYVM5X2M?oc=5",
-        "domain": "www.bleepingcomputer.com",
-        "publisher": "BleepingComputer",
-        "publisher_url": "https://www.bleepingcomputer.com",
+        "title": "16-year-old allegedly led ransomware gang behind hundreds of attacks",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUlo1TENVZXM5VVZVNkgxMHh6VmltdnZid1RFS1VXdTFjUjRHR2VVaUczSFZkNFFwODIxenA2SWpvTEZfaDVJX0g2Wm9TaXQteXd6TGRJMmRlcnpMNTE3NFdFamZEaXZfd25yejFmeU45UXNuQ2JKUW15d1RvNVhBb0pJblpkUnFPY3hZTDJFc2nSAZYBQVVfeXFMTVhEV3RZUGZPckpuNktlNnNVc05UemotYVBvYU02a05yOVNqRWR2eXM2UlJKem9DVVdLdnh4SHdLNDdLWENIYlVxRXgtdWxaTi1zYkNESW10MzY1V01tMW5SUFdGMEJMbXpicTk2Tk8zV2NTSFVEVEw3QXMybzNXSmJCSm51NTFkNGduNkEya01faW9jN3Rn?oc=5",
+        "domain": "www.foxnews.com",
+        "publisher": "Fox News",
+        "publisher_url": "https://www.foxnews.com",
         "language": "",
-        "seendate": "20261009T153856Z",
+        "seendate": "20261009T114642Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Ex-employee sues Sheppard Mullin over cyberattack exposing sensitive personal data",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0Y0a28tMHpJbDFLSjBkUVJ0eWYwZHZQUTFfVXNBRXZqblQxU2ZZTkR1ZUVMYlhlMG43dm5aZGpWbGNINUxqMlROcjFDZnVzNHAtUjJGWUc4ZVBrYllxN1JBZTZXTEEtY3oxelNJRUlJTmxlc0hYcmlxTjdwbmtMVkJEZ3phU3c5T1VLWlF2VC1mS1o1Ylk4Vmg3dlFmNFdVRU1vVFJ6d3RQcXdEQWpiSlZDd3NyLUpQQTZvZHJKNA?oc=5",
-        "domain": "www.abajournal.com",
-        "publisher": "ABA Journal",
-        "publisher_url": "https://www.abajournal.com",
+        "title": "Cyberattack affects Madison County website",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGRtYkdvMDgyWk5tN3JVMmtJbFFicGd3MHRBNnFjUDZ0dmU0S09zZEozTS12TGZUTTQzWGRnaTVQaVN0eGpPNm1kaWp0TXg5ZTRrR3VZb0R2aThQTzdpa1RoUTlFbmdVWXFEalJXalpyUEduQXozcldKcjdTdmE1TXYyTjkwbjjSAYwBQVVfeXFMUFNPdHpmSTBEaHhBdXVfWEtWWGszR3JmZVQxT1pPTXNJNDlLb1ZkcVcxSkpJNXktWTZKbGVuc2UyTnNoRUhzXy11cVpOTUJNSm5sT1NGSDFBQjhvUGRtZnJ1Vy1WQnFMc0hnUXBVWFdVZ2Z3Wnd4czVETjAwRVp3UHRhdzhobGs4T29yZFM?oc=5",
+        "domain": "www.wjtv.com",
+        "publisher": "WJTV",
+        "publisher_url": "https://www.wjtv.com",
         "language": "",
-        "seendate": "20261009T172000Z",
+        "seendate": "20261009T220541Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Springfield Public Schools expands credit monitoring after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2hKSjhoMk1laUNyM0txdmxhYmI3TVM1eVBtQXR1UmtWM2QwWll1VmJSdGpDMjdSMmNfZ0U5WmJNY1dsb29ySlpGZWxkYWs3WG41UC1rNHNWX3dUamt4VHljYkpyMzZ6SllheGZOOTIxbnJaZm9yMDVvRy1mSkZQTWF1ZnM1ZUQ2RGpnX1VmcXhiUTZWT0g1NjIwTzVqd9IBowFBVV95cUxQeU9rNHJJUlVoQ2d1amcyQmt3RzU5WWxiNXh4alV6ampSZ00wSktKdVdMUE56MEFQajAzVzNjdmUtYUt5TXc0cjg2ckZoOWNFaHJ3UFZMYmdlSUYyemVpZ3RCT0VPZ0NqYlZHZmc5QXlsdzRnMHdxRkFSNkIwRGRXbVI1OUxpMWdUNUJxOWV0a1d5eHE5a1U5dTZhdi01QkN0b2Fj?oc=5",
+        "domain": "www.wwlp.com",
+        "publisher": "WWLP",
+        "publisher_url": "https://www.wwlp.com",
+        "language": "",
+        "seendate": "20261009T014907Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bnA1UU9KZVRyNHVhSUxlNDB5UldOSUJNOEp6RWJGajl4M0tZUUxPdkk5N0pkbmQwS21yN2lzNWVmblJTMGVmbWtoTVJPWWR0bFdka2xnc0otTC1fczd3cjBUeGhqZzFvUXlDR2lJZzNKR0Ro?oc=5",
+        "domain": "unit42.paloaltonetworks.com",
+        "publisher": "Unit 42",
+        "publisher_url": "https://unit42.paloaltonetworks.com",
+        "language": "",
+        "seendate": "20260930T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware consultant said he would decrypt data, is accused of paying ransoms instead",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1R2OHljejh2ektVSTlUM2hranpieXAzZU0xZ0tFVVRUM2h6S2pibnNuUk1EeHBmTzV3RERwVFljMTV5a2xqanMwWTIyMmttMTFZZ0ZkcVZHNmdhNXRodGRjdjN2VHBtakpJbHV4TEtHWmNoUnowZ3FwdDBTSFE1SThtcUd6eTNHWUc2VERNZ1ZhZ1JyTHhrdFFVTFRRRGduMzhMb3lBd2drRWVIdUtXSDJ0OVZFeW9WU3dJbW8wNXVQVmNySGNjNDJMc2Y?oc=5",
+        "domain": "www.csoonline.com",
+        "publisher": "CSO Online",
+        "publisher_url": "https://www.csoonline.com",
+        "language": "",
+        "seendate": "20261009T154425Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware Negotiator turns Cyber Criminal: A Twist in the Story",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdm1LdkQ5X3RfaXdHWlhTdDNESnVUOV9mVjlsdXJHc19FUThwQVZJaVB6UUtDLS1zSEl4aXR1aVQxdHNuRFJRX21oblUteU13TXpDNHdfcExQSkRNYjZ6aVc1ZGlRVm9fRXREQjBvZDNjTlo5QmI2T3JrLWljOGhGaGdDYXRFdDNRdmFiVmFkSERVSHoxWDhXR1hiUWtDMEx0MXJVRDhR?oc=5",
+        "domain": "www.cybersecurity-insiders.com",
+        "publisher": "Cybersecurity Insiders",
+        "publisher_url": "https://www.cybersecurity-insiders.com",
+        "language": "",
+        "seendate": "20261008T153851Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Readers respond: Drazan increased Oregon’s vulnerability to Trump",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1FCaUh5Zzk4TzBubHUySzRXdU1sbGlnREIyY1Z3ekIzeFZ6dlRPM1VtMk15X2hoVDVCc1lIdzU2TDdReWJCYWJLaGpkNHRhOTBmX1Awc1dQWWYwT2Y3X0pwTlcwTlFVdng5bnV6NTBYdkJNb3JZTDF3aGpjMlRGSUg0djAzUUlxNFlmV2Z0YjQta2Z4ZGxGQUtRa01GZEFvZWlXQldDT0xiUzdFVDAtaA?oc=5",
+        "domain": "www.oregonlive.com",
+        "publisher": "OregonLive.com",
+        "publisher_url": "https://www.oregonlive.com",
+        "language": "",
+        "seendate": "20261009T140000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUEhFSVp1Rkt4N3ZuRUh0REtwWTRlREZNaUFleDNPVl92QjFocDJ1bFZwQVZHb2NZbVBWOFZyS2tNU1FoaVdwUklteWxucGV4M2FHMTVRREFaUnhzTGMtd0RBbWh5MGYzXzFjdk5kSzl2MmhfSWpZU3RQeERMSFZGeV9QYmp5WEcwaUNyYkl5SThlUWVwUDRsV1QxMXVybEZfWHRMQXBNYUxJT0hpTm5OMXRVZDhoR3FpZDlxVXZoWXB0NUsyaTZPSWY1alRRWmptaEpNNTEyeWtsdw?oc=5",
+        "domain": "www.theregister.com",
+        "publisher": "The Register",
+        "publisher_url": "https://www.theregister.com",
+        "language": "",
+        "seendate": "20261008T022955Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcjZQZk5hSGZLNE00OVlvaHpfeXhUUVpRd1JvbE0zQTZEUklqV0dkNC13cjhLbDlYVWtqWTZWaTJYNEN0NnlQdFNDbzFybjQ0RjBzVGc1TFFmNUhwdlNFUmQycF82QkdrNVRPV2pxbDlRRXB0eG1pY3RBT3UxRXpTRGU0d0pTdV9jTnY0WFJvYWRZSl9JNENQY0JwS0NWNmZENDZWR1dsaEZoSndNY1Bkc2RxM2tlQmpVMVQxMTJRZ3VDZDkzYlNOaXU1cGVYRUlNd2hQSGxaWHRGYU83b05FVQ?oc=5",
+        "domain": "www.microsoft.com",
+        "publisher": "Microsoft",
+        "publisher_url": "https://www.microsoft.com",
+        "language": "",
+        "seendate": "20260930T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Feds Say Ransomware Expert’s Miracle Cure Was Just Paying the Hackers",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZy1ySlh6dDdvNThsLVVRemNyQlZheDRLeVhJNEVjRnI5MmVUaEd4TjB3LUMyTnlacjlCakFBT2VFOW5Tam5qZFNXQ3FKOWdHMDBVeWE2MEhPRlRsZ1BvdU1jaEZIYXhkTTNDMXRhenA3YWZsQVVVYlBFeTRtOWljaE5xajgwSm9ZSGpMaXRxNVBIZGtUUGVlUHJvN0tsYWNa?oc=5",
+        "domain": "gizmodo.com",
+        "publisher": "Gizmodo",
+        "publisher_url": "https://gizmodo.com",
+        "language": "",
+        "seendate": "20261009T181005Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Teenager suspected of leading KillSec ransomware group as law enforcement seizes servers and leak site",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTnNvT1lkQW9IbUhmSW01TVBOZE5Ca2llTzE0cktpdEczTm1GMGt3eHJ2OUlWY1M1SFN6V2h6NHB5OTZwN08zNWJudzFRRVFFREYxMDRjZlhuMHdlUTdTQ0xabzlSaGNZQnJQcVBRR0lIZ0daMVR5czFieVM0TXZIWDJac01TRERNOGJzM1U0WXVlZkZvWG1TRjNLcndkd0gtUmZhUUZsTFdqcFhPQ05FZE55U0F5aFhzQXpObVZpNjhPWkFvR01mVnAwN0wxaTNvQ0RpaEpDMGRBREJySFdlNEFha2s2TldmbVBz?oc=5",
+        "domain": "www.europol.europa.eu",
+        "publisher": "Europol",
+        "publisher_url": "https://www.europol.europa.eu",
+        "language": "",
+        "seendate": "20261001T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyber Leaders Exchange 2026: CISA’s Chris Butera on tackling AI-fueled cyber risks",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWVWWEpFS1lPSVVid1ltcGNmamdORXZVak9kNEdoNmtwaU52VU9uQzdQam44Q0pLMl9UU29ZY1pNMEE0UnpWc3ZKbDl0cEpBZmIwSjYteUthUF83RXJ1Y1hhajlLcTZ2OERNSFBTRlpqcURjWlgtSS1rYUFCdTQ2UUFqNjFaUEJZUHJzYmlOYWRWdkRRZzRzbHI5REF4WkhZSEpSWVNMNGJEWFg4UVdHRzhZMkdCS3k4TmVGbkdyZDYzUkxpcFdWdTlGbHVUdEk?oc=5",
+        "domain": "federalnewsnetwork.com",
+        "publisher": "Federal News Network",
+        "publisher_url": "https://federalnewsnetwork.com",
+        "language": "",
+        "seendate": "20261009T190347Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Chinese AI Tool ARTEX Halts Development Amid Cyberattack Misuse",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZXk3QlN5YzR5MjJHWTRBUFREVzVKMHdGUTgzTTF0azRfcjRKZDhrbTNkeGtqX1V3ejV3ZE9nd09wNW9Vc09UdmVtRWRvOEZjMzYwWU50eXcxVUl2bG1QVWlCMzRXTWxqTGRWcjJ4dFp4WHBZeGZHWTBmTXBTTXRNQnBOWWg3d055Q29SVE9R?oc=5",
+        "domain": "www.chosun.com",
+        "publisher": "조선일보",
+        "publisher_url": "https://www.chosun.com",
+        "language": "",
+        "seendate": "20261010T153848Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVdCN3FDcEVILURsd1NwUmNBbllkdUxzUnJTMU85VkZucFM0S0dsUDFFeE1nNXN4Y01iSU03N08yVkZqdmFzRWxfN3RiZXcxSlJsNkMtQzhGbDBSODROZDJJZUZLTVBldXBRRUg5SWUxTnpWekFVVEYtN0pXTjl3cG1Fc3hYUmw4WU1SU1EzWDc?oc=5",
       "domain": "krebsonsecurity.com",
       "publisher": "Krebs on Security",
       "publisher_url": "https://krebsonsecurity.com",
       "language": "",
       "seendate": "20261010T002608Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "FBI arrests cybersecurity executive and ransomware expert in major hack on agents' data",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zdHl2T1ZmYXVwaWg1azJMQmpfSHRZTWdMYkdmaV9BdHFiTC1vTlVxMURzTGw1Y1BiZEh4ay1QLUVoX09OVVk1YS1fUm1LdUVFdFNYbW9aaGpFTDJnRnEtN0E5ajNVaHVDOFNkaEx2RzYyWXg0VlBXMGxNY1g?oc=5",
+      "domain": "www.wbaltv.com",
+      "publisher": "WBAL-TV",
+      "publisher_url": "https://www.wbaltv.com",
+      "language": "",
+      "seendate": "20261010T144500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "City issues statement on recovery following cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaUp0Zlp6YUNmcnVBaktHRFVNcktnc0NTcmlYbEZBQm1RQTc2eDlHOUFaWnBnNWxNbDV0bW1kNWZTMVhoazRsM085bnBKcGUtUEZGVWxTZ2JWUWNtWGZNcHdxeTJGSXZZa2FfR00tbmZKaVFIRlJqVW1YWmVMN01Dc3pFZVFoOHRKWXc?oc=5",
+      "domain": "vicksburgnews.com",
+      "publisher": "Vicksburg Daily News",
+      "publisher_url": "https://vicksburgnews.com",
+      "language": "",
+      "seendate": "20261010T193000Z",
       "source": "GoogleNews"
     },
     {
@@ -572,6 +592,16 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Canadian ransomware expert Edward Dubrovsky arrested federal hacking probe",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1g0QlZJVmFTR0Z4bEhUSGNKOEhfS2dSaTJsTlZNb1dLV2tmUDNDQlZlX0FsN0xmZlBHRGkxc0k1Q21NZlVsOS0zXzI0bDVQWlBZOTZRcFMxU0pJd2hPUTJxZHljRTZGODNMTmY5R3pWLXc1WUlmTkIyRkMzUWx6R2Vod3p4dUJYT0FKaWE3dHg1N2twZ20tYTROU25fRE0yRlA2b19rQ2pBT1dMd05OLWU1MkFzNy1rdGh4Yg?oc=5",
+      "domain": "news4sanantonio.com",
+      "publisher": "WOAI",
+      "publisher_url": "https://news4sanantonio.com",
+      "language": "",
+      "seendate": "20261010T172835Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "You Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdlYtREwyaF81U0JhVENrOEhTUzFHU0lGZVFsUUtKM01SVkJTWUszNjd3cTlPTVVaeDNSckQ4RXpzUDFJTm4ydEVPYjY5QmJONFhkSmhxMy1ZQWpWMVZ0Q01zZnF6VnAyYnN6VUd0cGpjbGNXNnpSclBGU1hqaUpxRC1wR2V6RUpFOWtnUmVTdjA0Qk4zNGFVZ1BaTnAzVl9KMy1iVnFoV3JKY1NLSzJvZkh3YWdQaHVSMnRKMEJLckNjZG85YXExS09jRjRIalB2SDhhVUprdFRXRkxDUzFN?oc=5",
       "domain": "labs.watchtowr.com",
@@ -592,13 +622,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "French Socialist party primary vote extended due to cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxjYXhZdU1fbFZCS2daZzJLb2NHdTRVSTBMS1hZZHVTaGNpcFAtWEh6UklGSUZYbXlwQ1hWeGxidzRWOUlrUkVrOFp6LXAtUGh4TjcxSmRNbGJvMDBfcmoxTjBQa3VSN0pjb1R6T0VXVG96UWcweGFkMVF0SUNMVDdsMXFUV2pOZnpDZ0IxcFd3anZLNW1pR3dVRldsUXdLaVNR?oc=5",
-      "domain": "www.rfi.fr",
-      "publisher": "RFI",
-      "publisher_url": "https://www.rfi.fr",
+      "title": "Florida cybersecurity owner accused of misleading ransomware victims; prosecutors allege his firm charged",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNN0lrVHY2Z0hDWjhVVUctaF96YWdVQ2dydTAxZjd6VG45MnBHSlFBU2doUXVGLWVxOVlRS0dheFlnSlpZLW1RbFdyUUV4YTNpZTl4bGNDR213U1hHbjd4ZDlqWURvS3ZYMDR4RlN1dU9jRDg5YTlwZ1RtUW1rZ21ROGwxUWdaSVhSUmlRcW5nOEtLNFE3eDhJWnZFb1NjOFlUbHkyY3dVR3hmWHBuMUt0eDJ4enlDeUdMWDU0U0I5dkdJN0J5QlpjS2ZkNGR4cDROcG5acUxZdmJNX01tSUpkOGp6R3lkcWd0N0RacTQxUWdkODR1RHhlYnR1OGNyeERya0xVb1NiU1dPaEVNZ2ZaeTRYaXNyM2RidDRMbnBaVGhhOWtMU0wyQVUxek9RdkpNeDlJa3J1cDV3ZXVmeGo5UkhtaXBiR3NVUHZBWi1UUGtQRm0yVVE1aFVCQ256Y0txbDBjcNIB6gJBVV95cUxOVEQ0ZWpENXp5U2ZVWU9zeUpHczdjblVaY3o4WXBpTDJrMG5oRW05VXh3RUJwX1p3TFNBSmNpVlBHR2lPRmZFSzRVTFNLRjl2NFh3ZWR3ZElJc2otcFFxbTRTVWQ1bmxwUGttX1BvNnhnemo3aGUtOVlWdE9WV0pLMnEyRUZCVlRjRm9YbFU5ZVR3alVXR05ncm9hQkhoRXBOeVNGRGRBelJ0ZXlwWnczcmplcjluU3NQd2ZWNEs4ajlRNDlhTjBibVhQRHA5TUhYcnJDVF9pbUV6UGdYbWNLNEIzc05zWGxURFZ3VWNuYXRSY2Z4S0NuQTBPYzlyODRCc21GZHZTaUZ1TjhQNkc1YWhEYXdPd251MEFpbF94VEthV09uTzlYZDhEU0JFYmxLVUhOWEdHakNjZEJsT2VOMWxqYUlaX2tiM1ZPVFczQmxEMGMyTXRPVjJCeE5yblRQUXpxVG56eWJPQQ?oc=5",
+      "domain": "timesofindia.indiatimes.com",
+      "publisher": "The Times of India",
+      "publisher_url": "https://timesofindia.indiatimes.com",
       "language": "",
-      "seendate": "20261010T111142Z",
+      "seendate": "20261010T182200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Vicksburg begins restoring systems after cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWjV0NldqMC1RWVgta0tiYlhjdi13X0c1b3o3bXF1LUY3VnNCMUdYTWVjeDFlTUVRMVF0MjJ5dXRadDk1UmxIMS1qRTV3Q19vRWJUVUJVMWg1ZnVZS2ZqWG84Z0sydWVNRUxoa1ZIY1VkcHVpVUYydnRibVl6bEhrMWFtRFQwLUdsODZ0akx1X2o?oc=5",
+      "domain": "www.vicksburgpost.com",
+      "publisher": "Vicksburg Post",
+      "publisher_url": "https://www.vicksburgpost.com",
+      "language": "",
+      "seendate": "20261010T203455Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "The time to close the cyberattack door is shrinking fast",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVy1SQVY3RUxlZ3JFTmpSY2lPakYzM2Q2SlB4dmI2Y1lsTHcyd0ZDTUhLN3hRVjc0NFF5QkhaNU9sTkFCQmk3RG9uZFI4TDhRSDc5UFkydVdCQ3JuQmZ3dWk3OVBMTDFKdFp5WDYxY3pueF9vYTRJQkJjTHhxYk90NWRJYXdEOEd4ZGJac0tzLXp1NF9MOG14cjRB?oc=5",
+      "domain": "edans.medium.com",
+      "publisher": "Medium",
+      "publisher_url": "https://edans.medium.com",
+      "language": "",
+      "seendate": "20261010T095124Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "What Mental Health Vulnerability Looks Like When Everyone Is Talking",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmphZFJNWHRWOFJWSnBNS0p2a1BoeWNTWlUxN2tHMW1GSWxhaGJtQ3ZCbWo3X29iV3JROEo3ZFBBNjlZYkVGTTlQVy1zdC01M3JkUE1rMTBVZnZ3RmpzZktuc2RXN2NTUlFua0VIeFNCaTFPd2pVVzhQdkVyNEREM1V0SG1xRjBwWVpESW4zdkJZN3JzZzNlVW1PdDFFb2g1SkN2N2pSQVpBMVNqUTZ3UzlvUDhtN05oc1FZZVFPYlpIS1E?oc=5",
+      "domain": "www.forbes.com",
+      "publisher": "Forbes",
+      "publisher_url": "https://www.forbes.com",
+      "language": "",
+      "seendate": "20261010T140000Z",
       "source": "GoogleNews"
     },
     {
@@ -619,66 +679,6 @@
       "publisher_url": "https://aws.amazon.com",
       "language": "",
       "seendate": "20261007T214943Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLWsyRW1sbFV4TFZiVmpDTTY3eFZHN1NXRldHYi1qVG56dlduOV9Ia1lFbU9JbENKSHRYMjU2VmRCMzYtcW1uMEw2U1dJQUJhdG9rNHFZQ1NmRXI3SjExcnVrU0VrRm5LZTBleUktZ1FaSWtPa0hScW11X2t4Mm5yTktvV2RpaWdhLXc3dDZFLVEtRmJNMkVfVV81WDNoRlo4b29aTENvbkdRVVdnbXRxdkdwa21iTmJvSkJBejJyQmZWNkltNm0wcGlmTHhoRDdmdElGbXpkWVVhTHlfeHBn?oc=5",
-      "domain": "www.theregister.com",
-      "publisher": "The Register",
-      "publisher_url": "https://www.theregister.com",
-      "language": "",
-      "seendate": "20261008T081500Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cyberattack affects Madison County website",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGRtYkdvMDgyWk5tN3JVMmtJbFFicGd3MHRBNnFjUDZ0dmU0S09zZEozTS12TGZUTTQzWGRnaTVQaVN0eGpPNm1kaWp0TXg5ZTRrR3VZb0R2aThQTzdpa1RoUTlFbmdVWXFEalJXalpyUEduQXozcldKcjdTdmE1TXYyTjkwbjjSAYwBQVVfeXFMUFNPdHpmSTBEaHhBdXVfWEtWWGszR3JmZVQxT1pPTXNJNDlLb1ZkcVcxSkpJNXktWTZKbGVuc2UyTnNoRUhzXy11cVpOTUJNSm5sT1NGSDFBQjhvUGRtZnJ1Vy1WQnFMc0hnUXBVWFdVZ2Z3Wnd4czVETjAwRVp3UHRhdzhobGs4T29yZFM?oc=5",
-      "domain": "www.wjtv.com",
-      "publisher": "WJTV",
-      "publisher_url": "https://www.wjtv.com",
-      "language": "",
-      "seendate": "20261009T220541Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "FBI Arrests Ransomware Negotiation Firm Co-Founder in ShinyHunters Probe",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdUhDMzFEM1hBaWticU5BT1FQTlltYzVVRS1Fa2dUWUhmNWl1X1JZZDY4ZHNhU01xRXVBZTF3ZHlaVmw3TXJSQnBNQTdFbUFmcnpvY1VVMVhJNlhaR05SeDB3MTk1LW1EVUx0UktZaFhmSURxeXNlalAzOE5QRW5hWE1mRQ?oc=5",
-      "domain": "hackread.com",
-      "publisher": "Hackread",
-      "publisher_url": "https://hackread.com",
-      "language": "",
-      "seendate": "20261010T110530Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Socio-Economic Factors Drive Urban Heat Vulnerability Across Diverse Regional Spanish Climates",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zMGpVZ3ZHMzVNenQwLURwaWJNMzBkZThySmZTa1ZIakYxSGxQY01FdGdUMGhYTEtEOW12TDBsYW5kT01GNHRDS0h2SUVJODhvc2pwZG5aTVJPLXBmWjVCSQ?oc=5",
-      "domain": "www.azocleantech.com",
-      "publisher": "AZoCleantech",
-      "publisher_url": "https://www.azocleantech.com",
-      "language": "",
-      "seendate": "20261010T084300Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Ransomware recovery CEO indicted after allegedly paying hackers and pocketing millions",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRTF1a0NkQUhQaS1naUdCWjQwN3NDTE50WnU4OVZVM1JSbnlIa0FhS1RHc0gtUlNfSVBlTjlKZzJZVlBNVjFHaXREaVNXeFRQeTNNOE51TWRHQTRVR0JmcU1FaHVhXzZoZFowakZWOHM5aG95UVpRbFFBb3cxd3FDUUYybw?oc=5",
-      "domain": "cyberscoop.com",
-      "publisher": "CyberScoop",
-      "publisher_url": "https://cyberscoop.com",
-      "language": "",
-      "seendate": "20261009T010234Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yZWdTZ3hmWnppV1Nlb3kzNFNmekdDYlBHRE9HWG5uMldkMmh3ZUlPYnJQQVZ2UE8wUlYwZ1k5bG4xWW5wa0c1bkFUWW9LUFdlY2Zwd053M3IwWlk2Rkt1TGVaa2R5QQ?oc=5",
-      "domain": "therecord.media",
-      "publisher": "The Record from Recorded Future News",
-      "publisher_url": "https://therecord.media",
-      "language": "",
-      "seendate": "20261008T171357Z",
       "source": "GoogleNews"
     }
   ],
