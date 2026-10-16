@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-10-15T21:50:37.150117+00:00",
+    "generated": "2026-10-16T05:09:51.408610+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,11 +23,21 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "41"
+      "value": "40"
     }
   ],
   "live_data": {
     "news_articles": [
+      {
+        "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NTFEOHpHVzBmeEs4OEhFU2xHS2RXUUtaaXRFUHNyZFlJREFqZkpnTFJyZXl0TjRmOXVLTURSTW1ITWN4cDBVd04zZFdOb0NoQWFYQV8wTVR4dmlNOENsRkxHUUt4NTFib0d5aTZFekZrWEdwcXBjYWJR?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261015T202400Z",
+        "source": "GoogleNews"
+      },
       {
         "title": "Thousands of refrigerator devices remain exposed following French cyberattack",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3BnNTZWclNKcmd2Y3EwbXpRVndFWFpkNTZSVDFJa1dGTEZxLTRsOHBMcTlBTFptTjBIMjJyVlVTb2gzdUM1UFVaNnR5ejdLUGxZMk1LZ2NBcll4aXBsQ2FxdFg0b1ZWVVpTXzBHcTN1X0RhdnJaYVVtc2lNeXZxQUctYkNCTEZ6QmNmZ2NTUV9udnYySUtfUGs1UlZLUlRrVy1LWkxXOA?oc=5",
@@ -36,6 +46,16 @@
         "publisher_url": "https://www.cybersecuritydive.com",
         "language": "",
         "seendate": "20261015T162357Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3lrNzI2NkxKNFpvbjdaSC0zY2JVb1lBOHRtbkQzM1ZMQXp2bW1OLTRPc1RtQzFialZDckEzV1gyZFgtcU9qSjFDTFNQN082SUlEQXg1QWRpb0w5dVBDQVYxa01LVVprbnNNd2hJbENGWVg2RjRYVGZfeVJXZ01OaE04Z3I2SXVkd1lPZ2ZR?oc=5",
+        "domain": "blog.talosintelligence.com",
+        "publisher": "Cisco Talos Blog",
+        "publisher_url": "https://blog.talosintelligence.com",
+        "language": "",
+        "seendate": "20261015T180049Z",
         "source": "GoogleNews"
       },
       {
@@ -49,46 +69,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-96951: Actively Exploited Windows Shell Zero-Day Bypasses Mark of the Web",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FWnpVNTlSZ3hDZ3AtQ1FoTHhfLVpnZ2tGM0pTRk4zaF80WVVydjJOb1NqVm5aOEgtUGlkdTRFcXhxWTRxX096cnFvMEJidmt1MjlDbWNkeVpPVHJaTEJj?oc=5",
-        "domain": "socprime.com",
-        "publisher": "SOC Prime",
-        "publisher_url": "https://socprime.com",
-        "language": "",
-        "seendate": "20261015T021557Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Microsoft Patch Tuesday, October 2026 Security Update Review",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHdUM1NSVFJFTkRYMzhmdFlsYXFWUFQyVzNEelpLbXJvbE9HNkdaRWRCUDN0MkNSNUlNbUJmN2RVM1JsaXl5UmRLQW9nemJZU2FWMzN3dWxaa0YxWF9VWWIzVE1lam9KcmRmU0tNYVRJd2Z4U2IyVG43NnhPRUlxaWFnN3hCRHVnbHJucWZPajJCbnFFZWIzdjR1OHhvaG11RlpXaTdMZjFUaTM5TFV6aTllcDdwNDc4cndIZllOOE9Sanlr?oc=5",
-        "domain": "blog.qualys.com",
-        "publisher": "Qualys",
-        "publisher_url": "https://blog.qualys.com",
-        "language": "",
-        "seendate": "20261015T110737Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack disrupts Stop and Shop’s online services for a third day",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUVlFNkdTZkVHeGd5SVhXODZUVXVkN0RoTktpcFNUNHZQZ3VGbkFVeWZWZ1VTcG5BQ1dmR29uR0xmVFZkaUpkVVZmSWswWUd1WXNLck9wb1Y0Y3pCMWpjQlA5VENmRktnbDRIUFk5TlNZeDlmSDlpZXRoanpCNkxrRmpmZUNEYmJNTjk5cDc5WW9odUxjODJKQXg1QjRlQUlBcnI4?oc=5",
-        "domain": "www.westernmassnews.com",
-        "publisher": "Western Mass News",
-        "publisher_url": "https://www.westernmassnews.com",
-        "language": "",
-        "seendate": "20261015T192900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NTFEOHpHVzBmeEs4OEhFU2xHS2RXUUtaaXRFUHNyZFlJREFqZkpnTFJyZXl0TjRmOXVLTURSTW1ITWN4cDBVd04zZFdOb0NoQWFYQV8wTVR4dmlNOENsRkxHUUt4NTFib0d5aTZFekZrWEdwcXBjYWJR?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261015T202400Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU1iNVd4N0RyM29yWVFhSldLS2lsa0YydGZld3hRWTFONXlPWGhMcHVNcDB2N3JUSjdiNU1OVURBY0taUVVhMFBOTFNmZHV6dVREX2hsdjBEQ3g3RWRQa0dGLUZQUTZNTERGNlFnT1YzNUFHVVNGd3JLVDNCMnVINHo2Y285UF9sUktjblE1Sm9jcXFuZWZPUFk4cVJpZTNERzZJM2tVT2RzVWVKZXNhQ3NCYzZyeWU1LUM5UEVMRnB6V3ZpUm9IbU5PdzlvX0h2R3ZF?oc=5",
         "domain": "www.reuters.com",
@@ -96,46 +76,6 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261014T051335Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GIANT grocery stores website, app down following cyberattack, officials say",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWJ5ZUx0UXVHc19GSFdCMURpcmN2U3EtdHlxTGozbUs5azBEZ1R3TjJzMFpESTVHa1lORUZ5a0hfUXlkWHlRMExaZWVyZ1ZIaEJjWUN1NEluVkZDTVJVZHpRNE9iM25vSzF0LTBqcy1COXhBWmNweHJHLVJla2hRX2w4TzBDUnQ5eHFjVFRLbWp2TVp2SUhnM25oOXZPN3RtUHJmQUUtNFZZUEx2TlRKbE5PMmpMa2dKZmFsb2MyUUNUY03SAcsBQVVfeXFMUHFSUjRHOFlWT1hFNlJ5VlpBcG42UGFwT2tUbUtUY2I5Q29vcHFkWGMwVTB3X21lZFFrOTFVS3V1RnFhMHVqYXRwaUQ1eVRXU3NwNjBuNHR2NnE1dXF2bVlNUFZTQjk5TmFKVnpYWkNvbnJ0Z0hoRFJVVVVsS19yMDdwU09Uc3pJUnhTV09qXzB1eXBjM25yakt5MkJNQWF4SUNKa09sa2plcGdFRmtjS2J2eENwZmVkVUEzaW13TDRsVk1mcHVGUVVPNWM?oc=5",
-        "domain": "www.nbcphiladelphia.com",
-        "publisher": "NBC10 Philadelphia",
-        "publisher_url": "https://www.nbcphiladelphia.com",
-        "language": "",
-        "seendate": "20261015T092150Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlVXSkt0UVVTVGpqRk5fVXRXS0FzUmJ5RHNNeW5mQ1E5aEY2cXhfYWNtdDFjVXdzSFEtMFk5U3hiSkp6T3p0dkE1QmNkdEFCbU5TSGFSbF9Kam9tRDg1RkpaTTZTRmdrdjdoVWlUdkJBYW1kM3JWRG0yTTNScTdoSHI4SHlmcUoyTmNjR084MnplZkJRY2pqX2pSeXRlN0lFUUFRNnpqRGwwTGo4T0hDTFlKUmhUU2NOeXJ1aFdtUV9rZEhZclEzNzBn?oc=5",
-        "domain": "www.darkreading.com",
-        "publisher": "Dark Reading",
-        "publisher_url": "https://www.darkreading.com",
-        "language": "",
-        "seendate": "20261015T154050Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Danfoss equipment targeted in French cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUNQbkVZUmZtNldsMzJ3U3V6dU1kUFlqWlpSM1pPOUZVM3Y4U1dINlEtZzlQWXNjdENSUzZTS2ZXUjhrVFRNb3ZsNEhBc1BraU1JdjBJbHZUaDUwY3N1UW1HRDlDSVItVzR1eFVka0dpNm5kdTA5b3RFSWdSbGlGWkVDZ2pMZ0FzVkhsSzV5Qm1JemI0WmYyV0xfS2RnODhOYkkzbmFmSlpnQmRaNHRCaE1SdGtRdEFoVkl3?oc=5",
-        "domain": "www.tallahassee.com",
-        "publisher": "Tallahassee Democrat",
-        "publisher_url": "https://www.tallahassee.com",
-        "language": "",
-        "seendate": "20261015T193800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Anne Arundel County hit by cyberattack in late August",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFuQVRRWHc4c2VpMDlFRDgtUzh0Uk1wUjdKMG4xYXVYc09Jcmx5WnNzMkI2YWoxa0N1MUM3a1VDWS11RU85TThvTmJBM3ZHRUxwZ3BEcVNkSExRNFdmYzhMbnkweW5VUTFwWndYSnhndmZYRUJWbVFDVGxzUndHNVJEdWxSVGd2OXNDNXlyVFlGaVZEZ2xIMTVBUHdoQlAtY2xwbHpYOWxMNFRVblNv?oc=5",
-        "domain": "www.thebanner.com",
-        "publisher": "The Baltimore Banner",
-        "publisher_url": "https://www.thebanner.com",
-        "language": "",
-        "seendate": "20261015T210100Z",
         "source": "GoogleNews"
       },
       {
@@ -159,13 +99,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Town of Bernalillo hit with cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1E3TUtVRkFMOXk0cEpBX0djcUdJN1YzZ0hpWWJZNTVsU2VRU0xsaEdMMFJMQzdkZENqVnhaQzA4UXpTYjJlOGpQM1N3UG9wS2xvbzRqY3h6cEJtZ1NPdV9sTFNwZXVYdTAwR1cza0NSQk9pclRjay1WeTR0QVllaEZ4RdIBiAFBVV95cUxQUXBFTDVKWFdjUUk1ZS04Q1l1UDFhZGZhVjY1RGFfcTlLR21HRzJTTnVLdW83dWFoaWJObXpVSncyOUlDdC1meVlLRWtNWW80Zy0weEQ4bjlBbnBxRThyOWZhclNvTmFkUkVvVjVERmw2XzJJd0tsQ3JzaWJGNm05aDBNYWRUNm1T?oc=5",
-        "domain": "www.krqe.com",
-        "publisher": "KRQE",
-        "publisher_url": "https://www.krqe.com",
+        "title": "Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935)",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd2ZmZmtJd2dTVGlTNDhzY09iMjlUNUhVWS1GYTUwMjl4ME0tNkZOUl9WZjB0eVZlTkVOdUpVZlBhMzZXQUpYQXk2X3dVSDJHd1N5NTNMaEMzSU5CTVd2Z2JlQThLdm5pTjA0YndWcFJ4QTA5OUVxTmpoeHFQOXllT1pBaTBZSFJoVnctSG1XY3Z3QWdTUzlRcURoZ204T0IzWVBMbFdEMUludw?oc=5",
+        "domain": "www.rapid7.com",
+        "publisher": "Rapid7",
+        "publisher_url": "https://www.rapid7.com",
         "language": "",
-        "seendate": "20261015T172722Z",
+        "seendate": "20261013T170740Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Microsoft Patch Tuesday, October 2026 Security Update Review",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHdUM1NSVFJFTkRYMzhmdFlsYXFWUFQyVzNEelpLbXJvbE9HNkdaRWRCUDN0MkNSNUlNbUJmN2RVM1JsaXl5UmRLQW9nemJZU2FWMzN3dWxaa0YxWF9VWWIzVE1lam9KcmRmU0tNYVRJd2Z4U2IyVG43NnhPRUlxaWFnN3hCRHVnbHJucWZPajJCbnFFZWIzdjR1OHhvaG11RlpXaTdMZjFUaTM5TFV6aTllcDdwNDc4cndIZllOOE9Sanlr?oc=5",
+        "domain": "blog.qualys.com",
+        "publisher": "Qualys",
+        "publisher_url": "https://blog.qualys.com",
+        "language": "",
+        "seendate": "20261015T110737Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Officials confirm weekend cyberattack on town of Bernalillo",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkg0RWE0ZngxYkFxOXFKOVFnZy1tamE1aTRiTUJjSGhDdW84eVlZNlBJUnkwRzNfQW54X3lCRWNNVXhxcG9EU1hDckxiSHBsZmNGaVpSS3dYWTcxWk5VRUgyTW9wWHlFWFNKOGFyTnNvTmx6MXkxbS04MW9pNDJPTHJCMzFxQktJY0lHZHE3WGdjYnBKZ3NfN2ROZGpIMHpGNEhKUV9jTDhrc3ItbkE?oc=5",
+        "domain": "www.koat.com",
+        "publisher": "KOAT",
+        "publisher_url": "https://www.koat.com",
+        "language": "",
+        "seendate": "20261015T215500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-96951: Actively Exploited Windows Shell Zero-Day Bypasses Mark of the Web",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FWnpVNTlSZ3hDZ3AtQ1FoTHhfLVpnZ2tGM0pTRk4zaF80WVVydjJOb1NqVm5aOEgtUGlkdTRFcXhxWTRxX096cnFvMEJidmt1MjlDbWNkeVpPVHJaTEJj?oc=5",
+        "domain": "socprime.com",
+        "publisher": "SOC Prime",
+        "publisher_url": "https://socprime.com",
+        "language": "",
+        "seendate": "20261015T021557Z",
         "source": "GoogleNews"
       },
       {
@@ -179,6 +149,36 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Hackers knocked out refrigeration at hundreds of French supermarkets, spoiling food",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4T2J2TlBnOXE5azdISm5LaXdqRWNxUkdxTWRNSEZmY09FNDdaNkJVUEM0dnZ3c3VVYTNfNklfUGZfOHN1cEV0dEltRmVxblozWnMxa1hTdk5VeWZqU05MVXhLdTRBLUlmelotNEJDdmQ0RGZWOXo4MWNLNTFKUDA?oc=5",
+        "domain": "qz.com",
+        "publisher": "Quartz",
+        "publisher_url": "https://qz.com",
+        "language": "",
+        "seendate": "20261015T104456Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Technical Advisory: AhsayCBS Exploitation Chain (CVE-2026-105133, CVE-2026-105134)",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVmw2WWd3Q0dKSzNJTWxGX09HS1FzUXBOS3FvVzhWbXlZWEZNUERxYTQ5QjV6Qng4U3BxOUVINHJVbDBKeHpTTHVDN3Z0dGJ6dVVUbURlZ3dXMTVHU3o4R2RFZUkwdVk2b19NMEFqMldpZ1JfZ2dwUzZWZVhFLTVCUUtoV1lLamcwZVFlSEp5VEtCYTlaRjY4SThFekc0dDJGekZQbldvWG9MODFWWWEzRExQRmpUcTl3djRsTTJOdU4tWTVWVUV5ZkdqVFgzUTA?oc=5",
+        "domain": "www.bitdefender.com",
+        "publisher": "Bitdefender",
+        "publisher_url": "https://www.bitdefender.com",
+        "language": "",
+        "seendate": "20261016T023730Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Town of Bernalillo hit with cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1E3TUtVRkFMOXk0cEpBX0djcUdJN1YzZ0hpWWJZNTVsU2VRU0xsaEdMMFJMQzdkZENqVnhaQzA4UXpTYjJlOGpQM1N3UG9wS2xvbzRqY3h6cEJtZ1NPdV9sTFNwZXVYdTAwR1cza0NSQk9pclRjay1WeTR0QVllaEZ4RdIBiAFBVV95cUxQUXBFTDVKWFdjUUk1ZS04Q1l1UDFhZGZhVjY1RGFfcTlLR21HRzJTTnVLdW83dWFoaWJObXpVSncyOUlDdC1meVlLRWtNWW80Zy0weEQ4bjlBbnBxRThyOWZhclNvTmFkUkVvVjVERmw2XzJJd0tsQ3JzaWJGNm05aDBNYWRUNm1T?oc=5",
+        "domain": "www.krqe.com",
+        "publisher": "KRQE",
+        "publisher_url": "https://www.krqe.com",
+        "language": "",
+        "seendate": "20261015T193806Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkxzLUM2anBhU29KWjhTMWRIN1Myd21QV3E2NnFNVmRqd2prQUNudmh2Nkt4RlRGR19mUjFncW5LNGVhVzhDMGZSUzd3Yl9ZMWota0JqV2syUXRaRld6Y3oyQV9vQU90UVY5aTltYTBEalJRNkJlNlRhajVWWmU0bGFmalZOUnZoMGQzMGQ1S1o2T0ZHNmlyRTdEYU8xTDFHbzRYc2ln?oc=5",
         "domain": "www.afp.com",
@@ -189,23 +189,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Intermarché cyberattack exposes refrigeration security risks as French supermarkets face operational disruption",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNm9veWJZWW1jWVhuQW1WcUxuMzdBOGlMVmVLSWF2cHNZVkJCTVA4MV9DS3hwSjlOclg1SXZOMGtvNHV4a083aEdJZWNfSGtXVlpkTnhJNWpHNzFrTDlKMVJneFFFSUFYdHd5WE54Q0hoZTNCcFlvR2RrcllpQXRIUXlISXo4TDZRcW44V2tER19WOTAwQVc1SjZxdzM4TUdYcm96eFJoZzBEamR4RlNpOGpIcFhRcExLUjNpOFB5T2Z3aUt5Qk5LTHVsdnZDSlJzeTE0YXczdDVaYm5DRWZCNU5MYTNCSHR3TUFXdjBsUFFreUhqbG9v?oc=5",
-        "domain": "industrialcyber.co",
-        "publisher": "Industrial Cyber",
-        "publisher_url": "https://industrialcyber.co",
+        "title": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUlnbFFHd3Bfdk45RmZCMGM4YzdYaVViVi1FQ2RtVEU4N3d3cDk0QUhDSjFWQ2JiekxJVi1zZkRobkx4MWpVWHZaU01UMVVPUjh5TnJJMFlrVTJHc2JVampoeVZwcE5MeV9yd1JlSkdOMXJ5RVUxMHdVdTJqX0FiWjItRXFnX0Z5aE5IVEtNME80a0d6NUF0T0F6bzh4dnY2aU1RTHotUlh1eXBqNGFsT0pR0gG3AUFVX3lxTE9TaUg1Z19aVGtBTFd0ZVFib2FvUUtIWGJEMXhoeEo5OXRSemhNVU5pWDNGWHc2azNZQmxTMVVQUnB5WG5xZTJnWWp3TnRYSXBZdWNCVTZFT1pXU2Y5YnpzOTJVZDVpdHFNek9WZElaSlhwdWJiUEZteGUtNEV4TVlwV1RPMFVXWTMtRFViNDdfaGk2OVdYd0d5RklUSElJSVppSC1JZkVocXBkLWJrd0tQSEc5TFRRTQ?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261013T144635Z",
+        "seendate": "20261013T055421Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack targeting parent company continues to impact Giant Food Stores website, app",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdm1KZXVXVDUwaEc2dUR1Q21USEdxSnN6RUpESXRiX0JmS1N0bHhoZk83NkxlVzRZbklhZ0k0NDhQYVJnSVBOd0VrZ0QxUVZNZHNwY0JlSzF6NkxGWWdoLUpvbG11ZWtYMnQwUno5RURRa2RaSFBsYWRBRW15LTNiRGk0YV9PSDJyQlBSZ0dGYkhOTy1TX28yc0M0S24zNmxad3d2NUxHZWh0RmNmYmdfNlA5bXpYNF9ZRDZ1dUVhWVFieGlyZ0hRN0dyNmZOU1d1MzFLcG1oVEhJbnJHTWh3TGRVaW9oWXZnWFlpanVYTWlWUkt4czFtYzVKNDEyWElpY0p4amt3?oc=5",
-        "domain": "lancasteronline.com",
-        "publisher": "LancasterOnline",
-        "publisher_url": "https://lancasteronline.com",
+        "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlVXSkt0UVVTVGpqRk5fVXRXS0FzUmJ5RHNNeW5mQ1E5aEY2cXhfYWNtdDFjVXdzSFEtMFk5U3hiSkp6T3p0dkE1QmNkdEFCbU5TSGFSbF9Kam9tRDg1RkpaTTZTRmdrdjdoVWlUdkJBYW1kM3JWRG0yTTNScTdoSHI4SHlmcUoyTmNjR084MnplZkJRY2pqX2pSeXRlN0lFUUFRNnpqRGwwTGo4T0hDTFlKUmhUU2NOeXJ1aFdtUV9rZEhZclEzNzBn?oc=5",
+        "domain": "www.darkreading.com",
+        "publisher": "Dark Reading",
+        "publisher_url": "https://www.darkreading.com",
         "language": "",
-        "seendate": "20261015T143700Z",
+        "seendate": "20261015T154050Z",
         "source": "GoogleNews"
       },
       {
@@ -219,33 +219,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNXdEMlRSTDR5bVVYU1RhR1ljMjB3RU5iaFZYZmdndGg5UWdtdjVLOEdibVlXLUtRSVB3S3RGYXhkZnJWY2dNQjlwMWZaSnJ3NTliaTZrQ0p6X2RWYm9CSEZiTmFDWEJVNnZjeGsyMUlPdkVCajIya2tXWWlNeFFTcVBn?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
+        "title": "Investigators hunt French supermarket fridge hackers, no claim of responsibility",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ3JqLV9RU0d1X0RtU05YMURYUGhhVlBQSWY5WENLX20zTVlsczlMejdNbGVrWHd2amxyeVdMVERzS3Z1blYtQUV2LVJ0d1FGY0cyUGlPZnRYNkVNXzdMVEYxaHJNQ0k1OU4wZTZVY2ZVQWg1aUtHWFh2TmY1bjlTRUpDcS1jTGRRMjB6V1ZCRWc0NzdKeFRHVVpRWjI3VzhLeXk5OEhvN3dkUHAwTlAwamIwa1FVZ1N1TWtmX1VYUGJMQVoxMkpjYg?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261015T130800Z",
+        "seendate": "20261013T115000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DdVhoZnJmMkdXWW85eUxOQllTZ0NxM2ZqZ1VYeVhLd0F6aF9ZNHBVckluZHVrRUVKWXRibFpQMUR5XzEwUTEtSTkya0JYdVJXQ01jQy1rTWZZV1ozeDkxN1VHUVNGNGVUVVQ0VDhvMGswOGlwSGxJMWp2Rjc?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
+        "title": "GIANT grocery stores website, app down following cyberattack, officials say",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWJ5ZUx0UXVHc19GSFdCMURpcmN2U3EtdHlxTGozbUs5azBEZ1R3TjJzMFpESTVHa1lORUZ5a0hfUXlkWHlRMExaZWVyZ1ZIaEJjWUN1NEluVkZDTVJVZHpRNE9iM25vSzF0LTBqcy1COXhBWmNweHJHLVJla2hRX2w4TzBDUnQ5eHFjVFRLbWp2TVp2SUhnM25oOXZPN3RtUHJmQUUtNFZZUEx2TlRKbE5PMmpMa2dKZmFsb2MyUUNUY03SAcsBQVVfeXFMUHFSUjRHOFlWT1hFNlJ5VlpBcG42UGFwT2tUbUtUY2I5Q29vcHFkWGMwVTB3X21lZFFrOTFVS3V1RnFhMHVqYXRwaUQ1eVRXU3NwNjBuNHR2NnE1dXF2bVlNUFZTQjk5TmFKVnpYWkNvbnJ0Z0hoRFJVVVVsS19yMDdwU09Uc3pJUnhTV09qXzB1eXBjM25yakt5MkJNQWF4SUNKa09sa2plcGdFRmtjS2J2eENwZmVkVUEzaW13TDRsVk1mcHVGUVVPNWM?oc=5",
+        "domain": "www.nbcphiladelphia.com",
+        "publisher": "NBC10 Philadelphia",
+        "publisher_url": "https://www.nbcphiladelphia.com",
         "language": "",
-        "seendate": "20261015T061910Z",
+        "seendate": "20261015T094810Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Bernalillo County officials confirm weekend cyberattack on town of Bernalillo",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkg0RWE0ZngxYkFxOXFKOVFnZy1tamE1aTRiTUJjSGhDdW84eVlZNlBJUnkwRzNfQW54X3lCRWNNVXhxcG9EU1hDckxiSHBsZmNGaVpSS3dYWTcxWk5VRUgyTW9wWHlFWFNKOGFyTnNvTmx6MXkxbS04MW9pNDJPTHJCMzFxQktJY0lHZHE3WGdjYnBKZ3NfN2ROZGpIMHpGNEhKUV9jTDhrc3ItbkE?oc=5",
-        "domain": "www.koat.com",
-        "publisher": "KOAT",
-        "publisher_url": "https://www.koat.com",
+        "title": "Central Ohio Primary Care says health info breached in cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLVhPb2hVcVdSelVuVnA1NlFFdjBEZGNrQ2RqOXRwMm9kUzJNTldtYXphMnN5SHB6MU5PTzF2bmdIdEpJREJwQzZHcUsxc0JiWkdnb0l2ZFpOMk5UTU9XMkpTeURkVFNubXV1NllXeUI3dnBsV1lySUM3bEdRU3FhaTlsbkFKMWFYQWY4cGFHNlFZWFQzVUtqU0R3dWFFMGViazY3ZFMwVkh5c3J0WXJ3d0F6cDZLZlhRS1d0U1gxOC1rc3E1OHJfTVRpemt5Zko1a1VjS1FzTmk?oc=5",
+        "domain": "www.dispatch.com",
+        "publisher": "The Columbus Dispatch",
+        "publisher_url": "https://www.dispatch.com",
         "language": "",
-        "seendate": "20261015T211300Z",
+        "seendate": "20261016T000200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXV6dC1HVlB5V3FyRnN1TmFTOElFMWh4MkpYTGxOb2U0R3NZcVFwRmJ2bzY2TG1qbTNKVm44b0Mtc1Y2N2I1MUNWWjdkQ3F5WDRxVl95aUxGQVNQRHlEZ0ZjLWMzQmlxVE1FWEpIZ25ia2NMcXFKYmVZNDdXQTJsdE9DdHE4TUhNLUNaczZSSdIBlAFBVV95cUxObDhwd2xNM1hZMENfMVZrSmh0RTFPblRUVFhyM0NnUmVaR0R0cjVKUkFsV2l1RkE3QktRbmVoRHBrRE1ZczlXUVFNVU5nLVZBeEZXMXlyd0JZZGpqb1NNQkYwLTRJQzlKb0VsdDQwY2hmam16Z1RkZ05EcDBQSElGOTZCRk1CNDB2ZEo0VHpIeGhfRVFp?oc=5",
+        "domain": "www.cnbc.com",
+        "publisher": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
+        "language": "",
+        "seendate": "20261013T064400Z",
         "source": "GoogleNews"
       },
       {
@@ -259,53 +269,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Central Ohio Primary Care says health info breached in cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLVhPb2hVcVdSelVuVnA1NlFFdjBEZGNrQ2RqOXRwMm9kUzJNTldtYXphMnN5SHB6MU5PTzF2bmdIdEpJREJwQzZHcUsxc0JiWkdnb0l2ZFpOMk5UTU9XMkpTeURkVFNubXV1NllXeUI3dnBsV1lySUM3bEdRU3FhaTlsbkFKMWFYQWY4cGFHNlFZWFQzVUtqU0R3dWFFMGViazY3ZFMwVkh5c3J0WXJ3d0F6cDZLZlhRS1d0U1gxOC1rc3E1OHJfTVRpemt5Zko1a1VjS1FzTmk?oc=5",
-        "domain": "www.dispatch.com",
-        "publisher": "The Columbus Dispatch",
-        "publisher_url": "https://www.dispatch.com",
+        "title": "Danfoss equipment targeted in French cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUNQbkVZUmZtNldsMzJ3U3V6dU1kUFlqWlpSM1pPOUZVM3Y4U1dINlEtZzlQWXNjdENSUzZTS2ZXUjhrVFRNb3ZsNEhBc1BraU1JdjBJbHZUaDUwY3N1UW1HRDlDSVItVzR1eFVka0dpNm5kdTA5b3RFSWdSbGlGWkVDZ2pMZ0FzVkhsSzV5Qm1JemI0WmYyV0xfS2RnODhOYkkzbmFmSlpnQmRaNHRCaE1SdGtRdEFoVkl3?oc=5",
+        "domain": "www.tallahassee.com",
+        "publisher": "Tallahassee Democrat",
+        "publisher_url": "https://www.tallahassee.com",
         "language": "",
-        "seendate": "20261015T195000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "French supermarkets' cyber insurance unlikely to cover food losses, insurers say",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2dZQjRRTTdDT1ZYbnQxZ2g4WDA4RnJmTm1KSnBqZ1YwazVzdFJzcmxmWVY2N2JGS1JiMHlNT0JnWnA4TWdJbDRqTElJVkc1eGNNR0pfM0lVenVxTk0wMDFPTmxWMl9XYnNfYVBzS1A5Z2xjZVBDV0NIRlV0aUcxR1pDd1dDWlB3M0YtM3BnZHlHSDJfdEk1YTlkeF9mQ2dBWFB3Q2QtUkJsbzM3b0hxWnlTOURYbzFFNjBRTnRtdFhjMnZ6V3dJ?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261015T152230Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Giant Food Stores remain open after cyberattack on parent company impacts online orders",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JSGVmU2NMNTM3QXRqV0F5cnAxRDRkQUhMTko5NWRhWmpidWJPMUdYanhyUkFaUWM5WG53LWtBYU1INUo0S1p3YjhXQ21qQVBpS0lZNEhpSmVhM0tGV0l2TVRiUE8tRDBsdUdqM1BKU2VLbWY0XzhkSUtFbUE?oc=5",
-        "domain": "www.cbsnews.com",
-        "publisher": "CBS News",
-        "publisher_url": "https://www.cbsnews.com",
-        "language": "",
-        "seendate": "20261015T134700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Central Ohio Primary Care says cyberattack may have exposed patient, employee data",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQa3Z6R3RCWHh6cmVMMGk2dmFmTjJBZTJXTkxLOUNvZTJROGo3YlBMczZtbUFzcnVzVTJuaGR2UlVOa3hSRVB4cU5GaVdKSVN0SFRFbUlfWmQyNXVHcS1jZmpwNS1xSDdHS0paUDR5Z2tkMmc2RzNVNjV2bndYbEgxUmx6WEx6YzFMY0pmMEhwaG42dG5hWGs5VjB0Y2RTYWgyQ1FMU004M3NkVy0zS0VEVUJFNjduTXlLMXRiaF83Ymx3OTlTSUZHOWRqdXc4VXl1X0RSeFhiSkhiM0dXME5DSVlFc1pYYVVPTi15b3Via0R5NVZOVl91Wm93?oc=5",
-        "domain": "abc6onyourside.com",
-        "publisher": "WSYX",
-        "publisher_url": "https://abc6onyourside.com",
-        "language": "",
-        "seendate": "20261015T164157Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXV6dC1HVlB5V3FyRnN1TmFTOElFMWh4MkpYTGxOb2U0R3NZcVFwRmJ2bzY2TG1qbTNKVm44b0Mtc1Y2N2I1MUNWWjdkQ3F5WDRxVl95aUxGQVNQRHlEZ0ZjLWMzQmlxVE1FWEpIZ25ia2NMcXFKYmVZNDdXQTJsdE9DdHE4TUhNLUNaczZSSdIBlAFBVV95cUxObDhwd2xNM1hZMENfMVZrSmh0RTFPblRUVFhyM0NnUmVaR0R0cjVKUkFsV2l1RkE3QktRbmVoRHBrRE1ZczlXUVFNVU5nLVZBeEZXMXlyd0JZZGpqb1NNQkYwLTRJQzlKb0VsdDQwY2hmam16Z1RkZ05EcDBQSElGOTZCRk1CNDB2ZEo0VHpIeGhfRVFp?oc=5",
-        "domain": "www.cnbc.com",
-        "publisher": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "language": "",
-        "seendate": "20261013T064400Z",
+        "seendate": "20261015T203700Z",
         "source": "GoogleNews"
       },
       {
@@ -329,63 +299,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Investigators hunt French supermarket fridge hackers, no claim of responsibility",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ3JqLV9RU0d1X0RtU05YMURYUGhhVlBQSWY5WENLX20zTVlsczlMejdNbGVrWHd2amxyeVdMVERzS3Z1blYtQUV2LVJ0d1FGY0cyUGlPZnRYNkVNXzdMVEYxaHJNQ0k1OU4wZTZVY2ZVQWg1aUtHWFh2TmY1bjlTRUpDcS1jTGRRMjB6V1ZCRWc0NzdKeFRHVVpRWjI3VzhLeXk5OEhvN3dkUHAwTlAwamIwa1FVZ1N1TWtmX1VYUGJMQVoxMkpjYg?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "Jackson web host drops longtime client after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmUxOUMwQUpzZmhKTnZ5RVNLTVNwTjExNjJVTlN4a0M2Wm9DdEtOU1diOFByUXNINUE0Q1ZDZ3NUTDRNWFpFeXJkSzBZcUtxMUc1YTE0bEFOMzRDTlY2dnQzTUJRRlJualVQREkyWDNZbDh5TEg3eW56NnI2dmVxQjZvSndJWEpGbFVaLWxIMHJLLUU?oc=5",
+        "domain": "www.wlbt.com",
+        "publisher": "WLBT",
+        "publisher_url": "https://www.wlbt.com",
         "language": "",
-        "seendate": "20261013T115000Z",
+        "seendate": "20261015T231800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUFtMXN3NjR4QVNlUU54U0NoVTFRV2FBcUY0a2JFWGtoU1dhY1dJUVRIR1NxbUFZRGt3dDBKekNYcm96N0tDU2xUNVhjRVR0UEVFZTZwTEozSklMUEgwVlVsc0ExeElWLXBsY1Q2MDZLQVVVNzlpMXUtcWJwVzZiS2NQVXUzVFpi?oc=5",
-        "domain": "therecord.media",
-        "publisher": "The Record from Recorded Future News",
-        "publisher_url": "https://therecord.media",
+        "title": "Cyberattack disrupting 3 grocery stores",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHRod2V2MFdyVmF3SDYxMkJSS2JUS0JkdDZfN2dEMWo2M0JpWGljOHVXQnJXYzA5NXdQdFVUS2JhY2FYWUx6bDFJZHZYUDRNeks1dFEwbXhodXFRdXl6aGYyZERxenowM0ZqX0g3a3hGa3RPbnFaLVVhZEZzaW5vaDk2Y0FKSXk2VjVqTDdFWHI1T3hnRE1XaTlKcmZCOXZEaXVNT1Y0TC1WeXY1Q1HSAbYBQVVfeXFMTng1UTZyY1I2bmpBZGZ0bTRJYmdhbVVtVHcwa3czOVBkS3FWLWxsMVFVTjJtRDRwS0V6OWRTVzVjNDVtMUVPaVVsaW5EdHB4cnE3U25HajF6RnlwSVE0WFRsNTE4aUdsTFpYMVVZbE5SSXRGVmt5SEtCVE1RTTNBbVV1ejZmOW9Ia3V0ZXBwR3E2b2lITEdnaThOMFRwSEVGUWY5VW1GVVZnT3U0SUViQmZzemVreWc?oc=5",
+        "domain": "www.nbcphiladelphia.com",
+        "publisher": "NBC10 Philadelphia",
+        "publisher_url": "https://www.nbcphiladelphia.com",
         "language": "",
-        "seendate": "20261015T205722Z",
+        "seendate": "20261015T221154Z",
         "source": "GoogleNews"
       },
       {
-        "title": "We lost $112,000 in food when hackers overheated my supermarket's freezers. I keep asking: Why us?",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZFktM0pnYWtUTFFHTG9ScGdtRktGLThGcmQ3STVxaWNLcEk0YUR1VFdqZVBrZXB6d3dOcjJFMFJGcmZ5cVltUGx3cnI4UkJpUm1GUnRQcWc4bHhCVmxYMHVJbWUxWDZxOHkzd0ZjNVlaa2oxNnFHTnBEakcyN2lraWZidE9rQlAtOUM4WE9jVGYxNGljaDBZZk9LU3V0QUNpNWVfX1EzRTZJQ042RGY3MmVSaHQyejdodWR5Y1RtVHQtRmlFZjl6SmpIZw?oc=5",
-        "domain": "www.businessinsider.com",
-        "publisher": "Business Insider",
-        "publisher_url": "https://www.businessinsider.com",
+        "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNXdEMlRSTDR5bVVYU1RhR1ljMjB3RU5iaFZYZmdndGg5UWdtdjVLOEdibVlXLUtRSVB3S3RGYXhkZnJWY2dNQjlwMWZaSnJ3NTliaTZrQ0p6X2RWYm9CSEZiTmFDWEJVNnZjeGsyMUlPdkVCajIya2tXWWlNeFFTcVBn?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261015T170000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUlnbFFHd3Bfdk45RmZCMGM4YzdYaVViVi1FQ2RtVEU4N3d3cDk0QUhDSjFWQ2JiekxJVi1zZkRobkx4MWpVWHZaU01UMVVPUjh5TnJJMFlrVTJHc2JVampoeVZwcE5MeV9yd1JlSkdOMXJ5RVUxMHdVdTJqX0FiWjItRXFnX0Z5aE5IVEtNME80a0d6NUF0T0F6bzh4dnY2aU1RTHotUlh1eXBqNGFsT0pR0gG3AUFVX3lxTE9TaUg1Z19aVGtBTFd0ZVFib2FvUUtIWGJEMXhoeEo5OXRSemhNVU5pWDNGWHc2azNZQmxTMVVQUnB5WG5xZTJnWWp3TnRYSXBZdWNCVTZFT1pXU2Y5YnpzOTJVZDVpdHFNek9WZElaSlhwdWJiUEZteGUtNEV4TVlwV1RPMFVXWTMtRFViNDdfaGk2OVdYd0d5RklUSElJSVppSC1JZkVocXBkLWJrd0tQSEc5TFRRTQ?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261013T055421Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55YTR6aDF0SFJlWEFJWGkyWEJqR1VVX29GTXJYdUo4cGVEYkxOMmtnU1N1VDM4bDBnSWs2Y2txNjBSTnZGSF83SHNNUHI5clZ0d1Z2QVJWWkk0Zng5bGZxM3FxakM2cE4wZEFOOTVwaG1Ec18zZVNJ?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261014T183800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "French Supermarket Cyberattack Exposes Potential Risks for U.S. Grocers",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONHl4Uk1PX3F5dlJnQ0JCUm92UTlLbDBkNGF4Zmc2UUpKVk0yeDVpdUNmdHp4Nmd5Q0VCelpzWnl1bjB6TlZrNDZqeHkxNHRGaUlfYTgxd3Y4UXg5UmhOd2lBa2cwV2lUT2IxVURiQWwtV19KYnVzbFZQVGJYV20zbFZxZTU3WkJhSndSbWVjUFZuMGZZUjN5dzU3c2RVRW1QeXFxeXZVb1RNNlRRLXNrRWZaQ1p0ZVFjQVY3ZURZei1kZGIyMXIxVjQxbw?oc=5",
-        "domain": "www.securityinfowatch.com",
-        "publisher": "Security Info Watch",
-        "publisher_url": "https://www.securityinfowatch.com",
-        "language": "",
-        "seendate": "20261015T195206Z",
+        "seendate": "20261015T130800Z",
         "source": "GoogleNews"
       },
       {
@@ -399,13 +339,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Hackers used AI in most ransomware attacks and threatened staff, Semperis report found",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04Q1JjVkhmdEFNN2l1eG5LYmx3VlM3THd5WXRkMkVkYmNyeEhFRzl2aUFQYURsaXQybV9vSXlZS2NoWmx5OUxDRVIxZHRYMFFLbUdMcy0wUVl5U3g5Wk9wd1NicE5vdGRIWTA0SGoxN2s4WW9CNWV6SUdURUxfdw?oc=5",
-        "domain": "qz.com",
-        "publisher": "Quartz",
-        "publisher_url": "https://qz.com",
+        "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55YTR6aDF0SFJlWEFJWGkyWEJqR1VVX29GTXJYdUo4cGVEYkxOMmtnU1N1VDM4bDBnSWs2Y2txNjBSTnZGSF83SHNNUHI5clZ0d1Z2QVJWWkk0Zng5bGZxM3FxakM2cE4wZEFOOTVwaG1Ec18zZVNJ?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261015T124138Z",
+        "seendate": "20261014T183800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Anne Arundel County hit by cyberattack in late August",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFuQVRRWHc4c2VpMDlFRDgtUzh0Uk1wUjdKMG4xYXVYc09Jcmx5WnNzMkI2YWoxa0N1MUM3a1VDWS11RU85TThvTmJBM3ZHRUxwZ3BEcVNkSExRNFdmYzhMbnkweW5VUTFwWndYSnhndmZYRUJWbVFDVGxzUndHNVJEdWxSVGd2OXNDNXlyVFlGaVZEZ2xIMTVBUHdoQlAtY2xwbHpYOWxMNFRVblNv?oc=5",
+        "domain": "www.thebanner.com",
+        "publisher": "The Baltimore Banner",
+        "publisher_url": "https://www.thebanner.com",
+        "language": "",
+        "seendate": "20261015T210100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Healthcare Ransomware Attacks Doubled Since This Time Last Year",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWZScWE1Qkhob2gwZTNmLUtkNW1OY3lDS2ctWVJVSVlxdnpSMVh2UVJ5c1V5X2tqWUdiRGhDY1BmMGJJXzNSUVVQdmpMT1p5Wk43WmNGRjRaVDYzNUxBRk1tVXZ3b25IcHZFMTJxV2MwTWNRMUtCQUFsLTRsOVRxbElqRnZlLS00OHBlakFqbUJWTERkQjY1UVEyY3kyR2VndXlCNFdxaWdXZXpBTEFwbVRn?oc=5",
+        "domain": "www.securitymagazine.com",
+        "publisher": "Security Magazine",
+        "publisher_url": "https://www.securitymagazine.com",
+        "language": "",
+        "seendate": "20261015T160000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Giant Food Stores remain open after cyberattack on parent company impacts online orders",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JSGVmU2NMNTM3QXRqV0F5cnAxRDRkQUhMTko5NWRhWmpidWJPMUdYanhyUkFaUWM5WG53LWtBYU1INUo0S1p3YjhXQ21qQVBpS0lZNEhpSmVhM0tGV0l2TVRiUE8tRDBsdUdqM1BKU2VLbWY0XzhkSUtFbUE?oc=5",
+        "domain": "www.cbsnews.com",
+        "publisher": "CBS News",
+        "publisher_url": "https://www.cbsnews.com",
+        "language": "",
+        "seendate": "20261015T134700Z",
         "source": "GoogleNews"
       },
       {
@@ -419,73 +389,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Town of Bernalillo victim of cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa0o5bUxkZ3FkY1RfQUZ5NUdjS1VlOXNsbFRJak93U2FWSmJVd2VXXzN0Njl3OFJBUkJhUTdybE1NZmRaVEFRbUVvREJyMUxGZzlWT0dXNk1ZZktPM2hya2J3Ym9FWUdadXlOaWp2QUJOT3NPNnd5OWdfdTFfeHBycFN4MV80UlE?oc=5",
-        "domain": "www.abqjournal.com",
-        "publisher": "Albuquerque Journal",
-        "publisher_url": "https://www.abqjournal.com",
+        "title": "Town of Bernalillo hit with cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOVo4VXVFMklMSmR0LW4zY1pTcUhRSnJGSWJfZEdOZUxnMW1GMk42UGVUd1lxN3pzU0FlUXhiSXNBM2U3MWFkVktTSGZmTjh1MV9VNXN0ZEdXVVcwWndyck5hMGNKVzc5OUNaSUg3Y1BrbGdRd3UwcTZkX29XQmpKd0F3?oc=5",
+        "domain": "www.krqe.com",
+        "publisher": "KRQE",
+        "publisher_url": "https://www.krqe.com",
         "language": "",
-        "seendate": "20261015T203122Z",
+        "seendate": "20261015T230542Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Hackers knocked out refrigeration at hundreds of French supermarkets, spoiling food",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4T2J2TlBnOXE5azdISm5LaXdqRWNxUkdxTWRNSEZmY09FNDdaNkJVUEM0dnZ3c3VVYTNfNklfUGZfOHN1cEV0dEltRmVxblozWnMxa1hTdk5VeWZqU05MVXhLdTRBLUlmelotNEJDdmQ0RGZWOXo4MWNLNTFKUDA?oc=5",
-        "domain": "qz.com",
-        "publisher": "Quartz",
-        "publisher_url": "https://qz.com",
+        "title": "Bernalillo confirms a cyberattack affected town services",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSEpMbEFXZDJNc3AxMFIzQUVZaGI2T1FUcW5wQzd2TWJ3UGtlTTc3a1V0eEJTVkpnRjNxS2MtVE5vUFEtWVVmM21fSElhdmZSTkptazNYY24ycl9LcUVRcnp4d2JySGZ1S2lrTHAwLVYtbmZPU2otTTZGSDVXb2dlcU91VWlRYjB2dGNOMXlCZ0ZRUGVwVWc?oc=5",
+        "domain": "www.kob.com",
+        "publisher": "KOB 4",
+        "publisher_url": "https://www.kob.com",
         "language": "",
-        "seendate": "20261015T003508Z",
+        "seendate": "20261015T193024Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Who gets Alzheimer's drugs? Race, vulnerability and health status shape access",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFdJOFYtMnBvZzc4alNqcVh4cTZSQnFZaGs3TGhrd0x1a09sN1pnSFVJeHNWWlgxUXFsVFhGM250YWlzN1JlVWlqeWJzZXBHR1o4LUxjdE40eHExQlY5R2RjcDk2RUNHZjRZLTRjOFhwTlo4ZGJ0OGVPMFpXNlVsLW03SERoM005dGYyU3VkLTE?oc=5",
-        "domain": "medicalxpress.com",
-        "publisher": "Medical Xpress",
-        "publisher_url": "https://medicalxpress.com",
+        "title": "Cyberattack targeting parent company continues to impact Giant Food Stores website, app",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdm1KZXVXVDUwaEc2dUR1Q21USEdxSnN6RUpESXRiX0JmS1N0bHhoZk83NkxlVzRZbklhZ0k0NDhQYVJnSVBOd0VrZ0QxUVZNZHNwY0JlSzF6NkxGWWdoLUpvbG11ZWtYMnQwUno5RURRa2RaSFBsYWRBRW15LTNiRGk0YV9PSDJyQlBSZ0dGYkhOTy1TX28yc0M0S24zNmxad3d2NUxHZWh0RmNmYmdfNlA5bXpYNF9ZRDZ1dUVhWVFieGlyZ0hRN0dyNmZOU1d1MzFLcG1oVEhJbnJHTWh3TGRVaW9oWXZnWFlpanVYTWlWUkt4czFtYzVKNDEyWElpY0p4amt3?oc=5",
+        "domain": "lancasteronline.com",
+        "publisher": "LancasterOnline",
+        "publisher_url": "https://lancasteronline.com",
         "language": "",
-        "seendate": "20261015T200015Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Microsoft fixes exploited Mark of the Web bypass vulnerability (CVE-2026-96951)",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbjE4MWd2MGkwai10ZE91UV9FTmNNNVZKc2JYOGdiN21QTUo5VENGZjVXbmtVZDNmdlBKZ1V0SUR0MEcxQXM0WXdJVzlIUXNfbm5RMlEyNlB0V25CYnNmMExWQUZjaGFSY1dqbzkzTHJEVlNiZVFSbThGUHlaQ2R2UjdBcnVnUEJIQnVYZUV5YklDYTJNY2NCTlJB?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
-        "language": "",
-        "seendate": "20261014T075317Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware Victims’ Employees and Families face Swatting and other Cyber Threats",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnFfa2tVeHNtRThXdlZqV0hubloxUzVsUEhXcnc0NmZsZ184Q2p3THJzd0RGUjVZYmNKVHE4azVtcmF4cF9PcjZpZUNHRU1XbzJRaUh0YzlMZUw2bWh3QVNVMWhnTm1uOFR3NHRZQTJnbUNyQ01EellIcUpNVGVWWWRINDE3VjdqRXRESG1xaFN3TXVqeE9LX3hqOVN0cU5sLVdSaGlzWnFURkpqWm5XUG1xOHd5TDBSYmZF?oc=5",
-        "domain": "www.cybersecurity-insiders.com",
-        "publisher": "Cybersecurity Insiders",
-        "publisher_url": "https://www.cybersecurity-insiders.com",
-        "language": "",
-        "seendate": "20261015T153320Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware extortion gets personal as attackers target employees’ families",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORGl6ZlpPcWZkcWhWYVRqM0trbFRIaXNCdHFJU2hOQTJBcEUzcVM1ZTh6VHo5cDdOeFlDdkE2dV9OcTNqb3pmenVQek11eTRBU1hMeUVRenZaTUpFdk13eVFNdjlwc2ZEYU5LS1dZUG54QlNBQ3ZZNUVtLXRfTTN4UjVPLUJWYmRoME9YMGZLd2dfZDVYSFp6Sng1TUQxZ2FDMW11SmZtUGRDMEV2ZDNUVTUzWUlqUzBhVWowSw?oc=5",
-        "domain": "www.csoonline.com",
-        "publisher": "CSO Online",
-        "publisher_url": "https://www.csoonline.com",
-        "language": "",
-        "seendate": "20261015T114007Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Frustrated Ransomware Gangs Turn to Real World Threats",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZERWQkxOU2xGTWRUWDJGdk5tUDhVMGdEb01id0J1MWJuTWFWaVV3M2hubnlpM0ZpQWJfTmU2dF94ckZ6MHFrMHpHN0NrbVZrcV95WnNueXFDRFd0TXhWTXRYZDZFbHVuX2loYV9mOHVUWl9HU3FTa09jNkNSQTRfcm1MTmxfekpzNEVoNDlxMzZONkt4b1ROSlJiQQ?oc=5",
-        "domain": "www.bankinfosecurity.com",
-        "publisher": "BankInfoSecurity",
-        "publisher_url": "https://www.bankinfosecurity.com",
-        "language": "",
-        "seendate": "20261015T165534Z",
+        "seendate": "20261015T143700Z",
         "source": "GoogleNews"
       },
       {
@@ -499,6 +429,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Cyberattack disrupts Stop and Shop’s online services for a third day",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUVlFNkdTZkVHeGd5SVhXODZUVXVkN0RoTktpcFNUNHZQZ3VGbkFVeWZWZ1VTcG5BQ1dmR29uR0xmVFZkaUpkVVZmSWswWUd1WXNLck9wb1Y0Y3pCMWpjQlA5VENmRktnbDRIUFk5TlNZeDlmSDlpZXRoanpCNkxrRmpmZUNEYmJNTjk5cDc5WW9odUxjODJKQXg1QjRlQUlBcnI4?oc=5",
+        "domain": "www.westernmassnews.com",
+        "publisher": "Western Mass News",
+        "publisher_url": "https://www.westernmassnews.com",
+        "language": "",
+        "seendate": "20261015T192900Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Thousands of supermarket fridges still exposed after cyberattacks",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVY4Tk9fTTY5ZWdWUmlKeGV5bkdGc2tUVV9MbWN6Mkl0dk4xSVp2dEg0d1VWQkwwVzVtVzliWmZOdWpGTllSUjExZ1hZdGNTMndMMERyNDh3MXNQellBell6NFoyTDZpUW9kNHk3UmNkWnk3eEZ1YjkzdWFiajhOeU5KQi1scGNPdldadWpKYmtFZFBTajBwS2Q0V1NhS2V5S2c?oc=5",
         "domain": "www.euronews.com",
@@ -509,28 +449,98 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Sungrow patches cloud vulnerability affecting solar inverters",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYlp4SURYSWh6UU5zamtySG9VbThSa3lxaXMtYzRQN2o1SUdSNjhYNGIwVmJLVEVZeGNOTkMyOUhRTXpxVXlZWTRJVm9LRzFELW1TT01rbTRvdDhsbEd4RFhwb3E1VGNTaW9rOUFqSUVDbEgzbE5feGdZM3djN0Rmc05NVUZVenR3emtxZllORQ?oc=5",
-        "domain": "www.pv-tech.org",
-        "publisher": "PV Tech",
-        "publisher_url": "https://www.pv-tech.org",
+        "title": "Jackson web host drops longtime client after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaEtRek1wTDFTeFJqM0ZCd05QcXQzM1FOQUhGVzZnX0x3R05YOHFfVDlLSERNQmNfNlBrV2k4cWpINUlpdmR2UjY5LW1HTzltZ2FKeVNBNzhQNGw1VTBMY04zODc2OTk3RlBZT0dsTHlyVWk5RkZfbEFralV1NXhnOGEwZllkalY2RlRpamxUVWk5czM0VzQtcXA1Yw?oc=5",
+        "domain": "www.wlbt.com",
+        "publisher": "WLBT",
+        "publisher_url": "https://www.wlbt.com",
         "language": "",
-        "seendate": "20261015T143242Z",
+        "seendate": "20261015T221930Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGpLNXg2cGJNLUN0NkNnUGNSRFlVS1VtNUNaeHNnX1BYVENLa1pvUGt5OHNfWVk3UmtGRmNaSVBra2Z0aXAyZmx4NmRCYTlGcThKOHNJek5fcm1wRWVMeXpLTFFmSmVzRGRTZ0NSMFFlcE1lUl9SZDVfTG5EVmJXbWtlU3ZpVzBVaE5ad2t2NEcxZFnSAZgBQVVfeXFMT0dRc0pkUzlzaEZzNXZaNlozWlpkb2s2dDNTcWhCaWl6RWdTXzFGRDA3bWF6aTYtYjNkU1JWZEtQOEtzQndubG84QVVlSTkyd1M5YTVWTW5OY3F3Rkk4c2FBbWtaYVdkYnhuTkhjXzNUZm9jNW9DNk5IeTd6b3NOOVhkWS1heU9WX1ZQNTY3bE1aRHFrWHc4VlI?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
+        "title": "5 questions about the cyberattack on European supermarkets",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVZwdVRhQ2Vhc2ZhM2VmVVUyckNNLWQ1TlJZR3laNkxwN0JPdmR5WmJBX1kwYWNOSkhma3VDN21nbTEwVV80c184UVBzSGprTVpOczgwS2JaajZvX0FRV3owZ3RSRUh1MkhqdjBhd0VvVHNHeS0tT0ljbWJhd2FfMUlIMmYtZjFTVDc0QWlqRVU1VmRZRU1lTkNLZw?oc=5",
+        "domain": "www.washingtontimes.com",
+        "publisher": "Washington Times",
+        "publisher_url": "https://www.washingtontimes.com",
         "language": "",
-        "seendate": "20261015T063415Z",
+        "seendate": "20261015T185316Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "French Supermarket Cyberattack Exposes Potential Risks for U.S. Grocers",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONHl4Uk1PX3F5dlJnQ0JCUm92UTlLbDBkNGF4Zmc2UUpKVk0yeDVpdUNmdHp4Nmd5Q0VCelpzWnl1bjB6TlZrNDZqeHkxNHRGaUlfYTgxd3Y4UXg5UmhOd2lBa2cwV2lUT2IxVURiQWwtV19KYnVzbFZQVGJYV20zbFZxZTU3WkJhSndSbWVjUFZuMGZZUjN5dzU3c2RVRW1QeXFxeXZVb1RNNlRRLXNrRWZaQ1p0ZVFjQVY3ZURZei1kZGIyMXIxVjQxbw?oc=5",
+        "domain": "www.securityinfowatch.com",
+        "publisher": "Security Info Watch",
+        "publisher_url": "https://www.securityinfowatch.com",
+        "language": "",
+        "seendate": "20261015T195206Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "French supermarkets' cyber insurance unlikely to cover food losses, insurers say",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2dZQjRRTTdDT1ZYbnQxZ2g4WDA4RnJmTm1KSnBqZ1YwazVzdFJzcmxmWVY2N2JGS1JiMHlNT0JnWnA4TWdJbDRqTElJVkc1eGNNR0pfM0lVenVxTk0wMDFPTmxWMl9XYnNfYVBzS1A5Z2xjZVBDV0NIRlV0aUcxR1pDd1dDWlB3M0YtM3BnZHlHSDJfdEk1YTlkeF9mQ2dBWFB3Q2QtUkJsbzM3b0hxWnlTOURYbzFFNjBRTnRtdFhjMnZ6V3dJ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261015T152230Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Who gets Alzheimer's drugs? Race, vulnerability and health status shape access",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFdJOFYtMnBvZzc4alNqcVh4cTZSQnFZaGs3TGhrd0x1a09sN1pnSFVJeHNWWlgxUXFsVFhGM250YWlzN1JlVWlqeWJzZXBHR1o4LUxjdE40eHExQlY5R2RjcDk2RUNHZjRZLTRjOFhwTlo4ZGJ0OGVPMFpXNlVsLW03SERoM005dGYyU3VkLTE?oc=5",
+        "domain": "medicalxpress.com",
+        "publisher": "Medical Xpress",
+        "publisher_url": "https://medicalxpress.com",
+        "language": "",
+        "seendate": "20261015T200015Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Federal Investigation Underway After SPI EDC Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmV5b3RiVW1jejNVTlQwWDNmUnhEUXJLRWl2SV9Wa1dfSVQ1blRYTlNrZWZrd3Rmam1ybHJhWEdsSFV0U25YMXdyTU1FOFpVTXpncFZYbE9iNzV5eERDRTNZZFVxSFpfQ0ZEVDF0M3ZLdzBKb2hOVUxGZlc3MkMybGdoZ09sbUpDUUJNSVcwVXJGTDl5M3g4WXNwbWZyX2wyWFVsVmZPYlg?oc=5",
+        "domain": "www.portisabelsouthpadre.com",
+        "publisher": "Port Isabel-South Padre Press",
+        "publisher_url": "https://www.portisabelsouthpadre.com",
+        "language": "",
+        "seendate": "20261015T232015Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattacks hit European supermarket chains and disrupt refrigeration systems",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMENMX3JUelZ4aS1rZklxQXBPSWdtRGc3eWJfaEpVS25tU20wLVFIbGpXNDZ5ek9fWFk3QnlxX25IUDB6QjNGdERaalNoWDljZDdGdVM3TUxSUlpZazF2ZXp3cF8zTGJKSExodlN2MFhvZWg4SzJWenpNd0NPSHB1QUx5aXhBV1FyS3d4YmpuVG9jMU1adVJkM0h6UUQ4TWNoUURuejRpU0Zlc2FKS05PR00tWQ?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261013T202700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "We lost $112,000 in food when hackers overheated my supermarket's freezers. I keep asking: Why us?",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZFktM0pnYWtUTFFHTG9ScGdtRktGLThGcmQ3STVxaWNLcEk0YUR1VFdqZVBrZXB6d3dOcjJFMFJGcmZ5cVltUGx3cnI4UkJpUm1GUnRQcWc4bHhCVmxYMHVJbWUxWDZxOHkzd0ZjNVlaa2oxNnFHTnBEakcyN2lraWZidE9rQlAtOUM4WE9jVGYxNGljaDBZZk9LU3V0QUNpNWVfX1EzRTZJQ042RGY3MmVSaHQyejdodWR5Y1RtVHQtRmlFZjl6SmpIZw?oc=5",
+        "domain": "www.businessinsider.com",
+        "publisher": "Business Insider",
+        "publisher_url": "https://www.businessinsider.com",
+        "language": "",
+        "seendate": "20261015T170000Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
+    {
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NTFEOHpHVzBmeEs4OEhFU2xHS2RXUUtaaXRFUHNyZFlJREFqZkpnTFJyZXl0TjRmOXVLTURSTW1ITWN4cDBVd04zZFdOb0NoQWFYQV8wTVR4dmlNOENsRkxHUUt4NTFib0d5aTZFekZrWEdwcXBjYWJR?oc=5",
+      "domain": "thehackernews.com",
+      "publisher": "The Hacker News",
+      "publisher_url": "https://thehackernews.com",
+      "language": "",
+      "seendate": "20261015T202400Z",
+      "source": "GoogleNews"
+    },
     {
       "title": "Thousands of refrigerator devices remain exposed following French cyberattack",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3BnNTZWclNKcmd2Y3EwbXpRVndFWFpkNTZSVDFJa1dGTEZxLTRsOHBMcTlBTFptTjBIMjJyVlVTb2gzdUM1UFVaNnR5ejdLUGxZMk1LZ2NBcll4aXBsQ2FxdFg0b1ZWVVpTXzBHcTN1X0RhdnJaYVVtc2lNeXZxQUctYkNCTEZ6QmNmZ2NTUV9udnYySUtfUGs1UlZLUlRrVy1LWkxXOA?oc=5",
@@ -539,6 +549,16 @@
       "publisher_url": "https://www.cybersecuritydive.com",
       "language": "",
       "seendate": "20261015T162357Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3lrNzI2NkxKNFpvbjdaSC0zY2JVb1lBOHRtbkQzM1ZMQXp2bW1OLTRPc1RtQzFialZDckEzV1gyZFgtcU9qSjFDTFNQN082SUlEQXg1QWRpb0w5dVBDQVYxa01LVVprbnNNd2hJbENGWVg2RjRYVGZfeVJXZ01OaE04Z3I2SXVkd1lPZ2ZR?oc=5",
+      "domain": "blog.talosintelligence.com",
+      "publisher": "Cisco Talos Blog",
+      "publisher_url": "https://blog.talosintelligence.com",
+      "language": "",
+      "seendate": "20261015T180049Z",
       "source": "GoogleNews"
     },
     {
@@ -552,46 +572,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "CVE-2026-96951: Actively Exploited Windows Shell Zero-Day Bypasses Mark of the Web",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FWnpVNTlSZ3hDZ3AtQ1FoTHhfLVpnZ2tGM0pTRk4zaF80WVVydjJOb1NqVm5aOEgtUGlkdTRFcXhxWTRxX096cnFvMEJidmt1MjlDbWNkeVpPVHJaTEJj?oc=5",
-      "domain": "socprime.com",
-      "publisher": "SOC Prime",
-      "publisher_url": "https://socprime.com",
-      "language": "",
-      "seendate": "20261015T021557Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, October 2026 Security Update Review",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHdUM1NSVFJFTkRYMzhmdFlsYXFWUFQyVzNEelpLbXJvbE9HNkdaRWRCUDN0MkNSNUlNbUJmN2RVM1JsaXl5UmRLQW9nemJZU2FWMzN3dWxaa0YxWF9VWWIzVE1lam9KcmRmU0tNYVRJd2Z4U2IyVG43NnhPRUlxaWFnN3hCRHVnbHJucWZPajJCbnFFZWIzdjR1OHhvaG11RlpXaTdMZjFUaTM5TFV6aTllcDdwNDc4cndIZllOOE9Sanlr?oc=5",
-      "domain": "blog.qualys.com",
-      "publisher": "Qualys",
-      "publisher_url": "https://blog.qualys.com",
-      "language": "",
-      "seendate": "20261015T110737Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cyberattack disrupts Stop and Shop’s online services for a third day",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUVlFNkdTZkVHeGd5SVhXODZUVXVkN0RoTktpcFNUNHZQZ3VGbkFVeWZWZ1VTcG5BQ1dmR29uR0xmVFZkaUpkVVZmSWswWUd1WXNLck9wb1Y0Y3pCMWpjQlA5VENmRktnbDRIUFk5TlNZeDlmSDlpZXRoanpCNkxrRmpmZUNEYmJNTjk5cDc5WW9odUxjODJKQXg1QjRlQUlBcnI4?oc=5",
-      "domain": "www.westernmassnews.com",
-      "publisher": "Western Mass News",
-      "publisher_url": "https://www.westernmassnews.com",
-      "language": "",
-      "seendate": "20261015T192900Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NTFEOHpHVzBmeEs4OEhFU2xHS2RXUUtaaXRFUHNyZFlJREFqZkpnTFJyZXl0TjRmOXVLTURSTW1ITWN4cDBVd04zZFdOb0NoQWFYQV8wTVR4dmlNOENsRkxHUUt4NTFib0d5aTZFekZrWEdwcXBjYWJR?oc=5",
-      "domain": "thehackernews.com",
-      "publisher": "The Hacker News",
-      "publisher_url": "https://thehackernews.com",
-      "language": "",
-      "seendate": "20261015T202400Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU1iNVd4N0RyM29yWVFhSldLS2lsa0YydGZld3hRWTFONXlPWGhMcHVNcDB2N3JUSjdiNU1OVURBY0taUVVhMFBOTFNmZHV6dVREX2hsdjBEQ3g3RWRQa0dGLUZQUTZNTERGNlFnT1YzNUFHVVNGd3JLVDNCMnVINHo2Y285UF9sUktjblE1Sm9jcXFuZWZPUFk4cVJpZTNERzZJM2tVT2RzVWVKZXNhQ3NCYzZyeWU1LUM5UEVMRnB6V3ZpUm9IbU5PdzlvX0h2R3ZF?oc=5",
       "domain": "www.reuters.com",
@@ -599,46 +579,6 @@
       "publisher_url": "https://www.reuters.com",
       "language": "",
       "seendate": "20261014T051335Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "GIANT grocery stores website, app down following cyberattack, officials say",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWJ5ZUx0UXVHc19GSFdCMURpcmN2U3EtdHlxTGozbUs5azBEZ1R3TjJzMFpESTVHa1lORUZ5a0hfUXlkWHlRMExaZWVyZ1ZIaEJjWUN1NEluVkZDTVJVZHpRNE9iM25vSzF0LTBqcy1COXhBWmNweHJHLVJla2hRX2w4TzBDUnQ5eHFjVFRLbWp2TVp2SUhnM25oOXZPN3RtUHJmQUUtNFZZUEx2TlRKbE5PMmpMa2dKZmFsb2MyUUNUY03SAcsBQVVfeXFMUHFSUjRHOFlWT1hFNlJ5VlpBcG42UGFwT2tUbUtUY2I5Q29vcHFkWGMwVTB3X21lZFFrOTFVS3V1RnFhMHVqYXRwaUQ1eVRXU3NwNjBuNHR2NnE1dXF2bVlNUFZTQjk5TmFKVnpYWkNvbnJ0Z0hoRFJVVVVsS19yMDdwU09Uc3pJUnhTV09qXzB1eXBjM25yakt5MkJNQWF4SUNKa09sa2plcGdFRmtjS2J2eENwZmVkVUEzaW13TDRsVk1mcHVGUVVPNWM?oc=5",
-      "domain": "www.nbcphiladelphia.com",
-      "publisher": "NBC10 Philadelphia",
-      "publisher_url": "https://www.nbcphiladelphia.com",
-      "language": "",
-      "seendate": "20261015T092150Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlVXSkt0UVVTVGpqRk5fVXRXS0FzUmJ5RHNNeW5mQ1E5aEY2cXhfYWNtdDFjVXdzSFEtMFk5U3hiSkp6T3p0dkE1QmNkdEFCbU5TSGFSbF9Kam9tRDg1RkpaTTZTRmdrdjdoVWlUdkJBYW1kM3JWRG0yTTNScTdoSHI4SHlmcUoyTmNjR084MnplZkJRY2pqX2pSeXRlN0lFUUFRNnpqRGwwTGo4T0hDTFlKUmhUU2NOeXJ1aFdtUV9rZEhZclEzNzBn?oc=5",
-      "domain": "www.darkreading.com",
-      "publisher": "Dark Reading",
-      "publisher_url": "https://www.darkreading.com",
-      "language": "",
-      "seendate": "20261015T154050Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Danfoss equipment targeted in French cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUNQbkVZUmZtNldsMzJ3U3V6dU1kUFlqWlpSM1pPOUZVM3Y4U1dINlEtZzlQWXNjdENSUzZTS2ZXUjhrVFRNb3ZsNEhBc1BraU1JdjBJbHZUaDUwY3N1UW1HRDlDSVItVzR1eFVka0dpNm5kdTA5b3RFSWdSbGlGWkVDZ2pMZ0FzVkhsSzV5Qm1JemI0WmYyV0xfS2RnODhOYkkzbmFmSlpnQmRaNHRCaE1SdGtRdEFoVkl3?oc=5",
-      "domain": "www.tallahassee.com",
-      "publisher": "Tallahassee Democrat",
-      "publisher_url": "https://www.tallahassee.com",
-      "language": "",
-      "seendate": "20261015T193800Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Anne Arundel County hit by cyberattack in late August",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFuQVRRWHc4c2VpMDlFRDgtUzh0Uk1wUjdKMG4xYXVYc09Jcmx5WnNzMkI2YWoxa0N1MUM3a1VDWS11RU85TThvTmJBM3ZHRUxwZ3BEcVNkSExRNFdmYzhMbnkweW5VUTFwWndYSnhndmZYRUJWbVFDVGxzUndHNVJEdWxSVGd2OXNDNXlyVFlGaVZEZ2xIMTVBUHdoQlAtY2xwbHpYOWxMNFRVblNv?oc=5",
-      "domain": "www.thebanner.com",
-      "publisher": "The Baltimore Banner",
-      "publisher_url": "https://www.thebanner.com",
-      "language": "",
-      "seendate": "20261015T210100Z",
       "source": "GoogleNews"
     },
     {
@@ -662,13 +602,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Town of Bernalillo hit with cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1E3TUtVRkFMOXk0cEpBX0djcUdJN1YzZ0hpWWJZNTVsU2VRU0xsaEdMMFJMQzdkZENqVnhaQzA4UXpTYjJlOGpQM1N3UG9wS2xvbzRqY3h6cEJtZ1NPdV9sTFNwZXVYdTAwR1cza0NSQk9pclRjay1WeTR0QVllaEZ4RdIBiAFBVV95cUxQUXBFTDVKWFdjUUk1ZS04Q1l1UDFhZGZhVjY1RGFfcTlLR21HRzJTTnVLdW83dWFoaWJObXpVSncyOUlDdC1meVlLRWtNWW80Zy0weEQ4bjlBbnBxRThyOWZhclNvTmFkUkVvVjVERmw2XzJJd0tsQ3JzaWJGNm05aDBNYWRUNm1T?oc=5",
-      "domain": "www.krqe.com",
-      "publisher": "KRQE",
-      "publisher_url": "https://www.krqe.com",
+      "title": "Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd2ZmZmtJd2dTVGlTNDhzY09iMjlUNUhVWS1GYTUwMjl4ME0tNkZOUl9WZjB0eVZlTkVOdUpVZlBhMzZXQUpYQXk2X3dVSDJHd1N5NTNMaEMzSU5CTVd2Z2JlQThLdm5pTjA0YndWcFJ4QTA5OUVxTmpoeHFQOXllT1pBaTBZSFJoVnctSG1XY3Z3QWdTUzlRcURoZ204T0IzWVBMbFdEMUludw?oc=5",
+      "domain": "www.rapid7.com",
+      "publisher": "Rapid7",
+      "publisher_url": "https://www.rapid7.com",
       "language": "",
-      "seendate": "20261015T172722Z",
+      "seendate": "20261013T170740Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, October 2026 Security Update Review",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHdUM1NSVFJFTkRYMzhmdFlsYXFWUFQyVzNEelpLbXJvbE9HNkdaRWRCUDN0MkNSNUlNbUJmN2RVM1JsaXl5UmRLQW9nemJZU2FWMzN3dWxaa0YxWF9VWWIzVE1lam9KcmRmU0tNYVRJd2Z4U2IyVG43NnhPRUlxaWFnN3hCRHVnbHJucWZPajJCbnFFZWIzdjR1OHhvaG11RlpXaTdMZjFUaTM5TFV6aTllcDdwNDc4cndIZllOOE9Sanlr?oc=5",
+      "domain": "blog.qualys.com",
+      "publisher": "Qualys",
+      "publisher_url": "https://blog.qualys.com",
+      "language": "",
+      "seendate": "20261015T110737Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Officials confirm weekend cyberattack on town of Bernalillo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkg0RWE0ZngxYkFxOXFKOVFnZy1tamE1aTRiTUJjSGhDdW84eVlZNlBJUnkwRzNfQW54X3lCRWNNVXhxcG9EU1hDckxiSHBsZmNGaVpSS3dYWTcxWk5VRUgyTW9wWHlFWFNKOGFyTnNvTmx6MXkxbS04MW9pNDJPTHJCMzFxQktJY0lHZHE3WGdjYnBKZ3NfN2ROZGpIMHpGNEhKUV9jTDhrc3ItbkE?oc=5",
+      "domain": "www.koat.com",
+      "publisher": "KOAT",
+      "publisher_url": "https://www.koat.com",
+      "language": "",
+      "seendate": "20261015T215500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "CVE-2026-96951: Actively Exploited Windows Shell Zero-Day Bypasses Mark of the Web",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FWnpVNTlSZ3hDZ3AtQ1FoTHhfLVpnZ2tGM0pTRk4zaF80WVVydjJOb1NqVm5aOEgtUGlkdTRFcXhxWTRxX096cnFvMEJidmt1MjlDbWNkeVpPVHJaTEJj?oc=5",
+      "domain": "socprime.com",
+      "publisher": "SOC Prime",
+      "publisher_url": "https://socprime.com",
+      "language": "",
+      "seendate": "20261015T021557Z",
       "source": "GoogleNews"
     },
     {
@@ -679,6 +649,36 @@
       "publisher_url": "https://www.nbcnews.com",
       "language": "",
       "seendate": "20261014T182627Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Hackers knocked out refrigeration at hundreds of French supermarkets, spoiling food",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4T2J2TlBnOXE5azdISm5LaXdqRWNxUkdxTWRNSEZmY09FNDdaNkJVUEM0dnZ3c3VVYTNfNklfUGZfOHN1cEV0dEltRmVxblozWnMxa1hTdk5VeWZqU05MVXhLdTRBLUlmelotNEJDdmQ0RGZWOXo4MWNLNTFKUDA?oc=5",
+      "domain": "qz.com",
+      "publisher": "Quartz",
+      "publisher_url": "https://qz.com",
+      "language": "",
+      "seendate": "20261015T104456Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Technical Advisory: AhsayCBS Exploitation Chain (CVE-2026-105133, CVE-2026-105134)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVmw2WWd3Q0dKSzNJTWxGX09HS1FzUXBOS3FvVzhWbXlZWEZNUERxYTQ5QjV6Qng4U3BxOUVINHJVbDBKeHpTTHVDN3Z0dGJ6dVVUbURlZ3dXMTVHU3o4R2RFZUkwdVk2b19NMEFqMldpZ1JfZ2dwUzZWZVhFLTVCUUtoV1lLamcwZVFlSEp5VEtCYTlaRjY4SThFekc0dDJGekZQbldvWG9MODFWWWEzRExQRmpUcTl3djRsTTJOdU4tWTVWVUV5ZkdqVFgzUTA?oc=5",
+      "domain": "www.bitdefender.com",
+      "publisher": "Bitdefender",
+      "publisher_url": "https://www.bitdefender.com",
+      "language": "",
+      "seendate": "20261016T023730Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Town of Bernalillo hit with cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1E3TUtVRkFMOXk0cEpBX0djcUdJN1YzZ0hpWWJZNTVsU2VRU0xsaEdMMFJMQzdkZENqVnhaQzA4UXpTYjJlOGpQM1N3UG9wS2xvbzRqY3h6cEJtZ1NPdV9sTFNwZXVYdTAwR1cza0NSQk9pclRjay1WeTR0QVllaEZ4RdIBiAFBVV95cUxQUXBFTDVKWFdjUUk1ZS04Q1l1UDFhZGZhVjY1RGFfcTlLR21HRzJTTnVLdW83dWFoaWJObXpVSncyOUlDdC1meVlLRWtNWW80Zy0weEQ4bjlBbnBxRThyOWZhclNvTmFkUkVvVjVERmw2XzJJd0tsQ3JzaWJGNm05aDBNYWRUNm1T?oc=5",
+      "domain": "www.krqe.com",
+      "publisher": "KRQE",
+      "publisher_url": "https://www.krqe.com",
+      "language": "",
+      "seendate": "20261015T193806Z",
       "source": "GoogleNews"
     }
   ],
