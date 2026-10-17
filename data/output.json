@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-10-17T11:13:03.296360+00:00",
+    "generated": "2026-10-17T15:58:59.535796+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "44"
+      "value": "43"
     }
   ],
   "live_data": {
@@ -59,16 +59,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzctNTJiM0xLZFk4dU9qNDZyWmhKX1RnU2VxVFdOdS1tVVF6SGV1ZkF2TXQ2Y1JkdWlmZ1V1bnN6cEF4YmVQM2hTYm1qMXkyQkNqQlFWdV9wdWdqS2wwTjB5VE51ZVZQRjFQeUFhYlZnUnBlTWp3Y2JfM3JfWXppZUlrUlFUMXQ4XzVPUFN5N0Zmb0RERDk3QnZNOUtGOVE?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261013T105236Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "CVE-2026-96951: Actively Exploited Windows Shell Zero-Day Bypasses Mark of the Web",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FWnpVNTlSZ3hDZ3AtQ1FoTHhfLVpnZ2tGM0pTRk4zaF80WVVydjJOb1NqVm5aOEgtUGlkdTRFcXhxWTRxX096cnFvMEJidmt1MjlDbWNkeVpPVHJaTEJj?oc=5",
         "domain": "socprime.com",
@@ -76,6 +66,16 @@
         "publisher_url": "https://socprime.com",
         "language": "",
         "seendate": "20261015T021557Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzctNTJiM0xLZFk4dU9qNDZyWmhKX1RnU2VxVFdOdS1tVVF6SGV1ZkF2TXQ2Y1JkdWlmZ1V1bnN6cEF4YmVQM2hTYm1qMXkyQkNqQlFWdV9wdWdqS2wwTjB5VE51ZVZQRjFQeUFhYlZnUnBlTWp3Y2JfM3JfWXppZUlrUlFUMXQ4XzVPUFN5N0Zmb0RERDk3QnZNOUtGOVE?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261013T105236Z",
         "source": "GoogleNews"
       },
       {
@@ -89,16 +89,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkxzLUM2anBhU29KWjhTMWRIN1Myd21QV3E2NnFNVmRqd2prQUNudmh2Nkt4RlRGR19mUjFncW5LNGVhVzhDMGZSUzd3Yl9ZMWota0JqV2syUXRaRld6Y3oyQV9vQU90UVY5aTltYTBEalJRNkJlNlRhajVWWmU0bGFmalZOUnZoMGQzMGQ1S1o2T0ZHNmlyRTdEYU8xTDFHbzRYc2ln?oc=5",
-        "domain": "www.afp.com",
-        "publisher": "AFP.com",
-        "publisher_url": "https://www.afp.com",
-        "language": "",
-        "seendate": "20261012T160848Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Who hacked French fridges? Supermarket cyberattack fuels frantic probe",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXdJTVY2b29kQ252dXZFSkxoNVNqNkhKYjJBOFJoWXFiNnF5X2ZzQ25mZFdQeVY4VVJtYnM1aDZfOGllVnhMRkRHMjhwT2w1ejR3OGE2VEYwaUFxWU9sWFpNVk85Zmoxcy1yQ2hLOHpHbGhmV2o1UWVCNExQZ3pCV01EVnJGMzZGaGdhRHoxeS01WjBiS0dfZFJhSHFtUVZKcXUzMmt3?oc=5",
         "domain": "www.nbcnews.com",
@@ -109,13 +99,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUlnbFFHd3Bfdk45RmZCMGM4YzdYaVViVi1FQ2RtVEU4N3d3cDk0QUhDSjFWQ2JiekxJVi1zZkRobkx4MWpVWHZaU01UMVVPUjh5TnJJMFlrVTJHc2JVampoeVZwcE5MeV9yd1JlSkdOMXJ5RVUxMHdVdTJqX0FiWjItRXFnX0Z5aE5IVEtNME80a0d6NUF0T0F6bzh4dnY2aU1RTHotUlh1eXBqNGFsT0pR0gG3AUFVX3lxTE9TaUg1Z19aVGtBTFd0ZVFib2FvUUtIWGJEMXhoeEo5OXRSemhNVU5pWDNGWHc2azNZQmxTMVVQUnB5WG5xZTJnWWp3TnRYSXBZdWNCVTZFT1pXU2Y5YnpzOTJVZDVpdHFNek9WZElaSlhwdWJiUEZteGUtNEV4TVlwV1RPMFVXWTMtRFViNDdfaGk2OVdYd0d5RklUSElJSVppSC1JZkVocXBkLWJrd0tQSEc5TFRRTQ?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkxzLUM2anBhU29KWjhTMWRIN1Myd21QV3E2NnFNVmRqd2prQUNudmh2Nkt4RlRGR19mUjFncW5LNGVhVzhDMGZSUzd3Yl9ZMWota0JqV2syUXRaRld6Y3oyQV9vQU90UVY5aTltYTBEalJRNkJlNlRhajVWWmU0bGFmalZOUnZoMGQzMGQ1S1o2T0ZHNmlyRTdEYU8xTDFHbzRYc2ln?oc=5",
+        "domain": "www.afp.com",
+        "publisher": "AFP.com",
+        "publisher_url": "https://www.afp.com",
         "language": "",
-        "seendate": "20261013T055421Z",
+        "seendate": "20261012T160848Z",
         "source": "GoogleNews"
       },
       {
@@ -129,6 +119,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUlnbFFHd3Bfdk45RmZCMGM4YzdYaVViVi1FQ2RtVEU4N3d3cDk0QUhDSjFWQ2JiekxJVi1zZkRobkx4MWpVWHZaU01UMVVPUjh5TnJJMFlrVTJHc2JVampoeVZwcE5MeV9yd1JlSkdOMXJ5RVUxMHdVdTJqX0FiWjItRXFnX0Z5aE5IVEtNME80a0d6NUF0T0F6bzh4dnY2aU1RTHotUlh1eXBqNGFsT0pR0gG3AUFVX3lxTE9TaUg1Z19aVGtBTFd0ZVFib2FvUUtIWGJEMXhoeEo5OXRSemhNVU5pWDNGWHc2azNZQmxTMVVQUnB5WG5xZTJnWWp3TnRYSXBZdWNCVTZFT1pXU2Y5YnpzOTJVZDVpdHFNek9WZElaSlhwdWJiUEZteGUtNEV4TVlwV1RPMFVXWTMtRFViNDdfaGk2OVdYd0d5RklUSElJSVppSC1JZkVocXBkLWJrd0tQSEc5TFRRTQ?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261013T055421Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "AI linked to 84% of ransomware attacks, new report finds",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDAxYjk0QWdGcUtHV2RHQklZNXhhdkJXaG9WZkRTZUNzTjJGYmlVX0xya09iMnBLcTB4S1VTR29yVTlLTWFXV3I5cU9CeHNZUURKMHRTcHFZV091MzF0Yk1FYmd1eE1RSy1JY01pV1ljYXdReHlvVDVtUVA5TGpVaUFCZmFjMVdiYXIySEpUX0c?oc=5",
         "domain": "www.cbsnews.com",
@@ -136,16 +136,6 @@
         "publisher_url": "https://www.cbsnews.com",
         "language": "",
         "seendate": "20261014T100000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Stolen employee password caused city cyberattack, mayor says",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0JmQ21DazlnMlZicl9DTGZFeC0wVl80Z2JqR2dSbEhsaDcxTnE0aGdVQzl4V2tmcC1MVjZfdUFvMVJwX0RFLVJYUmFWaUZzT2dWNnRhUzZ2TTdhb2NQRUQtaHBBM0NFQWprMWNOMzNodmJfcGl6VWZtQzVmb0l3OFRKRDVONVlTamtTT2c2Qk1MaDZjYnhR0gGrAUFVX3lxTFBBVW5fUE9UakpXN1p1WWtlUnVwdW9wY2FOVXI0OUtmTGtFSVRDSzdkQ0JublZvNXhmZnRITTZGUy1QSGhDbFJfSUhXTmpmNnVjZmNGckFBRENjOFdNdWloOWVlbGt1VmRxeFluTDhNZ2ZmMUs0Z0M2aXlkeTlvRDBGVkVlU3ZpWU84Y3FicFdheVNSUUhFOVNmcnM0SzlwRnM2cnlhNFNBV3hOMA?oc=5",
-        "domain": "www.wowt.com",
-        "publisher": "WOWT",
-        "publisher_url": "https://www.wowt.com",
-        "language": "",
-        "seendate": "20261016T201500Z",
         "source": "GoogleNews"
       },
       {
@@ -159,26 +149,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXV6dC1HVlB5V3FyRnN1TmFTOElFMWh4MkpYTGxOb2U0R3NZcVFwRmJ2bzY2TG1qbTNKVm44b0Mtc1Y2N2I1MUNWWjdkQ3F5WDRxVl95aUxGQVNQRHlEZ0ZjLWMzQmlxVE1FWEpIZ25ia2NMcXFKYmVZNDdXQTJsdE9DdHE4TUhNLUNaczZSSdIBlAFBVV95cUxObDhwd2xNM1hZMENfMVZrSmh0RTFPblRUVFhyM0NnUmVaR0R0cjVKUkFsV2l1RkE3QktRbmVoRHBrRE1ZczlXUVFNVU5nLVZBeEZXMXlyd0JZZGpqb1NNQkYwLTRJQzlKb0VsdDQwY2hmam16Z1RkZ05EcDBQSElGOTZCRk1CNDB2ZEo0VHpIeGhfRVFp?oc=5",
-        "domain": "www.cnbc.com",
-        "publisher": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "language": "",
-        "seendate": "20261013T064400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Thousands of refrigerators were hacked across France. How worried should you be?",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1FIemJmYWM4cnV6MzZ3RS05QmtuZjZXT0V4ei0xV0x3R1Y4ZTZ5M1NGaS1UeEYySGxQSmtuMlNBWFFTMVNEa29ldFpXUnZzbmFfajVaa1NKNjhMTG5POFpDcnFwbE9xSzY5eWhtUTlxSHljUlBzaXpUUzJSTXBHamFIU3BYNFk5?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
-        "language": "",
-        "seendate": "20261014T110244Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "French supermarket cyberattack exposes risks of unsecured remote access and legacy refrigeration systems",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUkVDMWwzZlh5ZElMQ05ycVU5OTNDM1UtUU1TazVpQVJIUkZSRmVITERFS3BTcTJwX2I0cEFMRzVpaW1MMkVPZ1U0dTM1bW9NVG5lQ0NaS2gwYzBlZU5mWG54T0dkQVhCbzZYVW0wZW9saGVNUnE4RkRMeDhMVXAxRUE1aGstWHVXN2VsVlZqbnhzTVAyTEJTSHJkN1RXRk9YV1lVMzNzOTlLTy1IQUIza3VWRzlhQVhtWXZVSDduOFZMSzVLTHNqLUtoWjdhSkZqdlpFTUZzejhIX19Bc3V5Sjc4Um44N3lFSTN1NQ?oc=5",
         "domain": "industrialcyber.co",
@@ -189,13 +159,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "HackerOne Report Finds Vulnerability Backlogs Grew 131% in Two Years",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVFwNXdQbkhzdVoyN0cxUEVXeVY4MjdFTWJTWWx1M2piTVFOM1J0R2VmNUlYSFdPWmxUckw3djZYdWpiZ1JQb3FDLWJlYkUwTV9MTkEtMlpRdnpmYk1KVk5HOWktcmRJdHg2Tk1yMGZ4VmNaNE5SdWFFbGdJQ01seHY4ZDAyU0FidEw1cWtHd2VMTVlsMlU5SjlBT1BUTU82c3lrWEg4dTgwVkE?oc=5",
-        "domain": "www.cybersecurity-insiders.com",
-        "publisher": "Cybersecurity Insiders",
-        "publisher_url": "https://www.cybersecurity-insiders.com",
+        "title": "Stolen employee password caused city cyberattack, mayor says",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDhlRlc0V04ybHh3bU5HNTdPUzNwRjRFeFFrbTZZdVFxeTU2OU5GOURCZ1pkSDBrZEZ3RUo3T01UaFpEUEZlb1d3XzgtRGNCa2poODk2NXYyc3N0NmZLamZVckJyRHB3bzE4MnVHbmpZVVB5YndiZnNsMTEzZGpsYTV6QW9YdUpNRE1ZSjZLRldzZXdwOERkSVR2VlNJZ9IBsgFBVV95cUxQdWVZWXp0cTNDYTJueUlLeEZudi1RMlFpSDYwSGQ3VjZIUUx4MDVVLTRzRFhGelByMDVnYnhjaDFqYnF2X3J6cnhGbjl6X3B2cjE2cHpjMmU0RlFUWW5tWUNndkdWajVtUjFZZDQ1SzZ4c29ySnN2cGdJNnB6V1NqRzlQN3A5Q0lKRmNwNXU4Q3prTzNvcGZuNGcyM3E5V0hJWE9MSWFkc0tTV1JxMGZEbVZ3?oc=5",
+        "domain": "www.knopnews2.com",
+        "publisher": "KNOP",
+        "publisher_url": "https://www.knopnews2.com",
         "language": "",
-        "seendate": "20261017T054120Z",
+        "seendate": "20261016T201500Z",
         "source": "GoogleNews"
       },
       {
@@ -219,6 +189,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1hjMHo3dzc2V2RrMEZwa2FYVmZnWjVMLWRfTHBzZ0VmamJ3azdWdkZnZDVaSnpYMFFXYjY5ZnhvcTFZMGtQT2RJOXE3UWVHSVE4TENtNmx2SWwxVmhLeGRaTHhXcW1zUlFPZDc2MGxXdURkMWVXcGltUE1OX2h1RC1LVGtzdzJKWFdn?oc=5",
+        "domain": "unit42.paloaltonetworks.com",
+        "publisher": "Unit 42",
+        "publisher_url": "https://unit42.paloaltonetworks.com",
+        "language": "",
+        "seendate": "20261014T220626Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3lrNzI2NkxKNFpvbjdaSC0zY2JVb1lBOHRtbkQzM1ZMQXp2bW1OLTRPc1RtQzFialZDckEzV1gyZFgtcU9qSjFDTFNQN082SUlEQXg1QWRpb0w5dVBDQVYxa01LVVprbnNNd2hJbENGWVg2RjRYVGZfeVJXZ01OaE04Z3I2SXVkd1lPZ2ZR?oc=5",
+        "domain": "blog.talosintelligence.com",
+        "publisher": "Cisco Talos Blog",
+        "publisher_url": "https://blog.talosintelligence.com",
+        "language": "",
+        "seendate": "20261015T180049Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTNCNXVKUG9UeXhyUGhiQmx1OFM4eFpHWjNTSjJBNTlFaU9ZYS1Bb0drQUh5VXFpVG90LTFUaklyNjBXOVlZazkwT01sNzM3dHBoYU45Vk5xcnhuWnVoNVdqdVR3UllkNk11R1ZzMjdnSmdSakZpaElHbjk0TV9GcHB0U1dIel8tbEpaU0pGSE1MVVhUNXVr?oc=5",
         "domain": "www.nytimes.com",
@@ -239,53 +229,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Baltimore suburb confirms August data breach after ransomware claims",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjbFFXamN3eWppN2g3c2EtWm5LZ1ROaHpocUJNMTN0SEh6RUVwdENOWGlQUjhhVXRjWUptTE5FMEZrck9WM2dvdWozRUZXQ0ZaOHFDVWZaeHg5STVTSnFyT0RoUWVxODcyT19falpWQnpiQ3F6NldDQXJ5NGtZdw?oc=5",
-        "domain": "therecord.media",
-        "publisher": "The Record from Recorded Future News",
-        "publisher_url": "https://therecord.media",
+        "title": "Thousands of refrigerators were hacked across France. How worried should you be?",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1FIemJmYWM4cnV6MzZ3RS05QmtuZjZXT0V4ei0xV0x3R1Y4ZTZ5M1NGaS1UeEYySGxQSmtuMlNBWFFTMVNEa29ldFpXUnZzbmFfajVaa1NKNjhMTG5POFpDcnFwbE9xSzY5eWhtUTlxSHljUlBzaXpUUzJSTXBHamFIU3BYNFk5?oc=5",
+        "domain": "www.cnn.com",
+        "publisher": "CNN",
+        "publisher_url": "https://www.cnn.com",
         "language": "",
-        "seendate": "20261016T132235Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1hjMHo3dzc2V2RrMEZwa2FYVmZnWjVMLWRfTHBzZ0VmamJ3azdWdkZnZDVaSnpYMFFXYjY5ZnhvcTFZMGtQT2RJOXE3UWVHSVE4TENtNmx2SWwxVmhLeGRaTHhXcW1zUlFPZDc2MGxXdURkMWVXcGltUE1OX2h1RC1LVGtzdzJKWFdn?oc=5",
-        "domain": "unit42.paloaltonetworks.com",
-        "publisher": "Unit 42",
-        "publisher_url": "https://unit42.paloaltonetworks.com",
-        "language": "",
-        "seendate": "20261014T220626Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack leaves supermarkets facing millions in uninsured losses",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjlNdUhZTmc1N3l1NGI1bTBKblhmU0czUGMzbm5HRm9XMVlXcnBfWmZvVjlWa0tMc3B1U1ZmQ2pUR1V0Y0VQVUpKTm1mcThiaWwwa2drR3dUVzRrZ0F3V2c4aW9SVWxBMWlBZzVyNzdGLWtSRXBFb000SmF3clp3WlBkRFhXMFFxR0Y5SExrVFFjRHNzZE5sajBFeVNwMTI2cFBDVw?oc=5",
-        "domain": "www.businessinsurance.com",
-        "publisher": "Business Insurance",
-        "publisher_url": "https://www.businessinsurance.com",
-        "language": "",
-        "seendate": "20261016T141811Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3lrNzI2NkxKNFpvbjdaSC0zY2JVb1lBOHRtbkQzM1ZMQXp2bW1OLTRPc1RtQzFialZDckEzV1gyZFgtcU9qSjFDTFNQN082SUlEQXg1QWRpb0w5dVBDQVYxa01LVVprbnNNd2hJbENGWVg2RjRYVGZfeVJXZ01OaE04Z3I2SXVkd1lPZ2ZR?oc=5",
-        "domain": "blog.talosintelligence.com",
-        "publisher": "Cisco Talos Blog",
-        "publisher_url": "https://blog.talosintelligence.com",
-        "language": "",
-        "seendate": "20261015T180049Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware Groups Increasingly Resorting to Real World Threats",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmR5MEs4TVNMZWFKaEZCY0w1Vk1jYlBfYzF1TWd4dDd4dWEtelViSzhJYWZ5NHI3UVZUbHBCTVFGZk9xbjRDLU9QaW9LWUFZUHAxYWx5RnNqWmdqbzhDaUtZZDk1V1Mycm4tMG5BblFhSGpqcS1ldWZwSHRpeGdaclJRUF92UWlaa0hUUnJFS29icDA?oc=5",
-        "domain": "www.hipaajournal.com",
-        "publisher": "The HIPAA Journal",
-        "publisher_url": "https://www.hipaajournal.com",
-        "language": "",
-        "seendate": "20261016T135527Z",
+        "seendate": "20261014T110307Z",
         "source": "GoogleNews"
       },
       {
@@ -309,43 +259,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Microsoft Patch Tuesday, October 2026 Security Update Review",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHdUM1NSVFJFTkRYMzhmdFlsYXFWUFQyVzNEelpLbXJvbE9HNkdaRWRCUDN0MkNSNUlNbUJmN2RVM1JsaXl5UmRLQW9nemJZU2FWMzN3dWxaa0YxWF9VWWIzVE1lam9KcmRmU0tNYVRJd2Z4U2IyVG43NnhPRUlxaWFnN3hCRHVnbHJucWZPajJCbnFFZWIzdjR1OHhvaG11RlpXaTdMZjFUaTM5TFV6aTllcDdwNDc4cndIZllOOE9Sanlr?oc=5",
-        "domain": "blog.qualys.com",
-        "publisher": "Qualys",
-        "publisher_url": "https://blog.qualys.com",
+        "title": "HackerOne Report Finds Vulnerability Backlogs Grew 131% in Two Years",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVFwNXdQbkhzdVoyN0cxUEVXeVY4MjdFTWJTWWx1M2piTVFOM1J0R2VmNUlYSFdPWmxUckw3djZYdWpiZ1JQb3FDLWJlYkUwTV9MTkEtMlpRdnpmYk1KVk5HOWktcmRJdHg2Tk1yMGZ4VmNaNE5SdWFFbGdJQ01seHY4ZDAyU0FidEw1cWtHd2VMTVlsMlU5SjlBT1BUTU82c3lrWEg4dTgwVkE?oc=5",
+        "domain": "www.cybersecurity-insiders.com",
+        "publisher": "Cybersecurity Insiders",
+        "publisher_url": "https://www.cybersecurity-insiders.com",
         "language": "",
-        "seendate": "20261015T110737Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Giant Website, App Still Down Following Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFZmNnZpLVZLTGhpRGw1eDY2aS1zSnpUMVBZa3dxTG5jTDYwZVpkZkpFTXNPaVJUOFhTY0xHNTFobG5fbTZpMnkxamhGOWVpMkd4YWR5NV9LZ3NnUGNoaTB4b045VndQWGZ0VjZqVG1oMTk5NktsWkNzWGN3c25mY3JNTjZaT1pzazhCLWdpTnk?oc=5",
-        "domain": "sauconsource.com",
-        "publisher": "Saucon Source",
-        "publisher_url": "https://sauconsource.com",
-        "language": "",
-        "seendate": "20261016T160409Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Study Links Ransomware Attacks to Threats Against Staff",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFJWYzdQTlFRMDJVR3k2U0Z1VFEyNmJQMjZXZVpVaFNfbVp5cktOTG40WHplQ1Q1dFZFbmRqNTBnSmwzQk9XdHdva1hhWDlCMEEyWmNZOHFUZ3IxNHNlanhCLThzVnljczB2ZXZ1ZjJnNkdQWF8yU3NONHRvRDlEV29KS0tMMS1xenVUbUdiWVNPOGFCSlRBR05PVHpqb09PUjRCZG1EQjZCZw?oc=5",
-        "domain": "securitytoday.com",
-        "publisher": "Security Today",
-        "publisher_url": "https://securitytoday.com",
-        "language": "",
-        "seendate": "20261016T225413Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Japan’s False Emergency Alert for a 9.9 Earthquake Wasn’t a Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHF3N0NYMlZwekZ2QVNmbG1JUkRKV1RhRFM0cTF4ZkNuN1k2OHJkLXRvTzlWWEdiZnFFSC1tU0NGcDNreUM0TkViY2FaamowaWlTdHo4NXFqZGE2dHhDaTVSYVYxdWhkNmtWVTJlZmZqUEJ0aERXRVJzUThvRXpLbkZabVJyNmRFal9ISlFuWG5HdFc5Tzd4ZnZhN3daNVpzSHc?oc=5",
-        "domain": "gizmodo.com",
-        "publisher": "Gizmodo",
-        "publisher_url": "https://gizmodo.com",
-        "language": "",
-        "seendate": "20261016T181038Z",
+        "seendate": "20261017T054120Z",
         "source": "GoogleNews"
       },
       {
@@ -369,23 +289,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Heber City working with FBI to resolve cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNejhzUE50a1QwRHFSS193TXJMX1I5d3lvQ29jQkhsMzg2THBtWm16MUVXVk1ZLTRMLXhNSDlNd2JVVDZ3UUZwZFRaMVpIMGtKSXBZT2ZRc01Dc2Jwa0NmM3d1MnhxZGo0c3NSTmFiLWxubFFRb0xneERJek5PVlBuS092UnZLc3RLVUVJeE5PMVg3MWs?oc=5",
-        "domain": "www.parkrecord.com",
-        "publisher": "Park Record",
-        "publisher_url": "https://www.parkrecord.com",
+        "title": "Baltimore suburb confirms August data breach after ransomware claims",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjbFFXamN3eWppN2g3c2EtWm5LZ1ROaHpocUJNMTN0SEh6RUVwdENOWGlQUjhhVXRjWUptTE5FMEZrck9WM2dvdWozRUZXQ0ZaOHFDVWZaeHg5STVTSnFyT0RoUWVxODcyT19falpWQnpiQ3F6NldDQXJ5NGtZdw?oc=5",
+        "domain": "therecord.media",
+        "publisher": "The Record from Recorded Future News",
+        "publisher_url": "https://therecord.media",
         "language": "",
-        "seendate": "20261016T160406Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GIANT Food Store customers reactions following recent cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3hBbzdhYnk3NzhTNkVDOFhnc0NHZzFqaEVRVzFwWTVLMEh2cUZpU0JRY2ZqRUF3UFNpbksyYU51bHNhbUVCNzg5NW9DdWhxUFZ2NmpFWU93REdxRmlRUXNwWkNCWk5Pb3g4cWxCYTRqQU4xUTNUU3NxZ0FQU0ZQamVudjFpUVhfcVBwTjJGbkZMRkNoTjZ0Slp2NHNWMlFaZzk4WHF4cUNWcUNVeUY4MEQxQkloQWwyMTVmVzdLeHEyREhWU1JXbW1STURQLS03U243TzJ6dUxnS1Bw?oc=5",
-        "domain": "www.fox43.com",
-        "publisher": "fox43.com",
-        "publisher_url": "https://www.fox43.com",
-        "language": "",
-        "seendate": "20261017T000300Z",
+        "seendate": "20261016T132235Z",
         "source": "GoogleNews"
       },
       {
@@ -399,33 +309,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Massive Cyberattack Targets Refrigeration Systems at French Supermarkets",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUTNIMXNOQktINE5KZldDOFYtbG1mdlh4YmhhdW5heTkwald0Z3ZhZ0FvNUY0S2FmdE1sT3AwRkpPV3BvN1lsWWxTNjRQRXVtLUlyd2NhNl80X2drZ2l0c0NuekJkQUFlRDhkeV82RjlXc1V2VFMtSUdYREh2ZG1FNldZcXZ4Ul81d1MzdnY3c2RoODB1YkJHVlM1YkI3WTRlb25fSEowQXpoWm5FRHhlSFIzVQ?oc=5",
-        "domain": "www.achrnews.com",
-        "publisher": "ACHR News",
-        "publisher_url": "https://www.achrnews.com",
+        "title": "Hackers knocked out refrigeration at hundreds of French supermarkets, spoiling food",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4T2J2TlBnOXE5azdISm5LaXdqRWNxUkdxTWRNSEZmY09FNDdaNkJVUEM0dnZ3c3VVYTNfNklfUGZfOHN1cEV0dEltRmVxblozWnMxa1hTdk5VeWZqU05MVXhLdTRBLUlmelotNEJDdmQ0RGZWOXo4MWNLNTFKUDA?oc=5",
+        "domain": "qz.com",
+        "publisher": "Quartz",
+        "publisher_url": "https://qz.com",
         "language": "",
-        "seendate": "20261016T200000Z",
+        "seendate": "20261014T070000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "This New Cyberattack Can Infect Your Computer Just By Running An Ad",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43eFNhT2ZoLUFGUTNNUFd5WTFXNVFxM2s0aFZLdHhPSTNsYkhFcnM0NFZJWS1CQ09NblpKS3hsOWQtUllZcUhlRzMtWTUxY2thOFY3aUJETWxkUUM4aHdjaU5HcG14UmRGdE54NWpsUmVCNms3N0trMzBlZw?oc=5",
-        "domain": "www.bgr.com",
-        "publisher": "BGR",
-        "publisher_url": "https://www.bgr.com",
+        "title": "Cenovus Energy (NYSE:CVE) Looks Undervalued on a Decent Value Screen",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkFJTXNEUi1fMkZmVVRram1kMnVmdFV5SkoyWDF5Q0gzNURob1JiSF9Udmo5S1IzQnd2bDRIYk1BNjdXbkRsdk5wOEM1WFZjQ1FKNWJOYWdzU2dsc0lpQXYzWGZSa2RaSFB3a1NhRWhIM2xqek44M1VhdU8yU0d1TjBXSk9VWVJxcGZ5aGFFcVNSZmQ2eGtDV01uR3ZmNUs5cjV0bHBOQ1NmT0ZvZEU3X1VXd210RGs?oc=5",
+        "domain": "www.chartmill.com",
+        "publisher": "ChartMill",
+        "publisher_url": "https://www.chartmill.com",
         "language": "",
-        "seendate": "20261016T194700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukrainian drone strikes highlight the vulnerability of Russia’s data centers",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVRQUl9mVHM2cE5sVERoWjVDZlN3ZHI2ZVYtZU5USlluc1dGM0REZXpqclQ2WFZfbHVqVmFPMjc3anRPVkQ4blJxUnd6OVlhbTZFckltdzhHSmJqS19VOU84dEhvdmh1azNEM3p6a1RYdm15VWtnOUNUNW1adUFKaVlzR0JHNlFTTE1RZDE1YWxfcWlMTUh2VWhzQmdXbzNvRUxTXzNFMlRFTzQ3cXBwamFqclRhbzVDVUZZUm1rYWxHNUNIT0E?oc=5",
-        "domain": "www.atlanticcouncil.org",
-        "publisher": "Atlantic Council",
-        "publisher_url": "https://www.atlanticcouncil.org",
-        "language": "",
-        "seendate": "20261016T150600Z",
+        "seendate": "20261017T121041Z",
         "source": "GoogleNews"
       },
       {
@@ -439,13 +339,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Sell-Off In Cybersecurity Stocks Intensifies Amid Palo Alto Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0RwdUhaYW1SUUMzcE82Wm1kUTVtcVlpUXdCZjNaTm1kcV9ua0pBUDFoVnJZZUd4ZmxTLUxuMWgtRVZRcnJJS2tPRGUyX3NkTjZLamg4Q3JtWm1IMTFfbUg2OWdFdnFieGZzQVFWNy1yUktQLTNGb0k1dDhaMU5RUWItaERwYXAxTVhkZ2FqMy1fMnFXbjd1THJNQlZCc2hyYU9r?oc=5",
-        "domain": "www.investors.com",
-        "publisher": "Investor's Business Daily",
-        "publisher_url": "https://www.investors.com",
+        "title": "Study Links Ransomware Attacks to Threats Against Staff",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFJWYzdQTlFRMDJVR3k2U0Z1VFEyNmJQMjZXZVpVaFNfbVp5cktOTG40WHplQ1Q1dFZFbmRqNTBnSmwzQk9XdHdva1hhWDlCMEEyWmNZOHFUZ3IxNHNlanhCLThzVnljczB2ZXZ1ZjJnNkdQWF8yU3NONHRvRDlEV29KS0tMMS1xenVUbUdiWVNPOGFCSlRBR05PVHpqb09PUjRCZG1EQjZCZw?oc=5",
+        "domain": "securitytoday.com",
+        "publisher": "Security Today",
+        "publisher_url": "https://securitytoday.com",
         "language": "",
-        "seendate": "20261016T164300Z",
+        "seendate": "20261016T225413Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Giant Website, App Still Down Following Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFZmNnZpLVZLTGhpRGw1eDY2aS1zSnpUMVBZa3dxTG5jTDYwZVpkZkpFTXNPaVJUOFhTY0xHNTFobG5fbTZpMnkxamhGOWVpMkd4YWR5NV9LZ3NnUGNoaTB4b045VndQWGZ0VjZqVG1oMTk5NktsWkNzWGN3c25mY3JNTjZaT1pzazhCLWdpTnk?oc=5",
+        "domain": "sauconsource.com",
+        "publisher": "Saucon Source",
+        "publisher_url": "https://sauconsource.com",
+        "language": "",
+        "seendate": "20261016T160409Z",
         "source": "GoogleNews"
       },
       {
@@ -459,13 +369,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ransomware Gangs Increasingly Turn to Threats of Physical Violence to Extort Payments",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CNUdfUlQwRkNIeEVYclBjdUtaMDMySXExY3lvX0lQUGV4SFlxTUhCSnp2MExRYl94cEFleTNibi1HbTdyMjFCenNFUnBoVGV5eVhyWWkzekZNSlA3bXUtZ1pucXFpQllBOExQb1lyMWtibjlxT2Y5dDI3QQ?oc=5",
-        "domain": "www.infosecurity-magazine.com",
-        "publisher": "Infosecurity Magazine",
-        "publisher_url": "https://www.infosecurity-magazine.com",
+        "title": "GIANT Food Store customers reactions following recent cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3hBbzdhYnk3NzhTNkVDOFhnc0NHZzFqaEVRVzFwWTVLMEh2cUZpU0JRY2ZqRUF3UFNpbksyYU51bHNhbUVCNzg5NW9DdWhxUFZ2NmpFWU93REdxRmlRUXNwWkNCWk5Pb3g4cWxCYTRqQU4xUTNUU3NxZ0FQU0ZQamVudjFpUVhfcVBwTjJGbkZMRkNoTjZ0Slp2NHNWMlFaZzk4WHF4cUNWcUNVeUY4MEQxQkloQWwyMTVmVzdLeHEyREhWU1JXbW1STURQLS03U243TzJ6dUxnS1Bw?oc=5",
+        "domain": "www.fox43.com",
+        "publisher": "fox43.com",
+        "publisher_url": "https://www.fox43.com",
         "language": "",
-        "seendate": "20261016T130000Z",
+        "seendate": "20261017T000300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware Groups Increasingly Resorting to Real World Threats",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmR5MEs4TVNMZWFKaEZCY0w1Vk1jYlBfYzF1TWd4dDd4dWEtelViSzhJYWZ5NHI3UVZUbHBCTVFGZk9xbjRDLU9QaW9LWUFZUHAxYWx5RnNqWmdqbzhDaUtZZDk1V1Mycm4tMG5BblFhSGpqcS1ldWZwSHRpeGdaclJRUF92UWlaa0hUUnJFS29icDA?oc=5",
+        "domain": "www.hipaajournal.com",
+        "publisher": "The HIPAA Journal",
+        "publisher_url": "https://www.hipaajournal.com",
+        "language": "",
+        "seendate": "20261016T135527Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGpLNXg2cGJNLUN0NkNnUGNSRFlVS1VtNUNaeHNnX1BYVENLa1pvUGt5OHNfWVk3UmtGRmNaSVBra2Z0aXAyZmx4NmRCYTlGcThKOHNJek5fcm1wRWVMeXpLTFFmSmVzRGRTZ0NSMFFlcE1lUl9SZDVfTG5EVmJXbWtlU3ZpVzBVaE5ad2t2NEcxZFnSAZgBQVVfeXFMT0dRc0pkUzlzaEZzNXZaNlozWlpkb2s2dDNTcWhCaWl6RWdTXzFGRDA3bWF6aTYtYjNkU1JWZEtQOEtzQndubG84QVVlSTkyd1M5YTVWTW5OY3F3Rkk4c2FBbWtaYVdkYnhuTkhjXzNUZm9jNW9DNk5IeTd6b3NOOVhkWS1heU9WX1ZQNTY3bE1aRHFrWHc4VlI?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
+        "language": "",
+        "seendate": "20261015T063415Z",
         "source": "GoogleNews"
       },
       {
@@ -476,26 +406,6 @@
         "publisher_url": "https://www.tomshardware.com",
         "language": "",
         "seendate": "20261012T113254Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "When Your Ransomware Negotiator Works for the Other Side",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQy0tR1R0RGhGcGFaRWhDVXJvZW9CZFBkUUpTLVpaRmR3OURSdnRGaHN1cXhUTWVicEtnUW84aUlqRTYzNHZLNC10cmhnTk56RmJ4WUFuZzJLSEVrT2g4dFRJX08yTFRRLXlOTGNWcWR5bC1zY3labWxyVWdEQXExWEp5b2VDSHNDZTF1d0trd1Q?oc=5",
-        "domain": "www.darkreading.com",
-        "publisher": "Dark Reading",
-        "publisher_url": "https://www.darkreading.com",
-        "language": "",
-        "seendate": "20261016T140103Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Stop & Shop offers discount after cybersecurity breach knocks out app, website",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0lVRU5ocDlIX0xIcWhEQzBISDdRRjVRWUI4c1hodmN4d3lDSnkzellxUl9DZHQxSzNKeW0xMXZyMG5mRzJWS05QNno1TFY5WE5VQTRSenowenQ4bXdtUHRULW5YR1JYODBiNWN3ci1RX0xlVWlVUmVzX2lZWjdERWFaNXVEUlpFSDc3S0ZnRkczd1hQMko2SkJLVEVkcFNqVHZLYmU0S2VsWUlWZ2hzUTdpX3JOZUk?oc=5",
-        "domain": "www.nj.com",
-        "publisher": "NJ.com",
-        "publisher_url": "https://www.nj.com",
-        "language": "",
-        "seendate": "20261016T152300Z",
         "source": "GoogleNews"
       },
       {
@@ -526,6 +436,96 @@
         "publisher_url": "https://www.france24.com",
         "language": "",
         "seendate": "20261012T115341Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Central Ohio Primary Care says health info breached in cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLVhPb2hVcVdSelVuVnA1NlFFdjBEZGNrQ2RqOXRwMm9kUzJNTldtYXphMnN5SHB6MU5PTzF2bmdIdEpJREJwQzZHcUsxc0JiWkdnb0l2ZFpOMk5UTU9XMkpTeURkVFNubXV1NllXeUI3dnBsV1lySUM3bEdRU3FhaTlsbkFKMWFYQWY4cGFHNlFZWFQzVUtqU0R3dWFFMGViazY3ZFMwVkh5c3J0WXJ3d0F6cDZLZlhRS1d0U1gxOC1rc3E1OHJfTVRpemt5Zko1a1VjS1FzTmk?oc=5",
+        "domain": "www.dispatch.com",
+        "publisher": "The Columbus Dispatch",
+        "publisher_url": "https://www.dispatch.com",
+        "language": "",
+        "seendate": "20261016T000200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Soapbox: A cyberattack on French grocery stores, a drought in England and a China-North Korea bridge",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSXBsQ3g4SWNldWw3X2RXdV9uU2liTlQ0SS1xSVBaemN2YWUwcFZOTGltbnRuakJHZUZyU3FoOGNTSVU2aHQxRm40TzNiSnJCT05HVUhOZEliVzBudUNYYWFiTXpEUTdma1pmZWtGU0lhdWxac05ZQ1FKZzJxMm4xRG1aeEI4MmpieXNUaUtnMnI?oc=5",
+        "domain": "nyunews.com",
+        "publisher": "Washington Square News",
+        "publisher_url": "https://nyunews.com",
+        "language": "",
+        "seendate": "20261016T110517Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack leaves supermarkets facing millions in uninsured losses",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjlNdUhZTmc1N3l1NGI1bTBKblhmU0czUGMzbm5HRm9XMVlXcnBfWmZvVjlWa0tMc3B1U1ZmQ2pUR1V0Y0VQVUpKTm1mcThiaWwwa2drR3dUVzRrZ0F3V2c4aW9SVWxBMWlBZzVyNzdGLWtSRXBFb000SmF3clp3WlBkRFhXMFFxR0Y5SExrVFFjRHNzZE5sajBFeVNwMTI2cFBDVw?oc=5",
+        "domain": "www.businessinsurance.com",
+        "publisher": "Business Insurance",
+        "publisher_url": "https://www.businessinsurance.com",
+        "language": "",
+        "seendate": "20261016T141811Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Months-Old Palo Alto VPN Vulnerability Remains a Target for Ransomware Groups",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTR4bjFoTjBvZ0o4a1JUVTZ5c3lEOUkySFpCTGZtVFc0NHZoejNudFRxaUpSZGNBUmNYcUtCSE4tclduQnJyZ1FQNzExLVZDbkQwcS0zYUNPMVgtaVdRWEdJa1JnTFdLZHZPMlBtWXZtRE1qUVZfNzlKZGMxV0Zlemx5TTE?oc=5",
+        "domain": "www.infosecurity-magazine.com",
+        "publisher": "Infosecurity Magazine",
+        "publisher_url": "https://www.infosecurity-magazine.com",
+        "language": "",
+        "seendate": "20261012T091500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlVXSkt0UVVTVGpqRk5fVXRXS0FzUmJ5RHNNeW5mQ1E5aEY2cXhfYWNtdDFjVXdzSFEtMFk5U3hiSkp6T3p0dkE1QmNkdEFCbU5TSGFSbF9Kam9tRDg1RkpaTTZTRmdrdjdoVWlUdkJBYW1kM3JWRG0yTTNScTdoSHI4SHlmcUoyTmNjR084MnplZkJRY2pqX2pSeXRlN0lFUUFRNnpqRGwwTGo4T0hDTFlKUmhUU2NOeXJ1aFdtUV9rZEhZclEzNzBn?oc=5",
+        "domain": "www.darkreading.com",
+        "publisher": "Dark Reading",
+        "publisher_url": "https://www.darkreading.com",
+        "language": "",
+        "seendate": "20261015T154050Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnlLUGZfZzRyaE1ISjRpWFJXd1FwQWpQUjFHQ00yTXRkeWEwNXd1Y0l0eEpYTUU5UFIxeXJsR2otZFFVcXFpeG1JaWxFdHRHT08tU3ZZQkVUS2hHb2ZTdGNrQUxkVlhDUXBydmFGRWo3UUJtQnpKOVYwRnlWRVlxTDlmekduTUNGa1FNQXFra9IBlAFBVV95cUxOMlpvalRUYy14NjAwVlJwVG5oa1N6TkdMbDVFTTNrS25DSi1oLVVSTUNEMnBHTkdWTjI1bkxpeC1wS3hwenFTQUdJekF1aXExVEk3aDlGa0tVUnhsX1BUNFd4eW5rRTFlclhCN3dqbmUwUjVSdmpvbTk1dkdHblYwb0tSTEF5SzZ5NVJ3TE03Tl83WWFD?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
+        "language": "",
+        "seendate": "20261013T093712Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Healthcare Ransomware Attacks Doubled Since This Time Last Year",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWZScWE1Qkhob2gwZTNmLUtkNW1OY3lDS2ctWVJVSVlxdnpSMVh2UVJ5c1V5X2tqWUdiRGhDY1BmMGJJXzNSUVVQdmpMT1p5Wk43WmNGRjRaVDYzNUxBRk1tVXZ3b25IcHZFMTJxV2MwTWNRMUtCQUFsLTRsOVRxbElqRnZlLS00OHBlakFqbUJWTERkQjY1UVEyY3kyR2VndXlCNFdxaWdXZXpBTEFwbVRn?oc=5",
+        "domain": "www.securitymagazine.com",
+        "publisher": "Security Magazine",
+        "publisher_url": "https://www.securitymagazine.com",
+        "language": "",
+        "seendate": "20261015T160000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Agent Vulnerability Disclosures Doubled in 2026. The Auth Stack Wasn’t Built for This.",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVhZNWdhX2VsQzFENUU4S3VPM3ZSaVUtMmNIYlROYkN2eHFUb1UzdFpRTmd2RXNPZE9LcC1EVDl4cnQ4UDh1ZncwOHZaSnBZRXM3YWFkUnBBZDF1QWo3LXJoSWxIdFl4R0FwZ3J6ckplcHZiX042QW54bmw4Q2Z3TlFTM0RhTlZ0VjlocE9WblFSNGRYend5QjBUbl9XWHpGcExpd3dRd24?oc=5",
+        "domain": "forkast.news",
+        "publisher": "Forkast News",
+        "publisher_url": "https://forkast.news",
+        "language": "",
+        "seendate": "20261017T013100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "84 percent of ransomware victims point to AI link: Report",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY1dYX2hnNG5NWHBwZ19NZGhtQ2ZhUDVwWUh5dHdESU9PSGpraTJXVURUQlVRNHJxSExBNFNSeEZuaGZROFNfeHMza2lDaTByZW9VeURBV191VWoyY1VzNHV0V2Y2SEFPTzJMTWp5V2V2YlNIU2kwR1NTdWJITkZDNVBFNURjUdIBiwFBVV95cUxNLXJreGRWMkpMUzh3cEdycU1CSG8yV05mT1MtakFucTRTUTB3bWhWTHBoNUFQZ1I1cHBqSVU5aWVwaENxVUpHdVFrdWtXR0NWb1p2T3F3YlIyZDM1bHlhZVdyVG1kWW5GNGNJNWVtSTI0aS11bzQ4cVpPQ2Y3QlVqa1B5ZnRmUFZpb05B?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
+        "language": "",
+        "seendate": "20261014T190900Z",
         "source": "GoogleNews"
       }
     ]
@@ -562,16 +562,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzctNTJiM0xLZFk4dU9qNDZyWmhKX1RnU2VxVFdOdS1tVVF6SGV1ZkF2TXQ2Y1JkdWlmZ1V1bnN6cEF4YmVQM2hTYm1qMXkyQkNqQlFWdV9wdWdqS2wwTjB5VE51ZVZQRjFQeUFhYlZnUnBlTWp3Y2JfM3JfWXppZUlrUlFUMXQ4XzVPUFN5N0Zmb0RERDk3QnZNOUtGOVE?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "language": "",
-      "seendate": "20261013T105236Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "CVE-2026-96951: Actively Exploited Windows Shell Zero-Day Bypasses Mark of the Web",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FWnpVNTlSZ3hDZ3AtQ1FoTHhfLVpnZ2tGM0pTRk4zaF80WVVydjJOb1NqVm5aOEgtUGlkdTRFcXhxWTRxX096cnFvMEJidmt1MjlDbWNkeVpPVHJaTEJj?oc=5",
       "domain": "socprime.com",
@@ -579,6 +569,16 @@
       "publisher_url": "https://socprime.com",
       "language": "",
       "seendate": "20261015T021557Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzctNTJiM0xLZFk4dU9qNDZyWmhKX1RnU2VxVFdOdS1tVVF6SGV1ZkF2TXQ2Y1JkdWlmZ1V1bnN6cEF4YmVQM2hTYm1qMXkyQkNqQlFWdV9wdWdqS2wwTjB5VE51ZVZQRjFQeUFhYlZnUnBlTWp3Y2JfM3JfWXppZUlrUlFUMXQ4XzVPUFN5N0Zmb0RERDk3QnZNOUtGOVE?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "language": "",
+      "seendate": "20261013T105236Z",
       "source": "GoogleNews"
     },
     {
@@ -592,16 +592,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkxzLUM2anBhU29KWjhTMWRIN1Myd21QV3E2NnFNVmRqd2prQUNudmh2Nkt4RlRGR19mUjFncW5LNGVhVzhDMGZSUzd3Yl9ZMWota0JqV2syUXRaRld6Y3oyQV9vQU90UVY5aTltYTBEalJRNkJlNlRhajVWWmU0bGFmalZOUnZoMGQzMGQ1S1o2T0ZHNmlyRTdEYU8xTDFHbzRYc2ln?oc=5",
-      "domain": "www.afp.com",
-      "publisher": "AFP.com",
-      "publisher_url": "https://www.afp.com",
-      "language": "",
-      "seendate": "20261012T160848Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Who hacked French fridges? Supermarket cyberattack fuels frantic probe",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXdJTVY2b29kQ252dXZFSkxoNVNqNkhKYjJBOFJoWXFiNnF5X2ZzQ25mZFdQeVY4VVJtYnM1aDZfOGllVnhMRkRHMjhwT2w1ejR3OGE2VEYwaUFxWU9sWFpNVk85Zmoxcy1yQ2hLOHpHbGhmV2o1UWVCNExQZ3pCV01EVnJGMzZGaGdhRHoxeS01WjBiS0dfZFJhSHFtUVZKcXUzMmt3?oc=5",
       "domain": "www.nbcnews.com",
@@ -612,13 +602,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUlnbFFHd3Bfdk45RmZCMGM4YzdYaVViVi1FQ2RtVEU4N3d3cDk0QUhDSjFWQ2JiekxJVi1zZkRobkx4MWpVWHZaU01UMVVPUjh5TnJJMFlrVTJHc2JVampoeVZwcE5MeV9yd1JlSkdOMXJ5RVUxMHdVdTJqX0FiWjItRXFnX0Z5aE5IVEtNME80a0d6NUF0T0F6bzh4dnY2aU1RTHotUlh1eXBqNGFsT0pR0gG3AUFVX3lxTE9TaUg1Z19aVGtBTFd0ZVFib2FvUUtIWGJEMXhoeEo5OXRSemhNVU5pWDNGWHc2azNZQmxTMVVQUnB5WG5xZTJnWWp3TnRYSXBZdWNCVTZFT1pXU2Y5YnpzOTJVZDVpdHFNek9WZElaSlhwdWJiUEZteGUtNEV4TVlwV1RPMFVXWTMtRFViNDdfaGk2OVdYd0d5RklUSElJSVppSC1JZkVocXBkLWJrd0tQSEc5TFRRTQ?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
+      "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkxzLUM2anBhU29KWjhTMWRIN1Myd21QV3E2NnFNVmRqd2prQUNudmh2Nkt4RlRGR19mUjFncW5LNGVhVzhDMGZSUzd3Yl9ZMWota0JqV2syUXRaRld6Y3oyQV9vQU90UVY5aTltYTBEalJRNkJlNlRhajVWWmU0bGFmalZOUnZoMGQzMGQ1S1o2T0ZHNmlyRTdEYU8xTDFHbzRYc2ln?oc=5",
+      "domain": "www.afp.com",
+      "publisher": "AFP.com",
+      "publisher_url": "https://www.afp.com",
       "language": "",
-      "seendate": "20261013T055421Z",
+      "seendate": "20261012T160848Z",
       "source": "GoogleNews"
     },
     {
@@ -632,6 +622,16 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUlnbFFHd3Bfdk45RmZCMGM4YzdYaVViVi1FQ2RtVEU4N3d3cDk0QUhDSjFWQ2JiekxJVi1zZkRobkx4MWpVWHZaU01UMVVPUjh5TnJJMFlrVTJHc2JVampoeVZwcE5MeV9yd1JlSkdOMXJ5RVUxMHdVdTJqX0FiWjItRXFnX0Z5aE5IVEtNME80a0d6NUF0T0F6bzh4dnY2aU1RTHotUlh1eXBqNGFsT0pR0gG3AUFVX3lxTE9TaUg1Z19aVGtBTFd0ZVFib2FvUUtIWGJEMXhoeEo5OXRSemhNVU5pWDNGWHc2azNZQmxTMVVQUnB5WG5xZTJnWWp3TnRYSXBZdWNCVTZFT1pXU2Y5YnpzOTJVZDVpdHFNek9WZElaSlhwdWJiUEZteGUtNEV4TVlwV1RPMFVXWTMtRFViNDdfaGk2OVdYd0d5RklUSElJSVppSC1JZkVocXBkLWJrd0tQSEc5TFRRTQ?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20261013T055421Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "AI linked to 84% of ransomware attacks, new report finds",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDAxYjk0QWdGcUtHV2RHQklZNXhhdkJXaG9WZkRTZUNzTjJGYmlVX0xya09iMnBLcTB4S1VTR29yVTlLTWFXV3I5cU9CeHNZUURKMHRTcHFZV091MzF0Yk1FYmd1eE1RSy1JY01pV1ljYXdReHlvVDVtUVA5TGpVaUFCZmFjMVdiYXIySEpUX0c?oc=5",
       "domain": "www.cbsnews.com",
@@ -639,16 +639,6 @@
       "publisher_url": "https://www.cbsnews.com",
       "language": "",
       "seendate": "20261014T100000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Stolen employee password caused city cyberattack, mayor says",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0JmQ21DazlnMlZicl9DTGZFeC0wVl80Z2JqR2dSbEhsaDcxTnE0aGdVQzl4V2tmcC1MVjZfdUFvMVJwX0RFLVJYUmFWaUZzT2dWNnRhUzZ2TTdhb2NQRUQtaHBBM0NFQWprMWNOMzNodmJfcGl6VWZtQzVmb0l3OFRKRDVONVlTamtTT2c2Qk1MaDZjYnhR0gGrAUFVX3lxTFBBVW5fUE9UakpXN1p1WWtlUnVwdW9wY2FOVXI0OUtmTGtFSVRDSzdkQ0JublZvNXhmZnRITTZGUy1QSGhDbFJfSUhXTmpmNnVjZmNGckFBRENjOFdNdWloOWVlbGt1VmRxeFluTDhNZ2ZmMUs0Z0M2aXlkeTlvRDBGVkVlU3ZpWU84Y3FicFdheVNSUUhFOVNmcnM0SzlwRnM2cnlhNFNBV3hOMA?oc=5",
-      "domain": "www.wowt.com",
-      "publisher": "WOWT",
-      "publisher_url": "https://www.wowt.com",
-      "language": "",
-      "seendate": "20261016T201500Z",
       "source": "GoogleNews"
     },
     {
@@ -662,23 +652,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXV6dC1HVlB5V3FyRnN1TmFTOElFMWh4MkpYTGxOb2U0R3NZcVFwRmJ2bzY2TG1qbTNKVm44b0Mtc1Y2N2I1MUNWWjdkQ3F5WDRxVl95aUxGQVNQRHlEZ0ZjLWMzQmlxVE1FWEpIZ25ia2NMcXFKYmVZNDdXQTJsdE9DdHE4TUhNLUNaczZSSdIBlAFBVV95cUxObDhwd2xNM1hZMENfMVZrSmh0RTFPblRUVFhyM0NnUmVaR0R0cjVKUkFsV2l1RkE3QktRbmVoRHBrRE1ZczlXUVFNVU5nLVZBeEZXMXlyd0JZZGpqb1NNQkYwLTRJQzlKb0VsdDQwY2hmam16Z1RkZ05EcDBQSElGOTZCRk1CNDB2ZEo0VHpIeGhfRVFp?oc=5",
-      "domain": "www.cnbc.com",
-      "publisher": "CNBC",
-      "publisher_url": "https://www.cnbc.com",
+      "title": "French supermarket cyberattack exposes risks of unsecured remote access and legacy refrigeration systems",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUkVDMWwzZlh5ZElMQ05ycVU5OTNDM1UtUU1TazVpQVJIUkZSRmVITERFS3BTcTJwX2I0cEFMRzVpaW1MMkVPZ1U0dTM1bW9NVG5lQ0NaS2gwYzBlZU5mWG54T0dkQVhCbzZYVW0wZW9saGVNUnE4RkRMeDhMVXAxRUE1aGstWHVXN2VsVlZqbnhzTVAyTEJTSHJkN1RXRk9YV1lVMzNzOTlLTy1IQUIza3VWRzlhQVhtWXZVSDduOFZMSzVLTHNqLUtoWjdhSkZqdlpFTUZzejhIX19Bc3V5Sjc4Um44N3lFSTN1NQ?oc=5",
+      "domain": "industrialcyber.co",
+      "publisher": "Industrial Cyber",
+      "publisher_url": "https://industrialcyber.co",
       "language": "",
-      "seendate": "20261013T064400Z",
+      "seendate": "20261016T102033Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Thousands of refrigerators were hacked across France. How worried should you be?",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1FIemJmYWM4cnV6MzZ3RS05QmtuZjZXT0V4ei0xV0x3R1Y4ZTZ5M1NGaS1UeEYySGxQSmtuMlNBWFFTMVNEa29ldFpXUnZzbmFfajVaa1NKNjhMTG5POFpDcnFwbE9xSzY5eWhtUTlxSHljUlBzaXpUUzJSTXBHamFIU3BYNFk5?oc=5",
-      "domain": "www.cnn.com",
-      "publisher": "CNN",
-      "publisher_url": "https://www.cnn.com",
+      "title": "Stolen employee password caused city cyberattack, mayor says",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDhlRlc0V04ybHh3bU5HNTdPUzNwRjRFeFFrbTZZdVFxeTU2OU5GOURCZ1pkSDBrZEZ3RUo3T01UaFpEUEZlb1d3XzgtRGNCa2poODk2NXYyc3N0NmZLamZVckJyRHB3bzE4MnVHbmpZVVB5YndiZnNsMTEzZGpsYTV6QW9YdUpNRE1ZSjZLRldzZXdwOERkSVR2VlNJZ9IBsgFBVV95cUxQdWVZWXp0cTNDYTJueUlLeEZudi1RMlFpSDYwSGQ3VjZIUUx4MDVVLTRzRFhGelByMDVnYnhjaDFqYnF2X3J6cnhGbjl6X3B2cjE2cHpjMmU0RlFUWW5tWUNndkdWajVtUjFZZDQ1SzZ4c29ySnN2cGdJNnB6V1NqRzlQN3A5Q0lKRmNwNXU4Q3prTzNvcGZuNGcyM3E5V0hJWE9MSWFkc0tTV1JxMGZEbVZ3?oc=5",
+      "domain": "www.knopnews2.com",
+      "publisher": "KNOP",
+      "publisher_url": "https://www.knopnews2.com",
       "language": "",
-      "seendate": "20261014T110244Z",
+      "seendate": "20261016T201500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1V0WUhvLWlScDctU2RzazBpOFRZdm9vb09HX1VaLUdNeWVMSlZTdFFfUndhOFhMRHpnNkNFcXZmQXZZZFdHeTM1WnRFLVBXVWtqTGJGTVN4Wm5TTnh0d3ZVZGZfcXFaY1Zfd3J0ZlNrYVBDS2RTa0lZZ2dmVU1tZ01Rc0hQNFhyNl9sLUVKalNXMW00Z284VUVoRHBrWkZNdEZmUkI3WUNjWUlaVDJpMHdaSm1lMWpaSTVv?oc=5",
+      "domain": "www.theregister.com",
+      "publisher": "The Register",
+      "publisher_url": "https://www.theregister.com",
+      "language": "",
+      "seendate": "20261014T050000Z",
       "source": "GoogleNews"
     }
   ],
