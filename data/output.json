@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-10-20T21:56:15.729586+00:00",
+    "generated": "2026-10-21T05:22:48.241153+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,11 +23,21 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "40"
+      "value": "42"
     }
   ],
   "live_data": {
     "news_articles": [
+      {
+        "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUVTa0pZeTdwQS1ySmhSTV85cFBkeXdBOUFkWWFxeW9MOE9RNGtETVlwOEVXbkxxcmREUkNqVWlQNmh6VHJMMGZZTHBfdGhmTTNfaTh4S1gwMnZCdkhEdkJrYXBMb0NJOXJhT0U4R0lFVGJfYjNaREM3eFMxeU52bVdpUjhrbGc?oc=5",
+        "domain": "unit42.paloaltonetworks.com",
+        "publisher": "Unit 42",
+        "publisher_url": "https://unit42.paloaltonetworks.com",
+        "language": "",
+        "seendate": "20261020T221432Z",
+        "source": "GoogleNews"
+      },
       {
         "title": "Ransomware groups expand targeting of Palo Alto Networks vulnerability",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXlLMW9kbnlTcFVMbGQwQW0wTFhuOGZkOHBFbUNKLV8xTW1nZ0dxbDBMaGpMM2luVWU5eFZzVUprdXhqeGxnR2pad2F0QUw3Um1Wckszamx6TTVicl9hU3ZEZ25NeFp5ODF1TlFrdHJSbC1LVlNyTG9YTF9UTW1BN1JjNldXcHZMMjZzWVVvV3JXNWpLUVo5RDNDRGstRWstT1E?oc=5",
@@ -59,26 +69,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "There's only so much code: the rise in vulnerability numbers",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUVIUVFuT1hmNkt3MnNjcWo2Z3BTUnk5eTI2ZFZyOUFZVHFrenIxcE1OYmNoZU0tdkJRMUpPQVFzVEVQbll4TGx1TUxHcTNGWmZHUWdIQzdEM29wNVpMMF9Wd3ZRc2ItOFM3RVhpNm9EMFlLUlFyUmdrRW1kcU44ZGk5QzY2OWFsa1RCVEwweGoxMTMwTFRLNGNB?oc=5",
-        "domain": "blog.talosintelligence.com",
-        "publisher": "Cisco Talos Blog",
-        "publisher_url": "https://blog.talosintelligence.com",
-        "language": "",
-        "seendate": "20261020T153615Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Giant Food's website and mobile app return after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjFuLWRCQUExc1VFVTZNeERfd3RYX2RnSWlLYlBmdzBVZ1ZkdXAtUTE2SUk5dWJxZ0ZJLVRZa0VpOFFjYW1JSy1NS1VSUzI5dG14QjRBOXZXVkRzeHp6MzJmUGczNGJreWlVS3BrOVpwVGl2QUVIRHhTWVZleEl6Q1JsUWZzellDd2l2aWhpcnB2WHM?oc=5",
-        "domain": "www.wbaltv.com",
-        "publisher": "WBAL-TV",
-        "publisher_url": "https://www.wbaltv.com",
-        "language": "",
-        "seendate": "20261020T193613Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam9xTThueWJIQ0xWWjE1VEM0dC1IOHVYelF1SGI1d2FmdUxKUWpTNzFXRUtEdDNtLWJjNVpnWXNUYnVMMlctdFR0T0pPN1VUUVBDdFkyNjNhLS1NOC1rVmd2SlpJODhoQjRKMjU5R014NUFMNmVqZ0MyNTNhLU1iUDBaQXg?oc=5",
         "domain": "thehackernews.com",
@@ -99,23 +89,63 @@
         "source": "GoogleNews"
       },
       {
+        "title": "There's only so much code: the rise in vulnerability numbers",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUVIUVFuT1hmNkt3MnNjcWo2Z3BTUnk5eTI2ZFZyOUFZVHFrenIxcE1OYmNoZU0tdkJRMUpPQVFzVEVQbll4TGx1TUxHcTNGWmZHUWdIQzdEM29wNVpMMF9Wd3ZRc2ItOFM3RVhpNm9EMFlLUlFyUmdrRW1kcU44ZGk5QzY2OWFsa1RCVEwweGoxMTMwTFRLNGNB?oc=5",
+        "domain": "blog.talosintelligence.com",
+        "publisher": "Cisco Talos Blog",
+        "publisher_url": "https://blog.talosintelligence.com",
+        "language": "",
+        "seendate": "20261020T153615Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "State Bank of India reports cyberattack involving nearly 3,900 customer records",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDJNczB5ZFItMnlnb0RlSEc1OGtuUXFwY3djbEJWZTVpSzhUNDlnYVlQU2VuZmdrbUppVFBYZGQ2bnVLWWdsZTdqamxScG45S3BBLUhsZUtJMVl3VjZERlI5LUstbXM2bnBnaXVBWWo1LXhiUC12bEpMdmRTN1hOLTJ0bWotdDdoR05PUEVMNk9DVE1TX1FzS0FiYl9zZEFDZGNlbElwTmhBVXEzRkVUMnNXb3lzVEU?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261021T033600Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEdYbExXaVFjY212elVRT0YxM0FIa2FUMGhSRjJsS0Y4enVEdmdGNnNUVDlHTGkyakdxbkpUS3NzdTdjLXpqc1pXanNJQzhjWGxRVndCSDJBZC1PU3d2RVlrcHlDbUZfY0NoRmRfTkF3QnhHMThtNGNsSGc1NHktZkdlOUNwQzEwY0d3SnB2RQ?oc=5",
         "domain": "therecord.media",
         "publisher": "The Record from Recorded Future News",
         "publisher_url": "https://therecord.media",
         "language": "",
-        "seendate": "20261020T203353Z",
+        "seendate": "20261020T203746Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUVTa0pZeTdwQS1ySmhSTV85cFBkeXdBOUFkWWFxeW9MOE9RNGtETVlwOEVXbkxxcmREUkNqVWlQNmh6VHJMMGZZTHBfdGhmTTNfaTh4S1gwMnZCdkhEdkJrYXBMb0NJOXJhT0U4R0lFVGJfYjNaREM3eFMxeU52bVdpUjhrbGc?oc=5",
-        "domain": "unit42.paloaltonetworks.com",
-        "publisher": "Unit 42",
-        "publisher_url": "https://unit42.paloaltonetworks.com",
+        "title": "Anne Arundel County faces second cyberattack in 18 months as council learns of breach weeks later",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdEFHZUgxZ3N0aGE0TklHRlFUU3QwamYyaTM0RjFzdVQ3Yjc4QjlEa01hZm83dWV4bHlGVHdzZGFHV3N4MmxvaVhqdmJrbVF5Q2F3WEFqdkNVUHlvNmZ1U2cxXzg3OEJzcUE5dV92akFKelpXNmNsU3lqY1g3bzdRMjN2Y0ZxRVVhZnRxM2V2YnVyT25wT3ZTdkgxVkdJbTU4UHhwYVRORzh3d0tkYm83VUE4eUN2N05HWVMwWEZyamJyM05uWGRtVw?oc=5",
+        "domain": "www.wmar2news.com",
+        "publisher": "WMAR 2 News Baltimore",
+        "publisher_url": "https://www.wmar2news.com",
         "language": "",
-        "seendate": "20261019T070000Z",
+        "seendate": "20261021T020405Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Giant Food's website and mobile app return after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjFuLWRCQUExc1VFVTZNeERfd3RYX2RnSWlLYlBmdzBVZ1ZkdXAtUTE2SUk5dWJxZ0ZJLVRZa0VpOFFjYW1JSy1NS1VSUzI5dG14QjRBOXZXVkRzeHp6MzJmUGczNGJreWlVS3BrOVpwVGl2QUVIRHhTWVZleEl6Q1JsUWZzellDd2l2aWhpcnB2WHM?oc=5",
+        "domain": "www.wbaltv.com",
+        "publisher": "WBAL-TV",
+        "publisher_url": "https://www.wbaltv.com",
+        "language": "",
+        "seendate": "20261020T193200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "GIANT app and website back online after cyberattack; 10% discount offer remains",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOXcyX1VJWDVXNGhpZ0tzY1NvQ0FJQ2hWU3lCM201T01iNXg3RHJXMlllQS1RVElwXzJ0RXRsRTlaU25kVHcxLThfdVdlbTJPVHRIbmhkR1YwX1hEaFN4UmNYOFJZMU96TG9HNzRsVUZGLWZqTGtxMXN1RC0yWW9heG5JN2JfUUV6ZFFZczFNMXhZSi1hSjJYd2tra0VHLUlhc2drdmY1RTRlVjFKLXZLRTZEbkFEZXdCNTdxZTFHUndmWTJ0cUZFZNIB0AFBVV95cUxOSk50Vm9zVWxsdE41LXd1NHM5dHpHV2ZXQWtwd0tTLVV0aEMwY25HakoycGl0X05UdWJta1VTOG5MX0hfbjlJa19xWUJtdHlpU3JJaTZLN0E5QjFCRUdhMHlrWFdSRWpZVVBiRDgzLXlnSk9DYkRvRFNOT0RzeTJBeGJLaFB0dU0xbndZcEVKNjR6bE1jZS1sb195ajk2MVozQ0JBa1ZpUzRhOEJCZGhUMUJ4UFFqSV9PSUNSS0hKYjFYbEZNUjlxMndDanlJZ3d1?oc=5",
+        "domain": "www.nbcphiladelphia.com",
+        "publisher": "NBC10 Philadelphia",
+        "publisher_url": "https://www.nbcphiladelphia.com",
+        "language": "",
+        "seendate": "20261020T221632Z",
         "source": "GoogleNews"
       },
       {
@@ -129,6 +159,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "PHP maintainers tell Web devs to prepare themselves for critical security patches",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDZITTFKZHdQSEwzb1IwZFBBdlpvRTN6VkRsRG15UkdlUzc3WXJhdWxXbkNZMW5sbTk3UkFWODNLVGxqc1BYdmUyOWxRTVJtYXJENFRuQ3c5RjVLVGRyMk9ZZkxhYkRWNVp1ZjhkaGdaY0s3emY0Wm5HekVtWDZVR1lQXzNtZjNsZE1ZMk00V2sxd3FNQzlmQUdTaG1QOXg1T2t4Yk10OFhaVXBhaGhhRVg2eVVKVFJIOWxCYkx3aEc?oc=5",
+        "domain": "arstechnica.com",
+        "publisher": "Ars Technica",
+        "publisher_url": "https://arstechnica.com",
+        "language": "",
+        "seendate": "20261021T021218Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Discovery of cross-domain cyberattack risk targeting electric vehicle charging navigation systems",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMG1PdU12eV9qMmhRZG4yZlFqUlRxQS1taUNNRzJwM1NmSHVmcGZxQi1aQ1dlYkZDa0lXYTlXWVMyRndsWU5pQklTNGl3ZHJ6ZnFaMFVtNEJ4WmNONmU0R2d3Y0RtamY3Vjk3ekpoVWFvNFBxdnhWLV90LUdHUGRERV9XcVZyVkpEYk1Beko1cw?oc=5",
         "domain": "techxplore.com",
@@ -136,16 +176,6 @@
         "publisher_url": "https://techxplore.com",
         "language": "",
         "seendate": "20261020T184012Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Giant and Food Lions websites and apps back online after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEE3YVUwZDJBc1FUUlVIN0xraFNlTENRSTd3cVZyWUprRHJScERBVkdiZ2hOSTM5ZHZ4eXpMQ016cmtVeFpqRDZ6cER6U1dZZlZKbEpkV2d4MFVwRGlRLXlfSU44V1hKQXpQZWQ4M2lnTDNfbWZrQTBLLU8yeHdYZjk2b2psUjlzY2lCakRGdTYxYnlCMkpWRVVoRVEwMVc4akhOWU41LWR4bzhXeXJoNWJOWjFXampDY3fSAcIBQVVfeXFMT3VZZEV1YWlrUVV5Q2h3X19NRTc0ZHdnc1l6OWZkS2hhRmRZVDJISWpvT1NVUkpQeDlRVU9lVFBUY3lqb2ZNVGg3TnVNaEprSUZ2MFdVdi1SZ2NzQTdUMXViU29ic1hNN0JTaS0tQ3J1c0tKMmhEVlBSRXNkTHhWQzVjeGQzN1Nrd2U3Vi03ak5mSUNEYWVmZTMtT3RnOTdfT24tZWk5NmhpWHpJdTcwZ1VNQktlUlV4ZFRDX1IwV25TTVE?oc=5",
-        "domain": "www.nbcwashington.com",
-        "publisher": "NBC4 Washington",
-        "publisher_url": "https://www.nbcwashington.com",
-        "language": "",
-        "seendate": "20261020T165052Z",
         "source": "GoogleNews"
       },
       {
@@ -159,53 +189,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Germany's far-right AfD investigates publication of emails stolen in cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQak1BT19QRzNXZGRDeDRJODJMVWxmblZ2NWY5OVVXSXhqbW9MMWVlbkVYMHVTaTNLa0NlVURxTUllb050MXZaMUVIdlpQQTFBU2dTeE9Xdl9lNk9aNkxCYkFUek5hR2RqTWctSTkyT0FneHBFbkZ4Y0g0akxMcU53RFFldTUtY2o4RDk4R1dYa1c0ZGVUTkdqQ3RCNmUzN3IzWjR5WHBHVTZPNHRvODZ3eEc3MkRTYjFnRTkwWGN1MHFsbGZK?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjN3SkNMZnRrQWkwSmJjQWtoOFJQeHN3VWM0VG84eGJwcERUUFRVelVoU1QxM19FRXdwYmdkVVpmNjJjWkhhQXFkeHh5bmxwSmp3NmRaMjdnNGdwV2hkNDY1TENadEFiSUhESy1ydVItYVl4RUFQdVV2M0R3d0Uycg?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261020T102609Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Giant Food Stores website, app back online following cyberattack targeting parent company",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcVRTZFF4b21wc0tqMk1tdUFDcTlJcVR0RmpENU5Ya1QzNEpmZ2hOd2xtVGtkWThxbExwbUR3OHVBSkJpVlIxT1UzSS1KbUJlcmVNTmkycVBndjFEUFRSWVVaZVpxSHdJSUJNeVo0dElVQVVrOG5KQ19fa0RkS3RjWVlRMDhuMzRCT0xTaXpnMU91UlpNdEZwcEVJOVVIRjAzdnc1Vl9RZnVSbzlJMV9kTlcxcDJaTldoUk45MnZXX3gyWmZxQ1ZscXJCbXBLMHY5b2V3NjF4UjFNWXpiTkFrZGpUdjA2MzhudG9UbGVUVmdJdmZESGtBbjRvbjVKQUJjbTljeVktb1c?oc=5",
-        "domain": "lancasteronline.com",
-        "publisher": "LancasterOnline",
-        "publisher_url": "https://lancasteronline.com",
-        "language": "",
-        "seendate": "20261020T144300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Combination therapy reveals potential vulnerability in aggressive osteosarcoma",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkNYcjZCZGtkTnJDanBVOUR2eDhJSUtYalZuUUZTMXhaYjA0VUJwUlhtcnJMV3VuQkpMOEV2RVVyU0JiNU5pQVNtcjBIWS1FT1FYUWFPeDI3cHY3YU5RT0ZNVGpxN2NtYlQzNjdBWTdtb3MyVXN3V1FhYTR0NzFweHBrRV9YN2FjMU1XSERlUUdOUzhkN21oQWRXWQ?oc=5",
-        "domain": "medicalxpress.com",
-        "publisher": "Medical Xpress",
-        "publisher_url": "https://medicalxpress.com",
-        "language": "",
-        "seendate": "20261020T192019Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GIANT website and app back online following cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT3pWWGtPSXN3Z0h0TW12b2FYNWE3S2kxZlhsQnNTR2ZteGJDMENKT0Fxc3plZDNaaWdyWUlPWWRROTRPXzVkRk5hR2pqV05KVkxxUnVURDJuWElkVVB5NnNFZHVmektkcFN4TWViQkZ1M1psaHJmclVmOUljazZtOFNmVmVGcy1lQ1pj0gGQAUFVX3lxTE1kbXdSSmQwazByUjktdGFRZEMxSUlGRlk1UzltVVltNl9vVXY5OXdmYTVGTVhWWGVUZVBHTldJR0tWRk0yUkVTcHBoYVlFaVJUQ3U1cC1ONHIySklaVWdXM3oteENKaktyX2stWnREdS05cGMxZGx4cFdHNVRmOGh1dWVjSjdITnhqQVhjdU84dQ?oc=5",
-        "domain": "www.abc27.com",
-        "publisher": "ABC27",
-        "publisher_url": "https://www.abc27.com",
-        "language": "",
-        "seendate": "20261020T145502Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hackers are using patches to create vulnerability ‘maps’ – that means the 'patch and move on' approach needs to end",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUUxdXdRN0RGa1BXU0JuQU9ZeFNkRVRNVGFsUEZWeTF5VGdYcDZ4THpZZ0RHeFlVSVhxZnh6aV9SZDVOQ0tCMlYzcW40TzUzWUFkWEpKU05xMDlwVTBscW96QVM5ako0ZVB2LUhFbzFNYmdoRlFoNGNfQjJTTWhrTnJiZ25ETGZxRk4xQ3A0T1FRVnRQZkl3cmo1Mk1MMWw5M3RTcmNwVi1RTUZlV1RnRXl4cTF0MFNCdlZxNXJOQzR4Z3g2Zy0taU1fMExXREVISUVFR2VTSQ?oc=5",
-        "domain": "www.itpro.com",
-        "publisher": "IT Pro",
-        "publisher_url": "https://www.itpro.com",
-        "language": "",
-        "seendate": "20261020T140708Z",
+        "seendate": "20261021T045700Z",
         "source": "GoogleNews"
       },
       {
@@ -219,43 +209,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cyber Scares: The Christmas Day Ransomware Attack",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnYxcGNnbUlFY2FhU2dsNDFYZ0M0ZFo5Tjd1d2c0MEpRb1pqeVFfblp4MXJTQlFFQ25OcjBJRWp2V25kTFF2Sl82MTY0ZXNvT0wxbkVkaTc5QWljelVvRkdzRVRWZHZ2LUtEekp3OENmQ3ZCM2VNWEU2b2dxcG5ZdUZWb0gydw?oc=5",
-        "domain": "www.rtohq.org",
-        "publisher": "Association of Professional Rental Organizations",
-        "publisher_url": "https://www.rtohq.org",
+        "title": "Germany's far-right AfD investigates publication of emails stolen in cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQak1BT19QRzNXZGRDeDRJODJMVWxmblZ2NWY5OVVXSXhqbW9MMWVlbkVYMHVTaTNLa0NlVURxTUllb050MXZaMUVIdlpQQTFBU2dTeE9Xdl9lNk9aNkxCYkFUek5hR2RqTWctSTkyT0FneHBFbkZ4Y0g0akxMcU53RFFldTUtY2o4RDk4R1dYa1c0ZGVUTkdqQ3RCNmUzN3IzWjR5WHBHVTZPNHRvODZ3eEc3MkRTYjFnRTkwWGN1MHFsbGZK?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261020T134500Z",
+        "seendate": "20261020T102609Z",
         "source": "GoogleNews"
       },
       {
-        "title": "‘Over 50 percent of the victims are over 50’: Mississippi pushes back on cyber scams",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnM3SDdHYUI4LTMxWEtacEh5WFVILVRVc0txdFNSM01XOVVhYk9PY0JRTmNQM1B3NFZzWnBSc0UyRHkwT3ZXeXJQU3RGXy1XaUtIM3RvcWktcHEtMGxza0YzR1ZzaDBqcmlNcktvcEJhLUpwTGNtaHVfb3JsM1FybXhPNnhLS0s3ZWh6b1pXNA?oc=5",
-        "domain": "www.wapt.com",
-        "publisher": "WAPT",
-        "publisher_url": "https://www.wapt.com",
+        "title": "Giant and Food Lions websites and apps back online after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEE3YVUwZDJBc1FUUlVIN0xraFNlTENRSTd3cVZyWUprRHJScERBVkdiZ2hOSTM5ZHZ4eXpMQ016cmtVeFpqRDZ6cER6U1dZZlZKbEpkV2d4MFVwRGlRLXlfSU44V1hKQXpQZWQ4M2lnTDNfbWZrQTBLLU8yeHdYZjk2b2psUjlzY2lCakRGdTYxYnlCMkpWRVVoRVEwMVc4akhOWU41LWR4bzhXeXJoNWJOWjFXampDY3fSAcIBQVVfeXFMT3VZZEV1YWlrUVV5Q2h3X19NRTc0ZHdnc1l6OWZkS2hhRmRZVDJISWpvT1NVUkpQeDlRVU9lVFBUY3lqb2ZNVGg3TnVNaEprSUZ2MFdVdi1SZ2NzQTdUMXViU29ic1hNN0JTaS0tQ3J1c0tKMmhEVlBSRXNkTHhWQzVjeGQzN1Nrd2U3Vi03ak5mSUNEYWVmZTMtT3RnOTdfT24tZWk5NmhpWHpJdTcwZ1VNQktlUlV4ZFRDX1IwV25TTVE?oc=5",
+        "domain": "www.nbcwashington.com",
+        "publisher": "NBC4 Washington",
+        "publisher_url": "https://www.nbcwashington.com",
         "language": "",
-        "seendate": "20261020T201100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0ItdmgwZmYwZHJCVG5HVUJwM0VUWElDZGUzbUpBNEZlWjFYd1BkUmhfVGEwejZBRGdrSHR0LU02aUVxdGtnWXFlS0puVUIteWZVWXBOdkQ0MzQxSERDN2xRYklZWEV5aEh2N2MwMFRnbHljMXdKdHJQc0tNNWZ5YkUwdWc4UmZuSDdTc1E2blF6dFdsMHFrNFJvdTlEU0FiVVZoeEthSmFmb3R4dXpjbFg5N20tNWoxdG5JQWIyY01RczRHb1ZHclNtWXZBZ05VT1plNzFweGxSLW8?oc=5",
-        "domain": "www.theregister.com",
-        "publisher": "The Register",
-        "publisher_url": "https://www.theregister.com",
-        "language": "",
-        "seendate": "20261020T163000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Stop & Shop’s website is finally back up after a week of headaches for customers",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQS1HejdVeV93MUVrQjZQa3dqOGFYYVVVd3NDLXFmbjRPS0o2ZjlIakY0UDJvTF9Md21fNUVrWTRnaDktQWctemNqd21ZbGpHb0Q1d3FyYjRsRWwxeXViYWZWcGt0ZDRWNy0tc2k1NkdJQUNLQUUwczJOUXZ5QzRiVWpBZm1EYzdTQjlYaFo1LU9sMGtFcjVYUUpEX2cxeVM1?oc=5",
-        "domain": "www.bostonglobe.com",
-        "publisher": "The Boston Globe",
-        "publisher_url": "https://www.bostonglobe.com",
-        "language": "",
-        "seendate": "20261020T130800Z",
+        "seendate": "20261020T165052Z",
         "source": "GoogleNews"
       },
       {
@@ -269,13 +239,183 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Bullhorn restoring service following cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNalFpdXdHQmxEbWFEUF9NMGN1MUwwemtoZVJ0WkNUU2RPUG95RUNVakFPZmdITUNURWUxOXVRVE50SnQ3bUotTlQzcWF5V2dkM3lpMXIwam5RNUthdVVwdnEwd19uNlRwVDFuNTBBRmZWSjFfaG85WWFhc1ByM0o4NnBLSVZqbkw0bVdyOExMWElVSlE1S3VhZ21DeWJidEpFa0tfZHhqQQ?oc=5",
-        "domain": "www.staffingindustry.com",
-        "publisher": "Staffing Industry Analysts",
-        "publisher_url": "https://www.staffingindustry.com",
+        "title": "Giant Food Stores website, app back online following cyberattack targeting parent company",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcVRTZFF4b21wc0tqMk1tdUFDcTlJcVR0RmpENU5Ya1QzNEpmZ2hOd2xtVGtkWThxbExwbUR3OHVBSkJpVlIxT1UzSS1KbUJlcmVNTmkycVBndjFEUFRSWVVaZVpxSHdJSUJNeVo0dElVQVVrOG5KQ19fa0RkS3RjWVlRMDhuMzRCT0xTaXpnMU91UlpNdEZwcEVJOVVIRjAzdnc1Vl9RZnVSbzlJMV9kTlcxcDJaTldoUk45MnZXX3gyWmZxQ1ZscXJCbXBLMHY5b2V3NjF4UjFNWXpiTkFrZGpUdjA2MzhudG9UbGVUVmdJdmZESGtBbjRvbjVKQUJjbTljeVktb1c?oc=5",
+        "domain": "lancasteronline.com",
+        "publisher": "LancasterOnline",
+        "publisher_url": "https://lancasteronline.com",
         "language": "",
-        "seendate": "20261020T165921Z",
+        "seendate": "20261020T144300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Google Chrome Multiple Vulnerabilities",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdXdMNkNYNWkwSTNod2pyMlJiUGxKM2tBMWU1MjZmanVQeXFTT2d5RjRuQjd4YmdSNmVwdGZDNVdnVFBjNWtxc0FMMkJYaWZMb0o4eXhyWDhiNDRoME5XZURUOWdfbk1yWkFFZUZ3Z3ByZ3Y3Z1NFTTRtZmhwYWZMaTVsS1RObHZWOXdkdHUwRlBQZw?oc=5",
+        "domain": "www.hkcert.org",
+        "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
+        "publisher_url": "https://www.hkcert.org",
+        "language": "",
+        "seendate": "20261021T023521Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "State Bank of India reports cyberattack involving nearly 3,900 customer records",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdy1QWTVFSkZ1d3Fac3g5T1czQXoxakszUjNiWlRUd2YyYklJcG9kN0pkcEpvV0xDVDJ3V2EwMnRveWRCRzdYSnJOUnZ2VlVaTTZyZ2FFbHFXWmFXVGNsN05XcFZaR3JjNWo0cnJyeDBVdkpUaWtSV2M3S3dGdVR4MU5kalF0Q0JaZHpfMXprS1JYTUdXUnJEbElLempnRFNEX18teHBKWmdGMUhpc3Zvc2tYei1JQQ?oc=5",
+        "domain": "www.ksl.com",
+        "publisher": "KSL News",
+        "publisher_url": "https://www.ksl.com",
+        "language": "",
+        "seendate": "20261021T040349Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘Over 50 percent of the victims are over 50’: Mississippi pushes back on cyber scams",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnM3SDdHYUI4LTMxWEtacEh5WFVILVRVc0txdFNSM01XOVVhYk9PY0JRTmNQM1B3NFZzWnBSc0UyRHkwT3ZXeXJQU3RGXy1XaUtIM3RvcWktcHEtMGxza0YzR1ZzaDBqcmlNcktvcEJhLUpwTGNtaHVfb3JsM1FybXhPNnhLS0s3ZWh6b1pXNA?oc=5",
+        "domain": "www.wapt.com",
+        "publisher": "WAPT",
+        "publisher_url": "https://www.wapt.com",
+        "language": "",
+        "seendate": "20261020T233100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "County switches email providers after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSF80cmMwcFd5SkZHbERKWE5vNFV1YXUybG9od3d1VUx2QlpQdjJ4dUtOX0J1UFBTeE1xOGNCMEdISm1rOWJDcWw1cDB0eTlaQ2NKTGdIZlZEV3BQT1FuV1FXZktJZWlxTnNuaDYwOU9NdzFVTHFiZzQwWFhGNE1LR3FLd1pvOVNYTE1vUy1nZTN1dGZxbUp5UHNPaw?oc=5",
+        "domain": "www.neshobademocrat.com",
+        "publisher": "Neshoba Democrat",
+        "publisher_url": "https://www.neshobademocrat.com",
+        "language": "",
+        "seendate": "20261020T213702Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "State Bank of India reports cyberattack involving customer records",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZnBqbGJWSklNZnIxQTFkMXkxSDcxSkVnTS1aYXAxSjB0NENudTZMbFlUYk5lWlJqWEt0U2drUS1fMWNQYl9TcTNCajFvM0FBTFQyMWFiVWNjc09lWUNwQWxvdHhRb2c1dnFlSzUyUnV2RzNsdTJGT3gyZmR6ZFp0WEVOM3VqV25oQkNBNU0wLTV4cWVOVUMtNExIR3duMkJPTTl2U0xvTm92NXJKWG12SjdsS3hBTHUwZVNXRkdKdlVod2NBLWY0dTZYZWlvS1BMeXpDbVp0dGo3N1JnZmlBdjZmeldVdTgtRzEwcUlOQXF2dF9MNXlEaw?oc=5",
+        "domain": "www.centraloregondaily.com",
+        "publisher": "Central Oregon Daily",
+        "publisher_url": "https://www.centraloregondaily.com",
+        "language": "",
+        "seendate": "20261021T033636Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP vulnerability puts WordPress, websites at risk after leak",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3emI1a2hSRC1TbnZMdFNKWTI3amRfV29Jb2dOVWtPdkkzRlk1OUxPNFlUQmhsVnRPYldLYUYwR2l2d3RkakdCZTNIQmxtMW0tUjE4dlhNVzB2cUpENFptZ1lVZWZKaTJvZ0tGVnFOeWQ2TktDc19zWmJR?oc=5",
+        "domain": "www.chron.com",
+        "publisher": "Chron",
+        "publisher_url": "https://www.chron.com",
+        "language": "",
+        "seendate": "20261021T042922Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Combination therapy reveals potential vulnerability in aggressive osteosarcoma",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkNYcjZCZGtkTnJDanBVOUR2eDhJSUtYalZuUUZTMXhaYjA0VUJwUlhtcnJMV3VuQkpMOEV2RVVyU0JiNU5pQVNtcjBIWS1FT1FYUWFPeDI3cHY3YU5RT0ZNVGpxN2NtYlQzNjdBWTdtb3MyVXN3V1FhYTR0NzFweHBrRV9YN2FjMU1XSERlUUdOUzhkN21oQWRXWQ?oc=5",
+        "domain": "medicalxpress.com",
+        "publisher": "Medical Xpress",
+        "publisher_url": "https://medicalxpress.com",
+        "language": "",
+        "seendate": "20261020T192019Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Hackers are using patches to create vulnerability ‘maps’ – that means the 'patch and move on' approach needs to end",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUUxdXdRN0RGa1BXU0JuQU9ZeFNkRVRNVGFsUEZWeTF5VGdYcDZ4THpZZ0RHeFlVSVhxZnh6aV9SZDVOQ0tCMlYzcW40TzUzWUFkWEpKU05xMDlwVTBscW96QVM5ako0ZVB2LUhFbzFNYmdoRlFoNGNfQjJTTWhrTnJiZ25ETGZxRk4xQ3A0T1FRVnRQZkl3cmo1Mk1MMWw5M3RTcmNwVi1RTUZlV1RnRXl4cTF0MFNCdlZxNXJOQzR4Z3g2Zy0taU1fMExXREVISUVFR2VTSQ?oc=5",
+        "domain": "www.itpro.com",
+        "publisher": "IT Pro",
+        "publisher_url": "https://www.itpro.com",
+        "language": "",
+        "seendate": "20261020T140708Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyber Scares: The Christmas Day Ransomware Attack",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnYxcGNnbUlFY2FhU2dsNDFYZ0M0ZFo5Tjd1d2c0MEpRb1pqeVFfblp4MXJTQlFFQ25OcjBJRWp2V25kTFF2Sl82MTY0ZXNvT0wxbkVkaTc5QWljelVvRkdzRVRWZHZ2LUtEekp3OENmQ3ZCM2VNWEU2b2dxcG5ZdUZWb0gydw?oc=5",
+        "domain": "www.rtohq.org",
+        "publisher": "Association of Professional Rental Organizations",
+        "publisher_url": "https://www.rtohq.org",
+        "language": "",
+        "seendate": "20261020T134500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "GIANT website and app back online following cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT3pWWGtPSXN3Z0h0TW12b2FYNWE3S2kxZlhsQnNTR2ZteGJDMENKT0Fxc3plZDNaaWdyWUlPWWRROTRPXzVkRk5hR2pqV05KVkxxUnVURDJuWElkVVB5NnNFZHVmektkcFN4TWViQkZ1M1psaHJmclVmOUljazZtOFNmVmVGcy1lQ1pj0gGQAUFVX3lxTE1kbXdSSmQwazByUjktdGFRZEMxSUlGRlk1UzltVVltNl9vVXY5OXdmYTVGTVhWWGVUZVBHTldJR0tWRk0yUkVTcHBoYVlFaVJUQ3U1cC1ONHIySklaVWdXM3oteENKaktyX2stWnREdS05cGMxZGx4cFdHNVRmOGh1dWVjSjdITnhqQVhjdU84dQ?oc=5",
+        "domain": "www.abc27.com",
+        "publisher": "ABC27",
+        "publisher_url": "https://www.abc27.com",
+        "language": "",
+        "seendate": "20261020T145502Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Stop & Shop website, app back up after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVloc0NLRngxNHVrbG1aTHZRc1BnenJ4VGhERUJHVFBHc0hMbUt5c2xDbW9vTkVsejFlRFotZ053NHFjTW1ncmxPbVR1X1ptRjJiMEVQR3JBNC00aExud1pGdTdTSjB6eDhxQ1hQOFJvX2daREMxSFZVbkctS0VHSU1td0V4bjlCRjF0eA?oc=5",
+        "domain": "www.wpri.com",
+        "publisher": "WPRI.com",
+        "publisher_url": "https://www.wpri.com",
+        "language": "",
+        "seendate": "20261021T014309Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "France investigates cyberattack that hacked retailers' refrigeration systems",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEZRbTF3LXYtOHROTzJ6em9xc1MzVjFoWGNCc2I1MWVBelFiMlg5ZGtOQ2dZZm9uUENLVzZJUHllREs4Tk8xSlVFNTJrc19jVXdTVmNNOFRna1ZBb1d0eE5mdlFuczNBSXBpamRscFc3dG82MGEtbjMxbng0Y0xrQ0t0SVNISXljbkwtRjdVVl9OVDNDSmJ6eEJ4LXFBbVpMcmNMMmQtSWpaVEpiR25fM1ozNmY2NFA4eDdUbw?oc=5",
+        "domain": "www.npr.org",
+        "publisher": "NPR",
+        "publisher_url": "https://www.npr.org",
+        "language": "",
+        "seendate": "20261015T084619Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Giant extends points expiration due to cyberattack; fix likely ‘in the coming days’",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWhzR2RjYUs1UmV4bTlQdjk3dHJFWFFINFBaRGJDMlpqVDZKbmladFlUVUJmejRPT2dLNjl0NnBUX01rMUpuSGE4M3lZeEZKOEZVUFVGcEd0WFZ3djZzcjdlMElaX3NqWlR3V2R6OHVkSjZ4VlZNQW9MWnkwR3RheDM0WlUyeFh6dTF2dGIzNTQwdHluOVMyWGw1ckhuanFjWmVOLTZmbU5mVjIyOUc1bktSY0dEUWvSAbwBQVVfeXFMTW0ybUFlYWRyVHlxa2t5elZUUTdrSjZJb3ROYkNGMnlORUkwQzdTQ2NGNE1JMHlFdE9LMnlJU1V4ekFwdkNZR3UwRi03NnBscC1qcGxxRjRFeFlPZUdaVmFZc1BIZkJ4c0p1bEZLai1rYjVrTm5sT1Jodkx1ZUMtNUlpbktzUUFPbmJvTnl5Tlk1dmN4TW0tUWdibXpkOWZjaE5nMVNwTVJyb1A4NmExUl9nSUlFN2NzYS10ako?oc=5",
+        "domain": "www.abc27.com",
+        "publisher": "ABC27",
+        "publisher_url": "https://www.abc27.com",
+        "language": "",
+        "seendate": "20261019T214433Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNGJjaHE4dkx2YlR5UlEwcVZMcGlCNE1ubTRvZkFPTVUtejhxS2hBcWV4SmNBbFpHQm1ZWHQxSWpTN1RCNGdfb3NfWXZnZFBuUi10UkgyY0hpYkJDcGEyOVlCSEwxRHkzNTkybFFUS0IwckNPQXpicXl4aVNlWTZNSE4tUFluQV85VTMwNk1jOGg2OWlMOHhv0gGcAUFVX3lxTE5xMk95elFLT2NQdFlCclc5cWtVa2Y4ZmViNDBIdjhDVE40aENDTzl1NzZEZDVlSExZYWVGTGJhM1hQM0hqbk4tRk9JUlV3WHlkd1N2V1B0SXNqUjI1bDdFZVlFaFRhMXZvN05JcmRvT0hidWVDcHA5WWV1a1JZUUR4OFVGY01tOVFaeXUxa3ZPTHY1WUFEZlhnREVHdw?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
+        "language": "",
+        "seendate": "20261019T131620Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Stop & Shop’s website is finally back up after a week of headaches for customers",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQS1HejdVeV93MUVrQjZQa3dqOGFYYVVVd3NDLXFmbjRPS0o2ZjlIakY0UDJvTF9Md21fNUVrWTRnaDktQWctemNqd21ZbGpHb0Q1d3FyYjRsRWwxeXViYWZWcGt0ZDRWNy0tc2k1NkdJQUNLQUUwczJOUXZ5QzRiVWpBZm1EYzdTQjlYaFo1LU9sMGtFcjVYUUpEX2cxeVM1?oc=5",
+        "domain": "www.bostonglobe.com",
+        "publisher": "The Boston Globe",
+        "publisher_url": "https://www.bostonglobe.com",
+        "language": "",
+        "seendate": "20261020T130800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "IwaiCosmo Securities customers hit by unauthorized trades after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEQm12TllpOUJLVzJaQUV3NjR2YVNIX1Y5V2d6NFhzRGZIQWpUUFExQmRpNTZEY1pWNHdkV0ZoZC02eHhGZ3hDeUdpNm9IVmZublVCS3F5UHVrZw?oc=5",
+        "domain": "english.kyodonews.net",
+        "publisher": "Japan Wire by Kyodo News",
+        "publisher_url": "https://english.kyodonews.net",
+        "language": "",
+        "seendate": "20261021T011120Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack Triggers Unauthorized Trades at IwaiCosmo Securities",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84OHBTeHFwUVlULXplQWFEX1dvTEN1LWRvT0ktWmF2WWQwRHNDdVlFX3JlRS1fejhocDFHYjExdHhmdXJTOVVHb0ZYb2EtZm5ESEpRYjR3RzhhQWs2?oc=5",
+        "domain": "www.nippon.com",
+        "publisher": "nippon.com",
+        "publisher_url": "https://www.nippon.com",
+        "language": "",
+        "seendate": "20261021T004500Z",
         "source": "GoogleNews"
       },
       {
@@ -289,13 +429,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "County switches email providers after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdFV2NTU4MzEtdGxqTk9jOTNJdnV0b0loamF2QThoamNkNUMwbGthMnRaOGdlcUVVbnJKeUNUeVZtdktNNXJxaUVOeG4yUkFFNWFUcjBwSkdoMHJFZ24yRE02alI4bkFKNjhqVDlyV1NXZXh6XzN5YV9OUWtHME5rZ2hzRWVLcmlma2FZOFJfZE9vQkJsdjJ6SURXcWc?oc=5",
-        "domain": "www.neshobademocrat.com",
-        "publisher": "Neshoba Democrat",
-        "publisher_url": "https://www.neshobademocrat.com",
+        "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0R2a0hoNHNNN0Q2OE9hcFhDaGhrZkIyRk0yMnhlY1JlV0JHT1hnMHVKQUdqU2Z1VjJtN2NWWUFET2VTVlo3Rm0zaWMtUnR5Skx1VFJRNzNKc1czMllqVHY1aGxobnhhUnhVckQ4NVpwSlduR09jeEJSVE9iZ0Vuc3luWW1EZURobW9icGw5ZU5PdXJ0RnhJbldMQkwyR2l2V3o1YXhXc3N1VGpTZ2I3NjJyOVFhVzM0bFpTWQ?oc=5",
+        "domain": "www.bleepingcomputer.com",
+        "publisher": "BleepingComputer",
+        "publisher_url": "https://www.bleepingcomputer.com",
         "language": "",
-        "seendate": "20261020T212904Z",
+        "seendate": "20261020T205643Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0ItdmgwZmYwZHJCVG5HVUJwM0VUWElDZGUzbUpBNEZlWjFYd1BkUmhfVGEwejZBRGdrSHR0LU02aUVxdGtnWXFlS0puVUIteWZVWXBOdkQ0MzQxSERDN2xRYklZWEV5aEh2N2MwMFRnbHljMXdKdHJQc0tNNWZ5YkUwdWc4UmZuSDdTc1E2blF6dFdsMHFrNFJvdTlEU0FiVVZoeEthSmFmb3R4dXpjbFg5N20tNWoxdG5JQWIyY01RczRHb1ZHclNtWXZBZ05VT1plNzFweGxSLW8?oc=5",
+        "domain": "www.theregister.com",
+        "publisher": "The Register",
+        "publisher_url": "https://www.theregister.com",
+        "language": "",
+        "seendate": "20261020T163000Z",
         "source": "GoogleNews"
       },
       {
@@ -319,143 +469,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "France investigates cyberattack that hacked retailers' refrigeration systems",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEZRbTF3LXYtOHROTzJ6em9xc1MzVjFoWGNCc2I1MWVBelFiMlg5ZGtOQ2dZZm9uUENLVzZJUHllREs4Tk8xSlVFNTJrc19jVXdTVmNNOFRna1ZBb1d0eE5mdlFuczNBSXBpamRscFc3dG82MGEtbjMxbng0Y0xrQ0t0SVNISXljbkwtRjdVVl9OVDNDSmJ6eEJ4LXFBbVpMcmNMMmQtSWpaVEpiR25fM1ozNmY2NFA4eDdUbw?oc=5",
-        "domain": "www.npr.org",
-        "publisher": "NPR",
-        "publisher_url": "https://www.npr.org",
+        "title": "Bullhorn restoring service following cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNalFpdXdHQmxEbWFEUF9NMGN1MUwwemtoZVJ0WkNUU2RPUG95RUNVakFPZmdITUNURWUxOXVRVE50SnQ3bUotTlQzcWF5V2dkM3lpMXIwam5RNUthdVVwdnEwd19uNlRwVDFuNTBBRmZWSjFfaG85WWFhc1ByM0o4NnBLSVZqbkw0bVdyOExMWElVSlE1S3VhZ21DeWJidEpFa0tfZHhqQQ?oc=5",
+        "domain": "www.staffingindustry.com",
+        "publisher": "Staffing Industry Analysts",
+        "publisher_url": "https://www.staffingindustry.com",
         "language": "",
-        "seendate": "20261015T084619Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CVE-2026-99999: Critical PwnEscape Linux Kernel Flaw Enables Guest-to-Host Escape",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZGRiR0JhTGJjOUpHTWpMVl9ycGtPaWxSbjk0WFFwOWlvYTFhMUltOTkxWUZla2RDeURwVG44VkRPVzgyX3EtdE0wNmxKWWt3YThrejg0VXBKR0h5TTZR?oc=5",
-        "domain": "socprime.com",
-        "publisher": "SOC Prime",
-        "publisher_url": "https://socprime.com",
-        "language": "",
-        "seendate": "20261016T134126Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A Star-Studded Biotech Conference Was Actually a Ransomware Front",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTXloWjdqclQ0Ti1DUmdSSXFUMnNqaEVkcy1nTUp1SzN6TXN6S0k4UFZ0M1hJWk1iQVY4aEdnX0ZOM1NRQXpuZm5Dcjh2X0dISUQ5dlNKS2pURklBWHdkNURRVnZ1WV9WX0EyamhTb3lqSzdSSUo1M0g1cGpGd2VXbUJidkNuWjNEdklWaFdwLXNfVUwyeHhhc2FLM1RsRlJjT3Jj?oc=5",
-        "domain": "www.the-scientist.com",
-        "publisher": "The Scientist",
-        "publisher_url": "https://www.the-scientist.com",
-        "language": "",
-        "seendate": "20261020T041507Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Japan brokerage IwaiCosmo hit with unauthorized trades in cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVFoQ25GejFqMWRCQVRmX0o2WmZTRTJIYkFta0JtV2lFdmxsVHNpZ3N3R3paY0JVSkRZSWljaF9CODlLY2dOU3JvMzV4ZXMtQnlCc3k1ekVhVWZTUkExMmY0bFdCejJNTjNMSm55N0FJRGR3S3ZJU1QtSUtuVnQ5dTZNajlLQ0lnN3A2VGZBN2psNUFEZWV2LXp1ckxfdUYxVUNIbFNGUzdnSFJaZHlET2tMMmN3OW5H?oc=5",
-        "domain": "asia.nikkei.com",
-        "publisher": "Nikkei Asia",
-        "publisher_url": "https://asia.nikkei.com",
-        "language": "",
-        "seendate": "20261020T171800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "BeyondTrust Remote Support Security Restriction Bypass Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWnNGdkY4azc2TlBlTndhVjJzb0NMNTJFd3QxVGFtdTBCNmx3N0NBdkUwSVFnRmNLQmVKSXRVOG5uRDdnMTZLOFI3YXY4N1JsbUdsYzU5VU1JUWlNb1E2MlZTeVlZbGFfNUMwZW1hZ2JiWXJGb3VjbDNXVUN6TGtaY09mZWtaclhoWTlXdzNGMGxQdXpwV0tpQ3c0SXMzNjV6MjY1UEZWaFEzWUlvS19QT1NvU2dIVTFQS2c?oc=5",
-        "domain": "www.hkcert.org",
-        "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
-        "publisher_url": "https://www.hkcert.org",
-        "language": "",
-        "seendate": "20261020T025101Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Giant extends points expiration due to cyberattack; fix likely ‘in the coming days’",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWhzR2RjYUs1UmV4bTlQdjk3dHJFWFFINFBaRGJDMlpqVDZKbmladFlUVUJmejRPT2dLNjl0NnBUX01rMUpuSGE4M3lZeEZKOEZVUFVGcEd0WFZ3djZzcjdlMElaX3NqWlR3V2R6OHVkSjZ4VlZNQW9MWnkwR3RheDM0WlUyeFh6dTF2dGIzNTQwdHluOVMyWGw1ckhuanFjWmVOLTZmbU5mVjIyOUc1bktSY0dEUWvSAbwBQVVfeXFMTW0ybUFlYWRyVHlxa2t5elZUUTdrSjZJb3ROYkNGMnlORUkwQzdTQ2NGNE1JMHlFdE9LMnlJU1V4ekFwdkNZR3UwRi03NnBscC1qcGxxRjRFeFlPZUdaVmFZc1BIZkJ4c0p1bEZLai1rYjVrTm5sT1Jodkx1ZUMtNUlpbktzUUFPbmJvTnl5Tlk1dmN4TW0tUWdibXpkOWZjaE5nMVNwTVJyb1A4NmExUl9nSUlFN2NzYS10ako?oc=5",
-        "domain": "www.abc27.com",
-        "publisher": "ABC27",
-        "publisher_url": "https://www.abc27.com",
-        "language": "",
-        "seendate": "20261019T214433Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZlBFZVFoZ1hfbTdJV3R1QnRjbUlJVjNXbjI3T05DX2hNNDRhS2VTLVNFN0ZqNDJ1UzN3SVV3YlFQcUluVnJqRGUwWUtXQkdvVlpJS3JYa3JIQzJKT3AxZktRZks3Mm9wLWpyMkVOOWgyaTVwNmF5Rll5RnI1STE3NHRHTFFKal9TN0phaGc1Zk9maEhUREVkMU9yWkc4TERJUEZjdEUzWWFPSTdPZlR1YUZn0gG3AUFVX3lxTE03WFRqWVBmd2tOWGJrSXdoS0VmLWJQaWRIU1VESXI2NDhHRy1lVG01bmpCN3NnVnJwZkdORHZYVnR1SXk5NjFIUTl3QTB3dThiZnluZ0tkTWtvenR6MEdjclBFcENydE1YTnlZQ2FobXZXeFEwM0l5ZE9nUzBycHdWSzRGcEdpeDRhWVJod1FxRnpsWVVjMTBXbmlld2VMTHpscHZSZlhySnA1UUdManAtdXBWRGladw?oc=5",
-        "domain": "www.bleepingcomputer.com",
-        "publisher": "BleepingComputer",
-        "publisher_url": "https://www.bleepingcomputer.com",
-        "language": "",
-        "seendate": "20261020T111835Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Giant Food’s website and mobile app return after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUU2NkNnd2Y2Wlg1eXZNTFRxS3dpSlctNnBFSjR4U1pOVGJWNy1RTUI5ck13Y083WjlmNmdwdVM0ZU1lOEJvdld3ZndBNXpPSDNQTFFPb0E4TDlyZExhdjk2UjVWV0tkVHFjSFdzSm9tMkZ1QXkwQ0YydjZybjZMQ09Dckxqc0E?oc=5",
-        "domain": "www.wbal.com",
-        "publisher": "WBAL News Radio",
-        "publisher_url": "https://www.wbal.com",
-        "language": "",
-        "seendate": "20261020T202532Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hannaford still offline a week after cyberattack on French supermarkets",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemQwS1hoanp0NV9UenRSbnFCQUZVU1hYeld6emdLUXg0eUVCRFRrTUFuN1d1S2ZQOWNWRzQ3cFE3aW5Yb0ZGYTc0RzJDeTh4SUpZQjVQdUJVeUJobHQ4SFdzMVRlY3dfUTQyMGZwS0tLVWNaeGlna29UakcwU2xwNkM5REQwb2tiZ0d4ZUplMWJjSklJd0UyaVJQSzNFQXJGOWVtTTNJVFRhRlVEZVE?oc=5",
-        "domain": "www.pressherald.com",
-        "publisher": "The Portland Press Herald",
-        "publisher_url": "https://www.pressherald.com",
-        "language": "",
-        "seendate": "20261019T224407Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Incomplete security patches show hackers where to look next",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGt0S3FlNzlwTUYyd1VWcmh4NWtqM1QyNGV1N0JCV3dmZlM5SFNIUERZTWM5am9pM043T3dOZXVLejVHY2VmUWh4eVpya0s5TkhiYkhRV2lWQThERXh5LTZSZE9yb21GeHFFd3AxZTcyUEYxYklrUEV3SFNlOTZxVEstOWtOUkxfNW5xNkJnc3VPQQ?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
-        "language": "",
-        "seendate": "20261020T141304Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical vulnerability in Ivanti Connect Secure exploited by attackers",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3RiS0xQdFFNNThoT0tqNEN4UTJXT1dIWmk4V1RpNWNNNl9QckhKbGYzM3drSXdiWXpBNDhLMkVkQVh0UXpVaGtwYnpiZmhKWkpZbVNrWV80bzBCOGcwdkJCVm5Hdk9ERTFfenQzOGFwaW5jNjdQTTFZWmU2bndmQ3YyZmZ6NV9VLUpDUmpPM2h2eU5DTHluMTdiSEJaeG1MX2c?oc=5",
-        "domain": "www.scworld.com",
-        "publisher": "SC Media",
-        "publisher_url": "https://www.scworld.com",
-        "language": "",
-        "seendate": "20261020T151732Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU1iNVd4N0RyM29yWVFhSldLS2lsa0YydGZld3hRWTFONXlPWGhMcHVNcDB2N3JUSjdiNU1OVURBY0taUVVhMFBOTFNmZHV6dVREX2hsdjBEQ3g3RWRQa0dGLUZQUTZNTERGNlFnT1YzNUFHVVNGd3JLVDNCMnVINHo2Y285UF9sUktjblE1Sm9jcXFuZWZPUFk4cVJpZTNERzZJM2tVT2RzVWVKZXNhQ3NCYzZyeWU1LUM5UEVMRnB6V3ZpUm9IbU5PdzlvX0h2R3ZF?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261014T051335Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Attackers exploit Siemens Software Center flaw in active ClickFix malware campaign",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejk3MUhLNWR4dW1EQXZjcHp1R2podW1lcTB3TGZjTW5weWs1ZVIyQU5pR0QtQ3FlZmlnWnRkai11SGY1aHhPODMyZmJvZ2xlaktjZEhIU0FHVXlwTmJDQ0lKQkJNa0prdU8zNkNWdVg1UWoyNXhRWDRFeHFMY0FvcUNRQ29TUW5jRjBXTG4ySkNlUl84MTh1Vkg1TzBTbVlhMkVFdl9ZLXJ5VkFrd2dJ?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
-        "language": "",
-        "seendate": "20261020T122308Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "ENISA Threat Landscape 2026: Top cyberattack trends",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmZzZE91ZGtLdlppYjJHWUFNWW5XQXk2OU5EaFYzNTdJNlo1NnZ6bEpsSEpyTHVRQmh5bkdBZmdaakdNay1NcFVDMlNXbW1VNVY1MVVVeWJnMkZPWExnbmhrYUczVVphNEdMcWJRV0wzbG8zRWFKSm5iSHRDbjAybFZZaTRfTzN6NFdrMA?oc=5",
-        "domain": "blog.barracuda.com",
-        "publisher": "Barracuda Networks Blog",
-        "publisher_url": "https://blog.barracuda.com",
-        "language": "",
-        "seendate": "20261019T192511Z",
+        "seendate": "20261020T165921Z",
         "source": "GoogleNews"
       },
       {
@@ -469,68 +489,58 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Fortinet Products Elevation of Privilege Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2dIZVRPSEdacF9tMlVDRVRBTkhkWDJmb3JJWDNMTjFabUYxVmZ0aG5JNi12Z3hrVmJGOGs2WkJPQ05oR2hRckU0RW9LYld6MW9BVU5WZHFtOWNjb05NRG82eDY2TE1PdE5wa0JFQ21qMHdaTlFWZnJjdEJMZnNxVzkxY3ZrNVlEbjI0UDg4aHlNTnp3bTg3QVpZWDdfRU85c1VlaERZMA?oc=5",
-        "domain": "www.hkcert.org",
-        "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
-        "publisher_url": "https://www.hkcert.org",
+        "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RX2pkMC00UUtyd1NpTC1rUHR1RVdVbnUyTmVXMWg0THB4MmlrdXRpeDR2bG5vN0tXcWJ3Z09qeFR4NEQ0amtnalBRdGVsakZzemRjVWFqdkhUNHg4S3BWRzJ4RnJqRGtKNUtpUVh2Nk5LbWdnOEtMQW9ucmQzM1E?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261020T024059Z",
+        "seendate": "20261020T153800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack on French supermarkets tells us more about food security than AI safety",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHZHaTJEYTVaZHl5RmhSZWlLWDFhcVpkUFJwOEtBNF9qSzdfZm9lWEIta3dXaDN1anBuUF9UM2tpenRoVE1ReGJWV0dfZ0hNa3d4UV95NDNrN0VNVmJUUktueFB5bm56WmlHMDkzc3lfc1dVS2F2TEJFZVVHTlNsb0o4dXQyUDdfdEhMdXlpZGpPZw?oc=5",
-        "domain": "www.politico.eu",
-        "publisher": "POLITICO.eu",
-        "publisher_url": "https://www.politico.eu",
+        "title": "ENISA Threat Landscape 2026: Top cyberattack trends",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmZzZE91ZGtLdlppYjJHWUFNWW5XQXk2OU5EaFYzNTdJNlo1NnZ6bEpsSEpyTHVRQmh5bkdBZmdaakdNay1NcFVDMlNXbW1VNVY1MVVVeWJnMkZPWExnbmhrYUczVVphNEdMcWJRV0wzbG8zRWFKSm5iSHRDbjAybFZZaTRfTzN6NFdrMA?oc=5",
+        "domain": "blog.barracuda.com",
+        "publisher": "Barracuda Networks Blog",
+        "publisher_url": "https://blog.barracuda.com",
         "language": "",
-        "seendate": "20261019T030000Z",
+        "seendate": "20261019T192511Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmhXVmFEMGgwbHlFdmhXTktDTFpldDVOT0sxdmNSV3BhOGZ3Y0ZyUF9haXJWRmQ4NlpTdkNzUm1XbkEyVGsyV1J2NjVNZW93ZkIycE1TYW0wWTN3dWRGUE1jWDBQdjBmS01IbTRCUDQyVzFpOElGOHRVYlo2SmZQWlVTWTFYX0FreHdVXzBvLXd2cy1IMzVNNW5wd2tYUWttWXp1SkpEX05rWUQzTHdUUdIBtgFBVV95cUxNTWxLaXpMTHFjWXJvWUhaWWJ5X2hoNTU0alpCVHBMTHdIaW1SbVU1TFJtZDduVzZBWldiS0JQcW5US3RjWU5kUUk4emoybGtYZ2lzUlNFNmdfLV9XTmZySkhhLVB4ajR4Yk10Slp5N3NYRV94WTJsLUJ3SjVBNkdpRDdqVzNPWXVPb0NIdTZtOV9yTFk0Qm5xRGppLUF0elUyNWRzMzJwdFVTMU1EOEhzbWI3bVJ5Zw?oc=5",
-        "domain": "www.bleepingcomputer.com",
-        "publisher": "BleepingComputer",
-        "publisher_url": "https://www.bleepingcomputer.com",
+        "title": "Japan brokerage IwaiCosmo hit with unauthorized trades in cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVFoQ25GejFqMWRCQVRmX0o2WmZTRTJIYkFta0JtV2lFdmxsVHNpZ3N3R3paY0JVSkRZSWljaF9CODlLY2dOU3JvMzV4ZXMtQnlCc3k1ekVhVWZTUkExMmY0bFdCejJNTjNMSm55N0FJRGR3S3ZJU1QtSUtuVnQ5dTZNajlLQ0lnN3A2VGZBN2psNUFEZWV2LXp1ckxfdUYxVUNIbFNGUzdnSFJaZHlET2tMMmN3OW5H?oc=5",
+        "domain": "asia.nikkei.com",
+        "publisher": "Nikkei Asia",
+        "publisher_url": "https://asia.nikkei.com",
         "language": "",
-        "seendate": "20261019T185113Z",
+        "seendate": "20261020T171800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "INC and The Gentlemen Ransomware: Exposed AI Infrastructure",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84M0E4WVoxZXV2RDJzZ2VBUlA3QVNlZFhXb25sUFkxMWx6TXVKT3F1Z3N2eXY1RGFBT2t1eUJ2M08xZjdoRFQwNHkxUjlfcC0wcWRRbWVJX1ExdEpDMkE5eThUQVRpbElUQ1l6TXVnWXh0OVVUT3hJ?oc=5",
-        "domain": "socradar.io",
-        "publisher": "SOCRadar",
-        "publisher_url": "https://socradar.io",
+        "title": "Giant Food’s website and mobile app return after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUU2NkNnd2Y2Wlg1eXZNTFRxS3dpSlctNnBFSjR4U1pOVGJWNy1RTUI5ck13Y083WjlmNmdwdVM0ZU1lOEJvdld3ZndBNXpPSDNQTFFPb0E4TDlyZExhdjk2UjVWV0tkVHFjSFdzSm9tMkZ1QXkwQ0YydjZybjZMQ09Dckxqc0E?oc=5",
+        "domain": "www.wbal.com",
+        "publisher": "WBAL News Radio",
+        "publisher_url": "https://www.wbal.com",
         "language": "",
-        "seendate": "20261020T112001Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNGJjaHE4dkx2YlR5UlEwcVZMcGlCNE1ubTRvZkFPTVUtejhxS2hBcWV4SmNBbFpHQm1ZWHQxSWpTN1RCNGdfb3NfWXZnZFBuUi10UkgyY0hpYkJDcGEyOVlCSEwxRHkzNTkybFFUS0IwckNPQXpicXl4aVNlWTZNSE4tUFluQV85VTMwNk1jOGg2OWlMOHhv0gGcAUFVX3lxTE5xMk95elFLT2NQdFlCclc5cWtVa2Y4ZmViNDBIdjhDVE40aENDTzl1NzZEZDVlSExZYWVGTGJhM1hQM0hqbk4tRk9JUlV3WHlkd1N2V1B0SXNqUjI1bDdFZVlFaFRhMXZvN05JcmRvT0hidWVDcHA5WWV1a1JZUUR4OFVGY01tOVFaeXUxa3ZPTHY1WUFEZlhnREVHdw?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
-        "language": "",
-        "seendate": "20261019T131620Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmhTa3VHTk1RM21mdzVWVjFTUU13R2lMTUVnYl9ldWNrVVlQTVl0UmR2X3Rtcmxpc2VrYzZlaGt0S0FoNDUtTTJSY1dXYXZDNGlnYlJwZmI2SURnOUZqS3hqalBMNkFEeGJvcHE1azdnbXpWTHdxZVo5LV93V2k0Q0lyaEt1WVVWbkNhNUthRkpMLVgtUnFWM1hKUlRmeHZnc0Q2UWZDdXbSAa4BQVVfeXFMTU1kemtCY0drQUdfeDZVdGdoZm5uOVZHNTRPWUhIM0lBVmJNZTBPQ3RKYUZTb3RSZzlnelU4NW5kb1RuWUYyWWNnOE5QM0JuQWtTbFV6a3lEa21abDAycVo2eTlzNDNDa1RfeFBxajB2Q29Wc2xKQ18xRjdNeTJaY084NzZJMWFVa01FbDZIVmNIaVFmMU9YZ2J0Y3FKWkUxVm5LQVNqSDcycWdPdTNn?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
-        "language": "",
-        "seendate": "20261019T181539Z",
+        "seendate": "20261020T202532Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
+    {
+      "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUVTa0pZeTdwQS1ySmhSTV85cFBkeXdBOUFkWWFxeW9MOE9RNGtETVlwOEVXbkxxcmREUkNqVWlQNmh6VHJMMGZZTHBfdGhmTTNfaTh4S1gwMnZCdkhEdkJrYXBMb0NJOXJhT0U4R0lFVGJfYjNaREM3eFMxeU52bVdpUjhrbGc?oc=5",
+      "domain": "unit42.paloaltonetworks.com",
+      "publisher": "Unit 42",
+      "publisher_url": "https://unit42.paloaltonetworks.com",
+      "language": "",
+      "seendate": "20261020T221432Z",
+      "source": "GoogleNews"
+    },
     {
       "title": "Ransomware groups expand targeting of Palo Alto Networks vulnerability",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXlLMW9kbnlTcFVMbGQwQW0wTFhuOGZkOHBFbUNKLV8xTW1nZ0dxbDBMaGpMM2luVWU5eFZzVUprdXhqeGxnR2pad2F0QUw3Um1Wckszamx6TTVicl9hU3ZEZ25NeFp5ODF1TlFrdHJSbC1LVlNyTG9YTF9UTW1BN1JjNldXcHZMMjZzWVVvV3JXNWpLUVo5RDNDRGstRWstT1E?oc=5",
@@ -562,26 +572,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "There's only so much code: the rise in vulnerability numbers",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUVIUVFuT1hmNkt3MnNjcWo2Z3BTUnk5eTI2ZFZyOUFZVHFrenIxcE1OYmNoZU0tdkJRMUpPQVFzVEVQbll4TGx1TUxHcTNGWmZHUWdIQzdEM29wNVpMMF9Wd3ZRc2ItOFM3RVhpNm9EMFlLUlFyUmdrRW1kcU44ZGk5QzY2OWFsa1RCVEwweGoxMTMwTFRLNGNB?oc=5",
-      "domain": "blog.talosintelligence.com",
-      "publisher": "Cisco Talos Blog",
-      "publisher_url": "https://blog.talosintelligence.com",
-      "language": "",
-      "seendate": "20261020T153615Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Giant Food's website and mobile app return after cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjFuLWRCQUExc1VFVTZNeERfd3RYX2RnSWlLYlBmdzBVZ1ZkdXAtUTE2SUk5dWJxZ0ZJLVRZa0VpOFFjYW1JSy1NS1VSUzI5dG14QjRBOXZXVkRzeHp6MzJmUGczNGJreWlVS3BrOVpwVGl2QUVIRHhTWVZleEl6Q1JsUWZzellDd2l2aWhpcnB2WHM?oc=5",
-      "domain": "www.wbaltv.com",
-      "publisher": "WBAL-TV",
-      "publisher_url": "https://www.wbaltv.com",
-      "language": "",
-      "seendate": "20261020T193613Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam9xTThueWJIQ0xWWjE1VEM0dC1IOHVYelF1SGI1d2FmdUxKUWpTNzFXRUtEdDNtLWJjNVpnWXNUYnVMMlctdFR0T0pPN1VUUVBDdFkyNjNhLS1NOC1rVmd2SlpJODhoQjRKMjU5R014NUFMNmVqZ0MyNTNhLU1iUDBaQXg?oc=5",
       "domain": "thehackernews.com",
@@ -602,23 +592,63 @@
       "source": "GoogleNews"
     },
     {
+      "title": "There's only so much code: the rise in vulnerability numbers",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUVIUVFuT1hmNkt3MnNjcWo2Z3BTUnk5eTI2ZFZyOUFZVHFrenIxcE1OYmNoZU0tdkJRMUpPQVFzVEVQbll4TGx1TUxHcTNGWmZHUWdIQzdEM29wNVpMMF9Wd3ZRc2ItOFM3RVhpNm9EMFlLUlFyUmdrRW1kcU44ZGk5QzY2OWFsa1RCVEwweGoxMTMwTFRLNGNB?oc=5",
+      "domain": "blog.talosintelligence.com",
+      "publisher": "Cisco Talos Blog",
+      "publisher_url": "https://blog.talosintelligence.com",
+      "language": "",
+      "seendate": "20261020T153615Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "State Bank of India reports cyberattack involving nearly 3,900 customer records",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDJNczB5ZFItMnlnb0RlSEc1OGtuUXFwY3djbEJWZTVpSzhUNDlnYVlQU2VuZmdrbUppVFBYZGQ2bnVLWWdsZTdqamxScG45S3BBLUhsZUtJMVl3VjZERlI5LUstbXM2bnBnaXVBWWo1LXhiUC12bEpMdmRTN1hOLTJ0bWotdDdoR05PUEVMNk9DVE1TX1FzS0FiYl9zZEFDZGNlbElwTmhBVXEzRkVUMnNXb3lzVEU?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261021T033600Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEdYbExXaVFjY212elVRT0YxM0FIa2FUMGhSRjJsS0Y4enVEdmdGNnNUVDlHTGkyakdxbkpUS3NzdTdjLXpqc1pXanNJQzhjWGxRVndCSDJBZC1PU3d2RVlrcHlDbUZfY0NoRmRfTkF3QnhHMThtNGNsSGc1NHktZkdlOUNwQzEwY0d3SnB2RQ?oc=5",
       "domain": "therecord.media",
       "publisher": "The Record from Recorded Future News",
       "publisher_url": "https://therecord.media",
       "language": "",
-      "seendate": "20261020T203353Z",
+      "seendate": "20261020T203746Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUVTa0pZeTdwQS1ySmhSTV85cFBkeXdBOUFkWWFxeW9MOE9RNGtETVlwOEVXbkxxcmREUkNqVWlQNmh6VHJMMGZZTHBfdGhmTTNfaTh4S1gwMnZCdkhEdkJrYXBMb0NJOXJhT0U4R0lFVGJfYjNaREM3eFMxeU52bVdpUjhrbGc?oc=5",
-      "domain": "unit42.paloaltonetworks.com",
-      "publisher": "Unit 42",
-      "publisher_url": "https://unit42.paloaltonetworks.com",
+      "title": "Anne Arundel County faces second cyberattack in 18 months as council learns of breach weeks later",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdEFHZUgxZ3N0aGE0TklHRlFUU3QwamYyaTM0RjFzdVQ3Yjc4QjlEa01hZm83dWV4bHlGVHdzZGFHV3N4MmxvaVhqdmJrbVF5Q2F3WEFqdkNVUHlvNmZ1U2cxXzg3OEJzcUE5dV92akFKelpXNmNsU3lqY1g3bzdRMjN2Y0ZxRVVhZnRxM2V2YnVyT25wT3ZTdkgxVkdJbTU4UHhwYVRORzh3d0tkYm83VUE4eUN2N05HWVMwWEZyamJyM05uWGRtVw?oc=5",
+      "domain": "www.wmar2news.com",
+      "publisher": "WMAR 2 News Baltimore",
+      "publisher_url": "https://www.wmar2news.com",
       "language": "",
-      "seendate": "20261019T070000Z",
+      "seendate": "20261021T020405Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Giant Food's website and mobile app return after cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjFuLWRCQUExc1VFVTZNeERfd3RYX2RnSWlLYlBmdzBVZ1ZkdXAtUTE2SUk5dWJxZ0ZJLVRZa0VpOFFjYW1JSy1NS1VSUzI5dG14QjRBOXZXVkRzeHp6MzJmUGczNGJreWlVS3BrOVpwVGl2QUVIRHhTWVZleEl6Q1JsUWZzellDd2l2aWhpcnB2WHM?oc=5",
+      "domain": "www.wbaltv.com",
+      "publisher": "WBAL-TV",
+      "publisher_url": "https://www.wbaltv.com",
+      "language": "",
+      "seendate": "20261020T193200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "GIANT app and website back online after cyberattack; 10% discount offer remains",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOXcyX1VJWDVXNGhpZ0tzY1NvQ0FJQ2hWU3lCM201T01iNXg3RHJXMlllQS1RVElwXzJ0RXRsRTlaU25kVHcxLThfdVdlbTJPVHRIbmhkR1YwX1hEaFN4UmNYOFJZMU96TG9HNzRsVUZGLWZqTGtxMXN1RC0yWW9heG5JN2JfUUV6ZFFZczFNMXhZSi1hSjJYd2tra0VHLUlhc2drdmY1RTRlVjFKLXZLRTZEbkFEZXdCNTdxZTFHUndmWTJ0cUZFZNIB0AFBVV95cUxOSk50Vm9zVWxsdE41LXd1NHM5dHpHV2ZXQWtwd0tTLVV0aEMwY25HakoycGl0X05UdWJta1VTOG5MX0hfbjlJa19xWUJtdHlpU3JJaTZLN0E5QjFCRUdhMHlrWFdSRWpZVVBiRDgzLXlnSk9DYkRvRFNOT0RzeTJBeGJLaFB0dU0xbndZcEVKNjR6bE1jZS1sb195ajk2MVozQ0JBa1ZpUzRhOEJCZGhUMUJ4UFFqSV9PSUNSS0hKYjFYbEZNUjlxMndDanlJZ3d1?oc=5",
+      "domain": "www.nbcphiladelphia.com",
+      "publisher": "NBC10 Philadelphia",
+      "publisher_url": "https://www.nbcphiladelphia.com",
+      "language": "",
+      "seendate": "20261020T221632Z",
       "source": "GoogleNews"
     },
     {
@@ -632,6 +662,16 @@
       "source": "GoogleNews"
     },
     {
+      "title": "PHP maintainers tell Web devs to prepare themselves for critical security patches",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDZITTFKZHdQSEwzb1IwZFBBdlpvRTN6VkRsRG15UkdlUzc3WXJhdWxXbkNZMW5sbTk3UkFWODNLVGxqc1BYdmUyOWxRTVJtYXJENFRuQ3c5RjVLVGRyMk9ZZkxhYkRWNVp1ZjhkaGdaY0s3emY0Wm5HekVtWDZVR1lQXzNtZjNsZE1ZMk00V2sxd3FNQzlmQUdTaG1QOXg1T2t4Yk10OFhaVXBhaGhhRVg2eVVKVFJIOWxCYkx3aEc?oc=5",
+      "domain": "arstechnica.com",
+      "publisher": "Ars Technica",
+      "publisher_url": "https://arstechnica.com",
+      "language": "",
+      "seendate": "20261021T021218Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Discovery of cross-domain cyberattack risk targeting electric vehicle charging navigation systems",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMG1PdU12eV9qMmhRZG4yZlFqUlRxQS1taUNNRzJwM1NmSHVmcGZxQi1aQ1dlYkZDa0lXYTlXWVMyRndsWU5pQklTNGl3ZHJ6ZnFaMFVtNEJ4WmNONmU0R2d3Y0RtamY3Vjk3ekpoVWFvNFBxdnhWLV90LUdHUGRERV9XcVZyVkpEYk1Beko1cw?oc=5",
       "domain": "techxplore.com",
@@ -639,46 +679,6 @@
       "publisher_url": "https://techxplore.com",
       "language": "",
       "seendate": "20261020T184012Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Giant and Food Lions websites and apps back online after cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEE3YVUwZDJBc1FUUlVIN0xraFNlTENRSTd3cVZyWUprRHJScERBVkdiZ2hOSTM5ZHZ4eXpMQ016cmtVeFpqRDZ6cER6U1dZZlZKbEpkV2d4MFVwRGlRLXlfSU44V1hKQXpQZWQ4M2lnTDNfbWZrQTBLLU8yeHdYZjk2b2psUjlzY2lCakRGdTYxYnlCMkpWRVVoRVEwMVc4akhOWU41LWR4bzhXeXJoNWJOWjFXampDY3fSAcIBQVVfeXFMT3VZZEV1YWlrUVV5Q2h3X19NRTc0ZHdnc1l6OWZkS2hhRmRZVDJISWpvT1NVUkpQeDlRVU9lVFBUY3lqb2ZNVGg3TnVNaEprSUZ2MFdVdi1SZ2NzQTdUMXViU29ic1hNN0JTaS0tQ3J1c0tKMmhEVlBSRXNkTHhWQzVjeGQzN1Nrd2U3Vi03ak5mSUNEYWVmZTMtT3RnOTdfT24tZWk5NmhpWHpJdTcwZ1VNQktlUlV4ZFRDX1IwV25TTVE?oc=5",
-      "domain": "www.nbcwashington.com",
-      "publisher": "NBC4 Washington",
-      "publisher_url": "https://www.nbcwashington.com",
-      "language": "",
-      "seendate": "20261020T165052Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cyberattack attempt cost Albert Heijn up to €150 million, experts say",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkpwS2prOFQ0dGVyS1J3aTJxOGV2WjJhdFdsdk9BWGpKR0xsaXhmX05kZC1qN2l5anQwdU9qYTVyamhVUVF2Z1BXRml5WHBGa0thZkQzWnk0amZsTHJHaTY5aF9LbzdVa0ZkQnFxYkc2TElIY3BmbDdjREtGd1BwS2RLdmNLMHRGLVREbWRYbGZHRHF6clhwNA?oc=5",
-      "domain": "nltimes.nl",
-      "publisher": "NL Times",
-      "publisher_url": "https://nltimes.nl",
-      "language": "",
-      "seendate": "20261020T155000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Germany's far-right AfD investigates publication of emails stolen in cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQak1BT19QRzNXZGRDeDRJODJMVWxmblZ2NWY5OVVXSXhqbW9MMWVlbkVYMHVTaTNLa0NlVURxTUllb050MXZaMUVIdlpQQTFBU2dTeE9Xdl9lNk9aNkxCYkFUek5hR2RqTWctSTkyT0FneHBFbkZ4Y0g0akxMcU53RFFldTUtY2o4RDk4R1dYa1c0ZGVUTkdqQ3RCNmUzN3IzWjR5WHBHVTZPNHRvODZ3eEc3MkRTYjFnRTkwWGN1MHFsbGZK?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261020T102609Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Giant Food Stores website, app back online following cyberattack targeting parent company",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcVRTZFF4b21wc0tqMk1tdUFDcTlJcVR0RmpENU5Ya1QzNEpmZ2hOd2xtVGtkWThxbExwbUR3OHVBSkJpVlIxT1UzSS1KbUJlcmVNTmkycVBndjFEUFRSWVVaZVpxSHdJSUJNeVo0dElVQVVrOG5KQ19fa0RkS3RjWVlRMDhuMzRCT0xTaXpnMU91UlpNdEZwcEVJOVVIRjAzdnc1Vl9RZnVSbzlJMV9kTlcxcDJaTldoUk45MnZXX3gyWmZxQ1ZscXJCbXBLMHY5b2V3NjF4UjFNWXpiTkFrZGpUdjA2MzhudG9UbGVUVmdJdmZESGtBbjRvbjVKQUJjbTljeVktb1c?oc=5",
-      "domain": "lancasteronline.com",
-      "publisher": "LancasterOnline",
-      "publisher_url": "https://lancasteronline.com",
-      "language": "",
-      "seendate": "20261020T144300Z",
       "source": "GoogleNews"
     }
   ],
