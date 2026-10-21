@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-10-21T05:22:48.241153+00:00",
+    "generated": "2026-10-21T12:28:42.449182+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "42"
+      "value": "41"
     }
   ],
   "live_data": {
@@ -35,67 +35,17 @@
         "publisher": "Unit 42",
         "publisher_url": "https://unit42.paloaltonetworks.com",
         "language": "",
-        "seendate": "20261020T221432Z",
+        "seendate": "20261021T102511Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Ransomware groups expand targeting of Palo Alto Networks vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXlLMW9kbnlTcFVMbGQwQW0wTFhuOGZkOHBFbUNKLV8xTW1nZ0dxbDBMaGpMM2luVWU5eFZzVUprdXhqeGxnR2pad2F0QUw3Um1Wckszamx6TTVicl9hU3ZEZ25NeFp5ODF1TlFrdHJSbC1LVlNyTG9YTF9UTW1BN1JjNldXcHZMMjZzWVVvV3JXNWpLUVo5RDNDRGstRWstT1E?oc=5",
-        "domain": "www.cybersecuritydive.com",
-        "publisher": "Cybersecurity Dive",
-        "publisher_url": "https://www.cybersecuritydive.com",
+        "title": "PHP CVE-2026-109618 & CVE-2026-109619: What to Do Before the Details Drop",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjRDeHRNTkZnUUxUOEgtMEh6aVVBRDFaRWNYYkoxMzUtUmZPaHFFcHFHUE9jb1BOTGF0SXI5V3ZOV2JmRm9LcE5IY0lYem9UVHlyNWU1cU5LY25FYVJfNFNMVy14SE9oNjFaVjVUM2J4MVhyaHlJTUpqUVpiZElCbzBhSlFTcXZ1SERHdGtWNVRPX2cwWC1RNlR3QnVNbHUwbHc?oc=5",
+        "domain": "www.ox.security",
+        "publisher": "OX Security",
+        "publisher_url": "https://www.ox.security",
         "language": "",
-        "seendate": "20261020T161812Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYTNkOHlyYUpPZllfN091NVlrbUpiRUxRS0JRek9ROWZRZlowUVlic256S2d6VUkxMkZfRUxGS0VCSTlQME9nOFhQOEh4RG1NbDFpbENLRy04T1Y2WnFYU1U5Mmx6Q1VsNWc1c2oxR3NzU0NydWNabVl4akdqSHJGNk9FOXo5a2ZDMlpDR1RkU0JIZUFMaW9qaHluUlJtSG91a0NqeTBnNlNpanVjS3Z1YW5NWDFhYXdWM2p4OURVYms5aWg3dVpReks1bXNvZG12UnlPMDlaTlUyMnlac2dF?oc=5",
-        "domain": "www.theregister.com",
-        "publisher": "The Register",
-        "publisher_url": "https://www.theregister.com",
-        "language": "",
-        "seendate": "20261020T173326Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Can government and industry prove they’re ready for a cyberattack?",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzYkRsRVVBWWduSEk2dzJYSEhJTkxETmhYUHl1QnVXdldpa2VKN09MVEgwc2Q4aTJHUEFJM29lQzhON3poRnVYODROaFpLUkx6UldSMTNreXRQMExVbnJ6RGJQRXBFbVlRY0dkQlNBZ1kxVTA?oc=5",
-        "domain": "fedscoop.com",
-        "publisher": "FedScoop",
-        "publisher_url": "https://fedscoop.com",
-        "language": "",
-        "seendate": "20261020T150213Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam9xTThueWJIQ0xWWjE1VEM0dC1IOHVYelF1SGI1d2FmdUxKUWpTNzFXRUtEdDNtLWJjNVpnWXNUYnVMMlctdFR0T0pPN1VUUVBDdFkyNjNhLS1NOC1rVmd2SlpJODhoQjRKMjU5R014NUFMNmVqZ0MyNTNhLU1iUDBaQXg?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261020T153200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New details on Alabama ransomware attack",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iQms4VW40MTBuT1hpSllCLUZtS2d1ZHg0b3QycG5wejBubVZkMnIwVUxhak5FMTU3X3hXSmhab1J1S0tKR0pSMWsyQ3lLbDMwSnRzSm9xdER6X2V6eUh4Vy14SXUzeUVOQVV6UEVzU2J0VmFYZDgxRnpBd9IBjwFBVV95cUxQSGIwb296MHFGY2JhTWdBTWZlOHA1bzdoTllmRTFPcUZKQ2t1dEFFa1QyR3FVUUdkTnhla2JEdkptZnJrXzBPaTF1RHBjVEhRNjBWeFluVVE2Q0FFRHNwMHhvYTNZQldUdE94ai0yUHhxSUhrNnFSOGppRGptYjUyT2E1a0VjbG52ZUxKaDBTTQ?oc=5",
-        "domain": "www.fox10tv.com",
-        "publisher": "Fox 10 News",
-        "publisher_url": "https://www.fox10tv.com",
-        "language": "",
-        "seendate": "20261020T150900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "There's only so much code: the rise in vulnerability numbers",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUVIUVFuT1hmNkt3MnNjcWo2Z3BTUnk5eTI2ZFZyOUFZVHFrenIxcE1OYmNoZU0tdkJRMUpPQVFzVEVQbll4TGx1TUxHcTNGWmZHUWdIQzdEM29wNVpMMF9Wd3ZRc2ItOFM3RVhpNm9EMFlLUlFyUmdrRW1kcU44ZGk5QzY2OWFsa1RCVEwweGoxMTMwTFRLNGNB?oc=5",
-        "domain": "blog.talosintelligence.com",
-        "publisher": "Cisco Talos Blog",
-        "publisher_url": "https://blog.talosintelligence.com",
-        "language": "",
-        "seendate": "20261020T153615Z",
+        "seendate": "20261021T114323Z",
         "source": "GoogleNews"
       },
       {
@@ -109,6 +59,136 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Critical vulnerabilities in PHP | Stay tuned for php2shell mitigation and patches",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FLVhreTAzY012MHgwLTlWeW8yN25DeS1tSTdEQnozbG9sRjN0Tlgxc0cxSm55NGlRSEt0UWp0ekx5SG11MFpCQTh1Wk1JNzZ6QnhhS0VyMS1vci1zTzc5dER1V0tTd1pQajRsRnlvQy12VWlRWGJvNQ?oc=5",
+        "domain": "www.aikido.dev",
+        "publisher": "Aikido Security",
+        "publisher_url": "https://www.aikido.dev",
+        "language": "",
+        "seendate": "20261021T103211Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP vulnerability puts WordPress, websites at risk after leak",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3emI1a2hSRC1TbnZMdFNKWTI3amRfV29Jb2dOVWtPdkkzRlk1OUxPNFlUQmhsVnRPYldLYUYwR2l2d3RkakdCZTNIQmxtMW0tUjE4dlhNVzB2cUpENFptZ1lVZWZKaTJvZ0tGVnFOeWQ2TktDc19zWmJR?oc=5",
+        "domain": "www.chron.com",
+        "publisher": "Chron",
+        "publisher_url": "https://www.chron.com",
+        "language": "",
+        "seendate": "20261021T042922Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware groups expand targeting of Palo Alto Networks vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXlLMW9kbnlTcFVMbGQwQW0wTFhuOGZkOHBFbUNKLV8xTW1nZ0dxbDBMaGpMM2luVWU5eFZzVUprdXhqeGxnR2pad2F0QUw3Um1Wckszamx6TTVicl9hU3ZEZ25NeFp5ODF1TlFrdHJSbC1LVlNyTG9YTF9UTW1BN1JjNldXcHZMMjZzWVVvV3JXNWpLUVo5RDNDRGstRWstT1E?oc=5",
+        "domain": "www.cybersecuritydive.com",
+        "publisher": "Cybersecurity Dive",
+        "publisher_url": "https://www.cybersecuritydive.com",
+        "language": "",
+        "seendate": "20261020T161812Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjN3SkNMZnRrQWkwSmJjQWtoOFJQeHN3VWM0VG84eGJwcERUUFRVelVoU1QxM19FRXdwYmdkVVpmNjJjWkhhQXFkeHh5bmxwSmp3NmRaMjdnNGdwV2hkNDY1TENadEFiSUhESy1ydVItYVl4RUFQdVV2M0R3d0Uycg?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261021T065929Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Anne Arundel County faces second cyberattack in 18 months as council learns of breach weeks later",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdEFHZUgxZ3N0aGE0TklHRlFUU3QwamYyaTM0RjFzdVQ3Yjc4QjlEa01hZm83dWV4bHlGVHdzZGFHV3N4MmxvaVhqdmJrbVF5Q2F3WEFqdkNVUHlvNmZ1U2cxXzg3OEJzcUE5dV92akFKelpXNmNsU3lqY1g3bzdRMjN2Y0ZxRVVhZnRxM2V2YnVyT25wT3ZTdkgxVkdJbTU4UHhwYVRORzh3d0tkYm83VUE4eUN2N05HWVMwWEZyamJyM05uWGRtVw?oc=5",
+        "domain": "www.wmar2news.com",
+        "publisher": "WMAR 2 News Baltimore",
+        "publisher_url": "https://www.wmar2news.com",
+        "language": "",
+        "seendate": "20261021T084505Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A critical PHP vulnerability may take websites down today",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjA1UFgtSGptdk5uM0dRTkw1RGxpdTZGNHo3Tk1aaUxQMVVZY2FDVk50ZlpkSlptWXlJR0MySktqUVMxQ3pfTUdSY3Zfa1Bmcnd0a2tFTkw5bG1VN0NqQWU4bGN0X2JSdVZDdGdWZHBjZHJpT24yOWJ6ZUZKckRrYjZQa3dpRkdhdmJ1WGJ1OVR5UQ?oc=5",
+        "domain": "www.theverge.com",
+        "publisher": "The Verge",
+        "publisher_url": "https://www.theverge.com",
+        "language": "",
+        "seendate": "20261021T114917Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack Hits India’s Largest Bank, Exposes Customer Data",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Qa3JtZVBRejB4NGRCbjNWODJLVWtpeFJSQWIwcEJJb2lUQWZLVFNKSmZGM0VoR2VEeEtpcUx0MG5ieEFUMHF6d1BhWTFrTkYyUjdmVkRCQVpURjFra25VT2wxZU9FQlZnZHJKdzV3ejZjTkVSNEEyZ0xIdGdEQQ?oc=5",
+        "domain": "www.insurancejournal.com",
+        "publisher": "Insurance Journal",
+        "publisher_url": "https://www.insurancejournal.com",
+        "language": "",
+        "seendate": "20261021T114605Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Children’s Data Stolen After Ransomware Attack Compromises ‘Password1’ Account",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OaEVBRDJpZGdZQlc5ZWZQcmRiUFlZd1dVREcwTDIzcnNiWVJyZ3RrVTlXcGdzZklrUzB4UDduX0haQk5ZekNFb2l0TW1kcFc3d21hVE5Xa212Tl95ZFhMSlhvMnljalQtNEdUcjRiNmdzaTNYTVRsSjhQUm9NeEE?oc=5",
+        "domain": "www.infosecurity-magazine.com",
+        "publisher": "Infosecurity Magazine",
+        "publisher_url": "https://www.infosecurity-magazine.com",
+        "language": "",
+        "seendate": "20261021T090500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0R2a0hoNHNNN0Q2OE9hcFhDaGhrZkIyRk0yMnhlY1JlV0JHT1hnMHVKQUdqU2Z1VjJtN2NWWUFET2VTVlo3Rm0zaWMtUnR5Skx1VFJRNzNKc1czMllqVHY1aGxobnhhUnhVckQ4NVpwSlduR09jeEJSVE9iZ0Vuc3luWW1EZURobW9icGw5ZU5PdXJ0RnhJbldMQkwyR2l2V3o1YXhXc3N1VGpTZ2I3NjJyOVFhVzM0bFpTWQ?oc=5",
+        "domain": "www.bleepingcomputer.com",
+        "publisher": "BleepingComputer",
+        "publisher_url": "https://www.bleepingcomputer.com",
+        "language": "",
+        "seendate": "20261020T205643Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHhicmtOdV84ZFVNRnppZFVzc3FJX1VjRzVaWU01V1o5QjVMbWh4M2sySEh2bVVVYmVpTjlSdm1Tb3RJUEZTTjBOQjM4cWxrRmRmVVYwbHE1eGd3YmNLMmFyWG1VaGNmRUdmX1VGYXBraENZZkFhNnJsNG80NktwbWRzYWxxZF9uRFBZa3dBUU9wWWpSbXdSRTBDQlhiZFVOU1BBQVoyR2l2bWM?oc=5",
+        "domain": "www.helpnetsecurity.com",
+        "publisher": "Help Net Security",
+        "publisher_url": "https://www.helpnetsecurity.com",
+        "language": "",
+        "seendate": "20261021T111339Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack Hits India’s Largest Bank, Exposes Customer Data",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkxrd0FBbDVtbFF0WFZ1aE96V21qSGlHcmhoeU0xUVhFOVZFUm8zdWdPNGJRVWNuQTlKemZfNzdMaWsxNjFMYUZDVFlaWWVuZUJrVHpuR1JkS1VaMDZNT2FfYWRPZXFJRVJjbDhZNVZZWjFqak1IZE9ka1ZEREVXTHRNcXltTzBtQUZrY0dyb1lSZmcyc3ljMDRPVXdoTnNIRGctdENadXl1RFNUak1PUVU2UQ?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
+        "language": "",
+        "seendate": "20261021T062600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US and Allied Agencies Warn SafePay Ransomware Has Hit 600 Victims",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPak5KWWdmU0ZlcksySEdzUFkzV2c4ZndaeGxVSXZLWVBiZlN3TWVjaUt3cmtVVkhjaUpsZ3VDWFdqSlQxVlJLTHdfMU51dGp3dDlIVkNJYVY3ZzVBcjlVWjdEVWM0VU9rUC1OaUlEdjJhUExLSGdpdURfZ2ZGWGNjQTBkQW8xblJwUUU2V2JiaV8?oc=5",
+        "domain": "www.technology.org",
+        "publisher": "Technology Org",
+        "publisher_url": "https://www.technology.org",
+        "language": "",
+        "seendate": "20261021T101300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Critical security issue affecting PHP",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wdm9SdW95Tm5BYjN5d0Qwa0h3a0E5T2hOT2ZoNHFleTdxcHg0WnhjdWlrdHc3bnlpOHRtUGR2bjEzcTFlOVdxOVBGNWJKUGV1Rjhsa2VnTUxPNFNKWG94eVNLanFpaUdXNDBRTmo0WFo2Q0Zx?oc=5",
+        "domain": "www.ncsc.gov.uk",
+        "publisher": "National Cyber Security Centre",
+        "publisher_url": "https://www.ncsc.gov.uk",
+        "language": "",
+        "seendate": "20261021T095332Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEdYbExXaVFjY212elVRT0YxM0FIa2FUMGhSRjJsS0Y4enVEdmdGNnNUVDlHTGkyakdxbkpUS3NzdTdjLXpqc1pXanNJQzhjWGxRVndCSDJBZC1PU3d2RVlrcHlDbUZfY0NoRmRfTkF3QnhHMThtNGNsSGc1NHktZkdlOUNwQzEwY0d3SnB2RQ?oc=5",
         "domain": "therecord.media",
@@ -119,13 +199,93 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Anne Arundel County faces second cyberattack in 18 months as council learns of breach weeks later",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdEFHZUgxZ3N0aGE0TklHRlFUU3QwamYyaTM0RjFzdVQ3Yjc4QjlEa01hZm83dWV4bHlGVHdzZGFHV3N4MmxvaVhqdmJrbVF5Q2F3WEFqdkNVUHlvNmZ1U2cxXzg3OEJzcUE5dV92akFKelpXNmNsU3lqY1g3bzdRMjN2Y0ZxRVVhZnRxM2V2YnVyT25wT3ZTdkgxVkdJbTU4UHhwYVRORzh3d0tkYm83VUE4eUN2N05HWVMwWEZyamJyM05uWGRtVw?oc=5",
-        "domain": "www.wmar2news.com",
-        "publisher": "WMAR 2 News Baltimore",
-        "publisher_url": "https://www.wmar2news.com",
+        "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYTNkOHlyYUpPZllfN091NVlrbUpiRUxRS0JRek9ROWZRZlowUVlic256S2d6VUkxMkZfRUxGS0VCSTlQME9nOFhQOEh4RG1NbDFpbENLRy04T1Y2WnFYU1U5Mmx6Q1VsNWc1c2oxR3NzU0NydWNabVl4akdqSHJGNk9FOXo5a2ZDMlpDR1RkU0JIZUFMaW9qaHluUlJtSG91a0NqeTBnNlNpanVjS3Z1YW5NWDFhYXdWM2p4OURVYms5aWg3dVpReks1bXNvZG12UnlPMDlaTlUyMnlac2dF?oc=5",
+        "domain": "www.theregister.com",
+        "publisher": "The Register",
+        "publisher_url": "https://www.theregister.com",
         "language": "",
-        "seendate": "20261021T020405Z",
+        "seendate": "20261020T173326Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam9xTThueWJIQ0xWWjE1VEM0dC1IOHVYelF1SGI1d2FmdUxKUWpTNzFXRUtEdDNtLWJjNVpnWXNUYnVMMlctdFR0T0pPN1VUUVBDdFkyNjNhLS1NOC1rVmd2SlpJODhoQjRKMjU5R014NUFMNmVqZ0MyNTNhLU1iUDBaQXg?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261020T153200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "DevGuard: Open-source vulnerability management for the software supply chain",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVkyRjQ3TlJleVNiU3BpRG9qVkl5MFBrYlB2c0liVHpxcnAtQzl3ZW5sS0Rmdk9jYlp1WkZNal9Tcld0QkhjN3NadGxaVXhtbkxEYk45VzlHdlUwYm5kbjNjbVJIY0hNYmp5X0F6NHlWWXBzaEJfRzdxTklKbm9rVlY2b1NGcmRqRURXTzA4bUh3TDg?oc=5",
+        "domain": "www.helpnetsecurity.com",
+        "publisher": "Help Net Security",
+        "publisher_url": "https://www.helpnetsecurity.com",
+        "language": "",
+        "seendate": "20261021T053045Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "There's only so much code: the rise in vulnerability numbers",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUVIUVFuT1hmNkt3MnNjcWo2Z3BTUnk5eTI2ZFZyOUFZVHFrenIxcE1OYmNoZU0tdkJRMUpPQVFzVEVQbll4TGx1TUxHcTNGWmZHUWdIQzdEM29wNVpMMF9Wd3ZRc2ItOFM3RVhpNm9EMFlLUlFyUmdrRW1kcU44ZGk5QzY2OWFsa1RCVEwweGoxMTMwTFRLNGNB?oc=5",
+        "domain": "blog.talosintelligence.com",
+        "publisher": "Cisco Talos Blog",
+        "publisher_url": "https://blog.talosintelligence.com",
+        "language": "",
+        "seendate": "20261020T153615Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP warns it plans to release 2 emergency patches imminently",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDZITTFKZHdQSEwzb1IwZFBBdlpvRTN6VkRsRG15UkdlUzc3WXJhdWxXbkNZMW5sbTk3UkFWODNLVGxqc1BYdmUyOWxRTVJtYXJENFRuQ3c5RjVLVGRyMk9ZZkxhYkRWNVp1ZjhkaGdaY0s3emY0Wm5HekVtWDZVR1lQXzNtZjNsZE1ZMk00V2sxd3FNQzlmQUdTaG1QOXg1T2t4Yk10OFhaVXBhaGhhRVg2eVVKVFJIOWxCYkx3aEc?oc=5",
+        "domain": "arstechnica.com",
+        "publisher": "Ars Technica",
+        "publisher_url": "https://arstechnica.com",
+        "language": "",
+        "seendate": "20261021T021218Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHpiTUdlLXg4WXZ1dFROeU44b1hDeEJwcmNCQ2txdHd5RGxZNTBZaTkxbWZ3SHV5bHFtd2hfY0k4dVdRblJiRGZ2eVowazlvZjhGTUZibWxzcmUySHpaSmRCY01QaGZBY0ZRazZDaFFMWjJIUlF4MHJseXRXeUF4VXpFd0laOW9CajlONUEzVWcxbXNpTzR1dGxTTG5qMEtYTzJoOEVRcUphUWJVV1poeDF5RDNZVlVo?oc=5",
+        "domain": "www.forbes.com",
+        "publisher": "Forbes",
+        "publisher_url": "https://www.forbes.com",
+        "language": "",
+        "seendate": "20261021T112905Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tcGgxcEczbG1mMmxrLXNpX1Rib0FXNkNrQTZPaDg2dTlqR0ZsdVlUeWxpamtSaWdtMHBHZVFPQjJKYkVwVTZlUGE2Nzlqb0RQWERGeEotbVkxREwzY2JiREJ4LXhGTE5nQzc3V2gwUExJTHZFNkJ4ZlFR?oc=5",
+        "domain": "www.infosecurity-magazine.com",
+        "publisher": "Infosecurity Magazine",
+        "publisher_url": "https://www.infosecurity-magazine.com",
+        "language": "",
+        "seendate": "20261021T120000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Can government and industry prove they’re ready for a cyberattack?",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzYkRsRVVBWWduSEk2dzJYSEhJTkxETmhYUHl1QnVXdldpa2VKN09MVEgwc2Q4aTJHUEFJM29lQzhON3poRnVYODROaFpLUkx6UldSMTNreXRQMExVbnJ6RGJQRXBFbVlRY0dkQlNBZ1kxVTA?oc=5",
+        "domain": "fedscoop.com",
+        "publisher": "FedScoop",
+        "publisher_url": "https://fedscoop.com",
+        "language": "",
+        "seendate": "20261020T150213Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "GIANT app and website restored after weeklong cyberattack disruptions",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3hlaWgwNnhBaVBWSFlxaGRILTVxWlZMbHJsY3hBRnJKM0E0cTVEV0UxLXRXcVhhREV5TFNiQm50Tk5YQVhOR1ZINEtMR3djUlUxQkM4bFQ1T0R4RDFHb2tpY0ZHQXVNWExfTjVrME5MSkFRUV9fVlRCazJEd2JWYUdpRE5kZw?oc=5",
+        "domain": "www.wgal.com",
+        "publisher": "WGAL",
+        "publisher_url": "https://www.wgal.com",
+        "language": "",
+        "seendate": "20261021T094300Z",
         "source": "GoogleNews"
       },
       {
@@ -149,23 +309,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Building systems as cyberattack targets. ‘We’re sitting on a time bomb,’ security expert says.",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2pLTnBWRFlmOEYxVUgwbnFUeFFtMnNaNEJiUkRpTml1TEtGNTlVMlRERm5nNE9EUWNDVEF3RElhTXhVNlNFblRkR2tfSUFkZkNJSEl5U0dsOWZocldtRjZMSnpqTFUxdzhNQ0pLaVRZcW5NQzZrLXcwUFlyNmp6MkwyZ0Njdng4STZKYy1RQWRLNlRqRE5OMldtQXJ2VVNjQ1VOTXI3UGd1S2FxX29wdmNvRG1CNVE?oc=5",
-        "domain": "www.facilitiesdive.com",
-        "publisher": "Facilities Dive",
-        "publisher_url": "https://www.facilitiesdive.com",
+        "title": "New details on Alabama ransomware attack",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iQms4VW40MTBuT1hpSllCLUZtS2d1ZHg0b3QycG5wejBubVZkMnIwVUxhak5FMTU3X3hXSmhab1J1S0tKR0pSMWsyQ3lLbDMwSnRzSm9xdER6X2V6eUh4Vy14SXUzeUVOQVV6UEVzU2J0VmFYZDgxRnpBd9IBjwFBVV95cUxQSGIwb296MHFGY2JhTWdBTWZlOHA1bzdoTllmRTFPcUZKQ2t1dEFFa1QyR3FVUUdkTnhla2JEdkptZnJrXzBPaTF1RHBjVEhRNjBWeFluVVE2Q0FFRHNwMHhvYTNZQldUdE94ai0yUHhxSUhrNnFSOGppRGptYjUyT2E1a0VjbG52ZUxKaDBTTQ?oc=5",
+        "domain": "www.fox10tv.com",
+        "publisher": "Fox 10 News",
+        "publisher_url": "https://www.fox10tv.com",
         "language": "",
-        "seendate": "20261020T135703Z",
+        "seendate": "20261020T150900Z",
         "source": "GoogleNews"
       },
       {
-        "title": "PHP maintainers tell Web devs to prepare themselves for critical security patches",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDZITTFKZHdQSEwzb1IwZFBBdlpvRTN6VkRsRG15UkdlUzc3WXJhdWxXbkNZMW5sbTk3UkFWODNLVGxqc1BYdmUyOWxRTVJtYXJENFRuQ3c5RjVLVGRyMk9ZZkxhYkRWNVp1ZjhkaGdaY0s3emY0Wm5HekVtWDZVR1lQXzNtZjNsZE1ZMk00V2sxd3FNQzlmQUdTaG1QOXg1T2t4Yk10OFhaVXBhaGhhRVg2eVVKVFJIOWxCYkx3aEc?oc=5",
-        "domain": "arstechnica.com",
-        "publisher": "Ars Technica",
-        "publisher_url": "https://arstechnica.com",
+        "title": "Germany’s far-right AfD rocked by major cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUdzVElvamcyOENOb0RYQlFqeWhsUlJPSXdyV0J3S2RrZUVnT2RmbnFWQlcyaXFmN1l1b29mRVJ3NVdOWU9XdHk3aFo4OUdHZHUzVzU4Z0VBR2RDQ3RkR3g1bklGMVFubWwtVTA5ekdRc0NUcjVRYjNRdV8tOTNLNHN3?oc=5",
+        "domain": "www.newarab.com",
+        "publisher": "The New Arab",
+        "publisher_url": "https://www.newarab.com",
         "language": "",
-        "seendate": "20261021T021218Z",
+        "seendate": "20261021T111101Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "India's largest bank hit by cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlJMUs1by1pYS1UYUdEQTI3R2JzWTV5OUtrWC1wZDNnNFB1SXJRclZtMVZZTnAxcU02NWdQTTVXRXpzdnFPSXdCY0lXTWVXRWJyZlhPbk9NMVlwbmE3TUlfeVZBMVk2dmd5bU1nakJTcFNqUDdWeldHMk11cnVlTlU4LUl4WlF3?oc=5",
+        "domain": "www.finextra.com",
+        "publisher": "Finextra Research",
+        "publisher_url": "https://www.finextra.com",
+        "language": "",
+        "seendate": "20261021T102803Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU cybersecurity team says unpatched PHP sites may need to go offline",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IdkhjNEdxOEJzS0FqQ0pYRjdELVp5Y2JyaGJvcnpuNmlydmV1ZE1GYlhOenZKQTZjdk8tNzluYnJldmtWX3dnaVp1ZTJ2ZXFGa0NFY25VZVFiNS00dk9YS0xNaGtpanhlVFFCQ0hqWklkeUxuOVVUTFpR?oc=5",
+        "domain": "thenextweb.com",
+        "publisher": "The Next Web",
+        "publisher_url": "https://thenextweb.com",
+        "language": "",
+        "seendate": "20261021T100349Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "ICO Reprimands Ogi Networks and Data Cymru After Ransomware Attack Exposes Children’s Data: 8 outlets compared",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWElGMHAySjR6dlRDZnVjZkpnNG5RY0ZsM3BZdnRuV3d0aVh2UUhkRWJIZ3Jla01RbWhWd2VDbnEzQmkzNDI5WnBTUzFJMWhPcm9Ncm5vSmpEb3ZNVDgxOVY3TU1YdHB0dmFxLXhvTkVoRVJnUW5jeTI3YUJMbkJCN3M0Z1dEX0NVRmtRVTJBaEdTd3Jacy1HeTNIMUlFMTN5N0RFVkRDQmpXZzJSRTV5UG82NVFZeWVyZF84UVdRZThZaGJqNmQwcGs4bWNSZkc0VWQ2dUJ3b015UkV4cWtfTG4xemZyWjE4d3c?oc=5",
+        "domain": "newscord.org",
+        "publisher": "NewsCord",
+        "publisher_url": "https://newscord.org",
+        "language": "",
+        "seendate": "20261021T115526Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc29SZEthX0lVbmRCcEw2OHZqR1BudkRlaVhYV1VBczdaTGExYklKV0s4cnRPTlFNSExLMHRCWVRiRnE5NTM5NlU4RVdwXzRtREFVRGtHcm1rbzhCVm9tdlNTMk92SmVFM1lncEpZTUZnSmstTXVkU2lkbjZWMHdMVVZmQkxPTkRMRVYtMGJVT1NsMDdUUnpMSnZGOUE5QkZmU0ZaVGVLeVAxLXBnNkM1NFBlZnRHdEtUUDhucUZTYzNVdVYtVl9nRmFpdkdxSHpHcHdCeEZoSjY1TXZ4?oc=5",
+        "domain": "www.theregister.com",
+        "publisher": "The Register",
+        "publisher_url": "https://www.theregister.com",
+        "language": "",
+        "seendate": "20261019T202621Z",
         "source": "GoogleNews"
       },
       {
@@ -179,6 +379,66 @@
         "source": "GoogleNews"
       },
       {
+        "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb3NaOGFmN04tRTNZOEEzUS1QeEVzekQxMTk1OEVfbjU0ZnU5em1CRUhLcFF4OURxTDZvSm4xUmJHZ1FVenoxWi15c2lMaFFDei11cGx4RW1NdXdTeXBrdEw2UDYwSnNPMEpwdlNGUl96Z08tSVRtam1zYjdnc3NqQXI3YVZNcTVpWk9uWXFOVnBSSnNhaGQ0SFA5bndCN3FyaVprUmY3Zkl0SWJlV1NrMTBhNzRWNGdkaFRjT3hRWldZUkJhd0JVLUY0dzN6MzDSAdQBQVVfeXFMUGlGb3hFNHRIVnU3Ym5pbnJodkVKcTVxQ2dXbmZkdTI5ZWwtazhmZ01sRmdLVHdYWkp1eDdDMGJkVTZCTXNZcFBTaHVuVDFoYk0wZmMxQ0NtN0ZsTWRjbS03dTFlN3QwcFhoRnI3OFNlQmxpWWYzcXZmOW1TOEJXZ3kxS010N2piY2NhUGJVb2cxQUU2aVFocktMb3ZuS3dGUVNTVGJqVXlENzFnNFRMUkZMR2VIdS1Za0lhR2pwM1lpak1aUEd6alhhQ2xIZUN1T19taTE?oc=5",
+        "domain": "www.bleepingcomputer.com",
+        "publisher": "BleepingComputer",
+        "publisher_url": "https://www.bleepingcomputer.com",
+        "language": "",
+        "seendate": "20261021T083624Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Building systems as cyberattack targets. ‘We’re sitting on a time bomb,’ security expert says.",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2pLTnBWRFlmOEYxVUgwbnFUeFFtMnNaNEJiUkRpTml1TEtGNTlVMlRERm5nNE9EUWNDVEF3RElhTXhVNlNFblRkR2tfSUFkZkNJSEl5U0dsOWZocldtRjZMSnpqTFUxdzhNQ0pLaVRZcW5NQzZrLXcwUFlyNmp6MkwyZ0Njdng4STZKYy1RQWRLNlRqRE5OMldtQXJ2VVNjQ1VOTXI3UGd1S2FxX29wdmNvRG1CNVE?oc=5",
+        "domain": "www.facilitiesdive.com",
+        "publisher": "Facilities Dive",
+        "publisher_url": "https://www.facilitiesdive.com",
+        "language": "",
+        "seendate": "20261020T135703Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRFpoa1E5YmEwWHdpSWdiWEY2dTc3Smdhd2o4NUJkOUpTUFZrY1pGY1gzcFdOLTZ5dVVKLVZPbUtZOHFsQUp2OGNOdVR5eDdoUHFha196Ti1NdG5kbTlFdVEyeGhjT2VpSF9KUjcxMUhneDladFJnWmEtWkhnVzk1VXZn?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261021T072600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "City of Vicksburg hit by ransomware cyberattack, mayor says",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2R3cXR6LW1VX1VBbTRMTk9mMklTaXBtN2t4WTduenAyZDVSeHBSMnVKTHZLSFQydGhHWFp0Z1ZhYjBlcnFzSmlIZzhGZGl5bU1tWnEwWjhFRklDdWhnS3BkZUZ1X1A4cXlwQVcyeGg2NXBZR1BQT0p5SnA5Nk9mcEs3T3p4eHpjeTVOT2xjOWhaUdIBpgFBVV95cUxOWnFXRnZPYWdyQ0VRcjVaTllTdGEwdHhKOXNxVHllZmhqN3FiTDVITnMya25KZkwzQk5SN3NtMFM0Z19hZTZ6R2JUWGQ0d256QW02dDhzbVRQQ1Bqb3B1bXFyaVBURDRJYU1GN1lxRV9lem50QjZ5TE5uTU1MVEZETXhrMlBPVjg3bjRLc1ozb19uUjFacnJNR2psb2tnb243QmZuY1VR?oc=5",
+        "domain": "www.wlbt.com",
+        "publisher": "WLBT",
+        "publisher_url": "https://www.wlbt.com",
+        "language": "",
+        "seendate": "20261001T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "State Bank of India reports cyberattack involving customer records",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjI2TEQzUmpwbnJWclNQWUI1cmstZVgyM1QxTHduMVZMQkRNbUhaOVpnY2lWY09uWHJEdmRONUlWRWNYYzF6bVItVHF4eklPcTRKeVVfZ2hPRGowRlY4VmpkVFhTSk9VQzVoWTc2VlFLQWtTb2N0TW0yeERIV0hwTWhqRTF6UF9QdWVmM0FNX0VsOE13bk05TW01T01Udw?oc=5",
+        "domain": "wtvbam.com",
+        "publisher": "WTVB",
+        "publisher_url": "https://wtvbam.com",
+        "language": "",
+        "seendate": "20261021T035133Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "County switches email providers after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSF80cmMwcFd5SkZHbERKWE5vNFV1YXUybG9od3d1VUx2QlpQdjJ4dUtOX0J1UFBTeE1xOGNCMEdISm1rOWJDcWw1cDB0eTlaQ2NKTGdIZlZEV3BQT1FuV1FXZktJZWlxTnNuaDYwOU9NdzFVTHFiZzQwWFhGNE1LR3FLd1pvOVNYTE1vUy1nZTN1dGZxbUp5UHNPaw?oc=5",
+        "domain": "www.neshobademocrat.com",
+        "publisher": "Neshoba Democrat",
+        "publisher_url": "https://www.neshobademocrat.com",
+        "language": "",
+        "seendate": "20261020T213702Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Cyberattack attempt cost Albert Heijn up to €150 million, experts say",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkpwS2prOFQ0dGVyS1J3aTJxOGV2WjJhdFdsdk9BWGpKR0xsaXhmX05kZC1qN2l5anQwdU9qYTVyamhVUVF2Z1BXRml5WHBGa0thZkQzWnk0amZsTHJHaTY5aF9LbzdVa0ZkQnFxYkc2TElIY3BmbDdjREtGd1BwS2RLdmNLMHRGLVREbWRYbGZHRHF6clhwNA?oc=5",
         "domain": "nltimes.nl",
@@ -189,23 +449,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjN3SkNMZnRrQWkwSmJjQWtoOFJQeHN3VWM0VG84eGJwcERUUFRVelVoU1QxM19FRXdwYmdkVVpmNjJjWkhhQXFkeHh5bmxwSmp3NmRaMjdnNGdwV2hkNDY1TENadEFiSUhESy1ydVItYVl4RUFQdVV2M0R3d0Uycg?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
+        "title": "GIANT website and app back online following cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT3pWWGtPSXN3Z0h0TW12b2FYNWE3S2kxZlhsQnNTR2ZteGJDMENKT0Fxc3plZDNaaWdyWUlPWWRROTRPXzVkRk5hR2pqV05KVkxxUnVURDJuWElkVVB5NnNFZHVmektkcFN4TWViQkZ1M1psaHJmclVmOUljazZtOFNmVmVGcy1lQ1pj0gGQAUFVX3lxTE1kbXdSSmQwazByUjktdGFRZEMxSUlGRlk1UzltVVltNl9vVXY5OXdmYTVGTVhWWGVUZVBHTldJR0tWRk0yUkVTcHBoYVlFaVJUQ3U1cC1ONHIySklaVWdXM3oteENKaktyX2stWnREdS05cGMxZGx4cFdHNVRmOGh1dWVjSjdITnhqQVhjdU84dQ?oc=5",
+        "domain": "www.abc27.com",
+        "publisher": "ABC27",
+        "publisher_url": "https://www.abc27.com",
         "language": "",
-        "seendate": "20261021T045700Z",
+        "seendate": "20261020T145502Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzhFaUxjNGktSzZSUWhMSV9Ma2d2S0hqQmFJeDhvSF93MXU5VGtfX1doT3NYZnctblBzS0JlYjZFNENCcjB0TVd4YjN2TUMzZ29PZ0xmUnBCeHZ5Nll2NWlIeXJ2T01PcGNOVlB6WFA2V0J4NDR4MGF2LVRTU3hxZ1FSRmlXM0N6ZU9KOUU5Z3Jodnl5ak5KdEtkRmRQVGpqS1gzbXhpNHkwNEc5SVBVd1FWb2RiS0RnVW9WSG9HX0h3Mjgzc3c?oc=5",
-        "domain": "www.theregister.com",
-        "publisher": "The Register",
-        "publisher_url": "https://www.theregister.com",
+        "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNGJjaHE4dkx2YlR5UlEwcVZMcGlCNE1ubTRvZkFPTVUtejhxS2hBcWV4SmNBbFpHQm1ZWHQxSWpTN1RCNGdfb3NfWXZnZFBuUi10UkgyY0hpYkJDcGEyOVlCSEwxRHkzNTkybFFUS0IwckNPQXpicXl4aVNlWTZNSE4tUFluQV85VTMwNk1jOGg2OWlMOHhv0gGcAUFVX3lxTE5xMk95elFLT2NQdFlCclc5cWtVa2Y4ZmViNDBIdjhDVE40aENDTzl1NzZEZDVlSExZYWVGTGJhM1hQM0hqbk4tRk9JUlV3WHlkd1N2V1B0SXNqUjI1bDdFZVlFaFRhMXZvN05JcmRvT0hidWVDcHA5WWV1a1JZUUR4OFVGY01tOVFaeXUxa3ZPTHY1WUFEZlhnREVHdw?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
         "language": "",
-        "seendate": "20261020T121500Z",
+        "seendate": "20261019T131620Z",
         "source": "GoogleNews"
       },
       {
@@ -229,146 +489,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc29SZEthX0lVbmRCcEw2OHZqR1BudkRlaVhYV1VBczdaTGExYklKV0s4cnRPTlFNSExLMHRCWVRiRnE5NTM5NlU4RVdwXzRtREFVRGtHcm1rbzhCVm9tdlNTMk92SmVFM1lncEpZTUZnSmstTXVkU2lkbjZWMHdMVVZmQkxPTkRMRVYtMGJVT1NsMDdUUnpMSnZGOUE5QkZmU0ZaVGVLeVAxLXBnNkM1NFBlZnRHdEtUUDhucUZTYzNVdVYtVl9nRmFpdkdxSHpHcHdCeEZoSjY1TXZ4?oc=5",
-        "domain": "www.theregister.com",
-        "publisher": "The Register",
-        "publisher_url": "https://www.theregister.com",
-        "language": "",
-        "seendate": "20261019T202621Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Giant Food Stores website, app back online following cyberattack targeting parent company",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcVRTZFF4b21wc0tqMk1tdUFDcTlJcVR0RmpENU5Ya1QzNEpmZ2hOd2xtVGtkWThxbExwbUR3OHVBSkJpVlIxT1UzSS1KbUJlcmVNTmkycVBndjFEUFRSWVVaZVpxSHdJSUJNeVo0dElVQVVrOG5KQ19fa0RkS3RjWVlRMDhuMzRCT0xTaXpnMU91UlpNdEZwcEVJOVVIRjAzdnc1Vl9RZnVSbzlJMV9kTlcxcDJaTldoUk45MnZXX3gyWmZxQ1ZscXJCbXBLMHY5b2V3NjF4UjFNWXpiTkFrZGpUdjA2MzhudG9UbGVUVmdJdmZESGtBbjRvbjVKQUJjbTljeVktb1c?oc=5",
-        "domain": "lancasteronline.com",
-        "publisher": "LancasterOnline",
-        "publisher_url": "https://lancasteronline.com",
-        "language": "",
-        "seendate": "20261020T144300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Google Chrome Multiple Vulnerabilities",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdXdMNkNYNWkwSTNod2pyMlJiUGxKM2tBMWU1MjZmanVQeXFTT2d5RjRuQjd4YmdSNmVwdGZDNVdnVFBjNWtxc0FMMkJYaWZMb0o4eXhyWDhiNDRoME5XZURUOWdfbk1yWkFFZUZ3Z3ByZ3Y3Z1NFTTRtZmhwYWZMaTVsS1RObHZWOXdkdHUwRlBQZw?oc=5",
-        "domain": "www.hkcert.org",
-        "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
-        "publisher_url": "https://www.hkcert.org",
-        "language": "",
-        "seendate": "20261021T023521Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "State Bank of India reports cyberattack involving nearly 3,900 customer records",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdy1QWTVFSkZ1d3Fac3g5T1czQXoxakszUjNiWlRUd2YyYklJcG9kN0pkcEpvV0xDVDJ3V2EwMnRveWRCRzdYSnJOUnZ2VlVaTTZyZ2FFbHFXWmFXVGNsN05XcFZaR3JjNWo0cnJyeDBVdkpUaWtSV2M3S3dGdVR4MU5kalF0Q0JaZHpfMXprS1JYTUdXUnJEbElLempnRFNEX18teHBKWmdGMUhpc3Zvc2tYei1JQQ?oc=5",
-        "domain": "www.ksl.com",
-        "publisher": "KSL News",
-        "publisher_url": "https://www.ksl.com",
-        "language": "",
-        "seendate": "20261021T040349Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘Over 50 percent of the victims are over 50’: Mississippi pushes back on cyber scams",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnM3SDdHYUI4LTMxWEtacEh5WFVILVRVc0txdFNSM01XOVVhYk9PY0JRTmNQM1B3NFZzWnBSc0UyRHkwT3ZXeXJQU3RGXy1XaUtIM3RvcWktcHEtMGxza0YzR1ZzaDBqcmlNcktvcEJhLUpwTGNtaHVfb3JsM1FybXhPNnhLS0s3ZWh6b1pXNA?oc=5",
-        "domain": "www.wapt.com",
-        "publisher": "WAPT",
-        "publisher_url": "https://www.wapt.com",
-        "language": "",
-        "seendate": "20261020T233100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "County switches email providers after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSF80cmMwcFd5SkZHbERKWE5vNFV1YXUybG9od3d1VUx2QlpQdjJ4dUtOX0J1UFBTeE1xOGNCMEdISm1rOWJDcWw1cDB0eTlaQ2NKTGdIZlZEV3BQT1FuV1FXZktJZWlxTnNuaDYwOU9NdzFVTHFiZzQwWFhGNE1LR3FLd1pvOVNYTE1vUy1nZTN1dGZxbUp5UHNPaw?oc=5",
-        "domain": "www.neshobademocrat.com",
-        "publisher": "Neshoba Democrat",
-        "publisher_url": "https://www.neshobademocrat.com",
-        "language": "",
-        "seendate": "20261020T213702Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "State Bank of India reports cyberattack involving customer records",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZnBqbGJWSklNZnIxQTFkMXkxSDcxSkVnTS1aYXAxSjB0NENudTZMbFlUYk5lWlJqWEt0U2drUS1fMWNQYl9TcTNCajFvM0FBTFQyMWFiVWNjc09lWUNwQWxvdHhRb2c1dnFlSzUyUnV2RzNsdTJGT3gyZmR6ZFp0WEVOM3VqV25oQkNBNU0wLTV4cWVOVUMtNExIR3duMkJPTTl2U0xvTm92NXJKWG12SjdsS3hBTHUwZVNXRkdKdlVod2NBLWY0dTZYZWlvS1BMeXpDbVp0dGo3N1JnZmlBdjZmeldVdTgtRzEwcUlOQXF2dF9MNXlEaw?oc=5",
-        "domain": "www.centraloregondaily.com",
-        "publisher": "Central Oregon Daily",
-        "publisher_url": "https://www.centraloregondaily.com",
-        "language": "",
-        "seendate": "20261021T033636Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PHP vulnerability puts WordPress, websites at risk after leak",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3emI1a2hSRC1TbnZMdFNKWTI3amRfV29Jb2dOVWtPdkkzRlk1OUxPNFlUQmhsVnRPYldLYUYwR2l2d3RkakdCZTNIQmxtMW0tUjE4dlhNVzB2cUpENFptZ1lVZWZKaTJvZ0tGVnFOeWQ2TktDc19zWmJR?oc=5",
-        "domain": "www.chron.com",
-        "publisher": "Chron",
-        "publisher_url": "https://www.chron.com",
-        "language": "",
-        "seendate": "20261021T042922Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Combination therapy reveals potential vulnerability in aggressive osteosarcoma",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkNYcjZCZGtkTnJDanBVOUR2eDhJSUtYalZuUUZTMXhaYjA0VUJwUlhtcnJMV3VuQkpMOEV2RVVyU0JiNU5pQVNtcjBIWS1FT1FYUWFPeDI3cHY3YU5RT0ZNVGpxN2NtYlQzNjdBWTdtb3MyVXN3V1FhYTR0NzFweHBrRV9YN2FjMU1XSERlUUdOUzhkN21oQWRXWQ?oc=5",
-        "domain": "medicalxpress.com",
-        "publisher": "Medical Xpress",
-        "publisher_url": "https://medicalxpress.com",
-        "language": "",
-        "seendate": "20261020T192019Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hackers are using patches to create vulnerability ‘maps’ – that means the 'patch and move on' approach needs to end",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUUxdXdRN0RGa1BXU0JuQU9ZeFNkRVRNVGFsUEZWeTF5VGdYcDZ4THpZZ0RHeFlVSVhxZnh6aV9SZDVOQ0tCMlYzcW40TzUzWUFkWEpKU05xMDlwVTBscW96QVM5ako0ZVB2LUhFbzFNYmdoRlFoNGNfQjJTTWhrTnJiZ25ETGZxRk4xQ3A0T1FRVnRQZkl3cmo1Mk1MMWw5M3RTcmNwVi1RTUZlV1RnRXl4cTF0MFNCdlZxNXJOQzR4Z3g2Zy0taU1fMExXREVISUVFR2VTSQ?oc=5",
-        "domain": "www.itpro.com",
-        "publisher": "IT Pro",
-        "publisher_url": "https://www.itpro.com",
-        "language": "",
-        "seendate": "20261020T140708Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyber Scares: The Christmas Day Ransomware Attack",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnYxcGNnbUlFY2FhU2dsNDFYZ0M0ZFo5Tjd1d2c0MEpRb1pqeVFfblp4MXJTQlFFQ25OcjBJRWp2V25kTFF2Sl82MTY0ZXNvT0wxbkVkaTc5QWljelVvRkdzRVRWZHZ2LUtEekp3OENmQ3ZCM2VNWEU2b2dxcG5ZdUZWb0gydw?oc=5",
-        "domain": "www.rtohq.org",
-        "publisher": "Association of Professional Rental Organizations",
-        "publisher_url": "https://www.rtohq.org",
-        "language": "",
-        "seendate": "20261020T134500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GIANT website and app back online following cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT3pWWGtPSXN3Z0h0TW12b2FYNWE3S2kxZlhsQnNTR2ZteGJDMENKT0Fxc3plZDNaaWdyWUlPWWRROTRPXzVkRk5hR2pqV05KVkxxUnVURDJuWElkVVB5NnNFZHVmektkcFN4TWViQkZ1M1psaHJmclVmOUljazZtOFNmVmVGcy1lQ1pj0gGQAUFVX3lxTE1kbXdSSmQwazByUjktdGFRZEMxSUlGRlk1UzltVVltNl9vVXY5OXdmYTVGTVhWWGVUZVBHTldJR0tWRk0yUkVTcHBoYVlFaVJUQ3U1cC1ONHIySklaVWdXM3oteENKaktyX2stWnREdS05cGMxZGx4cFdHNVRmOGh1dWVjSjdITnhqQVhjdU84dQ?oc=5",
-        "domain": "www.abc27.com",
-        "publisher": "ABC27",
-        "publisher_url": "https://www.abc27.com",
-        "language": "",
-        "seendate": "20261020T145502Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Stop & Shop website, app back up after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVloc0NLRngxNHVrbG1aTHZRc1BnenJ4VGhERUJHVFBHc0hMbUt5c2xDbW9vTkVsejFlRFotZ053NHFjTW1ncmxPbVR1X1ptRjJiMEVQR3JBNC00aExud1pGdTdTSjB6eDhxQ1hQOFJvX2daREMxSFZVbkctS0VHSU1td0V4bjlCRjF0eA?oc=5",
-        "domain": "www.wpri.com",
-        "publisher": "WPRI.com",
-        "publisher_url": "https://www.wpri.com",
-        "language": "",
-        "seendate": "20261021T014309Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France investigates cyberattack that hacked retailers' refrigeration systems",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEZRbTF3LXYtOHROTzJ6em9xc1MzVjFoWGNCc2I1MWVBelFiMlg5ZGtOQ2dZZm9uUENLVzZJUHllREs4Tk8xSlVFNTJrc19jVXdTVmNNOFRna1ZBb1d0eE5mdlFuczNBSXBpamRscFc3dG82MGEtbjMxbng0Y0xrQ0t0SVNISXljbkwtRjdVVl9OVDNDSmJ6eEJ4LXFBbVpMcmNMMmQtSWpaVEpiR25fM1ozNmY2NFA4eDdUbw?oc=5",
-        "domain": "www.npr.org",
-        "publisher": "NPR",
-        "publisher_url": "https://www.npr.org",
-        "language": "",
-        "seendate": "20261015T084619Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Giant extends points expiration due to cyberattack; fix likely ‘in the coming days’",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWhzR2RjYUs1UmV4bTlQdjk3dHJFWFFINFBaRGJDMlpqVDZKbmladFlUVUJmejRPT2dLNjl0NnBUX01rMUpuSGE4M3lZeEZKOEZVUFVGcEd0WFZ3djZzcjdlMElaX3NqWlR3V2R6OHVkSjZ4VlZNQW9MWnkwR3RheDM0WlUyeFh6dTF2dGIzNTQwdHluOVMyWGw1ckhuanFjWmVOLTZmbU5mVjIyOUc1bktSY0dEUWvSAbwBQVVfeXFMTW0ybUFlYWRyVHlxa2t5elZUUTdrSjZJb3ROYkNGMnlORUkwQzdTQ2NGNE1JMHlFdE9LMnlJU1V4ekFwdkNZR3UwRi03NnBscC1qcGxxRjRFeFlPZUdaVmFZc1BIZkJ4c0p1bEZLai1rYjVrTm5sT1Jodkx1ZUMtNUlpbktzUUFPbmJvTnl5Tlk1dmN4TW0tUWdibXpkOWZjaE5nMVNwTVJyb1A4NmExUl9nSUlFN2NzYS10ako?oc=5",
         "domain": "www.abc27.com",
@@ -379,153 +499,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNGJjaHE4dkx2YlR5UlEwcVZMcGlCNE1ubTRvZkFPTVUtejhxS2hBcWV4SmNBbFpHQm1ZWHQxSWpTN1RCNGdfb3NfWXZnZFBuUi10UkgyY0hpYkJDcGEyOVlCSEwxRHkzNTkybFFUS0IwckNPQXpicXl4aVNlWTZNSE4tUFluQV85VTMwNk1jOGg2OWlMOHhv0gGcAUFVX3lxTE5xMk95elFLT2NQdFlCclc5cWtVa2Y4ZmViNDBIdjhDVE40aENDTzl1NzZEZDVlSExZYWVGTGJhM1hQM0hqbk4tRk9JUlV3WHlkd1N2V1B0SXNqUjI1bDdFZVlFaFRhMXZvN05JcmRvT0hidWVDcHA5WWV1a1JZUUR4OFVGY01tOVFaeXUxa3ZPTHY1WUFEZlhnREVHdw?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
-        "language": "",
-        "seendate": "20261019T131620Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Stop & Shop’s website is finally back up after a week of headaches for customers",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQS1HejdVeV93MUVrQjZQa3dqOGFYYVVVd3NDLXFmbjRPS0o2ZjlIakY0UDJvTF9Md21fNUVrWTRnaDktQWctemNqd21ZbGpHb0Q1d3FyYjRsRWwxeXViYWZWcGt0ZDRWNy0tc2k1NkdJQUNLQUUwczJOUXZ5QzRiVWpBZm1EYzdTQjlYaFo1LU9sMGtFcjVYUUpEX2cxeVM1?oc=5",
-        "domain": "www.bostonglobe.com",
-        "publisher": "The Boston Globe",
-        "publisher_url": "https://www.bostonglobe.com",
-        "language": "",
-        "seendate": "20261020T130800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "IwaiCosmo Securities customers hit by unauthorized trades after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEQm12TllpOUJLVzJaQUV3NjR2YVNIX1Y5V2d6NFhzRGZIQWpUUFExQmRpNTZEY1pWNHdkV0ZoZC02eHhGZ3hDeUdpNm9IVmZublVCS3F5UHVrZw?oc=5",
-        "domain": "english.kyodonews.net",
-        "publisher": "Japan Wire by Kyodo News",
-        "publisher_url": "https://english.kyodonews.net",
-        "language": "",
-        "seendate": "20261021T011120Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack Triggers Unauthorized Trades at IwaiCosmo Securities",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84OHBTeHFwUVlULXplQWFEX1dvTEN1LWRvT0ktWmF2WWQwRHNDdVlFX3JlRS1fejhocDFHYjExdHhmdXJTOVVHb0ZYb2EtZm5ESEpRYjR3RzhhQWs2?oc=5",
-        "domain": "www.nippon.com",
-        "publisher": "nippon.com",
-        "publisher_url": "https://www.nippon.com",
-        "language": "",
-        "seendate": "20261021T004500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Combination Therapy Reveals Potential Vulnerability in Aggressive Osteosarcoma | Newswise",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVg0QWdDbFV0dnRSaE9lOUxtdlR6VF8wRnlxc0k2TFBfMlNFeW95QlM5NTNRaFNjZmVNWnR6T1EyUEVCeGpKcTBBTllmbXY0WWNERHNRaHgyZ0hXUl9HS2VPXzJwY1pTMm01SVhJVjY5WWZuMko1aTZUb0dYVThyWjdSS3c5TEROamppLWUtQjA4S1lVNmY0ZHVYbmZyZnMyY1RJbjFIdUVjREtVMHd0dkNR0gGyAUFVX3lxTE1tWDRBZ0NsVXR2dFJoT2U5TG12VHpUXzBGeXFzSTZMUF8yU0V5b3lCUzk1M1FoU2NmZU1adHpPUTJQRUJ4akpxMEFOWWZtdjRZY0REc1FoeDJnSFdSX0dLZU9fMnBjWlMybTVJWElWNjlZZm4ySjVpNlRvR1hVOHJaN1JLdzlMRE5qamktZS1CMDhLWVU2ZjRkdVhuZnJmczJjVEluMUh1RWNES1Uwd3R2Q1E?oc=5",
-        "domain": "www.newswise.com",
-        "publisher": "Newswise",
-        "publisher_url": "https://www.newswise.com",
-        "language": "",
-        "seendate": "20261020T145000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0R2a0hoNHNNN0Q2OE9hcFhDaGhrZkIyRk0yMnhlY1JlV0JHT1hnMHVKQUdqU2Z1VjJtN2NWWUFET2VTVlo3Rm0zaWMtUnR5Skx1VFJRNzNKc1czMllqVHY1aGxobnhhUnhVckQ4NVpwSlduR09jeEJSVE9iZ0Vuc3luWW1EZURobW9icGw5ZU5PdXJ0RnhJbldMQkwyR2l2V3o1YXhXc3N1VGpTZ2I3NjJyOVFhVzM0bFpTWQ?oc=5",
-        "domain": "www.bleepingcomputer.com",
-        "publisher": "BleepingComputer",
-        "publisher_url": "https://www.bleepingcomputer.com",
-        "language": "",
-        "seendate": "20261020T205643Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV0ItdmgwZmYwZHJCVG5HVUJwM0VUWElDZGUzbUpBNEZlWjFYd1BkUmhfVGEwejZBRGdrSHR0LU02aUVxdGtnWXFlS0puVUIteWZVWXBOdkQ0MzQxSERDN2xRYklZWEV5aEh2N2MwMFRnbHljMXdKdHJQc0tNNWZ5YkUwdWc4UmZuSDdTc1E2blF6dFdsMHFrNFJvdTlEU0FiVVZoeEthSmFmb3R4dXpjbFg5N20tNWoxdG5JQWIyY01RczRHb1ZHclNtWXZBZ05VT1plNzFweGxSLW8?oc=5",
+        "title": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzhFaUxjNGktSzZSUWhMSV9Ma2d2S0hqQmFJeDhvSF93MXU5VGtfX1doT3NYZnctblBzS0JlYjZFNENCcjB0TVd4YjN2TUMzZ29PZ0xmUnBCeHZ5Nll2NWlIeXJ2T01PcGNOVlB6WFA2V0J4NDR4MGF2LVRTU3hxZ1FSRmlXM0N6ZU9KOUU5Z3Jodnl5ak5KdEtkRmRQVGpqS1gzbXhpNHkwNEc5SVBVd1FWb2RiS0RnVW9WSG9HX0h3Mjgzc3c?oc=5",
         "domain": "www.theregister.com",
         "publisher": "The Register",
         "publisher_url": "https://www.theregister.com",
         "language": "",
-        "seendate": "20261020T163000Z",
+        "seendate": "20261020T121500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "GIANT app and website restored after weeklong cyberattack disruptions",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3hlaWgwNnhBaVBWSFlxaGRILTVxWlZMbHJsY3hBRnJKM0E0cTVEV0UxLXRXcVhhREV5TFNiQm50Tk5YQVhOR1ZINEtMR3djUlUxQkM4bFQ1T0R4RDFHb2tpY0ZHQXVNWExfTjVrME5MSkFRUV9fVlRCazJEd2JWYUdpRE5kZw?oc=5",
-        "domain": "www.wgal.com",
-        "publisher": "WGAL",
-        "publisher_url": "https://www.wgal.com",
+        "title": "Cenovus Energy (NYSE:CVE) Combines High Growth Momentum With a Breakout Setup",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3lUR3UxSkRtY0tfOExNbmFQSUNkcU14cmI4b1N4Yk55SVpIR3llNC12TWhOZXhwX19taS1QR0hQX1EwODMwdk1DejNNbUZHamhBalFfTnUzenFWQXpONTBsdUdLdXZzd3Q1bnpvVWViM3V1cjlCaGsyaV95bWNVMDcxbWNVUjNseWtGSmlycEYyOUVra1pyTjJGLV9Ddk50dHVkbTdnLW8tNFNFbXN1MjY0R3l1Z3dlXzZKclY0NmpJLUk?oc=5",
+        "domain": "www.chartmill.com",
+        "publisher": "ChartMill",
+        "publisher_url": "https://www.chartmill.com",
         "language": "",
-        "seendate": "20261020T155130Z",
+        "seendate": "20261021T093056Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Giant brings website and app back online after cyberattack outage",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTmVmSV93S0ZmQ1NUeUF0RUZaYzMwR25sUWhsMks3b05kRGpXcUVfN3dKTXI3VWEwckFNNWRCdEFIY2s2SzlYLUtSM2EzQ3Q2VkI5X3RRblRMaXk3akdjLWJDcTlvbGVLekNRUjNTTTJJYzRISWhhU2Z0TUZxMmZ1OWhIV1J0ZWR0T2haU2NpdkFaMUJz?oc=5",
-        "domain": "lehighdaily.com",
-        "publisher": "Lehigh Daily",
-        "publisher_url": "https://lehighdaily.com",
+        "title": "France investigates cyberattack that hacked retailers' refrigeration systems",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEZRbTF3LXYtOHROTzJ6em9xc1MzVjFoWGNCc2I1MWVBelFiMlg5ZGtOQ2dZZm9uUENLVzZJUHllREs4Tk8xSlVFNTJrc19jVXdTVmNNOFRna1ZBb1d0eE5mdlFuczNBSXBpamRscFc3dG82MGEtbjMxbng0Y0xrQ0t0SVNISXljbkwtRjdVVl9OVDNDSmJ6eEJ4LXFBbVpMcmNMMmQtSWpaVEpiR25fM1ozNmY2NFA4eDdUbw?oc=5",
+        "domain": "www.npr.org",
+        "publisher": "NPR",
+        "publisher_url": "https://www.npr.org",
         "language": "",
-        "seendate": "20261020T203728Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bullhorn restoring service following cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNalFpdXdHQmxEbWFEUF9NMGN1MUwwemtoZVJ0WkNUU2RPUG95RUNVakFPZmdITUNURWUxOXVRVE50SnQ3bUotTlQzcWF5V2dkM3lpMXIwam5RNUthdVVwdnEwd19uNlRwVDFuNTBBRmZWSjFfaG85WWFhc1ByM0o4NnBLSVZqbkw0bVdyOExMWElVSlE1S3VhZ21DeWJidEpFa0tfZHhqQQ?oc=5",
-        "domain": "www.staffingindustry.com",
-        "publisher": "Staffing Industry Analysts",
-        "publisher_url": "https://www.staffingindustry.com",
-        "language": "",
-        "seendate": "20261020T165921Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NTFEOHpHVzBmeEs4OEhFU2xHS2RXUUtaaXRFUHNyZFlJREFqZkpnTFJyZXl0TjRmOXVLTURSTW1ITWN4cDBVd04zZFdOb0NoQWFYQV8wTVR4dmlNOENsRkxHUUt4NTFib0d5aTZFekZrWEdwcXBjYWJR?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261015T202400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RX2pkMC00UUtyd1NpTC1rUHR1RVdVbnUyTmVXMWg0THB4MmlrdXRpeDR2bG5vN0tXcWJ3Z09qeFR4NEQ0amtnalBRdGVsakZzemRjVWFqdkhUNHg4S3BWRzJ4RnJqRGtKNUtpUVh2Nk5LbWdnOEtMQW9ucmQzM1E?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261020T153800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "ENISA Threat Landscape 2026: Top cyberattack trends",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmZzZE91ZGtLdlppYjJHWUFNWW5XQXk2OU5EaFYzNTdJNlo1NnZ6bEpsSEpyTHVRQmh5bkdBZmdaakdNay1NcFVDMlNXbW1VNVY1MVVVeWJnMkZPWExnbmhrYUczVVphNEdMcWJRV0wzbG8zRWFKSm5iSHRDbjAybFZZaTRfTzN6NFdrMA?oc=5",
-        "domain": "blog.barracuda.com",
-        "publisher": "Barracuda Networks Blog",
-        "publisher_url": "https://blog.barracuda.com",
-        "language": "",
-        "seendate": "20261019T192511Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Japan brokerage IwaiCosmo hit with unauthorized trades in cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVFoQ25GejFqMWRCQVRmX0o2WmZTRTJIYkFta0JtV2lFdmxsVHNpZ3N3R3paY0JVSkRZSWljaF9CODlLY2dOU3JvMzV4ZXMtQnlCc3k1ekVhVWZTUkExMmY0bFdCejJNTjNMSm55N0FJRGR3S3ZJU1QtSUtuVnQ5dTZNajlLQ0lnN3A2VGZBN2psNUFEZWV2LXp1ckxfdUYxVUNIbFNGUzdnSFJaZHlET2tMMmN3OW5H?oc=5",
-        "domain": "asia.nikkei.com",
-        "publisher": "Nikkei Asia",
-        "publisher_url": "https://asia.nikkei.com",
-        "language": "",
-        "seendate": "20261020T171800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Giant Food’s website and mobile app return after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUU2NkNnd2Y2Wlg1eXZNTFRxS3dpSlctNnBFSjR4U1pOVGJWNy1RTUI5ck13Y083WjlmNmdwdVM0ZU1lOEJvdld3ZndBNXpPSDNQTFFPb0E4TDlyZExhdjk2UjVWV0tkVHFjSFdzSm9tMkZ1QXkwQ0YydjZybjZMQ09Dckxqc0E?oc=5",
-        "domain": "www.wbal.com",
-        "publisher": "WBAL News Radio",
-        "publisher_url": "https://www.wbal.com",
-        "language": "",
-        "seendate": "20261020T202532Z",
+        "seendate": "20261015T084619Z",
         "source": "GoogleNews"
       }
     ]
@@ -538,67 +538,17 @@
       "publisher": "Unit 42",
       "publisher_url": "https://unit42.paloaltonetworks.com",
       "language": "",
-      "seendate": "20261020T221432Z",
+      "seendate": "20261021T102511Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Ransomware groups expand targeting of Palo Alto Networks vulnerability",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXlLMW9kbnlTcFVMbGQwQW0wTFhuOGZkOHBFbUNKLV8xTW1nZ0dxbDBMaGpMM2luVWU5eFZzVUprdXhqeGxnR2pad2F0QUw3Um1Wckszamx6TTVicl9hU3ZEZ25NeFp5ODF1TlFrdHJSbC1LVlNyTG9YTF9UTW1BN1JjNldXcHZMMjZzWVVvV3JXNWpLUVo5RDNDRGstRWstT1E?oc=5",
-      "domain": "www.cybersecuritydive.com",
-      "publisher": "Cybersecurity Dive",
-      "publisher_url": "https://www.cybersecuritydive.com",
+      "title": "PHP CVE-2026-109618 & CVE-2026-109619: What to Do Before the Details Drop",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjRDeHRNTkZnUUxUOEgtMEh6aVVBRDFaRWNYYkoxMzUtUmZPaHFFcHFHUE9jb1BOTGF0SXI5V3ZOV2JmRm9LcE5IY0lYem9UVHlyNWU1cU5LY25FYVJfNFNMVy14SE9oNjFaVjVUM2J4MVhyaHlJTUpqUVpiZElCbzBhSlFTcXZ1SERHdGtWNVRPX2cwWC1RNlR3QnVNbHUwbHc?oc=5",
+      "domain": "www.ox.security",
+      "publisher": "OX Security",
+      "publisher_url": "https://www.ox.security",
       "language": "",
-      "seendate": "20261020T161812Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYTNkOHlyYUpPZllfN091NVlrbUpiRUxRS0JRek9ROWZRZlowUVlic256S2d6VUkxMkZfRUxGS0VCSTlQME9nOFhQOEh4RG1NbDFpbENLRy04T1Y2WnFYU1U5Mmx6Q1VsNWc1c2oxR3NzU0NydWNabVl4akdqSHJGNk9FOXo5a2ZDMlpDR1RkU0JIZUFMaW9qaHluUlJtSG91a0NqeTBnNlNpanVjS3Z1YW5NWDFhYXdWM2p4OURVYms5aWg3dVpReks1bXNvZG12UnlPMDlaTlUyMnlac2dF?oc=5",
-      "domain": "www.theregister.com",
-      "publisher": "The Register",
-      "publisher_url": "https://www.theregister.com",
-      "language": "",
-      "seendate": "20261020T173326Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Can government and industry prove they’re ready for a cyberattack?",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzYkRsRVVBWWduSEk2dzJYSEhJTkxETmhYUHl1QnVXdldpa2VKN09MVEgwc2Q4aTJHUEFJM29lQzhON3poRnVYODROaFpLUkx6UldSMTNreXRQMExVbnJ6RGJQRXBFbVlRY0dkQlNBZ1kxVTA?oc=5",
-      "domain": "fedscoop.com",
-      "publisher": "FedScoop",
-      "publisher_url": "https://fedscoop.com",
-      "language": "",
-      "seendate": "20261020T150213Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam9xTThueWJIQ0xWWjE1VEM0dC1IOHVYelF1SGI1d2FmdUxKUWpTNzFXRUtEdDNtLWJjNVpnWXNUYnVMMlctdFR0T0pPN1VUUVBDdFkyNjNhLS1NOC1rVmd2SlpJODhoQjRKMjU5R014NUFMNmVqZ0MyNTNhLU1iUDBaQXg?oc=5",
-      "domain": "thehackernews.com",
-      "publisher": "The Hacker News",
-      "publisher_url": "https://thehackernews.com",
-      "language": "",
-      "seendate": "20261020T153200Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "New details on Alabama ransomware attack",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iQms4VW40MTBuT1hpSllCLUZtS2d1ZHg0b3QycG5wejBubVZkMnIwVUxhak5FMTU3X3hXSmhab1J1S0tKR0pSMWsyQ3lLbDMwSnRzSm9xdER6X2V6eUh4Vy14SXUzeUVOQVV6UEVzU2J0VmFYZDgxRnpBd9IBjwFBVV95cUxQSGIwb296MHFGY2JhTWdBTWZlOHA1bzdoTllmRTFPcUZKQ2t1dEFFa1QyR3FVUUdkTnhla2JEdkptZnJrXzBPaTF1RHBjVEhRNjBWeFluVVE2Q0FFRHNwMHhvYTNZQldUdE94ai0yUHhxSUhrNnFSOGppRGptYjUyT2E1a0VjbG52ZUxKaDBTTQ?oc=5",
-      "domain": "www.fox10tv.com",
-      "publisher": "Fox 10 News",
-      "publisher_url": "https://www.fox10tv.com",
-      "language": "",
-      "seendate": "20261020T150900Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "There's only so much code: the rise in vulnerability numbers",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUVIUVFuT1hmNkt3MnNjcWo2Z3BTUnk5eTI2ZFZyOUFZVHFrenIxcE1OYmNoZU0tdkJRMUpPQVFzVEVQbll4TGx1TUxHcTNGWmZHUWdIQzdEM29wNVpMMF9Wd3ZRc2ItOFM3RVhpNm9EMFlLUlFyUmdrRW1kcU44ZGk5QzY2OWFsa1RCVEwweGoxMTMwTFRLNGNB?oc=5",
-      "domain": "blog.talosintelligence.com",
-      "publisher": "Cisco Talos Blog",
-      "publisher_url": "https://blog.talosintelligence.com",
-      "language": "",
-      "seendate": "20261020T153615Z",
+      "seendate": "20261021T114323Z",
       "source": "GoogleNews"
     },
     {
@@ -612,13 +562,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEdYbExXaVFjY212elVRT0YxM0FIa2FUMGhSRjJsS0Y4enVEdmdGNnNUVDlHTGkyakdxbkpUS3NzdTdjLXpqc1pXanNJQzhjWGxRVndCSDJBZC1PU3d2RVlrcHlDbUZfY0NoRmRfTkF3QnhHMThtNGNsSGc1NHktZkdlOUNwQzEwY0d3SnB2RQ?oc=5",
-      "domain": "therecord.media",
-      "publisher": "The Record from Recorded Future News",
-      "publisher_url": "https://therecord.media",
+      "title": "Critical vulnerabilities in PHP | Stay tuned for php2shell mitigation and patches",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FLVhreTAzY012MHgwLTlWeW8yN25DeS1tSTdEQnozbG9sRjN0Tlgxc0cxSm55NGlRSEt0UWp0ekx5SG11MFpCQTh1Wk1JNzZ6QnhhS0VyMS1vci1zTzc5dER1V0tTd1pQajRsRnlvQy12VWlRWGJvNQ?oc=5",
+      "domain": "www.aikido.dev",
+      "publisher": "Aikido Security",
+      "publisher_url": "https://www.aikido.dev",
       "language": "",
-      "seendate": "20261020T203746Z",
+      "seendate": "20261021T103211Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "PHP vulnerability puts WordPress, websites at risk after leak",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3emI1a2hSRC1TbnZMdFNKWTI3amRfV29Jb2dOVWtPdkkzRlk1OUxPNFlUQmhsVnRPYldLYUYwR2l2d3RkakdCZTNIQmxtMW0tUjE4dlhNVzB2cUpENFptZ1lVZWZKaTJvZ0tGVnFOeWQ2TktDc19zWmJR?oc=5",
+      "domain": "www.chron.com",
+      "publisher": "Chron",
+      "publisher_url": "https://www.chron.com",
+      "language": "",
+      "seendate": "20261021T042922Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Ransomware groups expand targeting of Palo Alto Networks vulnerability",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXlLMW9kbnlTcFVMbGQwQW0wTFhuOGZkOHBFbUNKLV8xTW1nZ0dxbDBMaGpMM2luVWU5eFZzVUprdXhqeGxnR2pad2F0QUw3Um1Wckszamx6TTVicl9hU3ZEZ25NeFp5ODF1TlFrdHJSbC1LVlNyTG9YTF9UTW1BN1JjNldXcHZMMjZzWVVvV3JXNWpLUVo5RDNDRGstRWstT1E?oc=5",
+      "domain": "www.cybersecuritydive.com",
+      "publisher": "Cybersecurity Dive",
+      "publisher_url": "https://www.cybersecuritydive.com",
+      "language": "",
+      "seendate": "20261020T161812Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjN3SkNMZnRrQWkwSmJjQWtoOFJQeHN3VWM0VG84eGJwcERUUFRVelVoU1QxM19FRXdwYmdkVVpmNjJjWkhhQXFkeHh5bmxwSmp3NmRaMjdnNGdwV2hkNDY1TENadEFiSUhESy1ydVItYVl4RUFQdVV2M0R3d0Uycg?oc=5",
+      "domain": "thehackernews.com",
+      "publisher": "The Hacker News",
+      "publisher_url": "https://thehackernews.com",
+      "language": "",
+      "seendate": "20261021T065929Z",
       "source": "GoogleNews"
     },
     {
@@ -628,57 +608,77 @@
       "publisher": "WMAR 2 News Baltimore",
       "publisher_url": "https://www.wmar2news.com",
       "language": "",
-      "seendate": "20261021T020405Z",
+      "seendate": "20261021T084505Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Giant Food's website and mobile app return after cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjFuLWRCQUExc1VFVTZNeERfd3RYX2RnSWlLYlBmdzBVZ1ZkdXAtUTE2SUk5dWJxZ0ZJLVRZa0VpOFFjYW1JSy1NS1VSUzI5dG14QjRBOXZXVkRzeHp6MzJmUGczNGJreWlVS3BrOVpwVGl2QUVIRHhTWVZleEl6Q1JsUWZzellDd2l2aWhpcnB2WHM?oc=5",
-      "domain": "www.wbaltv.com",
-      "publisher": "WBAL-TV",
-      "publisher_url": "https://www.wbaltv.com",
+      "title": "A critical PHP vulnerability may take websites down today",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjA1UFgtSGptdk5uM0dRTkw1RGxpdTZGNHo3Tk1aaUxQMVVZY2FDVk50ZlpkSlptWXlJR0MySktqUVMxQ3pfTUdSY3Zfa1Bmcnd0a2tFTkw5bG1VN0NqQWU4bGN0X2JSdVZDdGdWZHBjZHJpT24yOWJ6ZUZKckRrYjZQa3dpRkdhdmJ1WGJ1OVR5UQ?oc=5",
+      "domain": "www.theverge.com",
+      "publisher": "The Verge",
+      "publisher_url": "https://www.theverge.com",
       "language": "",
-      "seendate": "20261020T193200Z",
+      "seendate": "20261021T114917Z",
       "source": "GoogleNews"
     },
     {
-      "title": "GIANT app and website back online after cyberattack; 10% discount offer remains",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOXcyX1VJWDVXNGhpZ0tzY1NvQ0FJQ2hWU3lCM201T01iNXg3RHJXMlllQS1RVElwXzJ0RXRsRTlaU25kVHcxLThfdVdlbTJPVHRIbmhkR1YwX1hEaFN4UmNYOFJZMU96TG9HNzRsVUZGLWZqTGtxMXN1RC0yWW9heG5JN2JfUUV6ZFFZczFNMXhZSi1hSjJYd2tra0VHLUlhc2drdmY1RTRlVjFKLXZLRTZEbkFEZXdCNTdxZTFHUndmWTJ0cUZFZNIB0AFBVV95cUxOSk50Vm9zVWxsdE41LXd1NHM5dHpHV2ZXQWtwd0tTLVV0aEMwY25HakoycGl0X05UdWJta1VTOG5MX0hfbjlJa19xWUJtdHlpU3JJaTZLN0E5QjFCRUdhMHlrWFdSRWpZVVBiRDgzLXlnSk9DYkRvRFNOT0RzeTJBeGJLaFB0dU0xbndZcEVKNjR6bE1jZS1sb195ajk2MVozQ0JBa1ZpUzRhOEJCZGhUMUJ4UFFqSV9PSUNSS0hKYjFYbEZNUjlxMndDanlJZ3d1?oc=5",
-      "domain": "www.nbcphiladelphia.com",
-      "publisher": "NBC10 Philadelphia",
-      "publisher_url": "https://www.nbcphiladelphia.com",
+      "title": "Cyberattack Hits India’s Largest Bank, Exposes Customer Data",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Qa3JtZVBRejB4NGRCbjNWODJLVWtpeFJSQWIwcEJJb2lUQWZLVFNKSmZGM0VoR2VEeEtpcUx0MG5ieEFUMHF6d1BhWTFrTkYyUjdmVkRCQVpURjFra25VT2wxZU9FQlZnZHJKdzV3ejZjTkVSNEEyZ0xIdGdEQQ?oc=5",
+      "domain": "www.insurancejournal.com",
+      "publisher": "Insurance Journal",
+      "publisher_url": "https://www.insurancejournal.com",
       "language": "",
-      "seendate": "20261020T221632Z",
+      "seendate": "20261021T114605Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Building systems as cyberattack targets. ‘We’re sitting on a time bomb,’ security expert says.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2pLTnBWRFlmOEYxVUgwbnFUeFFtMnNaNEJiUkRpTml1TEtGNTlVMlRERm5nNE9EUWNDVEF3RElhTXhVNlNFblRkR2tfSUFkZkNJSEl5U0dsOWZocldtRjZMSnpqTFUxdzhNQ0pLaVRZcW5NQzZrLXcwUFlyNmp6MkwyZ0Njdng4STZKYy1RQWRLNlRqRE5OMldtQXJ2VVNjQ1VOTXI3UGd1S2FxX29wdmNvRG1CNVE?oc=5",
-      "domain": "www.facilitiesdive.com",
-      "publisher": "Facilities Dive",
-      "publisher_url": "https://www.facilitiesdive.com",
+      "title": "Children’s Data Stolen After Ransomware Attack Compromises ‘Password1’ Account",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OaEVBRDJpZGdZQlc5ZWZQcmRiUFlZd1dVREcwTDIzcnNiWVJyZ3RrVTlXcGdzZklrUzB4UDduX0haQk5ZekNFb2l0TW1kcFc3d21hVE5Xa212Tl95ZFhMSlhvMnljalQtNEdUcjRiNmdzaTNYTVRsSjhQUm9NeEE?oc=5",
+      "domain": "www.infosecurity-magazine.com",
+      "publisher": "Infosecurity Magazine",
+      "publisher_url": "https://www.infosecurity-magazine.com",
       "language": "",
-      "seendate": "20261020T135703Z",
+      "seendate": "20261021T090500Z",
       "source": "GoogleNews"
     },
     {
-      "title": "PHP maintainers tell Web devs to prepare themselves for critical security patches",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDZITTFKZHdQSEwzb1IwZFBBdlpvRTN6VkRsRG15UkdlUzc3WXJhdWxXbkNZMW5sbTk3UkFWODNLVGxqc1BYdmUyOWxRTVJtYXJENFRuQ3c5RjVLVGRyMk9ZZkxhYkRWNVp1ZjhkaGdaY0s3emY0Wm5HekVtWDZVR1lQXzNtZjNsZE1ZMk00V2sxd3FNQzlmQUdTaG1QOXg1T2t4Yk10OFhaVXBhaGhhRVg2eVVKVFJIOWxCYkx3aEc?oc=5",
-      "domain": "arstechnica.com",
-      "publisher": "Ars Technica",
-      "publisher_url": "https://arstechnica.com",
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0R2a0hoNHNNN0Q2OE9hcFhDaGhrZkIyRk0yMnhlY1JlV0JHT1hnMHVKQUdqU2Z1VjJtN2NWWUFET2VTVlo3Rm0zaWMtUnR5Skx1VFJRNzNKc1czMllqVHY1aGxobnhhUnhVckQ4NVpwSlduR09jeEJSVE9iZ0Vuc3luWW1EZURobW9icGw5ZU5PdXJ0RnhJbldMQkwyR2l2V3o1YXhXc3N1VGpTZ2I3NjJyOVFhVzM0bFpTWQ?oc=5",
+      "domain": "www.bleepingcomputer.com",
+      "publisher": "BleepingComputer",
+      "publisher_url": "https://www.bleepingcomputer.com",
       "language": "",
-      "seendate": "20261021T021218Z",
+      "seendate": "20261020T205643Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Discovery of cross-domain cyberattack risk targeting electric vehicle charging navigation systems",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMG1PdU12eV9qMmhRZG4yZlFqUlRxQS1taUNNRzJwM1NmSHVmcGZxQi1aQ1dlYkZDa0lXYTlXWVMyRndsWU5pQklTNGl3ZHJ6ZnFaMFVtNEJ4WmNONmU0R2d3Y0RtamY3Vjk3ekpoVWFvNFBxdnhWLV90LUdHUGRERV9XcVZyVkpEYk1Beko1cw?oc=5",
-      "domain": "techxplore.com",
-      "publisher": "Tech Xplore",
-      "publisher_url": "https://techxplore.com",
+      "title": "Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHhicmtOdV84ZFVNRnppZFVzc3FJX1VjRzVaWU01V1o5QjVMbWh4M2sySEh2bVVVYmVpTjlSdm1Tb3RJUEZTTjBOQjM4cWxrRmRmVVYwbHE1eGd3YmNLMmFyWG1VaGNmRUdmX1VGYXBraENZZkFhNnJsNG80NktwbWRzYWxxZF9uRFBZa3dBUU9wWWpSbXdSRTBDQlhiZFVOU1BBQVoyR2l2bWM?oc=5",
+      "domain": "www.helpnetsecurity.com",
+      "publisher": "Help Net Security",
+      "publisher_url": "https://www.helpnetsecurity.com",
       "language": "",
-      "seendate": "20261020T184012Z",
+      "seendate": "20261021T111339Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Cyberattack Hits India’s Largest Bank, Exposes Customer Data",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkxrd0FBbDVtbFF0WFZ1aE96V21qSGlHcmhoeU0xUVhFOVZFUm8zdWdPNGJRVWNuQTlKemZfNzdMaWsxNjFMYUZDVFlaWWVuZUJrVHpuR1JkS1VaMDZNT2FfYWRPZXFJRVJjbDhZNVZZWjFqak1IZE9ka1ZEREVXTHRNcXltTzBtQUZrY0dyb1lSZmcyc3ljMDRPVXdoTnNIRGctdENadXl1RFNUak1PUVU2UQ?oc=5",
+      "domain": "www.bloomberg.com",
+      "publisher": "Bloomberg.com",
+      "publisher_url": "https://www.bloomberg.com",
+      "language": "",
+      "seendate": "20261021T062600Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US and Allied Agencies Warn SafePay Ransomware Has Hit 600 Victims",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPak5KWWdmU0ZlcksySEdzUFkzV2c4ZndaeGxVSXZLWVBiZlN3TWVjaUt3cmtVVkhjaUpsZ3VDWFdqSlQxVlJLTHdfMU51dGp3dDlIVkNJYVY3ZzVBcjlVWjdEVWM0VU9rUC1OaUlEdjJhUExLSGdpdURfZ2ZGWGNjQTBkQW8xblJwUUU2V2JiaV8?oc=5",
+      "domain": "www.technology.org",
+      "publisher": "Technology Org",
+      "publisher_url": "https://www.technology.org",
+      "language": "",
+      "seendate": "20261021T101300Z",
       "source": "GoogleNews"
     }
   ],
