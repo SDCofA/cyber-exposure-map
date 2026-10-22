@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-10-21T22:00:23.962627+00:00",
+    "generated": "2026-10-22T05:28:50.458868+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "40"
+      "value": "43"
     }
   ],
   "live_data": {
@@ -49,16 +49,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261021T204647Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Cloudflare deploys protections against php2shell vulnerability",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EdDdqNHduOEE5YklCczNqNklJSkVlZERaRHNVTnpEMnJudUd0SEpsdFlOR1R4dy1PamlvQW5EWUtMWl94bkEyWjFTV1kzbDM0NjR2U3RjWm5uQkVITTJpXzlRZnpuQ05MNmIxMWhrTng?oc=5",
         "domain": "blog.cloudflare.com",
@@ -69,23 +59,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Critical security issue affecting PHP",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wdm9SdW95Tm5BYjN5d0Qwa0h3a0E5T2hOT2ZoNHFleTdxcHg0WnhjdWlrdHc3bnlpOHRtUGR2bjEzcTFlOVdxOVBGNWJKUGV1Rjhsa2VnTUxPNFNKWG94eVNLanFpaUdXNDBRTmo0WFo2Q0Zx?oc=5",
-        "domain": "www.ncsc.gov.uk",
-        "publisher": "National Cyber Security Centre",
-        "publisher_url": "https://www.ncsc.gov.uk",
+        "title": "Security Alert CVE-2026-91403 Released",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJOFJaUlZGVFpGc0xoQm1yZ1lsck10TnlPeE5NczhBSElqdXhPU0JEUkV1UnJuNlo5RnRfTEY4MkNhV084V0c1UUZpeEV2TmFzQUZoaWdyYi1GVTFVMVZjaEFGNVZObWt0OVR1bkloSW10RXdPTktaQVQ0YUY?oc=5",
+        "domain": "blogs.oracle.com",
+        "publisher": "Oracle Blogs",
+        "publisher_url": "https://blogs.oracle.com",
         "language": "",
-        "seendate": "20261021T120000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaSXRUMkVsWkF3TjhoV29oTXdyZHhrMGZINFBHNVVrNmZubTA4SkFzMzlWMlNMLW15ZWdISDJYeURJbVdpTFB5ZzNTU21aazFfTmc4R0VkLWVyMVY4S1JRYTZ5UjJqWk82SlR5Q0ZMOTJrNEJVeXNV?oc=5",
-        "domain": "unit42.paloaltonetworks.com",
-        "publisher": "Unit 42",
-        "publisher_url": "https://unit42.paloaltonetworks.com",
-        "language": "",
-        "seendate": "20261021T164228Z",
+        "seendate": "20261021T220124Z",
         "source": "GoogleNews"
       },
       {
@@ -99,6 +79,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaSXRUMkVsWkF3TjhoV29oTXdyZHhrMGZINFBHNVVrNmZubTA4SkFzMzlWMlNMLW15ZWdISDJYeURJbVdpTFB5ZzNTU21aazFfTmc4R0VkLWVyMVY4S1JRYTZ5UjJqWk82SlR5Q0ZMOTJrNEJVeXNV?oc=5",
+        "domain": "unit42.paloaltonetworks.com",
+        "publisher": "Unit 42",
+        "publisher_url": "https://unit42.paloaltonetworks.com",
+        "language": "",
+        "seendate": "20261021T164228Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP vulnerability: PHP security issues today explained",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hbEU0NjAwU2FERHoxUHIzRmZIRHVLMTFzdEh6SVVsUnM1Tm95T0xzWEJvZVdmRUlxd0h4V3hrQXdBVDV1UDhIMkZ5M3BxRnN2Q1dEWF9CZG9SY3l3Q0hELWV2YnBXZGg5X1lyb2FhZjYtVFkzLWFZVQ?oc=5",
+        "domain": "mashable.com",
+        "publisher": "Mashable",
+        "publisher_url": "https://mashable.com",
+        "language": "",
+        "seendate": "20261022T022205Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWtyNmN6NlpUeEZKV3VKTzlKcmYtSlZlU3RyVXgxNGUyb0VQUVRwaWtGYjBfeUNsNmgtMU81TGNIc0RvZ1ZOM2JIeEJFRVN6TWtwOUFCNmFZMXlJQXVuRTBrSk5oc0NUTGxqSHRrV1p1UlZkTkJMZlNscUsyYi1lbmtBcDNIdjFFdXI3cENPMVJFVzNRYWRvVUppNXgxdklPM2MtT1pTNF9yZUNtb05ONGFrVEE0OWEtWUYyb2FNeWwyYmhxdlE?oc=5",
         "domain": "www.rapid7.com",
@@ -109,13 +109,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0R2a0hoNHNNN0Q2OE9hcFhDaGhrZkIyRk0yMnhlY1JlV0JHT1hnMHVKQUdqU2Z1VjJtN2NWWUFET2VTVlo3Rm0zaWMtUnR5Skx1VFJRNzNKc1czMllqVHY1aGxobnhhUnhVckQ4NVpwSlduR09jeEJSVE9iZ0Vuc3luWW1EZURobW9icGw5ZU5PdXJ0RnhJbldMQkwyR2l2V3o1YXhXc3N1VGpTZ2I3NjJyOVFhVzM0bFpTWQ?oc=5",
-        "domain": "www.bleepingcomputer.com",
-        "publisher": "BleepingComputer",
-        "publisher_url": "https://www.bleepingcomputer.com",
+        "title": "Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMXE1MTlaZ3ZHc0RqN0E3MnBqM2xDeGJLOEU5MDVodnE4RGsxeWNBZGtwdzluS3UwQ0JEU1BWa1d1dXk4SkJvOGR0alZSODV2bjNTTGQzTnllZkNGWUZXQUdYa1dtNE1IUnF1aXVfZE5pTnJXbVRyZlVQRzJ4T1hGUXYteWd4YXZrMXZTZmRxX2ZWWktLd1BEalpmNGM2YWdXYXQ1d2hxVUV0TFJET0wtTTlSTFZTUWJJM0tyUXdycmZJOEVQOVE?oc=5",
+        "domain": "cloud.google.com",
+        "publisher": "Google",
+        "publisher_url": "https://cloud.google.com",
         "language": "",
-        "seendate": "20261020T205643Z",
+        "seendate": "20261021T142914Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP2Shell: PHP Patches Two Critical RCE Vulnerabilities, Urges Immediate Updates",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGhPNXhLcTVQUzdSck1XajM5M0V5MllLMGNET2tEX2lSa3B5ZXd4UEtUWnN2YkZkdDJjZWwxN0VUa3YxTnZOdUZqRFBNb3ZGNkhfX21LSWRodVNXRlpYOXpjb0Z0TVZFVmR0UFdVWFRiT0s1bjhRcTFFY2trZVZXZHNNbk11aDdza0ZPNUk1OWVKd3FFTHRCbmZxSUhXMlZrQnlMQjF0NU9fcmp5dHRKZVo2SGJZbEhnR013TnduX0sxZ0VfT1BSVVl3?oc=5",
+        "domain": "blog.qualys.com",
+        "publisher": "Qualys",
+        "publisher_url": "https://blog.qualys.com",
+        "language": "",
+        "seendate": "20261022T025145Z",
         "source": "GoogleNews"
       },
       {
@@ -129,23 +139,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Joint statement on critical PHP vulnerabilities",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnN0WWd2MHViY29IbDVfSzlWNTJtZC1GLTQwVjJrNHFUVWQyc1JKTjJVMFpYbHBGM2dyUkVCSG5ETjVfMXU0MDlsLVhabXREcEpuMU9QTVlrRmF4Tlh5QWNOblBqcUl3M0xmSGxiZ0RfT0Nqc2Z5LVpJX2Q2VWVMWGdBNU9POGs?oc=5",
-        "domain": "www.enisa.europa.eu",
-        "publisher": "ENISA",
-        "publisher_url": "https://www.enisa.europa.eu",
+        "title": "PHP2Shell: How to Find, Prioritize, and Patch Affected Systems",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPay1rNHNqODBGTHBTTXY5UVFyeV9rY3VONk40cTYtLWRudi1nbFM1QlVaeFBkY2hqaWZ5YU9raTBRZEJncjl4LUlLWlRmcXNnNjhiNFpyenE4MGd2TUc1bFphdEdwVGx6cnNQUTNpUXdqSU9fSXJVb1ZMa0hKWUtSTk1JeGtrS2VKOEVteDZtYnU?oc=5",
+        "domain": "www.armis.com",
+        "publisher": "Armis, The Cyber Exposure Management & Security Company",
+        "publisher_url": "https://www.armis.com",
         "language": "",
-        "seendate": "20261021T174906Z",
+        "seendate": "20261021T201843Z",
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-109618 & CVE-2026-109619: PHP RCE Flaws",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85a2Z6VkxZcXZ4TXhja0ZoSWh2MXZkRllzdEYySU9HbjlhcEQ0NlVrRHJnMHlCaDQ0ZUhIYmNPejZucEdWdXdYZV9xVkpGVHNLa0lZUU8yWmV6N3pIbE9nSEc3RHA5MzV1dWtGanRTQzc5aHk4RGc?oc=5",
-        "domain": "socprime.com",
-        "publisher": "SOC Prime",
-        "publisher_url": "https://socprime.com",
+        "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5",
+        "domain": "aws.amazon.com",
+        "publisher": "Amazon Web Services",
+        "publisher_url": "https://aws.amazon.com",
         "language": "",
-        "seendate": "20261021T104022Z",
+        "seendate": "20261021T223626Z",
         "source": "GoogleNews"
       },
       {
@@ -159,13 +169,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "PHP2Shell: How to Find, Prioritize, and Patch Affected Systems",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPay1rNHNqODBGTHBTTXY5UVFyeV9rY3VONk40cTYtLWRudi1nbFM1QlVaeFBkY2hqaWZ5YU9raTBRZEJncjl4LUlLWlRmcXNnNjhiNFpyenE4MGd2TUc1bFphdEdwVGx6cnNQUTNpUXdqSU9fSXJVb1ZMa0hKWUtSTk1JeGtrS2VKOEVteDZtYnU?oc=5",
-        "domain": "www.armis.com",
-        "publisher": "Armis, The Cyber Exposure Management & Security Company",
-        "publisher_url": "https://www.armis.com",
+        "title": "CVE-2026-109618 & CVE-2026-109619: PHP RCE Flaws",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85a2Z6VkxZcXZ4TXhja0ZoSWh2MXZkRllzdEYySU9HbjlhcEQ0NlVrRHJnMHlCaDQ0ZUhIYmNPejZucEdWdXdYZV9xVkpGVHNLa0lZUU8yWmV6N3pIbE9nSEc3RHA5MzV1dWtGanRTQzc5aHk4RGc?oc=5",
+        "domain": "socprime.com",
+        "publisher": "SOC Prime",
+        "publisher_url": "https://socprime.com",
         "language": "",
-        "seendate": "20261021T162843Z",
+        "seendate": "20261021T104022Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Joint statement on critical PHP vulnerabilities",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnN0WWd2MHViY29IbDVfSzlWNTJtZC1GLTQwVjJrNHFUVWQyc1JKTjJVMFpYbHBGM2dyUkVCSG5ETjVfMXU0MDlsLVhabXREcEpuMU9QTVlrRmF4Tlh5QWNOblBqcUl3M0xmSGxiZ0RfT0Nqc2Z5LVpJX2Q2VWVMWGdBNU9POGs?oc=5",
+        "domain": "www.enisa.europa.eu",
+        "publisher": "ENISA",
+        "publisher_url": "https://www.enisa.europa.eu",
+        "language": "",
+        "seendate": "20261021T174906Z",
         "source": "GoogleNews"
       },
       {
@@ -175,17 +195,7 @@
         "publisher": "The New York Times",
         "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261021T190436Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical PHP vulnerabilities expose most websites to potential compromise",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yMV9FaVpSX0FmX2NRQzJ5bEN6Nld6UG1xQmZDbmpMOExSMmszVEdQZGdEb3lYbU5JdjJaYzZ1Z0JYa0Zzc2kyMWFqRkJGNTJBZDdCTEF1SmtCUTIyM19kVEJ1QV9ySE40MkFVTEstRUhXaHFreDEzRXhpS1RwajQ?oc=5",
-        "domain": "www.cybersecuritydive.com",
-        "publisher": "Cybersecurity Dive",
-        "publisher_url": "https://www.cybersecuritydive.com",
-        "language": "",
-        "seendate": "20261021T164940Z",
+        "seendate": "20261021T184333Z",
         "source": "GoogleNews"
       },
       {
@@ -209,16 +219,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-111943: Go Blocks Compromised eMudhra CA Keys After Certificate Authority Incident",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TMUJQVGc3LW5KNWNtdFVFZ2czSXhZSzllZGM3akpYNDA5S3hWNGJZdVYyUzM5ZUN4ektqcEwzYlNMVW9kemJvczlZSmdZU0lfbjVfaGlnMzJkQVFQeXZHSg?oc=5",
-        "domain": "socprime.com",
-        "publisher": "SOC Prime",
-        "publisher_url": "https://socprime.com",
-        "language": "",
-        "seendate": "20261021T104023Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Millions of PHP Instances Exposed - What Organizations Need To Do Right Now",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVVJUmdHOVFkdTlvYkJmaTNxbUZ1VmljU21zV3EtNVFkemdxLXVSQlREeU1WVktxTENjYW53dFYxX1hmWWdXaUR2dk00dnJDVWU5czJ1ZmlTSUUySE1qUVcyM29CMlZHTkZMTzNzN3Y0clFBc196Wml0YUVIX1dRczItaEJCa053NWo1enRhbmdMc0dkYVNiQWItSGZ5emVGZG00WDcza2hpaGdrdjhhRGo5SDhENUV2dWMyTw?oc=5",
         "domain": "www.paloaltonetworks.com",
@@ -229,213 +229,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Two critical RCEs in PHP core",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zN3ZxNXRYbmtlVzVQNU53dTAwLXk1WUxZckEyZ0RaU1pvNXVDQnctWGE3anY3MUt1NGdsUlB2bzhsQXBkcXljdmtTWFFENkVacVFnUF9kdmp2aXNkWmw1dWkxX2IzMERMa2g5TlJOWlJPVE0?oc=5",
-        "domain": "blog.talosintelligence.com",
-        "publisher": "Cisco Talos Blog",
-        "publisher_url": "https://blog.talosintelligence.com",
+        "title": "PHP Multiple Vulnerabilities",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGtoTkc3ZUpUZXFoWWpneE1VSzFrYURXRlkzUU5Md1RESzRjV3g1ODlGbzc3bHdkVUR3Q2tGcUhvdjZqMG50MFFpNkpfZE11RFI0YldNdXFjY1AweDNWdkxJdHJVemRFalVkOWhDZjd3QTlNX3VHamU3T0tSMDEwYjdBTmI?oc=5",
+        "domain": "www.hkcert.org",
+        "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
+        "publisher_url": "https://www.hkcert.org",
         "language": "",
-        "seendate": "20261021T151116Z",
+        "seendate": "20261022T012344Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Flaw in PHP computer language leads to shutdown of websites around world",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0xIdjQyZ2hJRTcwMWVTU0hNVW9ZQ3lMbFFOdXJxZXVET2dRby1UcVVwaU1LVnNvWktmdGxLMU9QVWhHZFhpWVlRWmxvTzdkRFh2b3FEYjVoNlN3dlJBclFZNlduZzc1OHlSU0MweUZXdEJaTDRUTzVqTHp1NGRfSkhkVHpLX245Sl93ZWYwVUlYTWpkWnllRkZVMGNPQV9vTEYzTjNBYjdvUEpnbHk1UHI1UUdPRlNORGlKQnphSGc?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
+        "title": "CVE-2026-111943: Go Blocks Compromised eMudhra CA Keys After Certificate Authority Incident",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TMUJQVGc3LW5KNWNtdFVFZ2czSXhZSzllZGM3akpYNDA5S3hWNGJZdVYyUzM5ZUN4ektqcEwzYlNMVW9kemJvczlZSmdZU0lfbjVfaGlnMzJkQVFQeXZHSg?oc=5",
+        "domain": "socprime.com",
+        "publisher": "SOC Prime",
+        "publisher_url": "https://socprime.com",
         "language": "",
-        "seendate": "20261021T211100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FBI, CISA warn that SafePay ransomware poses threat to critical infrastructure",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWElmNk5keXBOZG9JQ0hRSnB2WjU0RklnU1RvZFBLcWRPWjFmZGxBN3VWSzgyZGRwaGlSYmticTNmTUFsYTgyTmZBVXVPZk1iX2Q3bjBsLTF2d3RCdDdBNE5RQWVDWVVwZlhQSkVnaDFxMmdfYmxYYkJIRDEtMjcyOTBfREp6ZkprTjlEY2doQjNiMXBwWUdpeW5JbE9QQllBS0h2dkNyR2daTmtCNkFB?oc=5",
-        "domain": "www.cybersecuritydive.com",
-        "publisher": "Cybersecurity Dive",
-        "publisher_url": "https://www.cybersecuritydive.com",
-        "language": "",
-        "seendate": "20261021T153313Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzUyTV9XMDlzQ0YzaTZGaTdramlUbFl1YTQxQjNRVXRFRThlM0htaGtHWG9EZzNuTmVRQUp6emZjOXBPa0NYS3JpMG83UlB5NXhCT0JoSEtXQ245dGdiaXNhcGExQVQxNC1nQk1VSXEzZXBLSUJWS3BTR01nRDdTTVNoN0JpaDZhUEgzcmkwLThFNVJZ?oc=5",
-        "domain": "krebsonsecurity.com",
-        "publisher": "Krebs on Security",
-        "publisher_url": "https://krebsonsecurity.com",
-        "language": "",
-        "seendate": "20261021T180758Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PHP2Shell: How to fix PHP RCE with patches and free images",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FLVhreTAzY012MHgwLTlWeW8yN25DeS1tSTdEQnozbG9sRjN0Tlgxc0cxSm55NGlRSEt0UWp0ekx5SG11MFpCQTh1Wk1JNzZ6QnhhS0VyMS1vci1zTzc5dER1V0tTd1pQajRsRnlvQy12VWlRWGJvNQ?oc=5",
-        "domain": "www.aikido.dev",
-        "publisher": "Aikido Security",
-        "publisher_url": "https://www.aikido.dev",
-        "language": "",
-        "seendate": "20261021T142539Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Feds Issues Advisory About SafePay Ransomware Group",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3g0MWM0dm16Yk9oOXV0ejhHdW9pcEhuNWtQZmpOS0dPYmtiazhTSkNQbjIzTzN0bXh4Z1RkZDBoWjlkdHR0TXMzN0RYVlpxbXJIcUVFczdIM1VObVBMN0RST3ZFeVZHYlFreDFKZ01Bb2VJWXZ3M2lDODNRZ2FKaEFCb3JDRmJC?oc=5",
-        "domain": "www.hipaajournal.com",
-        "publisher": "The HIPAA Journal",
-        "publisher_url": "https://www.hipaajournal.com",
-        "language": "",
-        "seendate": "20261021T140553Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUYWp2NjhKVmlxcU5uWFhHTU5veEhRVVhCNlFGc1YyT2doY05aVU5ERExoZVRYTUNFYVpscDNHRFFFOTFaQzNzTTk2MkVqN1VmQmZaY2RQbzM4SF85RHZaOTNsRDB2aXhmbnRadUUteE96Vlp4V21wZl8tb0J1NzA?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261021T185700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical Remote Code Execution Vulnerabilities in PHP Core",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkhLQTU0TWp5c0Y0MW96SkRqTFcyNzZqQVRFclJBclZNZHlFZGdrdzZ2anoydmU0Z0RuSE83UGdWZ05SbVIxTHJCa19CU3YzNDFqd1JXZVJRYm1OUkNlbEZ6OUVIUU1Kd1gwREtWT3U0RHdzazJSYThxbjczbklUMTI0QmcxMU9XYW1POTNwbkZXclV4MXBiamhibU5fd0M2VzlZ?oc=5",
-        "domain": "www.akamai.com",
-        "publisher": "Akamai",
-        "publisher_url": "https://www.akamai.com",
-        "language": "",
-        "seendate": "20261021T143321Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PHP vulnerability: PHP security issues today explained",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hbEU0NjAwU2FERHoxUHIzRmZIRHVLMTFzdEh6SVVsUnM1Tm95T0xzWEJvZVdmRUlxd0h4V3hrQXdBVDV1UDhIMkZ5M3BxRnN2Q1dEWF9CZG9SY3l3Q0hELWV2YnBXZGg5X1lyb2FhZjYtVFkzLWFZVQ?oc=5",
-        "domain": "mashable.com",
-        "publisher": "Mashable",
-        "publisher_url": "https://mashable.com",
-        "language": "",
-        "seendate": "20261021T191435Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Resilience reports energy and utilities sector faces rising cyber exposure from ransomware, vulnerable OT systems",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2lxTDVueEhsYVMwT0IxbUl4QXhGZkFJS2FuaFlINVozYUlsOFI5c2RURGttbWxYRmVKN082RkxRcVA2Vkk1WXpfOGJmU2VFRGV6OG5OSHVWVWlieFo3Rk8zTkxvczh5aUNBSDlKWk1DN2lldHRCQnpyNEhDMXFfRDJzMnp3aDZ2ZU9jVUlxWFp4NjJOZWtFSXluTHVEbGU3WE1oRVZPRVJ6bTExSlUyRVpfcVU4WTh2UmJiMzkwS1hoRVdFaEFBN3VHZFRlWXBxMFc4dDBYenNZbVVTalVOcGRn?oc=5",
-        "domain": "industrialcyber.co",
-        "publisher": "Industrial Cyber",
-        "publisher_url": "https://industrialcyber.co",
-        "language": "",
-        "seendate": "20261021T125538Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PHP vulnerability: Which websites and services are affected?",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVQ5YWp6VUc4TEdrNXV6aVBsS0VLa2locF82RXRmZGdwWFpSZ2VRc3JBc1pwOHVld1ZlcWRQZHVDVnZuTGdmUHhhVjJfY25iV0FLRF9qdUVTT2UxNDVRb2FKaGRsUHBsVW5yQTdYVGdOdUlSOU9KX1BQdmtycGxGbVowUHA?oc=5",
-        "domain": "mashable.com",
-        "publisher": "Mashable",
-        "publisher_url": "https://mashable.com",
-        "language": "",
-        "seendate": "20261021T184710Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US, allies warn of critical vulnerabilities in programming underlying 70% of the internet",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHgwbU96QjJEWGNzVVo2ZTlsNG04cGwzRHU5MEV2RjlfWU9uOEsyRWs0a3NVTnY2eXFtRk1SWEkwaXRMaXpjNXNzTDUzS3NlOVpMalBFVkt4N1ljXy01cnFMcFZ5emdxbUo5bEk5YkFqRGlDbFAza0Z6ellVb1EwOUo1UDVnT3hBMGJiVFo4ejI3QQ?oc=5",
-        "domain": "www.politico.com",
-        "publisher": "Politico",
-        "publisher_url": "https://www.politico.com",
-        "language": "",
-        "seendate": "20261021T155500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "State Bank of India reports cyberattack involving nearly 3,900 customer records",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDJNczB5ZFItMnlnb0RlSEc1OGtuUXFwY3djbEJWZTVpSzhUNDlnYVlQU2VuZmdrbUppVFBYZGQ2bnVLWWdsZTdqamxScG45S3BBLUhsZUtJMVl3VjZERlI5LUstbXM2bnBnaXVBWWo1LXhiUC12bEpMdmRTN1hOLTJ0bWotdDdoR05PUEVMNk9DVE1TX1FzS0FiYl9zZEFDZGNlbElwTmhBVXEzRkVUMnNXb3lzVEU?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261021T033600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUhZU3RpdW1VdXhPZk9Yb1BzQlVhRGNCNlQ4U2h6cENEUUVHUWNlTVo1RWlOeGpoNWNuN0JaN3hVZl9RS0lhaW9NMWFxM3BlTjl4RjBTcFZuQVdsZEpaaXV1LUlOa0VveE52UTJDc0RXbThxYkFTZ1Rkc3hyclJlVWtXN1A1QmVlTEdCWnRaejdmTlNzaV9iVXJCem5vWTJXSzhFRDRn?oc=5",
-        "domain": "www.wired.com",
-        "publisher": "WIRED",
-        "publisher_url": "https://www.wired.com",
-        "language": "",
-        "seendate": "20261021T142600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware groups expand targeting of Palo Alto Networks vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXlLMW9kbnlTcFVMbGQwQW0wTFhuOGZkOHBFbUNKLV8xTW1nZ0dxbDBMaGpMM2luVWU5eFZzVUprdXhqeGxnR2pad2F0QUw3Um1Wckszamx6TTVicl9hU3ZEZ25NeFp5ODF1TlFrdHJSbC1LVlNyTG9YTF9UTW1BN1JjNldXcHZMMjZzWVVvV3JXNWpLUVo5RDNDRGstRWstT1E?oc=5",
-        "domain": "www.cybersecuritydive.com",
-        "publisher": "Cybersecurity Dive",
-        "publisher_url": "https://www.cybersecuritydive.com",
-        "language": "",
-        "seendate": "20261020T161812Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PHP vulnerability 2026 explained: What happened with 'PHP2Shell', how it affects millions of sites, patches and what precautions you must take",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSlZWRkI1RTY2VHFfVUlPbllRQ3ZWWEVhNXF4SGt1TjR0UFVnT0VIaVhQZk1DaER6ZlE4dTRlWGJoLUhFV2JPWTVWNjhsaFZELVN3a0VlZ3FFRnVzRkZqbHByUElyZ3J2aFdDWGtpME5EY0pneXJXZUNrYUtKWi1lWFVpUXhhaTNUdDBZRmlpNFVUclc5VGdXeGNMR0U4S2FORUMzcmJhUUpTX0NnRjBmcUxGWHhKT2hzdVpGUHJRSVBMZGQ0dzh6enZRdUFqTkRhdlNtdnBub05TdU9ZaDZBUGNraDQwQXJWbkdYMXljcDJtT0pzWmpNRTEtUTFNLVZxZk1UeWRBYmRsZw?oc=5",
-        "domain": "www.clarin.com",
-        "publisher": "Clarin.com",
-        "publisher_url": "https://www.clarin.com",
-        "language": "",
-        "seendate": "20261021T154000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PHP vulnerability sparks scramble as major websites face threat",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1d4U2Z6aU5sTmNDZUJ5VmJac2JRMEgtYzV2RVJuSFNFS3B2UXZVRUROWG50aWphZ0xzYXd4elZ4bDZhenRBRGxYRG5mX2dDb3JiUDBMTmQycmU4YWRfMV9sYjFQT29NS1FONkJHYngyQVJKYTdQSXpCTm4zeHpSQkFMZHM3Z0RCeDRwdmNlN3I?oc=5",
-        "domain": "www.newsweek.com",
-        "publisher": "Newsweek",
-        "publisher_url": "https://www.newsweek.com",
-        "language": "",
-        "seendate": "20261021T190300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjN3SkNMZnRrQWkwSmJjQWtoOFJQeHN3VWM0VG84eGJwcERUUFRVelVoU1QxM19FRXdwYmdkVVpmNjJjWkhhQXFkeHh5bmxwSmp3NmRaMjdnNGdwV2hkNDY1TENadEFiSUhESy1ydVItYVl4RUFQdVV2M0R3d0Uycg?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261021T065929Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New PHP vulnerability means the Internet will have a very rough couple of days",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTVSQjFYQ0k2RkJ6OVRNTk40ekJtb1QzTy1MbWswbUVBdzhVVmVKT0VfMDhTcDlfSVFDUEpqb3A2Z2oyRWxVR3pEcGlQRWt6WnV0bFFqTHRlTEFYM0RxZFVzRG0tRTJkUDFUVW83Q19XV2xfMUF5RTZyLWxjQkczRHVnSV9CUUF5eEkySHBNdHl5VnVIdjViTk40OWI5ZEhWYTNhWWtRT3ZUcGRYdktEekczcktiaW5PdmMtQnBR?oc=5",
-        "domain": "appleinsider.com",
-        "publisher": "AppleInsider",
-        "publisher_url": "https://appleinsider.com",
-        "language": "",
-        "seendate": "20261021T115629Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PHP vulnerability puts WordPress, websites at risk after leak",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3emI1a2hSRC1TbnZMdFNKWTI3amRfV29Jb2dOVWtPdkkzRlk1OUxPNFlUQmhsVnRPYldLYUYwR2l2d3RkakdCZTNIQmxtMW0tUjE4dlhNVzB2cUpENFptZ1lVZWZKaTJvZ0tGVnFOeWQ2TktDc19zWmJR?oc=5",
-        "domain": "www.chron.com",
-        "publisher": "Chron",
-        "publisher_url": "https://www.chron.com",
-        "language": "",
-        "seendate": "20261021T042922Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Exclusive | AI Just Found a Bug That Puts up to 70% of the World’s Websites at Risk",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2FJWTlyQXFoRWh5ZnlfTnVOeDlDb0J3ejVCOWhNc0xXSXFLS2lGUlZ5cVI1NGFuWHpvQ1ZiTnkwV2luSHRpYjNuR1NWSlVnTmxuTzFwYWJ3NUVPeWYxVDNNZkdVX2xGZVJja0Z2LUY3STh4X1dnMXJfTjVad3FIbDFUM3dqc1hBcDBBN0JHazhuWVR6NE41ZnZTaFp2QVZhWEpDa1pIZHZaSlZHbjBKU0FMUWRSRklK?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
-        "language": "",
-        "seendate": "20261021T135100Z",
+        "seendate": "20261021T104023Z",
         "source": "GoogleNews"
       },
       {
@@ -449,73 +259,233 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Critical PHP Patches Address 'Very, Very Bad Vulnerability'",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3phQ3lYV2gtZzR3eGkwbWU5eTJ1cWt5Xy1vVVhsWlU2b2cyMkpsMVowNzRHS2lMT0FoMU9jSUxvS3N0TkwyaXpkT2pxMXNWVUFwZEpvZ1NDUFFHYVVyaHR6akxiTmtCeXd2Q3dCZTZpazlaRnloaVJKMHVLNVZwbjJiR3RGdkxlSm4wYnhuWUFEQVBoMU91NVRnSldNUQ?oc=5",
-        "domain": "www.bankinfosecurity.com",
-        "publisher": "BankInfoSecurity",
-        "publisher_url": "https://www.bankinfosecurity.com",
+        "title": "Critical security issue affecting PHP",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wdm9SdW95Tm5BYjN5d0Qwa0h3a0E5T2hOT2ZoNHFleTdxcHg0WnhjdWlrdHc3bnlpOHRtUGR2bjEzcTFlOVdxOVBGNWJKUGV1Rjhsa2VnTUxPNFNKWG94eVNLanFpaUdXNDBRTmo0WFo2Q0Zx?oc=5",
+        "domain": "www.ncsc.gov.uk",
+        "publisher": "National Cyber Security Centre",
+        "publisher_url": "https://www.ncsc.gov.uk",
         "language": "",
-        "seendate": "20261021T174011Z",
+        "seendate": "20261021T120000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "A critical PHP vulnerability may take websites down today",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjA1UFgtSGptdk5uM0dRTkw1RGxpdTZGNHo3Tk1aaUxQMVVZY2FDVk50ZlpkSlptWXlJR0MySktqUVMxQ3pfTUdSY3Zfa1Bmcnd0a2tFTkw5bG1VN0NqQWU4bGN0X2JSdVZDdGdWZHBjZHJpT24yOWJ6ZUZKckRrYjZQa3dpRkdhdmJ1WGJ1OVR5UQ?oc=5",
-        "domain": "www.theverge.com",
-        "publisher": "The Verge",
-        "publisher_url": "https://www.theverge.com",
+        "title": "What is PHP, and how bad is the computer language flaw causing website shutdowns globally?",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFhOYUNFTVhUd0gxTzJNMDE5OWZLa0hXNXEwUUFSMHhpcGowcmQwcEpjWjBFeFM5SGZ3RHA3SFNiVHd3RFpoenNyMGY4LVFaRXBYTUFzcS0tWFFBenp2T2ZaaGNGRWZHUElUQlBNWllINk5aQldMNktfSTZLU2hNeU05WnRrV2VHeXRYWTZGSU10aVJRRTNPSkVDYm8xTERyVmotVm80RHc3Zjc4ZTZYVFRUa0JvSGc0VHc?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
         "language": "",
-        "seendate": "20261021T114917Z",
+        "seendate": "20261022T042100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "The AI-Hacking Apocalypse Began Last Night",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUdKZU5nOWV4bXBPUm1TUnE2NUgyUjF0amJLSE1UUXFYREhtSnRZQUdSNUJLQ0xnMmhzY05WWHpMYnFjRHNIbnRIRW5iMC1vTjlJc244bFZXaUdnNFNtcG5wd0JLVk9hT1BFeGRlRVprdVZua2EtU2dBUUlEWThXa202N0czUHlVeGdrOW1sMDdxM1FmMG5sQw?oc=5",
-        "domain": "www.theatlantic.com",
-        "publisher": "The Atlantic",
-        "publisher_url": "https://www.theatlantic.com",
+        "title": "PHP vulnerability: Which websites and services are affected?",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVQ5YWp6VUc4TEdrNXV6aVBsS0VLa2locF82RXRmZGdwWFpSZ2VRc3JBc1pwOHVld1ZlcWRQZHVDVnZuTGdmUHhhVjJfY25iV0FLRF9qdUVTT2UxNDVRb2FKaGRsUHBsVW5yQTdYVGdOdUlSOU9KX1BQdmtycGxGbVowUHA?oc=5",
+        "domain": "mashable.com",
+        "publisher": "Mashable",
+        "publisher_url": "https://mashable.com",
         "language": "",
-        "seendate": "20261021T192121Z",
+        "seendate": "20261022T000935Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHhicmtOdV84ZFVNRnppZFVzc3FJX1VjRzVaWU01V1o5QjVMbWh4M2sySEh2bVVVYmVpTjlSdm1Tb3RJUEZTTjBOQjM4cWxrRmRmVVYwbHE1eGd3YmNLMmFyWG1VaGNmRUdmX1VGYXBraENZZkFhNnJsNG80NktwbWRzYWxxZF9uRFBZa3dBUU9wWWpSbXdSRTBDQlhiZFVOU1BBQVoyR2l2bWM?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
+        "title": "Two critical RCEs in PHP core",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zN3ZxNXRYbmtlVzVQNU53dTAwLXk1WUxZckEyZ0RaU1pvNXVDQnctWGE3anY3MUt1NGdsUlB2bzhsQXBkcXljdmtTWFFENkVacVFnUF9kdmp2aXNkWmw1dWkxX2IzMERMa2g5TlJOWlJPVE0?oc=5",
+        "domain": "blog.talosintelligence.com",
+        "publisher": "Cisco Talos Blog",
+        "publisher_url": "https://blog.talosintelligence.com",
         "language": "",
-        "seendate": "20261021T111339Z",
+        "seendate": "20261021T151116Z",
         "source": "GoogleNews"
       },
       {
-        "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHp2NXpDRDBhS2pXWGlMUEozWFFBX3BqdW9SaDE4aGE1bS0wWkhYSXRoQWQ5UzRiQUMxalZzQ1ZxTHg1bk9zZnNvYnpBZC1mNUFia1ZVTS1kOTFKT0p2d1BtemJXNXBQcnNmd1dkS0praHA1bzVuSFVwcFpNSmFfc0F1V1ZBM1NkMWx4WGJnUnBQUmYtUkh0bE9OLWtYNVdSdFlUOUFrYk9DemfSAbABQVVfeXFMTVFtSlJhdF9Pa0RUS1lYM1NfaEJydGFKOS1NbFJlcmJod19qT0dVTjlrOEZlRHB1WUVSYUxScGx1ank5dU42bzZUby1mR1owaUxERDMyVUhMS2swaEJJSGNUbnJNUHVMcHlrNHhza1k4bUZ6X0tPUlF2M2stWTNQZ3p5Mk1obkszQjAtN1NSQWFERDc5N2tnQzFxZDJkc2QyNWhpSzZzWG05ZTZiNmE5MXY?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
+        "title": "FBI, CISA warn that SafePay ransomware poses threat to critical infrastructure",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWElmNk5keXBOZG9JQ0hRSnB2WjU0RklnU1RvZFBLcWRPWjFmZGxBN3VWSzgyZGRwaGlSYmticTNmTUFsYTgyTmZBVXVPZk1iX2Q3bjBsLTF2d3RCdDdBNE5RQWVDWVVwZlhQSkVnaDFxMmdfYmxYYkJIRDEtMjcyOTBfREp6ZkprTjlEY2doQjNiMXBwWUdpeW5JbE9QQllBS0h2dkNyR2daTmtCNkFB?oc=5",
+        "domain": "www.cybersecuritydive.com",
+        "publisher": "Cybersecurity Dive",
+        "publisher_url": "https://www.cybersecuritydive.com",
         "language": "",
-        "seendate": "20261021T144500Z",
+        "seendate": "20261021T153313Z",
         "source": "GoogleNews"
       },
       {
-        "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEVWUV9kZDRJd3N3eW5sSnctRFd2dkJkRXBNZ0xiY004czBDMDB4b2l4MU5rdDV6ZHMxaVBzRWJyc3hwTm5PMHJJRjlYWkJBb043SEpsNDlWWUxnYzBvbVhiRm9sZkRoRm9pcHRVdy1ac0thUXo1RjRxUy1BMWtTdA?oc=5",
+        "title": "US, allies warn of critical vulnerabilities in programming underlying 70% of the internet",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHgwbU96QjJEWGNzVVo2ZTlsNG04cGwzRHU5MEV2RjlfWU9uOEsyRWs0a3NVTnY2eXFtRk1SWEkwaXRMaXpjNXNzTDUzS3NlOVpMalBFVkt4N1ljXy01cnFMcFZ5emdxbUo5bEk5YkFqRGlDbFAza0Z6ellVb1EwOUo1UDVnT3hBMGJiVFo4ejI3QQ?oc=5",
+        "domain": "www.politico.com",
+        "publisher": "Politico",
+        "publisher_url": "https://www.politico.com",
+        "language": "",
+        "seendate": "20261021T155500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP2Shell: How to fix PHP RCE with patches and free images",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FLVhreTAzY012MHgwLTlWeW8yN25DeS1tSTdEQnozbG9sRjN0Tlgxc0cxSm55NGlRSEt0UWp0ekx5SG11MFpCQTh1Wk1JNzZ6QnhhS0VyMS1vci1zTzc5dER1V0tTd1pQajRsRnlvQy12VWlRWGJvNQ?oc=5",
+        "domain": "www.aikido.dev",
+        "publisher": "Aikido Security",
+        "publisher_url": "https://www.aikido.dev",
+        "language": "",
+        "seendate": "20261021T142539Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUYWp2NjhKVmlxcU5uWFhHTU5veEhRVVhCNlFGc1YyT2doY05aVU5ERExoZVRYTUNFYVpscDNHRFFFOTFaQzNzTTk2MkVqN1VmQmZaY2RQbzM4SF85RHZaOTNsRDB2aXhmbnRadUUteE96Vlp4V21wZl8tb0J1NzA?oc=5",
         "domain": "thehackernews.com",
         "publisher": "The Hacker News",
         "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261021T140000Z",
+        "seendate": "20261021T185700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack Hits India’s Largest Bank, Exposes Customer Data",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Qa3JtZVBRejB4NGRCbjNWODJLVWtpeFJSQWIwcEJJb2lUQWZLVFNKSmZGM0VoR2VEeEtpcUx0MG5ieEFUMHF6d1BhWTFrTkYyUjdmVkRCQVpURjFra25VT2wxZU9FQlZnZHJKdzV3ejZjTkVSNEEyZ0xIdGdEQQ?oc=5",
-        "domain": "www.insurancejournal.com",
-        "publisher": "Insurance Journal",
-        "publisher_url": "https://www.insurancejournal.com",
+        "title": "Exclusive | AI Just Found a Bug That Puts up to 70% of the World’s Websites at Risk",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2FJWTlyQXFoRWh5ZnlfTnVOeDlDb0J3ejVCOWhNc0xXSXFLS2lGUlZ5cVI1NGFuWHpvQ1ZiTnkwV2luSHRpYjNuR1NWSlVnTmxuTzFwYWJ3NUVPeWYxVDNNZkdVX2xGZVJja0Z2LUY3STh4X1dnMXJfTjVad3FIbDFUM3dqc1hBcDBBN0JHazhuWVR6NE41ZnZTaFp2QVZhWEpDa1pIZHZaSlZHbjBKU0FMUWRSRklK?oc=5",
+        "domain": "www.wsj.com",
+        "publisher": "WSJ",
+        "publisher_url": "https://www.wsj.com",
         "language": "",
-        "seendate": "20261021T114605Z",
+        "seendate": "20261021T220500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzUyTV9XMDlzQ0YzaTZGaTdramlUbFl1YTQxQjNRVXRFRThlM0htaGtHWG9EZzNuTmVRQUp6emZjOXBPa0NYS3JpMG83UlB5NXhCT0JoSEtXQ245dGdiaXNhcGExQVQxNC1nQk1VSXEzZXBLSUJWS3BTR01nRDdTTVNoN0JpaDZhUEgzcmkwLThFNVJZ?oc=5",
+        "domain": "krebsonsecurity.com",
+        "publisher": "Krebs on Security",
+        "publisher_url": "https://krebsonsecurity.com",
+        "language": "",
+        "seendate": "20261021T180758Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware groups expand targeting of Palo Alto Networks vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXlLMW9kbnlTcFVMbGQwQW0wTFhuOGZkOHBFbUNKLV8xTW1nZ0dxbDBMaGpMM2luVWU5eFZzVUprdXhqeGxnR2pad2F0QUw3Um1Wckszamx6TTVicl9hU3ZEZ25NeFp5ODF1TlFrdHJSbC1LVlNyTG9YTF9UTW1BN1JjNldXcHZMMjZzWVVvV3JXNWpLUVo5RDNDRGstRWstT1E?oc=5",
+        "domain": "www.cybersecuritydive.com",
+        "publisher": "Cybersecurity Dive",
+        "publisher_url": "https://www.cybersecuritydive.com",
+        "language": "",
+        "seendate": "20261020T161812Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Flaw in PHP computer language leads to shutdown of websites around world",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0xIdjQyZ2hJRTcwMWVTU0hNVW9ZQ3lMbFFOdXJxZXVET2dRby1UcVVwaU1LVnNvWktmdGxLMU9QVWhHZFhpWVlRWmxvTzdkRFh2b3FEYjVoNlN3dlJBclFZNlduZzc1OHlSU0MweUZXdEJaTDRUTzVqTHp1NGRfSkhkVHpLX245Sl93ZWYwVUlYTWpkWnllRkZVMGNPQV9vTEYzTjNBYjdvUEpnbHk1UHI1UUdPRlNORGlKQnphSGc?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20261021T182000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Critical Remote Code Execution Vulnerabilities in PHP Core",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkhLQTU0TWp5c0Y0MW96SkRqTFcyNzZqQVRFclJBclZNZHlFZGdrdzZ2anoydmU0Z0RuSE83UGdWZ05SbVIxTHJCa19CU3YzNDFqd1JXZVJRYm1OUkNlbEZ6OUVIUU1Kd1gwREtWT3U0RHdzazJSYThxbjczbklUMTI0QmcxMU9XYW1POTNwbkZXclV4MXBiamhibU5fd0M2VzlZ?oc=5",
+        "domain": "www.akamai.com",
+        "publisher": "Akamai",
+        "publisher_url": "https://www.akamai.com",
+        "language": "",
+        "seendate": "20261021T143321Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261021T072800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP vulnerability sparks scramble as major websites face threat",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1d4U2Z6aU5sTmNDZUJ5VmJac2JRMEgtYzV2RVJuSFNFS3B2UXZVRUROWG50aWphZ0xzYXd4elZ4bDZhenRBRGxYRG5mX2dDb3JiUDBMTmQycmU4YWRfMV9sYjFQT29NS1FONkJHYngyQVJKYTdQSXpCTm4zeHpSQkFMZHM3Z0RCeDRwdmNlN3I?oc=5",
+        "domain": "www.newsweek.com",
+        "publisher": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
+        "language": "",
+        "seendate": "20261021T190300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Governments and Organizations Take Sites Offline to Patch Web Vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVJyOW1rbWUybjBCMHpKVE94OWh4QTNtaEhPUzJKM29NRGtyczZEOHFveVhuckUwNkVKOUtWRFpteFprcXh6TmFpai1LOF9wOFljT1QtV3lneHc4MnI3bDliNW5jVDVybjdKVzkxTlFkZFk3aW9rdWE2cC1qZlZRNGc5RmN6QmROUUVQSDg4WmZBTjJPdHNjTTNrZ1dmRXdBamFFdXdlNXB4cndzckZSb0ZVUDdJQ0lUblE?oc=5",
+        "domain": "www.pymnts.com",
+        "publisher": "PYMNTS.com",
+        "publisher_url": "https://www.pymnts.com",
+        "language": "",
+        "seendate": "20261022T014513Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Feds Issues Advisory About SafePay Ransomware Group",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3g0MWM0dm16Yk9oOXV0ejhHdW9pcEhuNWtQZmpOS0dPYmtiazhTSkNQbjIzTzN0bXh4Z1RkZDBoWjlkdHR0TXMzN0RYVlpxbXJIcUVFczdIM1VObVBMN0RST3ZFeVZHYlFreDFKZ01Bb2VJWXZ3M2lDODNRZ2FKaEFCb3JDRmJC?oc=5",
+        "domain": "www.hipaajournal.com",
+        "publisher": "The HIPAA Journal",
+        "publisher_url": "https://www.hipaajournal.com",
+        "language": "",
+        "seendate": "20261021T140553Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Resilience reports energy and utilities sector faces rising cyber exposure from ransomware, vulnerable OT systems",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2lxTDVueEhsYVMwT0IxbUl4QXhGZkFJS2FuaFlINVozYUlsOFI5c2RURGttbWxYRmVKN082RkxRcVA2Vkk1WXpfOGJmU2VFRGV6OG5OSHVWVWlieFo3Rk8zTkxvczh5aUNBSDlKWk1DN2lldHRCQnpyNEhDMXFfRDJzMnp3aDZ2ZU9jVUlxWFp4NjJOZWtFSXluTHVEbGU3WE1oRVZPRVJ6bTExSlUyRVpfcVU4WTh2UmJiMzkwS1hoRVdFaEFBN3VHZFRlWXBxMFc4dDBYenNZbVVTalVOcGRn?oc=5",
+        "domain": "industrialcyber.co",
+        "publisher": "Industrial Cyber",
+        "publisher_url": "https://industrialcyber.co",
+        "language": "",
+        "seendate": "20261021T125538Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New PHP vulnerability means the Internet will have a very rough couple of days",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTVSQjFYQ0k2RkJ6OVRNTk40ekJtb1QzTy1MbWswbUVBdzhVVmVKT0VfMDhTcDlfSVFDUEpqb3A2Z2oyRWxVR3pEcGlQRWt6WnV0bFFqTHRlTEFYM0RxZFVzRG0tRTJkUDFUVW83Q19XV2xfMUF5RTZyLWxjQkczRHVnSV9CUUF5eEkySHBNdHl5VnVIdjViTk40OWI5ZEhWYTNhWWtRT3ZUcGRYdktEekczcktiaW5PdmMtQnBR?oc=5",
+        "domain": "appleinsider.com",
+        "publisher": "AppleInsider",
+        "publisher_url": "https://appleinsider.com",
+        "language": "",
+        "seendate": "20261021T115629Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0R2a0hoNHNNN0Q2OE9hcFhDaGhrZkIyRk0yMnhlY1JlV0JHT1hnMHVKQUdqU2Z1VjJtN2NWWUFET2VTVlo3Rm0zaWMtUnR5Skx1VFJRNzNKc1czMllqVHY1aGxobnhhUnhVckQ4NVpwSlduR09jeEJSVE9iZ0Vuc3luWW1EZURobW9icGw5ZU5PdXJ0RnhJbldMQkwyR2l2V3o1YXhXc3N1VGpTZ2I3NjJyOVFhVzM0bFpTWQ?oc=5",
+        "domain": "www.bleepingcomputer.com",
+        "publisher": "BleepingComputer",
+        "publisher_url": "https://www.bleepingcomputer.com",
+        "language": "",
+        "seendate": "20261020T205643Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP vulnerability 2026 explained: What happened with 'PHP2Shell', how it affects millions of sites, patches and what precautions you must take",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSlZWRkI1RTY2VHFfVUlPbllRQ3ZWWEVhNXF4SGt1TjR0UFVnT0VIaVhQZk1DaER6ZlE4dTRlWGJoLUhFV2JPWTVWNjhsaFZELVN3a0VlZ3FFRnVzRkZqbHByUElyZ3J2aFdDWGtpME5EY0pneXJXZUNrYUtKWi1lWFVpUXhhaTNUdDBZRmlpNFVUclc5VGdXeGNMR0U4S2FORUMzcmJhUUpTX0NnRjBmcUxGWHhKT2hzdVpGUHJRSVBMZGQ0dzh6enZRdUFqTkRhdlNtdnBub05TdU9ZaDZBUGNraDQwQXJWbkdYMXljcDJtT0pzWmpNRTEtUTFNLVZxZk1UeWRBYmRsZ9IBjwJBVV95cUxNTkpZT3lBb01wTFNUa01oRFJZLWJpYUJ1QXZtSzVpVDdRSmh5dXdCNDREVnpWdG9WZXRLR2thTk80V2ppT1lPZ2I5Y2pWS1RvdXF2RFg0SjhZZTR0TnBVb1g1Nm1vUDNiblpsZWwtWXE0eGZNdDFQMm42WFdwaERIRlY0Y0N6bmJnOE84MzRwNkRkVVd2WWRsNHdIY0JLVmlhaG92TTdGTHp0VkEwT29VRDdrVVRNWUEzMjlUNU9nbHQtd1RUa18xR1Q4NE8tOWtaemR6RF9wUzJja2pBQzBDT0Y2eG5PWlNCTXlhUWlpN0toOGJXQWdramxKZEV3eGJ4MHRnV0s0Y3pHS3VWSmlZ?oc=5",
+        "domain": "www.clarin.com",
+        "publisher": "Clarin.com",
+        "publisher_url": "https://www.clarin.com",
+        "language": "",
+        "seendate": "20261021T154000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "AI helps find vulnerability affecting up to 70% of websites",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMG1aMXJTakhNVjdBRDZSU0IxMXVUR1JfLTk5VnlkWnlDRWNRMGVhWjRkUFhXQzc5dHRqTWNXdnVnc1JMV2ctbVc0d3h2bXlJS2xtZG5iRk9keFBXelRkMDYwVC1JQWktVm8yOGRTOFVTbF9BVzRHSUVDYVNvalhMNXd6cEFGdUpDeGxLNXZuOGxLS0lLeWNfLTVGNVhiSkwyZVI0?oc=5",
+        "domain": "www.semafor.com",
+        "publisher": "Semafor",
+        "publisher_url": "https://www.semafor.com",
+        "language": "",
+        "seendate": "20261021T224400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRHBCSV9jVXNQRUVUankxMEdROWJyZUxVazhZSElHVm9rc1lPZUFwSHBjR0I1dXRsMWVSWXVUZ05QSlZCNEctQ01hYnJwUGVJOUN0YTJwQm9PODdLMExVeEFsLXpJRFFBX3FiOHh3blJ4cjEtS2J1MHNFZktmN1YtNk0ycUN3dTRYY1FSMGotZFRGNWU1NGNIdmZDLWctYThUdmc?oc=5",
+        "domain": "www.wired.com",
+        "publisher": "WIRED",
+        "publisher_url": "https://www.wired.com",
+        "language": "",
+        "seendate": "20261022T022400Z",
         "source": "GoogleNews"
       },
       {
@@ -526,6 +496,36 @@
         "publisher_url": "https://thehackernews.com",
         "language": "",
         "seendate": "20261020T153200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Finding, Prioritizing, and Patching PHP2Shell Exposure",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdkhZZ09zeE1zdXlqd0c3UDM1MVVwRVIwRjBRal9ONm85N1RtRklQZkphZnhyZHAzVzJ3S0lwNmtzRjRhZWxOUFJkLVdsNnR3X2szUkhZOTA4d21CLTlfSlUxNjlsZnBGbFBhUkRBR0tiWEhQaERybmNQMHlhUEVJR214aWN3RTMzYTlqMXlVRGhxOUh3eTRwbDhOVWI5RnhLcTJtRXpXalhmRXpE?oc=5",
+        "domain": "arcticwolf.com",
+        "publisher": "Arctic Wolf",
+        "publisher_url": "https://arcticwolf.com",
+        "language": "",
+        "seendate": "20261021T214540Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM0ZTYkJoaFR5WVFHNlVPMHFTX0owNFgwTmFYRm9DSkR4czZUbjRNbm5BaVY5bHc5bkxHV2xiWFhNdkhRRXVqMW9Eal8wTlhkNmlJWEJ5bk9PZC1VTmU3SFVTY0hZRi1veEtOUE1ObGx4eGd0QVRFNUd1UnRwV3lDby1URFlZaUViNE9Jak1KWDZucUNJMTR5NGJKQWVkRGU5eE9BNDJTMWwtc0U4cTdzLVBiYWtvM0tvbmRzcW4wdk8wRGJsNjhseEpsRXhFZC1XUkRCbURLX2JDX3JBRWJj?oc=5",
+        "domain": "www.theregister.com",
+        "publisher": "The Register",
+        "publisher_url": "https://www.theregister.com",
+        "language": "",
+        "seendate": "20261021T230257Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "State Bank of India reports cyberattack involving nearly 3,900 customer records",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDJNczB5ZFItMnlnb0RlSEc1OGtuUXFwY3djbEJWZTVpSzhUNDlnYVlQU2VuZmdrbUppVFBYZGQ2bnVLWWdsZTdqamxScG45S3BBLUhsZUtJMVl3VjZERlI5LUstbXM2bnBnaXVBWWo1LXhiUC12bEpMdmRTN1hOLTJ0bWotdDdoR05PUEVMNk9DVE1TX1FzS0FiYl9zZEFDZGNlbElwTmhBVXEzRkVUMnNXb3lzVEU?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261021T033600Z",
         "source": "GoogleNews"
       }
     ]
@@ -552,16 +552,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261021T204647Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Cloudflare deploys protections against php2shell vulnerability",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EdDdqNHduOEE5YklCczNqNklJSkVlZERaRHNVTnpEMnJudUd0SEpsdFlOR1R4dy1PamlvQW5EWUtMWl94bkEyWjFTV1kzbDM0NjR2U3RjWm5uQkVITTJpXzlRZnpuQ05MNmIxMWhrTng?oc=5",
       "domain": "blog.cloudflare.com",
@@ -572,23 +562,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Critical security issue affecting PHP",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wdm9SdW95Tm5BYjN5d0Qwa0h3a0E5T2hOT2ZoNHFleTdxcHg0WnhjdWlrdHc3bnlpOHRtUGR2bjEzcTFlOVdxOVBGNWJKUGV1Rjhsa2VnTUxPNFNKWG94eVNLanFpaUdXNDBRTmo0WFo2Q0Zx?oc=5",
-      "domain": "www.ncsc.gov.uk",
-      "publisher": "National Cyber Security Centre",
-      "publisher_url": "https://www.ncsc.gov.uk",
+      "title": "Security Alert CVE-2026-91403 Released",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJOFJaUlZGVFpGc0xoQm1yZ1lsck10TnlPeE5NczhBSElqdXhPU0JEUkV1UnJuNlo5RnRfTEY4MkNhV084V0c1UUZpeEV2TmFzQUZoaWdyYi1GVTFVMVZjaEFGNVZObWt0OVR1bkloSW10RXdPTktaQVQ0YUY?oc=5",
+      "domain": "blogs.oracle.com",
+      "publisher": "Oracle Blogs",
+      "publisher_url": "https://blogs.oracle.com",
       "language": "",
-      "seendate": "20261021T120000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaSXRUMkVsWkF3TjhoV29oTXdyZHhrMGZINFBHNVVrNmZubTA4SkFzMzlWMlNMLW15ZWdISDJYeURJbVdpTFB5ZzNTU21aazFfTmc4R0VkLWVyMVY4S1JRYTZ5UjJqWk82SlR5Q0ZMOTJrNEJVeXNV?oc=5",
-      "domain": "unit42.paloaltonetworks.com",
-      "publisher": "Unit 42",
-      "publisher_url": "https://unit42.paloaltonetworks.com",
-      "language": "",
-      "seendate": "20261021T164228Z",
+      "seendate": "20261021T220124Z",
       "source": "GoogleNews"
     },
     {
@@ -602,6 +582,26 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaSXRUMkVsWkF3TjhoV29oTXdyZHhrMGZINFBHNVVrNmZubTA4SkFzMzlWMlNMLW15ZWdISDJYeURJbVdpTFB5ZzNTU21aazFfTmc4R0VkLWVyMVY4S1JRYTZ5UjJqWk82SlR5Q0ZMOTJrNEJVeXNV?oc=5",
+      "domain": "unit42.paloaltonetworks.com",
+      "publisher": "Unit 42",
+      "publisher_url": "https://unit42.paloaltonetworks.com",
+      "language": "",
+      "seendate": "20261021T164228Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "PHP vulnerability: PHP security issues today explained",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hbEU0NjAwU2FERHoxUHIzRmZIRHVLMTFzdEh6SVVsUnM1Tm95T0xzWEJvZVdmRUlxd0h4V3hrQXdBVDV1UDhIMkZ5M3BxRnN2Q1dEWF9CZG9SY3l3Q0hELWV2YnBXZGg5X1lyb2FhZjYtVFkzLWFZVQ?oc=5",
+      "domain": "mashable.com",
+      "publisher": "Mashable",
+      "publisher_url": "https://mashable.com",
+      "language": "",
+      "seendate": "20261022T022205Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWtyNmN6NlpUeEZKV3VKTzlKcmYtSlZlU3RyVXgxNGUyb0VQUVRwaWtGYjBfeUNsNmgtMU81TGNIc0RvZ1ZOM2JIeEJFRVN6TWtwOUFCNmFZMXlJQXVuRTBrSk5oc0NUTGxqSHRrV1p1UlZkTkJMZlNscUsyYi1lbmtBcDNIdjFFdXI3cENPMVJFVzNRYWRvVUppNXgxdklPM2MtT1pTNF9yZUNtb05ONGFrVEE0OWEtWUYyb2FNeWwyYmhxdlE?oc=5",
       "domain": "www.rapid7.com",
@@ -612,13 +612,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0R2a0hoNHNNN0Q2OE9hcFhDaGhrZkIyRk0yMnhlY1JlV0JHT1hnMHVKQUdqU2Z1VjJtN2NWWUFET2VTVlo3Rm0zaWMtUnR5Skx1VFJRNzNKc1czMllqVHY1aGxobnhhUnhVckQ4NVpwSlduR09jeEJSVE9iZ0Vuc3luWW1EZURobW9icGw5ZU5PdXJ0RnhJbldMQkwyR2l2V3o1YXhXc3N1VGpTZ2I3NjJyOVFhVzM0bFpTWQ?oc=5",
-      "domain": "www.bleepingcomputer.com",
-      "publisher": "BleepingComputer",
-      "publisher_url": "https://www.bleepingcomputer.com",
+      "title": "Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMXE1MTlaZ3ZHc0RqN0E3MnBqM2xDeGJLOEU5MDVodnE4RGsxeWNBZGtwdzluS3UwQ0JEU1BWa1d1dXk4SkJvOGR0alZSODV2bjNTTGQzTnllZkNGWUZXQUdYa1dtNE1IUnF1aXVfZE5pTnJXbVRyZlVQRzJ4T1hGUXYteWd4YXZrMXZTZmRxX2ZWWktLd1BEalpmNGM2YWdXYXQ1d2hxVUV0TFJET0wtTTlSTFZTUWJJM0tyUXdycmZJOEVQOVE?oc=5",
+      "domain": "cloud.google.com",
+      "publisher": "Google",
+      "publisher_url": "https://cloud.google.com",
       "language": "",
-      "seendate": "20261020T205643Z",
+      "seendate": "20261021T142914Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "PHP2Shell: PHP Patches Two Critical RCE Vulnerabilities, Urges Immediate Updates",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGhPNXhLcTVQUzdSck1XajM5M0V5MllLMGNET2tEX2lSa3B5ZXd4UEtUWnN2YkZkdDJjZWwxN0VUa3YxTnZOdUZqRFBNb3ZGNkhfX21LSWRodVNXRlpYOXpjb0Z0TVZFVmR0UFdVWFRiT0s1bjhRcTFFY2trZVZXZHNNbk11aDdza0ZPNUk1OWVKd3FFTHRCbmZxSUhXMlZrQnlMQjF0NU9fcmp5dHRKZVo2SGJZbEhnR013TnduX0sxZ0VfT1BSVVl3?oc=5",
+      "domain": "blog.qualys.com",
+      "publisher": "Qualys",
+      "publisher_url": "https://blog.qualys.com",
+      "language": "",
+      "seendate": "20261022T025145Z",
       "source": "GoogleNews"
     },
     {
@@ -632,23 +642,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Joint statement on critical PHP vulnerabilities",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnN0WWd2MHViY29IbDVfSzlWNTJtZC1GLTQwVjJrNHFUVWQyc1JKTjJVMFpYbHBGM2dyUkVCSG5ETjVfMXU0MDlsLVhabXREcEpuMU9QTVlrRmF4Tlh5QWNOblBqcUl3M0xmSGxiZ0RfT0Nqc2Z5LVpJX2Q2VWVMWGdBNU9POGs?oc=5",
-      "domain": "www.enisa.europa.eu",
-      "publisher": "ENISA",
-      "publisher_url": "https://www.enisa.europa.eu",
+      "title": "PHP2Shell: How to Find, Prioritize, and Patch Affected Systems",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPay1rNHNqODBGTHBTTXY5UVFyeV9rY3VONk40cTYtLWRudi1nbFM1QlVaeFBkY2hqaWZ5YU9raTBRZEJncjl4LUlLWlRmcXNnNjhiNFpyenE4MGd2TUc1bFphdEdwVGx6cnNQUTNpUXdqSU9fSXJVb1ZMa0hKWUtSTk1JeGtrS2VKOEVteDZtYnU?oc=5",
+      "domain": "www.armis.com",
+      "publisher": "Armis, The Cyber Exposure Management & Security Company",
+      "publisher_url": "https://www.armis.com",
       "language": "",
-      "seendate": "20261021T174906Z",
+      "seendate": "20261021T201843Z",
       "source": "GoogleNews"
     },
     {
-      "title": "CVE-2026-109618 & CVE-2026-109619: PHP RCE Flaws",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85a2Z6VkxZcXZ4TXhja0ZoSWh2MXZkRllzdEYySU9HbjlhcEQ0NlVrRHJnMHlCaDQ0ZUhIYmNPejZucEdWdXdYZV9xVkpGVHNLa0lZUU8yWmV6N3pIbE9nSEc3RHA5MzV1dWtGanRTQzc5aHk4RGc?oc=5",
-      "domain": "socprime.com",
-      "publisher": "SOC Prime",
-      "publisher_url": "https://socprime.com",
+      "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVVWR2dJMXQ5N3plYkRnb1ZMdmVTWlNXS2JseFRMaTV5WmdZVkp3MVhyVk1FQ09XcFQzN3N3Rko3Vl9mTnF3dndiVVVaVU1Rem5Qdk1FU2VzcDJXZjhBeXhURUtRSFNIR3dOc0VadE14ZHQteGltSkd3VzhMbzNEcmhva2xteWVJM1N6T3J4eXc2VUU0VTE1LVhSNzFnRVRnMS12UDJoSFV3QXE5Mnl4VVVHcThUMmdvZEtvMmZ6RjBtVHo0RjdfNkg0UWlEaGN3Smc?oc=5",
+      "domain": "aws.amazon.com",
+      "publisher": "Amazon Web Services",
+      "publisher_url": "https://aws.amazon.com",
       "language": "",
-      "seendate": "20261021T104022Z",
+      "seendate": "20261021T223626Z",
       "source": "GoogleNews"
     },
     {
@@ -662,23 +672,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "PHP2Shell: How to Find, Prioritize, and Patch Affected Systems",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPay1rNHNqODBGTHBTTXY5UVFyeV9rY3VONk40cTYtLWRudi1nbFM1QlVaeFBkY2hqaWZ5YU9raTBRZEJncjl4LUlLWlRmcXNnNjhiNFpyenE4MGd2TUc1bFphdEdwVGx6cnNQUTNpUXdqSU9fSXJVb1ZMa0hKWUtSTk1JeGtrS2VKOEVteDZtYnU?oc=5",
-      "domain": "www.armis.com",
-      "publisher": "Armis, The Cyber Exposure Management & Security Company",
-      "publisher_url": "https://www.armis.com",
+      "title": "CVE-2026-109618 & CVE-2026-109619: PHP RCE Flaws",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85a2Z6VkxZcXZ4TXhja0ZoSWh2MXZkRllzdEYySU9HbjlhcEQ0NlVrRHJnMHlCaDQ0ZUhIYmNPejZucEdWdXdYZV9xVkpGVHNLa0lZUU8yWmV6N3pIbE9nSEc3RHA5MzV1dWtGanRTQzc5aHk4RGc?oc=5",
+      "domain": "socprime.com",
+      "publisher": "SOC Prime",
+      "publisher_url": "https://socprime.com",
       "language": "",
-      "seendate": "20261021T162843Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "A.I. Discovered a Critical Vulnerability in PHP, a Coding Language Behind Many Websites",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVhkbmJVQVEzWkd2YnJuNGZlRUtDdERWQUkyZVhGRTNiTHJmZjJlWU9lUXpBZmllQWtfelkwdF9kVzRJQXVPcDRSTWR0VnlpMWJEd0VqYkkxTVktUzVXMktnX2FXZEpfREdYMWFQbXlIY3NnZ25sQll5djdRcnJnOHNxZmc1anhfUTc0QzFiOC10aURCSUJKVg?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "language": "",
-      "seendate": "20261021T190436Z",
+      "seendate": "20261021T104022Z",
       "source": "GoogleNews"
     }
   ],
