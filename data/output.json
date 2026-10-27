@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-10-27T18:22:55.602295+00:00",
+    "generated": "2026-10-27T22:40:14.886581+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,11 +23,21 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "42"
+      "value": "40"
     }
   ],
   "live_data": {
     "news_articles": [
+      {
+        "title": "Update on Cybersecurity Event at UNM Health Sciences Center",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFQybDZYLXVTU2VsM1RQSmVGZm1OSlVZdmxqYzlITEtmcTQ3MWVnbHVuUnV6MHBqWExnYXdEUHo5MDBRcjB0X3hoSjNqNUYweUxXTjhtb0RjaVR3djh4S2FDNHJWZm5lMUpIVEZmUmlQODdjdGJpdEtMaVZzdk1aUVg1by1wMU1Td01wNndYYzlXUW1ybEFqMHhfWU80NWdVVUJ2dnM2bExIdmgxT09QUVhmbVl5djE1WmpkMVplRW5XOVhnV0dmSkhJTEI1aFdTakF1UTZEeXAxVHpwT3dyRg?oc=5",
+        "domain": "hscnews.unm.edu",
+        "publisher": "UNM HSC Newsroom",
+        "publisher_url": "https://hscnews.unm.edu",
+        "language": "",
+        "seendate": "20261027T180432Z",
+        "source": "GoogleNews"
+      },
       {
         "title": "Cyberattack disrupts University of New Mexico hospitals, extortion group claims attack",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORjQzb0x0VHItb0FhMUs5bDZPNW5MaGNzeVFYMW9Mank4MHk2MkFZR25CWG5VazczMkpoNmg2eUgwRWxkSDI4OERvN1dZMW1YX2Z1NGc0REltSHJwRWw4M3V0TGRYc0JZcnJzS29fRkNYQ3JRcjJXd3hfTE4wenZZQXFDNHpnYnFPNk9MVXVpSkR0QmhK?oc=5",
@@ -39,13 +49,73 @@
         "source": "GoogleNews"
       },
       {
+        "title": "How Check Point accelerates vulnerability research with Daybreak",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfS012dGhid2padWk5WHhmcjltT2tzODQyMDUyQzN0cUFNR0VBdUdvYXN3bGJqeWpqV0k3cDV6NmwtazAtWXZZUlJqQzdxYjBxZVI4Q1RmNTFjdw?oc=5",
+        "domain": "openai.com",
+        "publisher": "OpenAI",
+        "publisher_url": "https://openai.com",
+        "language": "",
+        "seendate": "20261027T190727Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What Promo Should Know About the PHP Vulnerability Affecting Roughly 70% of Websites",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMDYzTDBPSEoxT0lUT1J4SW1LWDFyeUQxdmhidlBTZlZsa2R5OU1iZmJOczh1bDdjdFBCME44SURPaDNqcWVFazdHNjUxRGhnanNQWTV3SnY5ZjYwdkxFZ09RWkgxVGhkeG5WcXNyUkdUNTZ3N2FHZmFrcnpWaVVPejhLQms1M19XczdGSGpMZEJxZ1ZRdXJfVTZKRThEcERYZTVUM1piN3Y1bUsta3hRb3dISGhWeU5OeDQwZWFWdThoaUNoaW84WmNWcG1VYUQyZEw4WFplVjI0Vm0wWXNpWQ?oc=5",
+        "domain": "members.asicentral.com",
+        "publisher": "Advertising Specialty Institute",
+        "publisher_url": "https://members.asicentral.com",
+        "language": "",
+        "seendate": "20261027T201739Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Cyberattack forces N.M.'s only Level 1 trauma center to divert ambulances",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWZjbkZPS0ZWTW9qMHBpM2JRUkp0VWJRa3R2bDMwUGQ5dDZkUHFVRDhVYmU2NUZrMkdYUnF0RzFEVkpLVURzYXFQOXY3M0FGVDhpSTZIVEdMTFp2NWlQYS1WbUlPcGF2MDc2SFdjaU41ZFBGZWUtMF92czZTNzhWdVpGXzlxeGhSSVZpa2p0ODMyYUgxeFN4LWNrQTZYUUpfRmd6c0hGQ3IxSjQ?oc=5",
         "domain": "www.ems1.com",
         "publisher": "EMS1",
         "publisher_url": "https://www.ems1.com",
         "language": "",
-        "seendate": "20261027T153147Z",
+        "seendate": "20261027T155829Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-115560: Unpatched PHP RCE Vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZjJESnI5LVQ2bUV3UFJXY0RNc2NMaHFrVVVmN3lyWEtHTmhOT1NpRnZqT3lXZDY4akVNbUdpa3dNRVUxd2UwYkVQY3hFdWpUZUNEUzZzQmdSbWs4RmJTM2tVanF4TGJLd0VjUkpxc0tsekRiWDJQUWRJc292VFRnVldsc09reUZ0TVFLSTRQeG5ScjJnVnN4UUJDb09rSlpS?oc=5",
+        "domain": "socprime.com",
+        "publisher": "SOC Prime",
+        "publisher_url": "https://socprime.com",
+        "language": "",
+        "seendate": "20261026T162502Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CISA, security researchers confirm successful exploitation of PHP flaws",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUQ0OUh3WHJKT0VwS3ZlR2dONzI0UzNYVl9sRDNIQnNBUzRHaXFDd093VTdQaGlvdmNxT3gwbk1tRlVlUGhSS2xBNGU1TC1fZlhyTWJhZlJOLUxlVkticDNFUkVtWkt5WUFVMUJzLXlaVHNic08tVnJPTFpCQmhka3dYZUtpREFYemZfYjhGajlxWElGNE1nZ3ZBYw?oc=5",
+        "domain": "www.cybersecuritydive.com",
+        "publisher": "Cybersecurity Dive",
+        "publisher_url": "https://www.cybersecuritydive.com",
+        "language": "",
+        "seendate": "20261027T161718Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-111497: Critical out-of-bounds write in the Node.js Brotli decoder",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2V2Yi0tMmxscjhodzZNX0M1OS1acU1wU3VJRDgyVENZeFUxUUE1MlpzTG1QajZEdlc0YkdIbUo4eG81aFF3cEc1cjY1ZkJZamVOc1NMMmJmVllqNE5XS0V6WGgxeTM1OUdFSGZHVEN4VUNoazZ2bFdJajE5Ujh0cDhZU2Vmbi1LZzlfMC1FZWRpZjduN09jeEFlTmR0R3ZQLVN3YTNvaUJYWmVER3FlT0Z3?oc=5",
+        "domain": "www.rapid7.com",
+        "publisher": "Rapid7",
+        "publisher_url": "https://www.rapid7.com",
+        "language": "",
+        "seendate": "20261026T173611Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Inside Node2Shell: A Closer Look at CVE-2026-111497",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaEc1ZHpMN1ZBUnR0cWdwOS1RNGh2bTZWZXZnYmZOQ0F0aEx2NkN2V1VNTl9JYnl4eXdmODUwRmRqdzdHMnVFZnMtRk5zNUdCa2M4WVdvN1JrSmxSWUFuSDJjaFkyQW1lTTlkb3BQZXdfdzlIc3lIZ1RlT25tTnZ2NWlrVS1vVW43WDN1NGE1UHQ1a0VrbXc?oc=5",
+        "domain": "www.akamai.com",
+        "publisher": "Akamai",
+        "publisher_url": "https://www.akamai.com",
+        "language": "",
+        "seendate": "20261026T170350Z",
         "source": "GoogleNews"
       },
       {
@@ -69,13 +139,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-115560: Unpatched PHP RCE Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZjJESnI5LVQ2bUV3UFJXY0RNc2NMaHFrVVVmN3lyWEtHTmhOT1NpRnZqT3lXZDY4akVNbUdpa3dNRVUxd2UwYkVQY3hFdWpUZUNEUzZzQmdSbWs4RmJTM2tVanF4TGJLd0VjUkpxc0tsekRiWDJQUWRJc292VFRnVldsc09reUZ0TVFLSTRQeG5ScjJnVnN4UUJDb09rSlpS?oc=5",
-        "domain": "socprime.com",
-        "publisher": "SOC Prime",
-        "publisher_url": "https://socprime.com",
+        "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaSXRUMkVsWkF3TjhoV29oTXdyZHhrMGZINFBHNVVrNmZubTA4SkFzMzlWMlNMLW15ZWdISDJYeURJbVdpTFB5ZzNTU21aazFfTmc4R0VkLWVyMVY4S1JRYTZ5UjJqWk82SlR5Q0ZMOTJrNEJVeXNV?oc=5",
+        "domain": "unit42.paloaltonetworks.com",
+        "publisher": "Unit 42",
+        "publisher_url": "https://unit42.paloaltonetworks.com",
         "language": "",
-        "seendate": "20261026T162502Z",
+        "seendate": "20261023T134722Z",
         "source": "GoogleNews"
       },
       {
@@ -89,66 +159,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Meloni's email targeted in cyberattack on Italian lower house",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmp2QVpQMjBkTlphdnA2bzR2RC1lY3U2eEI0MVV4X2VmX1E3VXByRURJYkk1a3NKOF9jSXZSV3Eyd3ZTd2F2M19PU0draDViZzBxRVRENU1vWHJXdGxLWVlCWXQ1ZFh5UGFIUm43WDI5eERxVE9hUjhfUnpZNGdubXVKME1WaXl4S0E5TFl6bThUOUc5cGtNVWI1b29aXzZmSDMyeHVsSlVXaTg?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261027T134734Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Global cybersecurity alert issued over PHP vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUy1DY3d1Q1BwbnNXbjJqMlhZR2wyVTNEa0R5RG5nQXNudzJoc1ZCVWJuT1RGVFRQcVBXOE9ULXVOVVl5VXNXUzVpc0dzM1VaR19Xd2FYOFRpSDhGa015VVJaXzFNUEE1UEhlSGtKOHM2bVV2OExCYlRFTnJoVGk4OFF5OEpmd2k4N2VWUkxWUkhKbzd3c3JYc0M4WQ?oc=5",
-        "domain": "www.kmvt.com",
-        "publisher": "KMVT",
-        "publisher_url": "https://www.kmvt.com",
-        "language": "",
-        "seendate": "20261026T233600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CVE-2026-111497: Critical out-of-bounds write in the Node.js Brotli decoder",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2V2Yi0tMmxscjhodzZNX0M1OS1acU1wU3VJRDgyVENZeFUxUUE1MlpzTG1QajZEdlc0YkdIbUo4eG81aFF3cEc1cjY1ZkJZamVOc1NMMmJmVllqNE5XS0V6WGgxeTM1OUdFSGZHVEN4VUNoazZ2bFdJajE5Ujh0cDhZU2Vmbi1LZzlfMC1FZWRpZjduN09jeEFlTmR0R3ZQLVN3YTNvaUJYWmVER3FlT0Z3?oc=5",
-        "domain": "www.rapid7.com",
-        "publisher": "Rapid7",
-        "publisher_url": "https://www.rapid7.com",
-        "language": "",
-        "seendate": "20261026T173611Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CISA, security researchers confirm successful exploitation of PHP flaws",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUQ0OUh3WHJKT0VwS3ZlR2dONzI0UzNYVl9sRDNIQnNBUzRHaXFDd093VTdQaGlvdmNxT3gwbk1tRlVlUGhSS2xBNGU1TC1fZlhyTWJhZlJOLUxlVkticDNFUkVtWkt5WUFVMUJzLXlaVHNic08tVnJPTFpCQmhka3dYZUtpREFYemZfYjhGajlxWElGNE1nZ3ZBYw?oc=5",
-        "domain": "www.cybersecuritydive.com",
-        "publisher": "Cybersecurity Dive",
-        "publisher_url": "https://www.cybersecuritydive.com",
-        "language": "",
-        "seendate": "20261027T161718Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Inside Node2Shell: A Closer Look at CVE-2026-111497",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaEc1ZHpMN1ZBUnR0cWdwOS1RNGh2bTZWZXZnYmZOQ0F0aEx2NkN2V1VNTl9JYnl4eXdmODUwRmRqdzdHMnVFZnMtRk5zNUdCa2M4WVdvN1JrSmxSWUFuSDJjaFkyQW1lTTlkb3BQZXdfdzlIc3lIZ1RlT25tTnZ2NWlrVS1vVW43WDN1NGE1UHQ1a0VrbXc?oc=5",
-        "domain": "www.akamai.com",
-        "publisher": "Akamai",
-        "publisher_url": "https://www.akamai.com",
-        "language": "",
-        "seendate": "20261026T170350Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Japan’s GMO Internet warns users of impending ransomware attack",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGZHakE5cVp1aURYTWxOY0ZrMnJSTnl6RXA5ZjMwRzQtRkJPbWIzeHNNSWdQTXFyTTJXandJaUZiVzVweVpjbUw2UWY0V2lONFdaNnlTcGFRd3VnaXlWcV9rVWVUUmhrMTdfcHBBc3AxVnFxTGp0TUhYbTd0OVl5Q3hUQlkzUQ?oc=5",
-        "domain": "uk.finance.yahoo.com",
-        "publisher": "Yahoo Finance UK",
-        "publisher_url": "https://uk.finance.yahoo.com",
-        "language": "",
-        "seendate": "20261027T040600Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder Vulnerability",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05WEEtSGg3bUQ5dXJoNjJQSE55QlZueVUzQnJlbjVQMENOM2FzUFMxUnNHckVqMnVaSG9XNnNVYms0cnlzVFo4VC1ac1FXREVrUVVTZTNiMDVYaExiazh3MVM2WVNoZ1F6dXc?oc=5",
         "domain": "www.wiz.io",
@@ -156,6 +166,16 @@
         "publisher_url": "https://www.wiz.io",
         "language": "",
         "seendate": "20261025T144653Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Prolific Hive and Nefilim ransomware affiliate sentenced to 70 months in prison",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTZ6RG5TNEM2azU1c0RJMnZ4YXdQQi1Lb29jdWxzSHhQT3BXaGM4X1lNSU51aE1aU2laRVlCY0RvTjNZLTVUYmh0YWhxSDJ2YTN0aUJTVV9TbVlWVDYzNWlzS2E2bkdTWmJJSUkwU1YxbDJMVEtFT2VoTkNYSjZoa0xSbzFpcU1aX0E?oc=5",
+        "domain": "cyberscoop.com",
+        "publisher": "CyberScoop",
+        "publisher_url": "https://cyberscoop.com",
+        "language": "",
+        "seendate": "20261027T183815Z",
         "source": "GoogleNews"
       },
       {
@@ -209,23 +229,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack on University of Copenhagen exposes data of 525,000 people",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVo5S1BiSXQyQWNuUTBuLUdiY3FhNkMweVNNWXZzbi1qdnU2MFdhMXo1VXhsQXZJWHJwdVBuVmpwM0ExMjFJTk9GaUp3SHFqT1g3WWZtRjlJbzhzRHlnZ016dEd1ZmJiZWVGN3dTSUxub0gxRXlMS21fYVNvcGF4S0lZNHdPbmtQaEx6cWp1WFlDUkMxOUpB?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
+        "title": "NSA Advisory: Critical Patches Recommended for PHP Vulnerabilities",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdWFCY1c1VktkZXA4MFl3V2NiekVxN2NrckZtYkw5c0NYcnNRT3I5TFlLQ3lMZzNkQVRIVDdwSVZZVG9tNFZ3NUJpN0xONnphbm93QnR2eGYycVdqYUhRMWp5Y2lEVTF1RGhTQ1FhU29RdTBoNi1sZGxjQlRLQng2WkNaU1FFRVRkZ3B4RDlENEF3eUZkeDF0R0Eyb0VFM2JnbHoybjNCYU8xaXdsa0t2WWk0VDdzNVBaZ2VhNDYzcGpiamJVUXJ0OGJSakxhT201VVVhSlc2Qk5fN0hySjNRQlpsQUNDS2FTX1RubkNJOA?oc=5",
+        "domain": "www.nsa.gov",
+        "publisher": "National Security Agency (NSA) (.gov)",
+        "publisher_url": "https://www.nsa.gov",
         "language": "",
-        "seendate": "20261027T113922Z",
+        "seendate": "20261022T094017Z",
         "source": "GoogleNews"
       },
       {
-        "title": "71% of vulnerability exploitation starts within a week of disclosure",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmdzUEtmSXBxcWNQZnpKODM5T0dBVzhJc1ViNTRZeGFybE1lb1Z1T0t0M0VTOXFFZGdJcWFBbmgyMkZKUWRxMFU0LVBQdDBaSDJGdGttV0g1VGtyTlg3dHNTb1VMSXYtU0taY210RnlZdTBWU3V4QzJzelNnMW9BVkxrZnk5ME1nRTJUeERrR2VCOE9DbXJ2bHMtWGd5aURS?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
+        "title": "Ohio Auditor of State’s Office targeted by cyberattack: What to know",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV253dF94TkV1ZHpOSHl1dkE0SndTcnVnUFlRbUk0VHZLVTBaVlRzWmt1a1VZT3ZGRWVtT096Qi13Q3luQUdzSGNyRU5kYUhhUUE1cmlhUmxBeHRhbmlRWWgzZnc4Z3BhZldHWVZCYy10ZlU5S3dRVTN0RTdKcFAyWXVuV1A5bW5fa0dfaWdBRHF0WWvSAZgBQVVfeXFMTkd4Nk5WbUg0VFZzcVMwUVNhTDFxTTJvLVp0cm5QLWRQdVo5Ni1XS1otLV9OTUtmZW1FLVNzeTRaLUZWZFN1SnFROXZTaUpMSUhRcTZtdl8xME9oM3kzV09XaDFTOVpNYVRFYUpvb0lacUxVZlZ1MTRTN21Hbl84N2hjcXE5RUNtbnE4bzZhSGhjZGVaQUVqYmE?oc=5",
+        "domain": "fox8.com",
+        "publisher": "FOX 8 News",
+        "publisher_url": "https://fox8.com",
         "language": "",
-        "seendate": "20261027T053033Z",
+        "seendate": "20261027T205728Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Meloni's email targeted in cyberattack on Italian lower house",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmp2QVpQMjBkTlphdnA2bzR2RC1lY3U2eEI0MVV4X2VmX1E3VXByRURJYkk1a3NKOF9jSXZSV3Eyd3ZTd2F2M19PU0draDViZzBxRVRENU1vWHJXdGxLWVlCWXQ1ZFh5UGFIUm43WDI5eERxVE9hUjhfUnpZNGdubXVKME1WaXl4S0E5TFl6bThUOUc5cGtNVWI1b29aXzZmSDMyeHVsSlVXaTg?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261027T134734Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Last Week’s Critical PHP Warning Was the Tip of the Web Vulnerability Iceberg",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQi1TWWx2UUl2a1V3aU42Q3YxbzcxbE5sazJzMTBhVW0yVTdmUE1qTVhxSERTTkxXRVcwUVJLQ3BGTm9OSDBCZFliTkZEMzAwbXZWMW9XU2xWcmpIbnJJa0J0VWpISVhRYkNxakpEeHkwckRrYnFrRE1zUjBYZXhBa0V5c3Q?oc=5",
+        "domain": "www.cnet.com",
+        "publisher": "CNET",
+        "publisher_url": "https://www.cnet.com",
+        "language": "",
+        "seendate": "20261027T183930Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDR4S09mcHF5WUxhTXVmaWppbVhmdGNwTXB2WXVSTURjdU9YeHUyN0hXUlFLNHg3U1FyakJJdUljS0h4TEV0RFZ2ck12eWNpUVZ5UEtna0pIWExPNmNaMlhfSnY2eFlIbldoSFRPeVJqdWcwdjRLX2NvcE5OSkxKS2pqNGVZVFEwY1FybDUzc0o0bUpEa1ZPTjQ2dnQzZUVlTHhtZWVyYk5uVGw3R1NPYnFDRzQ5b1Vj?oc=5",
+        "domain": "arstechnica.com",
+        "publisher": "Ars Technica",
+        "publisher_url": "https://arstechnica.com",
+        "language": "",
+        "seendate": "20261027T202555Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack Disrupts New Mexico's Only Trauma Center",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONTR6NVN5LUlNRE9EeHJSaTcza3JpNlVYQUNTWjF1akwxTjZXNVdjWmw5bHMtZXBaOTE4c1hmQ3FQc3VTS1IyT3AxQWdBSHE3TkM4eEktZWJjQ3ZJcG5XN3h6azhRR1JFLVMwMUpRUkNZaW8wLUdzNmo3U2ltM3FDSjVXbkw5LUF1dG9WejlsaEVadHJ5VHpr?oc=5",
+        "domain": "www.bankinfosecurity.com",
+        "publisher": "BankInfoSecurity",
+        "publisher_url": "https://www.bankinfosecurity.com",
+        "language": "",
+        "seendate": "20261027T192558Z",
         "source": "GoogleNews"
       },
       {
@@ -239,93 +299,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGkxTlY5UTFVYnFnV1E5YnZPeDFyUUNVVXpYcVJoNE1ieWx4eURKaEEyTVdSTVd3eWExR0lhcWQzYWN6bTc5Y0NzcTJPTksxRVF3Uy1LWjl0aUpXSnhBMS1hbXhiR1RmbzFtN1d0RkY4SGlDVUJHbDNWUDR3RS10Y25IZy12SlRrdEZEVEdHUDJONTMwRlliWFZwUWg?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
+        "title": "Japan’s GMO Internet warns users of impending ransomware attack",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGZHakE5cVp1aURYTWxOY0ZrMnJSTnl6RXA5ZjMwRzQtRkJPbWIzeHNNSWdQTXFyTTJXandJaUZiVzVweVpjbUw2UWY0V2lONFdaNnlTcGFRd3VnaXlWcV9rVWVUUmhrMTdfcHBBc3AxVnFxTGp0TUhYbTd0OVl5Q3hUQlkzUQ?oc=5",
+        "domain": "uk.finance.yahoo.com",
+        "publisher": "Yahoo Finance UK",
+        "publisher_url": "https://uk.finance.yahoo.com",
         "language": "",
-        "seendate": "20261027T032947Z",
+        "seendate": "20261027T040600Z",
         "source": "GoogleNews"
       },
       {
-        "title": "What happens when security tools go dark before the ransomware",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWtjUHRDV3BkdjYzZHdkR2lNM3VvbGNHdWxsNmpLaFA4WEp5VlZSX3hkQzFrN2tjU3lSVm9jQ00zOHpEREVKcmZXSUFLczFPTjJubzNPdHFKS1JyNEkwZ3daUXY2TTc1a1ZVVWw5cGtjSW5YemdLaktQcjRYcURhTTNCczg?oc=5",
-        "domain": "cyberscoop.com",
-        "publisher": "CyberScoop",
-        "publisher_url": "https://cyberscoop.com",
+        "title": "Ohio Auditor of State’s Office web server targeted in cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmJxYVlEbzF3MjVDQXlvRzN3Q3RKa0ZQQ3VCcHBSRXhUTUF0RWJFSUlaTXRaS09CYjlVUUttMFFHRDJNaE1lNDVaN0ROQ0FUeDZ3Ym5wQWtoYVpkb2VhZ3VSQ2FqNHQ0STFmV1JQaDRzeF9JdVMwYUM2MHBsdUdQNDc1YzlBdVJleFgtbk5aa0U0V1dL?oc=5",
+        "domain": "www.wlwt.com",
+        "publisher": "WLWT",
+        "publisher_url": "https://www.wlwt.com",
         "language": "",
-        "seendate": "20261027T100315Z",
+        "seendate": "20261027T195721Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmFrcFQzT0hybWZpcFdTdkhzR0dqRXlqTWUwRXpUSVJ5WVdxdV9UWTVRR2dhb1BTWnZJTk9ZRjVUVmxiLW5jbUtPcV8xWnBQbjZzV3UxbERWVC0yMWYtcVRVNEJ2OWhEektNanlYR25JU2dkNlVIdFBSQlVmZE9ldkc5RGlNeVBRLVl4Vm9GRWRwdGRFQm5vbjhGaXlSRG1DUG1kWDlsWmVfcjRC?oc=5",
-        "domain": "www.pcgamer.com",
-        "publisher": "PC Gamer",
-        "publisher_url": "https://www.pcgamer.com",
+        "title": "Cyberattack on University of Copenhagen exposes data of 525,000 people",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVo5S1BiSXQyQWNuUTBuLUdiY3FhNkMweVNNWXZzbi1qdnU2MFdhMXo1VXhsQXZJWHJwdVBuVmpwM0ExMjFJTk9GaUp3SHFqT1g3WWZtRjlJbzhzRHlnZ016dEd1ZmJiZWVGN3dTSUxub0gxRXlMS21fYVNvcGF4S0lZNHdPbmtQaEx6cWp1WFlDUkMxOUpB?oc=5",
+        "domain": "www.helpnetsecurity.com",
+        "publisher": "Help Net Security",
+        "publisher_url": "https://www.helpnetsecurity.com",
         "language": "",
-        "seendate": "20261027T115558Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "HTTP2Shell Vulnerability Extends Beyond HTTP, Affecting .NET, FFmpeg, ClickHouse, and Apache Arrow",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UclNhd3VMaHQ2Y1ZPeXdkWFg3QlhRWWx4U1pvaDVuVzZiVC1yNERUWG5iVm5EUWJMMExvd3Y2UnJZYXdXelAxQ3VRWmFfQ2VkQ0ZScWM3Si1nWXJWZDhjX3NUd1pxUdIBa0FVX3lxTE5xTnl0ZDFncEVEcUpxX0dFLXBPaTNhNE5URUNrY3ZGZUp5emlZOXhkYWRaVzBEVWZkczE0TnRNOENhTnhCaW9PMV8xVlR6NC16bDNwbWN5T2Z6eDJvVjJBM2Y2VUotYV9GV3Vr?oc=5",
-        "domain": "cybersecuritynews.com",
-        "publisher": "CyberSecurityNews",
-        "publisher_url": "https://cybersecuritynews.com",
-        "language": "",
-        "seendate": "20261027T162600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware Attacks Rise 50% in Q3, Says NordLayer",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1icWpXc25ZUUFINVRjenlNWEdrM1Nld0g4SEVjTEhPOXdkQ1pmWE56Z1FubUdhSXNkOUg1TTZrUUhWeE9xYl9JN0phbER3TGN6VGZ0TzEyMVdJaUZBaUh5Wk9DWlJEaVdyU19GU3kyaVI2SlgzNTFv?oc=5",
-        "domain": "www.insurancejournal.com",
-        "publisher": "Insurance Journal",
-        "publisher_url": "https://www.insurancejournal.com",
-        "language": "",
-        "seendate": "20261027T050531Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Flood recovery, UNMH cyberattack, dry and mild weather, cap controversy, jewelry program",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmZ4LVNMMkF6dU5la2Q0VzA5UGp2Y042YkhGWkVzVTFCYWNBeUM3YkxUWlRPRi1NV3NiTlNfRWxHdHczQzlqN3A1R2p3S3hwMkFQQjRFbjBsTWNsc0VBVHM3dnVrRW9iaUUyTl9lcE1vbFhMVmZkQlRmRGJNLVctbUZKSEg0Nmg2X1lWd292N3I5Z1dkX2dOY2FSa3BSNUdnMHIxZUVSOUh3emZCXzQ0UG14VGJQX2gtQVdiVdIBwgFBVV95cUxQNHRCeXVFWUtfcld6ZVFEeXpxcm91SlpZUXZGOGJ0N0RPR2lNVi1HRkstYkl6WGJqME1EUnhORVpfdUdJSDJNSWtBdFhIQ29SNlZqVGJlMUowV0JYM3BuZHllaXlRSHE4MmRWRERsWHlwdjg4NEV4T2xMZTJYcGZIZ0FibzZSN0JVTVJKSEhNLW9GU3FMS3lSelJMcHJYc1JwYWxUMmkwOUJBeEI3cUtvaHpoaUI1N0Z3LUlrUXpXeGZFQQ?oc=5",
-        "domain": "www.krqe.com",
-        "publisher": "KRQE",
-        "publisher_url": "https://www.krqe.com",
-        "language": "",
-        "seendate": "20261027T131026Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlcUJ6NnBTTThUM29Zc2ViWlA2SXFTZXdpc2JTbkpHdW9KSDMtOGczNUVMNmFLSUtoNVFQLUZFSjlSWWlUVVB1VVJPVF9zeFJBX0pyUGtDNFFRQU5OMzhheXhacmtpblNzaTNjX0lzQnRpOUtNY0xwVEFmRQ?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261026T155200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "UNM Health impacted by cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVE4RkN5NFNoWGZzdVpIbktTaWNkZXNOWGxoaGw0YTRNZDU3MkhodU50UEhoT1o4a0U5VjVQNnlSZi15N0FoVjBWaTA4ekpOSC1mMUFVTENqTTJiQWdUdTBmLXFObFZkLThBMGg5ZWxNT0lsMHZGODJ1TmE2MjkxbFJtRXV3Z9IBiwFBVV95cUxQcFo5OUdHRkZTcjBGeGJzUXcwaEs2RV9jVDhYQWhaaXllLUw1UzdrUWN2emo5LWtzZFRtbWlJZ1BLTXBIY1dKQ1Z0YVFLUUxQTUVGOFpDbXpBdVVldnlzd2tEdmdvazJEZEVJRnkzaHBNa28ySXBXOElOdkNWZWFmaHZ1MmhHYlZ5QVE4?oc=5",
-        "domain": "www.krqe.com",
-        "publisher": "KRQE",
-        "publisher_url": "https://www.krqe.com",
-        "language": "",
-        "seendate": "20261026T185902Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Warhorse Studios hit by cyberattack, company systems and data affected",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUpucDNTRFh2OG1nY185YU0zX3VDYkZTY1dCQXpkUG9TQ1pFS0VuTnhIeUZGRTJxZWJ5Wm81TGlkd2RINkNqUlNnNHF5T0JtZUE0S1FpaTNGUkZjWE5oZkhkTEFZeV9BbEdvMHRHdFNDVUlEX21TVnBSWTVFLWxpVks1U29td3l5ZHNjVk9DVjBXcmJnR0NUY3BNelA5NWFR?oc=5",
-        "domain": "www.gamesindustry.biz",
-        "publisher": "GamesIndustry.biz",
-        "publisher_url": "https://www.gamesindustry.biz",
-        "language": "",
-        "seendate": "20261027T142032Z",
+        "seendate": "20261027T113922Z",
         "source": "GoogleNews"
       },
       {
@@ -339,83 +339,83 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Why most auto professionals expect SDVs to become cyberattack targets within 3 years",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3dkNmpUbnZGMU9COHRXUTNnNVJTMlBBRDlmenFUR1ZVSlU3d0pqWG1YUU1DbkJtNV8zaTB6MFVaR1dhVXpDeVltYmhBVGpnZHNwYWFiY0xJMGJIWDRGMHRIQWVIUFRqYVVUeG5LQmdqVkRPTkhUVEtvQXZnZ2pNZUQyZw?oc=5",
-        "domain": "www.autonews.com",
-        "publisher": "Automotive News",
-        "publisher_url": "https://www.autonews.com",
+        "title": "Ohio Auditor's website and online accounts down after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE1Nc0N5clZzSXBmTVpyS1dsWEl6djRRWUpNcnY2MDhzeEFFMTlBSWp0OHRuY21xZGtteFZldndWV0dqVUo0SmQ5T0NoVVRrYzViYXBBMll4YnZDeVc3V1psNXZmaFhOV1BVb29LSmF4NjIzaTBjUzd2SDBDeHNSU0QxMDA3RDhncFo4WkNwak14Q0psYktSWGJIRVBOR3c2Q21ib080SmplZTRYTFlkNHpNTzk4dE0?oc=5",
+        "domain": "www.wosu.org",
+        "publisher": "WOSU Public Media",
+        "publisher_url": "https://www.wosu.org",
         "language": "",
-        "seendate": "20261027T111600Z",
+        "seendate": "20261027T183500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "PHP vulnerability shows need for open-source maintenance",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWhYVzk0azFneDJzc0tIYUdaSDQzekNnVGhsRTV0VmFJZWZYa25MOWUxeUduWWR6TkFpNHBoN3NiLXFTd0xNMmZpbmJ6cFR2MHd6XzVrTWZRSVBpQWFkM0JLV1h1aVRxWFZEOWtYM1hsRS16SkJvc2pPckJuVThZT3plTlZFaEJQeFgtM1J5eHQ?oc=5",
-        "domain": "www.itbrew.com",
-        "publisher": "IT Brew",
-        "publisher_url": "https://www.itbrew.com",
+        "title": "71% of vulnerability exploitation starts within a week of disclosure",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmdzUEtmSXBxcWNQZnpKODM5T0dBVzhJc1ViNTRZeGFybE1lb1Z1T0t0M0VTOXFFZGdJcWFBbmgyMkZKUWRxMFU0LVBQdDBaSDJGdGttV0g1VGtyTlg3dHNTb1VMSXYtU0taY210RnlZdTBWU3V4QzJzelNnMW9BVkxrZnk5ME1nRTJUeERrR2VCOE9DbXJ2bHMtWGd5aURS?oc=5",
+        "domain": "www.helpnetsecurity.com",
+        "publisher": "Help Net Security",
+        "publisher_url": "https://www.helpnetsecurity.com",
         "language": "",
-        "seendate": "20261027T134546Z",
+        "seendate": "20261027T053033Z",
         "source": "GoogleNews"
       },
       {
-        "title": "CISA Eyes Follow-On Vulnerability Disclosure Support Contract",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1FSdDA2UV92QmlQWi1OVmZOdmx1NDc0SXpwTFJLaUYxNC1SLWd2VC11MzRuNU5UQ3FZb2RMS3F1eFUzZjFfWnZQQklXM1paOGdfNm9xeW1ocV9zQXdlWTFlT0MxTnZwYl9kOTlmNlFWLVFFYnE2Y20wRDFOR01zcDRPeUJHTkNLWndiQTljaGIwTGUt?oc=5",
-        "domain": "www.executivebiz.com",
-        "publisher": "ExecutiveBiz",
-        "publisher_url": "https://www.executivebiz.com",
+        "title": "William Way art exhibition explores love, pain and vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1MyQVYyY0JrS1pVREJhV0F4TVVNemJkQTBfdGk1cWllRHo3Y2dSNTlEeER3TG9Kci1WYkRYZ2dneDdCVy1QaGFpZ2czd005YkJaaWhabjlkTk12NWF6NnF3RG9MY29kWFUydmxHTWYzdVpjalBTUF9Yd0lZYi1yZDF2RUtLaFF0VzRBY3ZJZ1FWTG1Jcy00?oc=5",
+        "domain": "epgn.com",
+        "publisher": "Philadelphia Gay News",
+        "publisher_url": "https://epgn.com",
         "language": "",
-        "seendate": "20261027T155800Z",
+        "seendate": "20261027T222347Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Columbia investigation finds no evidence data stolen in 2025 cyberattack was sold, distributed on dark web",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSXhOU1FaQ3lJZXdsVUJZek9XWDRPNy11V0dudjVMN1kwd2dtY1dfM3FyVWRIYV9ZS3lqSEhzOVZscWl2N0N2TGNhSlZDZmtWMlRfWXllUEtCLWx4WThNRWFsUGJkOHo3aktfRFZFQml3Q1I0VHhsb3pDS1JobW9xV0RoOHNRUlhCWE9yYk1zVEtPd1lQai1YT1k1SmxlOFFLVGVSNTVKdXdzNnNORlVfN0tiT0prXzJhR0lCdUZZcXdfdG1sSkZENWczYk1LLXhqT1JDWnhSLTUzalNnS2ZBNmFXRGc0c3R0dkFBTA?oc=5",
-        "domain": "www.columbiaspectator.com",
-        "publisher": "Columbia Daily Spectator",
-        "publisher_url": "https://www.columbiaspectator.com",
+        "title": "What happens when security tools go dark before the ransomware",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWtjUHRDV3BkdjYzZHdkR2lNM3VvbGNHdWxsNmpLaFA4WEp5VlZSX3hkQzFrN2tjU3lSVm9jQ00zOHpEREVKcmZXSUFLczFPTjJubzNPdHFKS1JyNEkwZ3daUXY2TTc1a1ZVVWw5cGtjSW5YemdLaktQcjRYcURhTTNCczg?oc=5",
+        "domain": "cyberscoop.com",
+        "publisher": "CyberScoop",
+        "publisher_url": "https://cyberscoop.com",
         "language": "",
-        "seendate": "20261027T043350Z",
+        "seendate": "20261027T100315Z",
         "source": "GoogleNews"
       },
       {
-        "title": "AI discovered a software vulnerability that could impact 70% of websites worldwide. The rush is on to patch it",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPanlVVXdLUlhGX2h4T0ZDR1UwNlhOdUtSV1RwNklDQlBpTHBVUTNBY1dUUm1uWk11cFZqS094N0swRHBlbmpvS21DU0VfTGJSNE9TWGxudzFmdFdqZFVpSGhyN3A4czMyVFlBenpxaTJ2Y09udF9STVZpYTdkT3p3ZEhUYnVaSUx2UVNOT2dnaGFJUGZ1Q19SLW9pMTNhWWtFZlJyODNjaFpXUUg5aEFsZGVfbzFreTk3SUp5ZHhJQXV2VEVKZVViVC1kVXF6R2hjUzA5RlR2MWoxOHU1?oc=5",
-        "domain": "www.pbs.org",
-        "publisher": "PBS",
-        "publisher_url": "https://www.pbs.org",
+        "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fRWxIM3FkY0VOeVExWFh5V2VHbnZaMWxJTFNCSmxqU1BhRFZzb0tGUXl6bXdPQ3Y0SmM0bVFIVm1RN1RyU2ZSTFE1b0RMcEZxOXpEbG9nZzdHZ3RZTms2X1VIYUF0TWNNb29mTzJpenNEMkF2OUJ1RlZ0c3ZSZw?oc=5",
+        "domain": "therecord.media",
+        "publisher": "The Record from Recorded Future News",
+        "publisher_url": "https://therecord.media",
         "language": "",
-        "seendate": "20261022T125130Z",
+        "seendate": "20261027T204911Z",
         "source": "GoogleNews"
       },
       {
-        "title": "From Vulnerability Management to Vulnerability Elimination",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVEh4SS1ndVY2RWRXbUFzWEktRWwyNUNsSzBpLUNVQ0ZFVGs0WmpFWlBSZXRQTWJtTG5CS3lIbWZURG5BVUtGdHhRUnhqMkVaT2JOamNiZ2dGSlVPdXBnZlV4OXV5SnMtMjdMc1RQTTBQb1RBWXQ2YXF5aUhYVFNRWmdEVmhqTEZOZnN6TUN4TzR3T0pBVUtZRFNCSXV4YXhGOGJINDROY0QzbVE?oc=5",
-        "domain": "www.darkreading.com",
-        "publisher": "Dark Reading",
-        "publisher_url": "https://www.darkreading.com",
+        "title": "Ohio Auditor’s Office investigates after it was hit by an overseas cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHlxc09xMGNjQ3FhTlp4YnNJVEtmNG1Najc5X25mTlh2Tzl1Uk1ZbmpOXzJLT1J2andLclpxdmgxT2VPbkJueEN5aUJlQnhkRGlWVXN0aGhsZXJWaTVpUzYyZ2lCQ1pmcXhISnlPcC0zV0ZhTkFjaFZ6dWlfaEVMQWFWZ2FFRm5nYlhqS0c2UXdrT0NoaXRWSmpmOHB4NlhLSWpUUVpBYURrNFg4djladURKXzgta2diTF9KNEk5T1lENlRLMWFIYzY2NEVtMkZDcTkwTV9XdHhBRU1qQnV0RlJ1M2M0UmtXRHAwQw?oc=5",
+        "domain": "abc6onyourside.com",
+        "publisher": "WSYX",
+        "publisher_url": "https://abc6onyourside.com",
         "language": "",
-        "seendate": "20261027T090708Z",
+        "seendate": "20261027T184216Z",
         "source": "GoogleNews"
       },
       {
-        "title": "NSA Advisory: Critical Patches Recommended for PHP Vulnerabilities",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdWFCY1c1VktkZXA4MFl3V2NiekVxN2NrckZtYkw5c0NYcnNRT3I5TFlLQ3lMZzNkQVRIVDdwSVZZVG9tNFZ3NUJpN0xONnphbm93QnR2eGYycVdqYUhRMWp5Y2lEVTF1RGhTQ1FhU29RdTBoNi1sZGxjQlRLQng2WkNaU1FFRVRkZ3B4RDlENEF3eUZkeDF0R0Eyb0VFM2JnbHoybjNCYU8xaXdsa0t2WWk0VDdzNVBaZ2VhNDYzcGpiamJVUXJ0OGJSakxhT201VVVhSlc2Qk5fN0hySjNRQlpsQUNDS2FTX1RubkNJOA?oc=5",
-        "domain": "www.nsa.gov",
-        "publisher": "National Security Agency (NSA) (.gov)",
-        "publisher_url": "https://www.nsa.gov",
+        "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWE1KbG1JejhZNGpnVDJPUEdjcmpXOUhJbm9ORWd3U3FSUGxHZWY0bzctNmtMNHRKVlVpZ2tYNTBQU0Y0U1dIaU54UHVsQ29MQlM4OWotZVl2LXpkSFR3QVQtZWxPSmpvX1dQN29HeDBHYVdoZjhDYUtHdmV3MkpPcURtQQ?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261022T094017Z",
+        "seendate": "20261027T135900Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Supermicro BMC/IPMI Firmware Flaws (CVE-2026-18450 Critical): Patch Now for Hosting and Colocation Fleets (October 2026)",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSUs0TkRpLVNkdktkTDhvZ2VraENCNmR2UWJwWG9USDZwSDNJM0pycmt3bmpRUDBuZDMwdG1QUVh2dHU4UG5Lcy1iYUZqUjZHWTk3b09OazgzZVR1ZDZpbjRaQXlSb0hNN1FqbWdleWEtby1PRlBVUXZZLVp3VVpucDNIei1zeG1iUmpMYVBB?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
+        "title": "HTTP2Shell Vulnerability Extends Beyond HTTP, Affecting .NET, FFmpeg, ClickHouse, and Apache Arrow",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UclNhd3VMaHQ2Y1ZPeXdkWFg3QlhRWWx4U1pvaDVuVzZiVC1yNERUWG5iVm5EUWJMMExvd3Y2UnJZYXdXelAxQ3VRWmFfQ2VkQ0ZScWM3Si1nWXJWZDhjX3NUd1pxUdIBa0FVX3lxTE5xTnl0ZDFncEVEcUpxX0dFLXBPaTNhNE5URUNrY3ZGZUp5emlZOXhkYWRaVzBEVWZkczE0TnRNOENhTnhCaW9PMV8xVlR6NC16bDNwbWN5T2Z6eDJvVjJBM2Y2VUotYV9GV3Vr?oc=5",
+        "domain": "cybersecuritynews.com",
+        "publisher": "CyberSecurityNews",
+        "publisher_url": "https://cybersecuritynews.com",
         "language": "",
-        "seendate": "20261027T114710Z",
+        "seendate": "20261027T205041Z",
         "source": "GoogleNews"
       },
       {
@@ -429,108 +429,118 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdTZ2bWtZVkhaMmtaR2FvdXVMb2cyUFpiYkN2X1RDV0k3UUNZUm9mbHpXWndlRHUzekNycUJxY2pZTjZSZ2wxSW9uZm1zT2VQeHgyRHQ2Y0FoZzdHMHpRQXFhQkdvNTFWS0psNUtLNndkYklGcXRVT3ZlOVVIUHYyTzBKOFRoU2s4OGgyXzUwMk1KTUJQa2hicWtYMXIzcVEyT2Z0RlhYRVVWRHY2RGFGRlJ5ZUI1VW5UbldMTUxUT210anN6MFVKQU45ckZIdU0xbWx4WWUtLWJRN3E2VVp6R1AtNHpHb3hu?oc=5",
-        "domain": "www.theregister.com",
-        "publisher": "The Register",
-        "publisher_url": "https://www.theregister.com",
+        "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlcUJ6NnBTTThUM29Zc2ViWlA2SXFTZXdpc2JTbkpHdW9KSDMtOGczNUVMNmFLSUtoNVFQLUZFSjlSWWlUVVB1VVJPVF9zeFJBX0pyUGtDNFFRQU5OMzhheXhacmtpblNzaTNjX0lzQnRpOUtNY0xwVEFmRQ?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261027T161500Z",
+        "seendate": "20261026T155200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "'Kingdom Come: Deliverance' Studio Hit by Major Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RHVzUE1VanJxQUhocWhlRHpRN09hVmVfbERINzJOVDlfSWVWOUZjOHlFRmdiMmFxQUMyVkhCM2ZOTEV0QWR1eU9sYnRycW1BYnN1ZlZVazZOamFZd2YxRlUzd2FscWtBdGpFSUhn?oc=5",
-        "domain": "www.polygon.com",
-        "publisher": "Polygon.com",
-        "publisher_url": "https://www.polygon.com",
+        "title": "PHP2Shell explained: Timeline of the global vulnerability crisis",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTi01V0NRQnFLT2hzS21sNDdaTW4zUU1SLTdOZWpKMWM5eEV5U2ZkQ0VTRW1GamV3MU9hcFJKRk8yN0k1LXVNS0JfMDVqOFMwdlZGZkpZcURWa1J4TndmTE42UUxFOGpLS1g5UTlLSmhubWkwNFNTN0VkUHFFUHh4bERiNEc5QnFrb3hDMnhSWmhuSHoxdHNRQUlra2NtVC04S3ZXbWd3?oc=5",
+        "domain": "www.techtarget.com",
+        "publisher": "TechTarget",
+        "publisher_url": "https://www.techtarget.com",
         "language": "",
-        "seendate": "20261027T164218Z",
+        "seendate": "20261027T195127Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMXE1MTlaZ3ZHc0RqN0E3MnBqM2xDeGJLOEU5MDVodnE4RGsxeWNBZGtwdzluS3UwQ0JEU1BWa1d1dXk4SkJvOGR0alZSODV2bjNTTGQzTnllZkNGWUZXQUdYa1dtNE1IUnF1aXVfZE5pTnJXbVRyZlVQRzJ4T1hGUXYteWd4YXZrMXZTZmRxX2ZWWktLd1BEalpmNGM2YWdXYXQ1d2hxVUV0TFJET0wtTTlSTFZTUWJJM0tyUXdycmZJOEVQOVE?oc=5",
-        "domain": "cloud.google.com",
-        "publisher": "Google Cloud",
-        "publisher_url": "https://cloud.google.com",
+        "title": "Columbia investigation finds no evidence data stolen in 2025 cyberattack was sold, distributed on dark web",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSXhOU1FaQ3lJZXdsVUJZek9XWDRPNy11V0dudjVMN1kwd2dtY1dfM3FyVWRIYV9ZS3lqSEhzOVZscWl2N0N2TGNhSlZDZmtWMlRfWXllUEtCLWx4WThNRWFsUGJkOHo3aktfRFZFQml3Q1I0VHhsb3pDS1JobW9xV0RoOHNRUlhCWE9yYk1zVEtPd1lQai1YT1k1SmxlOFFLVGVSNTVKdXdzNnNORlVfN0tiT0prXzJhR0lCdUZZcXdfdG1sSkZENWczYk1LLXhqT1JDWnhSLTUzalNnS2ZBNmFXRGc0c3R0dkFBTA?oc=5",
+        "domain": "www.columbiaspectator.com",
+        "publisher": "Columbia Daily Spectator",
+        "publisher_url": "https://www.columbiaspectator.com",
         "language": "",
-        "seendate": "20261021T142914Z",
+        "seendate": "20261027T043350Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Spatiotemporally resolved single-nucleus transcriptomics reveals cellular and regional vulnerability in the midbrain in Parkinson’s disease",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iQk9nNnRNdWNPWEV1UGpXRVZ0bUF4SzcyTm1uUnNHUVBCOGxGeW03Sm8zN0Z0UzBPR0xfaGRGNzhMMVpUTWNiWDFWRVA3UEhpUWlQS1ZYTklaNXIwWThV?oc=5",
-        "domain": "www.nature.com",
-        "publisher": "Nature",
-        "publisher_url": "https://www.nature.com",
+        "title": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmFrcFQzT0hybWZpcFdTdkhzR0dqRXlqTWUwRXpUSVJ5WVdxdV9UWTVRR2dhb1BTWnZJTk9ZRjVUVmxiLW5jbUtPcV8xWnBQbjZzV3UxbERWVC0yMWYtcVRVNEJ2OWhEektNanlYR25JU2dkNlVIdFBSQlVmZE9ldkc5RGlNeVBRLVl4Vm9GRWRwdGRFQm5vbjhGaXlSRG1DUG1kWDlsWmVfcjRC?oc=5",
+        "domain": "www.pcgamer.com",
+        "publisher": "PC Gamer",
+        "publisher_url": "https://www.pcgamer.com",
         "language": "",
-        "seendate": "20261025T233749Z",
+        "seendate": "20261027T115558Z",
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWtyNmN6NlpUeEZKV3VKTzlKcmYtSlZlU3RyVXgxNGUyb0VQUVRwaWtGYjBfeUNsNmgtMU81TGNIc0RvZ1ZOM2JIeEJFRVN6TWtwOUFCNmFZMXlJQXVuRTBrSk5oc0NUTGxqSHRrV1p1UlZkTkJMZlNscUsyYi1lbmtBcDNIdjFFdXI3cENPMVJFVzNRYWRvVUppNXgxdklPM2MtT1pTNF9yZUNtb05ONGFrVEE0OWEtWUYyb2FNeWwyYmhxdlE?oc=5",
-        "domain": "www.rapid7.com",
-        "publisher": "Rapid7",
-        "publisher_url": "https://www.rapid7.com",
+        "title": "State official: Auditor of State's Office targeted in overseas cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVFhemhsbWdta0VFV2NYaXVWNFQyVmFuRGthb0N0bkxoYVpmUVlhR2RCYmlHbFFrcm4wR1NQbFdmOUw4ZDJHNlBXNVlqMWNFVzFUdFlnWmlEelVTZ1pyV3E0Q1huSGo2b2VPT1NEdkFKWEVmanhjb1hnX1F1S2hjVjRtbGZtRWZubzdDRWQ0eXJTMHJJSkItaExXZUwxWDN1UjlYZlhuZWtQTkdJX2VBeVo5RlhTNDlKSzhF?oc=5",
+        "domain": "www.news5cleveland.com",
+        "publisher": "News 5 Cleveland WEWS",
+        "publisher_url": "https://www.news5cleveland.com",
         "language": "",
-        "seendate": "20261021T152447Z",
+        "seendate": "20261027T194231Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
+        "title": "AI discovered a software vulnerability that could impact 70% of websites worldwide. The rush is on to patch it",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPanlVVXdLUlhGX2h4T0ZDR1UwNlhOdUtSV1RwNklDQlBpTHBVUTNBY1dUUm1uWk11cFZqS094N0swRHBlbmpvS21DU0VfTGJSNE9TWGxudzFmdFdqZFVpSGhyN3A4czMyVFlBenpxaTJ2Y09udF9STVZpYTdkT3p3ZEhUYnVaSUx2UVNOT2dnaGFJUGZ1Q19SLW9pMTNhWWtFZlJyODNjaFpXUUg5aEFsZGVfbzFreTk3SUp5ZHhJQXV2VEVKZVViVC1kVXF6R2hjUzA5RlR2MWoxOHU1?oc=5",
+        "domain": "www.pbs.org",
+        "publisher": "PBS",
+        "publisher_url": "https://www.pbs.org",
         "language": "",
-        "seendate": "20261022T172500Z",
+        "seendate": "20261022T125130Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Hornetsecurity by Proofpoint Ransomware Report 2027 reveals nearly half of companies don't trust their own defences",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMVZfUXdsNTFhYTJvdFV5aHZjWVhyU1RNZUZFUWFEa2MzMWRON1c5WkU0UV94aEhUQWthV2N2aURtQjFtdHVMbC1XMDFZei1RV3Q2TmJqUWtyQ3RUS3VTaFpFaHBfRllnUlAxaXlWRTFOQnRNQ09zYzZRMGFuRGRxaGw0ZDJoeXRxWWF1MTNoYjlUQ0QtSmtHZU1XRVFJNi1Sdk9laU5PdHU2YjJPZ3UwYXFR?oc=5",
-        "domain": "finance.yahoo.com",
-        "publisher": "Yahoo Finance",
-        "publisher_url": "https://finance.yahoo.com",
+        "title": "UNM Health impacted by cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVE4RkN5NFNoWGZzdVpIbktTaWNkZXNOWGxoaGw0YTRNZDU3MkhodU50UEhoT1o4a0U5VjVQNnlSZi15N0FoVjBWaTA4ekpOSC1mMUFVTENqTTJiQWdUdTBmLXFObFZkLThBMGg5ZWxNT0lsMHZGODJ1TmE2MjkxbFJtRXV3Z9IBiwFBVV95cUxQcFo5OUdHRkZTcjBGeGJzUXcwaEs2RV9jVDhYQWhaaXllLUw1UzdrUWN2emo5LWtzZFRtbWlJZ1BLTXBIY1dKQ1Z0YVFLUUxQTUVGOFpDbXpBdVVldnlzd2tEdmdvazJEZEVJRnkzaHBNa28ySXBXOElOdkNWZWFmaHZ1MmhHYlZ5QVE4?oc=5",
+        "domain": "www.krqe.com",
+        "publisher": "KRQE",
+        "publisher_url": "https://www.krqe.com",
         "language": "",
-        "seendate": "20261027T103000Z",
+        "seendate": "20261026T185902Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Report showed vulnerabilities to cyberattack in Hoover",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMG1CYU1YV251TmtSd0U3aS13bFU0MHhpaERiQThjeEViNU9fUjRXVGh5Q1lQSlMtb3hZa2RhQW5nMkR5allKU0o2R0xlaXJsSElNWjJDQl9yOU5qYlpnSlp2aUxFMVNXRnJCNnluR1J2Nk9UQnRjMl9Fdmt0THdhSXd1V0lwUmNKdU8wVnJ2MUM?oc=5",
-        "domain": "www.wbrc.com",
-        "publisher": "WBRC 6 News",
-        "publisher_url": "https://www.wbrc.com",
+        "title": "Flood recovery, UNMH cyberattack, dry and mild weather, cap controversy, jewelry program",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmZ4LVNMMkF6dU5la2Q0VzA5UGp2Y042YkhGWkVzVTFCYWNBeUM3YkxUWlRPRi1NV3NiTlNfRWxHdHczQzlqN3A1R2p3S3hwMkFQQjRFbjBsTWNsc0VBVHM3dnVrRW9iaUUyTl9lcE1vbFhMVmZkQlRmRGJNLVctbUZKSEg0Nmg2X1lWd292N3I5Z1dkX2dOY2FSa3BSNUdnMHIxZUVSOUh3emZCXzQ0UG14VGJQX2gtQVdiVdIBwgFBVV95cUxQNHRCeXVFWUtfcld6ZVFEeXpxcm91SlpZUXZGOGJ0N0RPR2lNVi1HRkstYkl6WGJqME1EUnhORVpfdUdJSDJNSWtBdFhIQ29SNlZqVGJlMUowV0JYM3BuZHllaXlRSHE4MmRWRERsWHlwdjg4NEV4T2xMZTJYcGZIZ0FibzZSN0JVTVJKSEhNLW9GU3FMS3lSelJMcHJYc1JwYWxUMmkwOUJBeEI3cUtvaHpoaUI1N0Z3LUlrUXpXeGZFQQ?oc=5",
+        "domain": "www.krqe.com",
+        "publisher": "KRQE",
+        "publisher_url": "https://www.krqe.com",
         "language": "",
-        "seendate": "20261027T033230Z",
+        "seendate": "20261027T131026Z",
         "source": "GoogleNews"
       },
       {
-        "title": "PHP2Shell: What defenders need to know about CVE-2026-109618 and CVE-2026-109619",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbkdSLW9vaDZxdm5wM1E1NXpUQkJQMldDcjgwQnNtNm9wclBQNzNRRFFlblNtNFFMYXZ6MDdpdWR2cjlvakd5bS1sM1JWVEJlaTQ4bEFtS0pDeURJSGNXQ3FUd2dCYlNFLWNrbURLbVNsMEIwd05rODFNUGNRMTRYN3hJR3oxTUpNd2hBcnFtaWdVblVhRE5DSFpLRU1pUQ?oc=5",
-        "domain": "www.trellix.com",
-        "publisher": "Trellix",
-        "publisher_url": "https://www.trellix.com",
+        "title": "Ransomware Attacks Rise 50% in Q3, Says NordLayer",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1icWpXc25ZUUFINVRjenlNWEdrM1Nld0g4SEVjTEhPOXdkQ1pmWE56Z1FubUdhSXNkOUg1TTZrUUhWeE9xYl9JN0phbER3TGN6VGZ0TzEyMVdJaUZBaUh5Wk9DWlJEaVdyU19GU3kyaVI2SlgzNTFv?oc=5",
+        "domain": "www.insurancejournal.com",
+        "publisher": "Insurance Journal",
+        "publisher_url": "https://www.insurancejournal.com",
         "language": "",
-        "seendate": "20261022T070000Z",
+        "seendate": "20261027T050531Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Rapid Response: php2shell, Leaked Critical PHP Vulnerabilities (CVE-2026-109618 & CVE-2026-109619)",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVzF1eFctQllUTmRfMnZ3LVQyNTg4ZmZpeWlhTEdKMGFjM2VtYXJRa1BBWkVTQ3MyY1dyYXpidGl0cGdPeEZvYlRxdTJLYUR1bGl0V1ZFT2lERVFYT09FeXUyMl9aRGdTMVRoOGlYc18xZjAxN3NjbnlhemdxS0hkTA?oc=5",
-        "domain": "www.huntress.com",
-        "publisher": "Huntress",
-        "publisher_url": "https://www.huntress.com",
+        "title": "Ohio Auditor of State’s web server taken offline after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGpETGRuSWd3MzBlOEQyNmN2aU9pNnFyZFJIZFgxTTFMcHJ5eDUyU3piQ1JjY0tlMHppTVFkbDItd1VyRUhyUFFDMGFLSGFjcDFKeDA2SjBxTUttSW4xeHN6QnIyNHNPN3NsN1pOQzBCSF9rYWhRcWlpbFJDSHF2THIwSVdXTGs2bTF3ZkwwWWNOa0Y1NmUwbnFIM0liM3c0MHBZTDk1SGdsNndmNk1LNmRlWV9SM2VfcGhIU2dMONIB0wFBVV95cUxQZ05rWUlubHN3U1FQdF8tQzlQblNzT0syQ0JCVmJuTmZNakxRY0dBNTNpSUxqMjJjZFBlSmpoQ3dtRFZNT3FwaENMaDFGcG9BenFyOEdpRlB5dW8zck8tOXYwTklRZEdQd0VyajM0RXpEYlZOSUVKU05jN1NGaU1Rb2dHWFdDQ0JVS0RiM2x2ZDhDZThzZmo3aFlueG16VUltY2VFX3ZnV0pGS3RVc1g3X1c1eTU1MDJ1Nnd6eEJKU0lqWUNNMHMtcGlvR1JhRjV5Nlg0?oc=5",
+        "domain": "www.whio.com",
+        "publisher": "WHIO TV",
+        "publisher_url": "https://www.whio.com",
         "language": "",
-        "seendate": "20261021T090700Z",
+        "seendate": "20261027T213739Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
+    {
+      "title": "Update on Cybersecurity Event at UNM Health Sciences Center",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFQybDZYLXVTU2VsM1RQSmVGZm1OSlVZdmxqYzlITEtmcTQ3MWVnbHVuUnV6MHBqWExnYXdEUHo5MDBRcjB0X3hoSjNqNUYweUxXTjhtb0RjaVR3djh4S2FDNHJWZm5lMUpIVEZmUmlQODdjdGJpdEtMaVZzdk1aUVg1by1wMU1Td01wNndYYzlXUW1ybEFqMHhfWU80NWdVVUJ2dnM2bExIdmgxT09QUVhmbVl5djE1WmpkMVplRW5XOVhnV0dmSkhJTEI1aFdTakF1UTZEeXAxVHpwT3dyRg?oc=5",
+      "domain": "hscnews.unm.edu",
+      "publisher": "UNM HSC Newsroom",
+      "publisher_url": "https://hscnews.unm.edu",
+      "language": "",
+      "seendate": "20261027T180432Z",
+      "source": "GoogleNews"
+    },
     {
       "title": "Cyberattack disrupts University of New Mexico hospitals, extortion group claims attack",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORjQzb0x0VHItb0FhMUs5bDZPNW5MaGNzeVFYMW9Mank4MHk2MkFZR25CWG5VazczMkpoNmg2eUgwRWxkSDI4OERvN1dZMW1YX2Z1NGc0REltSHJwRWw4M3V0TGRYc0JZcnJzS29fRkNYQ3JRcjJXd3hfTE4wenZZQXFDNHpnYnFPNk9MVXVpSkR0QmhK?oc=5",
@@ -542,13 +552,73 @@
       "source": "GoogleNews"
     },
     {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfS012dGhid2padWk5WHhmcjltT2tzODQyMDUyQzN0cUFNR0VBdUdvYXN3bGJqeWpqV0k3cDV6NmwtazAtWXZZUlJqQzdxYjBxZVI4Q1RmNTFjdw?oc=5",
+      "domain": "openai.com",
+      "publisher": "OpenAI",
+      "publisher_url": "https://openai.com",
+      "language": "",
+      "seendate": "20261027T190727Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "What Promo Should Know About the PHP Vulnerability Affecting Roughly 70% of Websites",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMDYzTDBPSEoxT0lUT1J4SW1LWDFyeUQxdmhidlBTZlZsa2R5OU1iZmJOczh1bDdjdFBCME44SURPaDNqcWVFazdHNjUxRGhnanNQWTV3SnY5ZjYwdkxFZ09RWkgxVGhkeG5WcXNyUkdUNTZ3N2FHZmFrcnpWaVVPejhLQms1M19XczdGSGpMZEJxZ1ZRdXJfVTZKRThEcERYZTVUM1piN3Y1bUsta3hRb3dISGhWeU5OeDQwZWFWdThoaUNoaW84WmNWcG1VYUQyZEw4WFplVjI0Vm0wWXNpWQ?oc=5",
+      "domain": "members.asicentral.com",
+      "publisher": "Advertising Specialty Institute",
+      "publisher_url": "https://members.asicentral.com",
+      "language": "",
+      "seendate": "20261027T201739Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Cyberattack forces N.M.'s only Level 1 trauma center to divert ambulances",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWZjbkZPS0ZWTW9qMHBpM2JRUkp0VWJRa3R2bDMwUGQ5dDZkUHFVRDhVYmU2NUZrMkdYUnF0RzFEVkpLVURzYXFQOXY3M0FGVDhpSTZIVEdMTFp2NWlQYS1WbUlPcGF2MDc2SFdjaU41ZFBGZWUtMF92czZTNzhWdVpGXzlxeGhSSVZpa2p0ODMyYUgxeFN4LWNrQTZYUUpfRmd6c0hGQ3IxSjQ?oc=5",
       "domain": "www.ems1.com",
       "publisher": "EMS1",
       "publisher_url": "https://www.ems1.com",
       "language": "",
-      "seendate": "20261027T153147Z",
+      "seendate": "20261027T155829Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "CVE-2026-115560: Unpatched PHP RCE Vulnerability",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZjJESnI5LVQ2bUV3UFJXY0RNc2NMaHFrVVVmN3lyWEtHTmhOT1NpRnZqT3lXZDY4akVNbUdpa3dNRVUxd2UwYkVQY3hFdWpUZUNEUzZzQmdSbWs4RmJTM2tVanF4TGJLd0VjUkpxc0tsekRiWDJQUWRJc292VFRnVldsc09reUZ0TVFLSTRQeG5ScjJnVnN4UUJDb09rSlpS?oc=5",
+      "domain": "socprime.com",
+      "publisher": "SOC Prime",
+      "publisher_url": "https://socprime.com",
+      "language": "",
+      "seendate": "20261026T162502Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "CISA, security researchers confirm successful exploitation of PHP flaws",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUQ0OUh3WHJKT0VwS3ZlR2dONzI0UzNYVl9sRDNIQnNBUzRHaXFDd093VTdQaGlvdmNxT3gwbk1tRlVlUGhSS2xBNGU1TC1fZlhyTWJhZlJOLUxlVkticDNFUkVtWkt5WUFVMUJzLXlaVHNic08tVnJPTFpCQmhka3dYZUtpREFYemZfYjhGajlxWElGNE1nZ3ZBYw?oc=5",
+      "domain": "www.cybersecuritydive.com",
+      "publisher": "Cybersecurity Dive",
+      "publisher_url": "https://www.cybersecuritydive.com",
+      "language": "",
+      "seendate": "20261027T161718Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "CVE-2026-111497: Critical out-of-bounds write in the Node.js Brotli decoder",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2V2Yi0tMmxscjhodzZNX0M1OS1acU1wU3VJRDgyVENZeFUxUUE1MlpzTG1QajZEdlc0YkdIbUo4eG81aFF3cEc1cjY1ZkJZamVOc1NMMmJmVllqNE5XS0V6WGgxeTM1OUdFSGZHVEN4VUNoazZ2bFdJajE5Ujh0cDhZU2Vmbi1LZzlfMC1FZWRpZjduN09jeEFlTmR0R3ZQLVN3YTNvaUJYWmVER3FlT0Z3?oc=5",
+      "domain": "www.rapid7.com",
+      "publisher": "Rapid7",
+      "publisher_url": "https://www.rapid7.com",
+      "language": "",
+      "seendate": "20261026T173611Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Inside Node2Shell: A Closer Look at CVE-2026-111497",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaEc1ZHpMN1ZBUnR0cWdwOS1RNGh2bTZWZXZnYmZOQ0F0aEx2NkN2V1VNTl9JYnl4eXdmODUwRmRqdzdHMnVFZnMtRk5zNUdCa2M4WVdvN1JrSmxSWUFuSDJjaFkyQW1lTTlkb3BQZXdfdzlIc3lIZ1RlT25tTnZ2NWlrVS1vVW43WDN1NGE1UHQ1a0VrbXc?oc=5",
+      "domain": "www.akamai.com",
+      "publisher": "Akamai",
+      "publisher_url": "https://www.akamai.com",
+      "language": "",
+      "seendate": "20261026T170350Z",
       "source": "GoogleNews"
     },
     {
@@ -572,13 +642,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "CVE-2026-115560: Unpatched PHP RCE Vulnerability",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZjJESnI5LVQ2bUV3UFJXY0RNc2NMaHFrVVVmN3lyWEtHTmhOT1NpRnZqT3lXZDY4akVNbUdpa3dNRVUxd2UwYkVQY3hFdWpUZUNEUzZzQmdSbWs4RmJTM2tVanF4TGJLd0VjUkpxc0tsekRiWDJQUWRJc292VFRnVldsc09reUZ0TVFLSTRQeG5ScjJnVnN4UUJDb09rSlpS?oc=5",
-      "domain": "socprime.com",
-      "publisher": "SOC Prime",
-      "publisher_url": "https://socprime.com",
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaSXRUMkVsWkF3TjhoV29oTXdyZHhrMGZINFBHNVVrNmZubTA4SkFzMzlWMlNMLW15ZWdISDJYeURJbVdpTFB5ZzNTU21aazFfTmc4R0VkLWVyMVY4S1JRYTZ5UjJqWk82SlR5Q0ZMOTJrNEJVeXNV?oc=5",
+      "domain": "unit42.paloaltonetworks.com",
+      "publisher": "Unit 42",
+      "publisher_url": "https://unit42.paloaltonetworks.com",
       "language": "",
-      "seendate": "20261026T162502Z",
+      "seendate": "20261023T134722Z",
       "source": "GoogleNews"
     },
     {
@@ -592,66 +662,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Meloni's email targeted in cyberattack on Italian lower house",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmp2QVpQMjBkTlphdnA2bzR2RC1lY3U2eEI0MVV4X2VmX1E3VXByRURJYkk1a3NKOF9jSXZSV3Eyd3ZTd2F2M19PU0draDViZzBxRVRENU1vWHJXdGxLWVlCWXQ1ZFh5UGFIUm43WDI5eERxVE9hUjhfUnpZNGdubXVKME1WaXl4S0E5TFl6bThUOUc5cGtNVWI1b29aXzZmSDMyeHVsSlVXaTg?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261027T134734Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Global cybersecurity alert issued over PHP vulnerability",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUy1DY3d1Q1BwbnNXbjJqMlhZR2wyVTNEa0R5RG5nQXNudzJoc1ZCVWJuT1RGVFRQcVBXOE9ULXVOVVl5VXNXUzVpc0dzM1VaR19Xd2FYOFRpSDhGa015VVJaXzFNUEE1UEhlSGtKOHM2bVV2OExCYlRFTnJoVGk4OFF5OEpmd2k4N2VWUkxWUkhKbzd3c3JYc0M4WQ?oc=5",
-      "domain": "www.kmvt.com",
-      "publisher": "KMVT",
-      "publisher_url": "https://www.kmvt.com",
-      "language": "",
-      "seendate": "20261026T233600Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "CVE-2026-111497: Critical out-of-bounds write in the Node.js Brotli decoder",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2V2Yi0tMmxscjhodzZNX0M1OS1acU1wU3VJRDgyVENZeFUxUUE1MlpzTG1QajZEdlc0YkdIbUo4eG81aFF3cEc1cjY1ZkJZamVOc1NMMmJmVllqNE5XS0V6WGgxeTM1OUdFSGZHVEN4VUNoazZ2bFdJajE5Ujh0cDhZU2Vmbi1LZzlfMC1FZWRpZjduN09jeEFlTmR0R3ZQLVN3YTNvaUJYWmVER3FlT0Z3?oc=5",
-      "domain": "www.rapid7.com",
-      "publisher": "Rapid7",
-      "publisher_url": "https://www.rapid7.com",
-      "language": "",
-      "seendate": "20261026T173611Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "CISA, security researchers confirm successful exploitation of PHP flaws",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUQ0OUh3WHJKT0VwS3ZlR2dONzI0UzNYVl9sRDNIQnNBUzRHaXFDd093VTdQaGlvdmNxT3gwbk1tRlVlUGhSS2xBNGU1TC1fZlhyTWJhZlJOLUxlVkticDNFUkVtWkt5WUFVMUJzLXlaVHNic08tVnJPTFpCQmhka3dYZUtpREFYemZfYjhGajlxWElGNE1nZ3ZBYw?oc=5",
-      "domain": "www.cybersecuritydive.com",
-      "publisher": "Cybersecurity Dive",
-      "publisher_url": "https://www.cybersecuritydive.com",
-      "language": "",
-      "seendate": "20261027T161718Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Inside Node2Shell: A Closer Look at CVE-2026-111497",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaEc1ZHpMN1ZBUnR0cWdwOS1RNGh2bTZWZXZnYmZOQ0F0aEx2NkN2V1VNTl9JYnl4eXdmODUwRmRqdzdHMnVFZnMtRk5zNUdCa2M4WVdvN1JrSmxSWUFuSDJjaFkyQW1lTTlkb3BQZXdfdzlIc3lIZ1RlT25tTnZ2NWlrVS1vVW43WDN1NGE1UHQ1a0VrbXc?oc=5",
-      "domain": "www.akamai.com",
-      "publisher": "Akamai",
-      "publisher_url": "https://www.akamai.com",
-      "language": "",
-      "seendate": "20261026T170350Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Japan’s GMO Internet warns users of impending ransomware attack",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGZHakE5cVp1aURYTWxOY0ZrMnJSTnl6RXA5ZjMwRzQtRkJPbWIzeHNNSWdQTXFyTTJXandJaUZiVzVweVpjbUw2UWY0V2lONFdaNnlTcGFRd3VnaXlWcV9rVWVUUmhrMTdfcHBBc3AxVnFxTGp0TUhYbTd0OVl5Q3hUQlkzUQ?oc=5",
-      "domain": "uk.finance.yahoo.com",
-      "publisher": "Yahoo Finance UK",
-      "publisher_url": "https://uk.finance.yahoo.com",
-      "language": "",
-      "seendate": "20261027T040600Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Broccoli2shell: Everything You Need To Know About The Critical Brotli Decoder Vulnerability",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05WEEtSGg3bUQ5dXJoNjJQSE55QlZueVUzQnJlbjVQMENOM2FzUFMxUnNHckVqMnVaSG9XNnNVYms0cnlzVFo4VC1ac1FXREVrUVVTZTNiMDVYaExiazh3MVM2WVNoZ1F6dXc?oc=5",
       "domain": "www.wiz.io",
@@ -662,23 +672,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "University of New Mexico hospital diverts ambulances after cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUV9sc3JkSmlSUHc4cDN3Nzg4ZzhCSjdRdEZsdjBKeUk3NHctakdRbjNVOENPaXcyV2JwSF9xdW1vZGM0VE5oNDc5d2xRQlF0MWEyd0VacXZQNVdGeHpJalpidEYtLS1wdldPb2NIWWMtSnNtclhSV1BYc0FITkVNX1JkZUZ2bUU?oc=5",
-      "domain": "therecord.media",
-      "publisher": "The Record from Recorded Future News",
-      "publisher_url": "https://therecord.media",
+      "title": "Prolific Hive and Nefilim ransomware affiliate sentenced to 70 months in prison",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTZ6RG5TNEM2azU1c0RJMnZ4YXdQQi1Lb29jdWxzSHhQT3BXaGM4X1lNSU51aE1aU2laRVlCY0RvTjNZLTVUYmh0YWhxSDJ2YTN0aUJTVV9TbVlWVDYzNWlzS2E2bkdTWmJJSUkwU1YxbDJMVEtFT2VoTkNYSjZoa0xSbzFpcU1aX0E?oc=5",
+      "domain": "cyberscoop.com",
+      "publisher": "CyberScoop",
+      "publisher_url": "https://cyberscoop.com",
       "language": "",
-      "seendate": "20261027T150404Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "SECURITY ALERT: PHP Critical RCE Vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmMjJpNVJUVXZNOHpjUGVKSkdUT0drTE52TGdlNmRsUzBoVU5zQlpTT3RSbllaMThCcGpNQkV2Q3hxc1RGYUdkT0pXZE1mNTRHUC03YkVWbHMyRlhSNzdSVmpUWXVUdWs?oc=5",
-      "domain": "success.trendmicro.com",
-      "publisher": "www.trendmicro.com",
-      "publisher_url": "https://success.trendmicro.com",
-      "language": "",
-      "seendate": "20261024T070000Z",
+      "seendate": "20261027T183815Z",
       "source": "GoogleNews"
     }
   ],
