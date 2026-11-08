@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-11-08T06:45:16.834811+00:00",
+    "generated": "2026-11-08T13:54:53.355181+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,21 +23,11 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "38"
+      "value": "39"
     }
   ],
   "live_data": {
     "news_articles": [
-      {
-        "title": "Queens Public Library online system downed by ransomware hack, officials said",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmZKUjJUUmU0dEoweXA5SmVTRks0UXN5bHVTVXI4a1RuRnRleUU1cVFTNTh5Z1BqaWFXeFZQOThDQ0JJVmJTem5CQW1VU3Z5Qk53RzZ1YTJmWGRfYmdITnh6b2FsbnRjTmE3X3hwdUY5OEYyWUt4VkJRdWFyTWFRaXRDVGpMeDlLMzItZVpBVGwzSkx2YnVvd3lZWGVjZklOUlYtY3hB?oc=5",
-        "domain": "gothamist.com",
-        "publisher": "Gothamist",
-        "publisher_url": "https://gothamist.com",
-        "language": "",
-        "seendate": "20261107T214900Z",
-        "source": "GoogleNews"
-      },
       {
         "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanNKY19wVi1keHpMejFwcURKY0kyNFJrOTNwakVOTEhvZU5HLWNHcllQa0ppWU9XQlV4ZU5QSUlXTmQ3RVpmTEdtMTZYa2V1LWM4VlVvMktLRUVWNmhSR1pqNy1zdXV5RjZvLVJUeml3U2JMQVlRc2cyc2JDbmc4RTBvMXY?oc=5",
@@ -59,6 +49,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Queens Public Library online system downed by ransomware hack, officials said",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmZKUjJUUmU0dEoweXA5SmVTRks0UXN5bHVTVXI4a1RuRnRleUU1cVFTNTh5Z1BqaWFXeFZQOThDQ0JJVmJTem5CQW1VU3Z5Qk53RzZ1YTJmWGRfYmdITnh6b2FsbnRjTmE3X3hwdUY5OEYyWUt4VkJRdWFyTWFRaXRDVGpMeDlLMzItZVpBVGwzSkx2YnVvd3lZWGVjZklOUlYtY3hB?oc=5",
+        "domain": "gothamist.com",
+        "publisher": "Gothamist",
+        "publisher_url": "https://gothamist.com",
+        "language": "",
+        "seendate": "20261107T214900Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "French blood banks hit alongside cyberattack on European supermarkets",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDBfdnUzSGUzellWZVNfdElQclhWWFFORHpKZGJZSnREN1RRNC1SaFdsRmFaTDN6WFJYMGdSc2pOOUFpTnF5cHNsVHVaQl9DOS1ycVphdWh6dnFnbGp6WGhDU2wycWw0SHpqV3VEYzQ3cDhzUDVtZFoxaFF1TVc0SzBGaGF1QmoxN2ZhNUdfYy14em90N2dyUm1zV0tZY0Zmd0xyLWdiUkExNVRtRFozaVhYQzhEcFo1UzRYWGdIYlplSEpocUxVMVNkR2k1cXB3MW5kM0pwM21zRy0x?oc=5",
         "domain": "www.reuters.com",
@@ -66,6 +66,16 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261106T083446Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-123158: OpenSSH Password Authentication Bypass Affects Alpine Linux",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamFqU3BOZ2ZISWpYNmZLZDFRSXJxa0V1eDJmX3BjX1Q5cEdBOHlyY0t3eFBnQm5abXhkOWJ1RHI1ZnJzWm1vQkhjWlh4X1FrUVlDNW1DcEdTUnphdE5sXzdTaElXR3VidV9NazJ3dGt5VzlsWHAzWG9GU21LamRleHR5R2YxeWVvdVhWa0NSU3JMZUNXdFlaWVppVTFwWkd2aHM5ZQ?oc=5",
+        "domain": "socprime.com",
+        "publisher": "SOC Prime",
+        "publisher_url": "https://socprime.com",
+        "language": "",
+        "seendate": "20261106T142748Z",
         "source": "GoogleNews"
       },
       {
@@ -89,53 +99,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-98432: Critical Linux Kernel TCP Flaw Enables Remote Code Execution",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXN0aHFxZlJLVXdkeGVIYVI3QWNMbEdMTHczZVB0eTQ3aDdzUk9xT2lLNVBoSktZY0E3amxDLUxYVUdNNkJubUIwZ1RvTEdmRW8zSHhpc1RvYlJKMG5CdklaMjRiQW5nWjh5V2w5NUR5SUhxZjBCQ2Q5SmZELVBYS0poVUZuclJKNUpEMVBlNUh6dVY4Wm8zcWp4MzJKLU9RMEhHRQ?oc=5",
-        "domain": "socprime.com",
-        "publisher": "SOC Prime",
-        "publisher_url": "https://socprime.com",
+        "title": "Linux Fixes Faulty Mitigation Selection For BHI Vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05eDZBNzVGUkVneVQtcW9mdF9ZTk9YWVRNMkF5b1BPRThDc3VPMUNPekVyWk5JWTZYQXJCNVE3ekU0WVY5dEw0Q2RmeEZ5OHJ0bzJtWjdrVW5fUnM4NVRqeUsxdFBQS3hSMF85Nw?oc=5",
+        "domain": "www.phoronix.com",
+        "publisher": "Phoronix",
+        "publisher_url": "https://www.phoronix.com",
         "language": "",
-        "seendate": "20261105T132653Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Meloni Blames Pro-Russian Hackers for Cyberattack on Minister",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0RYcVpfY3pMei1wcl8zSXdmZnVZOUl1TktIMlAtQWlSVmxZZERLRUJxX1JrU0ppaklNYjFCMDc1TWNESnViSEFWTWNBeDRZLWpzWGNrcTlTUEsxS1U1dzFGbmltbjRiSU8zSTk2RWhjN1BienNRaktTb1d1Q2lYb3lzNkN2dzFOTE9LTjdSaWY0YUU0ZWkzMzVFNWVZVUMxbFBUT21XZ0ZkNmhoNFFkSlk4SmRVZw?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20261107T153030Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GCVE: Global CVE Allocation System Guide",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94NHZZNkEtcEEzMXBhM3VMa0l6elVGVURLTzE0dHF2OWE3N2RfdUtkbUFpMGpCUjdkaG5HRGpHVWNaTVNz?oc=5",
-        "domain": "casrai.org",
-        "publisher": "CASRAI",
-        "publisher_url": "https://casrai.org",
-        "language": "",
-        "seendate": "20261108T063147Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "TruStage cyberattack leaves grieving Las Vegas family waiting for insurance",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3VGQWF4MlhFdWpDTDN6Z3UxREJ2VW1UYTRLbkRoYkszcHVqYjFrRWEwaGctOUNzeU9uLXZNS1BHNTBIcWlITVpKT3A5bUVDTklNNGxhaF9sUnh4R1VWT25HamFrRFRNNmRWVnVTZnNsNk5TcF9La2dfT0tVYzRwM3hWUXpCUkdYWlM5c3B3TnM5YzlsdjBjTzdScjlQY2xmZ0Q4UU5aMVlySE9TYThBTmZsT2V6Um9yS0MtSWtsWnRXbU1tNWc?oc=5",
-        "domain": "www.ktnv.com",
-        "publisher": "KTNV Las Vegas",
-        "publisher_url": "https://www.ktnv.com",
-        "language": "",
-        "seendate": "20261107T132135Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CNet IDs Disabled Following Cyberattack on Computer Science Department",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWY0S3BLbnBxT3VMMzBFaU0wWTBYYWl0ZlF4N3dNby1iS2pMVE1QTFRGTGJZMlFHZ3RGcklEYXVBeURIYlZZbWZPQmhXLTZ4Z21DaFFSaXJ0OU54eGxnNTRMbU5rYXN6bnppWmVlc1FGMVcyRHJXUFlLSXlfb0U0b1JWMEdoNDlIUmpIZU9sMDA4VnBsOWFUVGh4YUE1c29Dbjd2bGUtbi1IbEVr?oc=5",
-        "domain": "chicagomaroon.com",
-        "publisher": "Chicago Maroon",
-        "publisher_url": "https://chicagomaroon.com",
-        "language": "",
-        "seendate": "20261108T022004Z",
+        "seendate": "20261108T110300Z",
         "source": "GoogleNews"
       },
       {
@@ -169,13 +139,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "New Lindnor Backdoor and Glut of Security Killers Used in Ransomware Attack on U.S. Org",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1JBMWRoWV82Yk9KUTg3bEwxdndyY3JDX1gwSWxCandfdFY4TUNzOGVpMlFpSFVVenBtU1p0S19pOWx2VENyc1RzYzAzanNmdFBVWm13dEM4UDdESmthWk4yWE1pd3RxdGRQS0tjeEpnTjI4Z3BfWko0Nm1yUl9qdXpaZ2psTGZwa1Nr?oc=5",
-        "domain": "www.security.com",
-        "publisher": "SECURITY.COM",
-        "publisher_url": "https://www.security.com",
+        "title": "GCVE: Global CVE Allocation System Guide",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94NHZZNkEtcEEzMXBhM3VMa0l6elVGVURLTzE0dHF2OWE3N2RfdUtkbUFpMGpCUjdkaG5HRGpHVWNaTVNz?oc=5",
+        "domain": "casrai.org",
+        "publisher": "CASRAI",
+        "publisher_url": "https://casrai.org",
         "language": "",
-        "seendate": "20261105T111706Z",
+        "seendate": "20261108T063147Z",
         "source": "GoogleNews"
       },
       {
@@ -199,6 +169,36 @@
         "source": "GoogleNews"
       },
       {
+        "title": "University Hospitals (Ohio) cyberattack leaves MyChart offline for two weeks",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOExFUzFBQ1dHLUlETVVmeE1xQ0hSM3JYbHJjRzRzN216aXU4N3dPSGNZLXJtMnEzXzVyVm5BeF93MFBlZlhOWTB1M3JiUjZ4Z3FJaGRLRU8tQWRnRURHbVpmRmpPMUJROE9qdUYwTzMyQ0ViRzJWMW1mTmhEVVI5RlJMSmVIbUR2N1E?oc=5",
+        "domain": "beinsure.com",
+        "publisher": "Beinsure",
+        "publisher_url": "https://beinsure.com",
+        "language": "",
+        "seendate": "20261108T120014Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CNet IDs Disabled Following Cyberattack on Computer Science Department",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWY0S3BLbnBxT3VMMzBFaU0wWTBYYWl0ZlF4N3dNby1iS2pMVE1QTFRGTGJZMlFHZ3RGcklEYXVBeURIYlZZbWZPQmhXLTZ4Z21DaFFSaXJ0OU54eGxnNTRMbU5rYXN6bnppWmVlc1FGMVcyRHJXUFlLSXlfb0U0b1JWMEdoNDlIUmpIZU9sMDA4VnBsOWFUVGh4YUE1c29Dbjd2bGUtbi1IbEVr?oc=5",
+        "domain": "chicagomaroon.com",
+        "publisher": "Chicago Maroon",
+        "publisher_url": "https://chicagomaroon.com",
+        "language": "",
+        "seendate": "20261108T022004Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZW9MSWxjSU82aFpyV1QwZDZQQzNzdTIxT0Y2aUZOOE5hTGJ2REhkbVlNQzFmckFMZzlSVnRPR2d1RmVrRGNlcE1PQmVUaFJBcF9yTnZYYUFiV181OVQ1czl2Q21USjlncXRsWEszM2NmWDRpeFd1OWwxNlRFMzVkNHB3?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261105T051700Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "French bank Credit Mutuel Arkea says €100 million missing after cyberattack",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObnU2SlpvVWVvS09oNFhpM25OcnhQeDhHLVF5SC1HSjZSY2dUMVZ1eFlyX1J6OGxyQVctbVRGRnF6X2luaFhnZVlaTmRnaTl3MXd2YnVONS1fbFZhQ2xBUFZmR3JETFQwTWh6cjF1Ty0yMjFlTjRDN2QwVzFFekhPZTMwY19la3QxdldNUUhFbFVoRjNtOXdFSTNlMzBHRU1JRnlaWUxUY01RVHUyeTUtYjZDSDhPUjFlOXcwV3B5Nkkzakh0c1E?oc=5",
         "domain": "www.reuters.com",
@@ -219,6 +219,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "New cyberattack on supermarket fridges sweeps across Europe",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261103T061351Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Online Backup Services Ransomware Test: 13 Steps [2026]",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa241NGVQWHpDM19TUXg2Y29FMllsbWEwWFc1QTh2dDdhYkd4NXF6RGxNOHc0ZEpCcmQ3MU1EOW9JVjRZRmFLTWVnTWFpa1Z3R2k0dDlvNGlMMVUtVWFRYUI3N1ZRakUzM0xfRnZkbnpOZ2dtRVctWUxVU3J0cDhsVkhnU1dDZkpHei1aeVFlV2w3dw?oc=5",
+        "domain": "tech-insider.org",
+        "publisher": "tech-insider.org",
+        "publisher_url": "https://tech-insider.org",
+        "language": "",
+        "seendate": "20261108T102758Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Stakeholder-Specific Vulnerability Categorization (SSVC): Prioritization Guide",
         "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5HMGx6V2t3UE5vWVdDeUFLc1BpOTVINFhjSXd3RkFhNnlBUHdYTzJER0pNZkdFaWhpR3BKd05Vb3VzZl9Q?oc=5",
         "domain": "casrai.org",
@@ -226,46 +246,6 @@
         "publisher_url": "https://casrai.org",
         "language": "",
         "seendate": "20261108T063147Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZW9MSWxjSU82aFpyV1QwZDZQQzNzdTIxT0Y2aUZOOE5hTGJ2REhkbVlNQzFmckFMZzlSVnRPR2d1RmVrRGNlcE1PQmVUaFJBcF9yTnZYYUFiV181OVQ1czl2Q21USjlncXRsWEszM2NmWDRpeFd1OWwxNlRFMzVkNHB3?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261105T051700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia’s Rosstat Struggles to Restore Systems After Major Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkVTV3NVWmJXQXU5T1pKdWZEcVVtaDRraFV0UnNpWVhxdzlCWGlLUWZtQThXcHJuZ3hSYzgxNjNVVU10Q25pMHZCRS10Z2o3WkNfMWJnVG96bEFKQS1HbmlVc0pvYUxMVE5fNlAzZThVdV9lRU1MUnJyMzdHRzJpSXFNMXQxU2h0RTFFMi1TMGNzclBQd0xiWXJ2ZTZLbHNORGNCblNDMC01Y2ZsSjdRVVF4NVVwOFNRaVpFWQ?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20261107T085234Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Italy's foreign minister targeted in cyberattack due to Ukraine stance, minister says",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmc5WGQzZVJ3YUZGdmNNYzY4azRpMWFFQ1dMa2dIOFlnbFRYRkVUNmJ0TmpHVDdKOWl4R3hjaG1sa2NjZHV4cXZNcy1IZm02MGoyZW5rX1Y0TEtvSTlDV0k4N1FHbXdJYUZHTFdDbmhKYzBNQkp3LTg0NDRXX2hYS1I5QzJnMVlyNzZtdGQ2VzJscFh0a0RIZXhhcmJyQ196WExNZEw1MGZrVm1kYjVOUHlrUEk?oc=5",
-        "domain": "kyivindependent.com",
-        "publisher": "The Kyiv Independent",
-        "publisher_url": "https://kyivindependent.com",
-        "language": "",
-        "seendate": "20261107T154931Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack hits French blood banks but no samples compromised, officials say",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbklzREdBR1VRaVI5M3E5QjlNUldnVUk4aV9xbG5XTWJIQWg3YWgtY29DM2ZfRHNWZjZfZTAtS2hvYXlYdS1aQWpsU2NqNHlYcmVqd0NxSjE3WWpPSWVCa3V1b1l4ai1yQzJxZVFSMi15bGVFWlpOUWMwMWk3SjVYQU1JYk42QkF3NFhMUGF6aUZGMVVjVkgtaGMwRWJxUU1KRUNOVXd6VVRYaTR0WC1kZlZR?oc=5",
-        "domain": "www.euronews.com",
-        "publisher": "Euronews.com",
-        "publisher_url": "https://www.euronews.com",
-        "language": "",
-        "seendate": "20261104T120147Z",
         "source": "GoogleNews"
       },
       {
@@ -279,16 +259,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Queens Public Library hit by ransomware at 66 branches",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMk92RjlydWEwdG0wQnNJLXlKNDA1TE1NWndBYmhJM3g5NF9feWhRRVZRWGNkb1RCSjgwU1lWSzMzbldKSmNNdkxWMGRES0NXWllPUXphOG4xSmEwb3BWaTl1WmpPQ0xaMmdfQ1hsRGMzV3NVRE94cUU2UGdCVGlWV3VnOA?oc=5",
-        "domain": "www.2-spyware.com",
-        "publisher": "2-Spyware",
-        "publisher_url": "https://www.2-spyware.com",
-        "language": "",
-        "seendate": "20261107T210257Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "France blood bank cyberattack targets refrigeration systems as European supermarkets hit",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGwySzhQQ081dGZQMlpMc1Roc29xc2tXQUdqZi0zbzRLSjA4ajBZRFRlRjV5Q0VQSk1YdnM4bkxuLVc0RlhibWl5SEp2US1jdDFlMGVSWW5aR1I5bms3ajdBOF9MX3RfSnlMWjBfcnF6enhIWnNLdURZWXU4aG1ESVJpQ09hczVIUjJqREw2aGlzV21pY21raFNfSG4xUWZNMkotNngtVEtpdkZWbjY5RU9tRTZKb0E2cEQzbXVjcENHd9IBxwFBVV95cUxPLUFQQmpINm81V2tzNlJVOVZkV0xKV0NqX2ppRFBvMkhDalNIR2cwUFpNb29OR29oOHhhSlI0NndxZTEyOHZRaGp4c0NBN3hhZHJ4V0NTYWx4SkJuYTJXeEpOY01sNG5XNWRzUFZQUDZzX1MzNDdScW54UUVIWWlRRWFsS0NaT2hwTWdSS3NhaVcxeFpJbFNSZlVzZjY2TDYxb0JXVGROZ0NaR3RXWllxVjRveEN3Rk00aXBGWGFvc3JQalZJdWZR?oc=5",
         "domain": "www.foxbusiness.com",
@@ -299,23 +269,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5seTJTclRvY1VLd0xwZFZfdVRqc0cwVXVBaHpHMnhyeDRIeGNteHlHbGU2ZVBmSWlsbWRUWldvODNSbUNmOV83c1hkRGNrZ002Q2xqUHNxTVNoaFRxZEJQZ2REVVhfT29lVXcyd0VFbkZqUkg0OUhUbGFfVQ?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
+        "title": "Meloni Blames Pro-Russia Hackers for Cyberattack on Minister",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0RYcVpfY3pMei1wcl8zSXdmZnVZOUl1TktIMlAtQWlSVmxZZERLRUJxX1JrU0ppaklNYjFCMDc1TWNESnViSEFWTWNBeDRZLWpzWGNrcTlTUEsxS1U1dzFGbmltbjRiSU8zSTk2RWhjN1BienNRaktTb1d1Q2lYb3lzNkN2dzFOTE9LTjdSaWY0YUU0ZWkzMzVFNWVZVUMxbFBUT21XZ0ZkNmhoNFFkSlk4SmRVZw?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg",
+        "publisher_url": "https://www.bloomberg.com",
         "language": "",
-        "seendate": "20261103T074300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Mercado Bitcoin Is Reopening After a Cyberattack Froze Withdrawals for a Week. What Happens to Your Crypto When an Exchange Goes Dark?",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONnNLMG1yMmRkaWtmZ1JEM0R0bkRJdFRNQk1zcHlSc2k2bzVYcUtHU1JXS09iT2N5WnhTWVE3UFdVNnhFa0M0NjJVQU5xNC03RTdGYi03Z25TSTMzOE1BazlJelRzT2Z4OW5xSy10RGNVTUNOb2F6emx6eTRod2t2S2R6cXI2UTZOY2lkMzdsdkFBcXZEZWN3Y08wQ1RJSU1Pd0w1aHdaa3hJazV0MzNCWUFER0o0MWdScXpUTzQ1WERzdlBJWWZicTY5TEpEb1FDMk5taUJoVUhtQVIxc0RqODFIWEJwQUwzY1B3eUxoWVliUkMtUy1PdE5ZRkdrNF8tclF5YXY5Ny1wWXF0YlJkSmlqSUJnMngwQnNN?oc=5",
-        "domain": "247wallst.com",
-        "publisher": "24/7 Wall St.",
-        "publisher_url": "https://247wallst.com",
-        "language": "",
-        "seendate": "20261107T221300Z",
+        "seendate": "20261107T153030Z",
         "source": "GoogleNews"
       },
       {
@@ -329,13 +289,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUZIWnpZRUJidUdKQ29EZEZ3QkNUX1lkREJvV2c5UDBnZXZ4MGxxeUtxRkUyWDBfWlZYUlM0c0hHUVM2Z1M2Vlpjd0lrSUZuX0phcnpVd2w0amlILW1NSElTd0RvUnZ1YlN6TUxVdVNPMjZLZUczUmUwX3QtbnZaUlEwYzJqOVFDVkR0NmRSTXZZUzdJWERjSnVHUk4xLU5tdHlWVU9hbERKQQ?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
+        "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5seTJTclRvY1VLd0xwZFZfdVRqc0cwVXVBaHpHMnhyeDRIeGNteHlHbGU2ZVBmSWlsbWRUWldvODNSbUNmOV83c1hkRGNrZ002Q2xqUHNxTVNoaFRxZEJQZ2REVVhfT29lVXcyd0VFbkZqUkg0OUhUbGFfVQ?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261106T124755Z",
+        "seendate": "20261103T074300Z",
         "source": "GoogleNews"
       },
       {
@@ -369,23 +329,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-123158: OpenSSH Password Authentication Bypass Affects Alpine Linux",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamFqU3BOZ2ZISWpYNmZLZDFRSXJxa0V1eDJmX3BjX1Q5cEdBOHlyY0t3eFBnQm5abXhkOWJ1RHI1ZnJzWm1vQkhjWlh4X1FrUVlDNW1DcEdTUnphdE5sXzdTaElXR3VidV9NazJ3dGt5VzlsWHAzWG9GU21LamRleHR5R2YxeWVvdVhWa0NSU3JMZUNXdFlaWVppVTFwWkd2aHM5ZQ?oc=5",
-        "domain": "socprime.com",
-        "publisher": "SOC Prime",
-        "publisher_url": "https://socprime.com",
+        "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY25ycnZQWW52Mjc0dS1zTllGM2x5eUZHRFFNTndiemRwSHFtZUJYS29uaVZ2cEFKdlV3MXNqUXpSRWFUTkNJSHpVNUhwZDhMM2trU09yLTZWMjZyRVBCTVFKQThROFBVT2gxZ2FiLWxBcjB3RWhpVnlhYVhSX2Z2T2E1OHpSZ3lNWXVzR2tWYVNSQWw2R1JZSHlRYWgxd2VKYW1Z0gGjAUFVX3lxTE9WcGJ3cFdvVy1sMHNUVFRTazJnMl9VTl85U1hRR3lKdWJta3hWNEJTTmNCUjNMcGpKVUdlVGhVMmR3R2FQQ3RFWlRfRk5fb0VLVDIyQjNnb3E4OGp0RjJPaDh3RGNJMGMtRDhJSUhvNmY3cWZEUFhnT08taUFHTnpSeFNGTmhMcTJtRGV0UHNPTHdPMnpOci1vX0IwYzA4LUtad2s?oc=5",
+        "domain": "www.dw.com",
+        "publisher": "DW.com",
+        "publisher_url": "https://www.dw.com",
         "language": "",
-        "seendate": "20261106T142748Z",
+        "seendate": "20261108T021740Z",
         "source": "GoogleNews"
       },
       {
-        "title": "European banks wake up to scale of vulnerability after cyberattack on French bank",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQzlXYzF1RXVIOWMzVFFiVEMtdlB2TVFsbE56V1dNZkVfQU8yQ241TXhFYklOcDB6MTJZbWE1MGw0N2t5RHNKdFdfcHpjbnJfUEJhdDNKUVpuMW9CUWNtWkJ3TjhMYlc5UFBhUnRLZnFqaFBIb2ZBdll0Q2JOeEFYeG0xYVJEVjBjN0Zld08xSU55YWFDV0J5amdUc1MzV0tSOEJlSkptcnBudms5UnE3c2tJX0czVS10VnFSNnN6TUdiMk5VYmQzZk9XUTNhcEVjMGdxUGVrVUVRQXBXVHRrbm9PODY?oc=5",
-        "domain": "www.lemonde.fr",
-        "publisher": "Le Monde.fr",
-        "publisher_url": "https://www.lemonde.fr",
+        "title": "TruStage cyberattack leaves grieving Las Vegas family waiting for insurance",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3VGQWF4MlhFdWpDTDN6Z3UxREJ2VW1UYTRLbkRoYkszcHVqYjFrRWEwaGctOUNzeU9uLXZNS1BHNTBIcWlITVpKT3A5bUVDTklNNGxhaF9sUnh4R1VWT25HamFrRFRNNmRWVnVTZnNsNk5TcF9La2dfT0tVYzRwM3hWUXpCUkdYWlM5c3B3TnM5YzlsdjBjTzdScjlQY2xmZ0Q4UU5aMVlySE9TYThBTmZsT2V6Um9yS0MtSWtsWnRXbU1tNWc?oc=5",
+        "domain": "www.ktnv.com",
+        "publisher": "KTNV Las Vegas",
+        "publisher_url": "https://www.ktnv.com",
         "language": "",
-        "seendate": "20261105T085739Z",
+        "seendate": "20261107T132135Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia’s Rosstat Struggles to Restore Systems After Major Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkVTV3NVWmJXQXU5T1pKdWZEcVVtaDRraFV0UnNpWVhxdzlCWGlLUWZtQThXcHJuZ3hSYzgxNjNVVU10Q25pMHZCRS10Z2o3WkNfMWJnVG96bEFKQS1HbmlVc0pvYUxMVE5fNlAzZThVdV9lRU1MUnJyMzdHRzJpSXFNMXQxU2h0RTFFMi1TMGNzclBQd0xiWXJ2ZTZLbHNORGNCblNDMC01Y2ZsSjdRVVF4NVVwOFNRaVpFWQ?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg",
+        "publisher_url": "https://www.bloomberg.com",
+        "language": "",
+        "seendate": "20261107T085234Z",
         "source": "GoogleNews"
       },
       {
@@ -399,53 +369,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Russia’s Rosstat struggles to restore systems after major cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlU5TXVaS082OTdoZ0VON3IyLVNOOXdPNDJBeXJEU1EtaF9SUGRXOFNfa3gzb2hoLWNBOVZ3WGZqM3JrWG1vclBmWXl5c3dQVWEwMU04bGVxMURIcnRTR0ppZnlHMDU5Q3RmSFBkTDdZaGs0Rkp4dFpZRDRHaXZKUDc1OWxfdGxyRGQ0b2o2bzZDek5xa0dLeWljYnVBWVV5ZFgzVFBoeEZDNkU?oc=5",
-        "domain": "www.seattletimes.com",
-        "publisher": "The Seattle Times",
-        "publisher_url": "https://www.seattletimes.com",
+        "title": "Queens Public Library hit by ransomware at 66 branches",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMk92RjlydWEwdG0wQnNJLXlKNDA1TE1NWndBYmhJM3g5NF9feWhRRVZRWGNkb1RCSjgwU1lWSzMzbldKSmNNdkxWMGRES0NXWllPUXphOG4xSmEwb3BWaTl1WmpPQ0xaMmdfQ1hsRGMzV3NVRE94cUU2UGdCVGlWV3VnOA?oc=5",
+        "domain": "www.2-spyware.com",
+        "publisher": "2-Spyware",
+        "publisher_url": "https://www.2-spyware.com",
         "language": "",
-        "seendate": "20261107T183140Z",
+        "seendate": "20261107T210257Z",
         "source": "GoogleNews"
       },
       {
-        "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVpieUU3dU52OTZtdEpXdnVOTDYwZDV0UFRBUy15YkFldzB1NmJFbFphRmRNWUZZSzdOSmNvczdLZks4V1pCNFlrbXMzUkZVVVk2VTNNNVd4ZElWSmdjZGdMQ2NKUzBwZmFWeU9xalRzdDJVODYwYk92d3lhQVJ6T295bm1USks1ZFB4WVNzMVlxaGlrWWxyTQ?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
+        "title": "European banks wake up to scale of vulnerability after cyberattack on French bank",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQzlXYzF1RXVIOWMzVFFiVEMtdlB2TVFsbE56V1dNZkVfQU8yQ241TXhFYklOcDB6MTJZbWE1MGw0N2t5RHNKdFdfcHpjbnJfUEJhdDNKUVpuMW9CUWNtWkJ3TjhMYlc5UFBhUnRLZnFqaFBIb2ZBdll0Q2JOeEFYeG0xYVJEVjBjN0Zld08xSU55YWFDV0J5amdUc1MzV0tSOEJlSkptcnBudms5UnE3c2tJX0czVS10VnFSNnN6TUdiMk5VYmQzZk9XUTNhcEVjMGdxUGVrVUVRQXBXVHRrbm9PODY?oc=5",
+        "domain": "www.lemonde.fr",
+        "publisher": "Le Monde.fr",
+        "publisher_url": "https://www.lemonde.fr",
         "language": "",
-        "seendate": "20261107T101623Z",
+        "seendate": "20261105T085739Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Malware Brief: Trusted software, AI, and post-quantum ransomware",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVd4QWJoSmlvXy12WGdvTVFJWGJuZ2FrOUpreWx0M3NRWHpSS3BjOG9xSjRuTVdtZHZpUkpIcXlYZXJpdjNhZF9zckJRdVZ2N0lEUFNvcWFuNlMySTlIQ1dFcUF4NE5rU09lOS1hTnZZMWRMbkxqRVhYOUNRZFM0dTdaeG44OVRwYmNONHdnM3k1Mk5aUU1aeG0xcERRRVNpQlBOUA?oc=5",
-        "domain": "blog.barracuda.com",
-        "publisher": "Barracuda Blog",
-        "publisher_url": "https://blog.barracuda.com",
+        "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOelI1SFdzRllHekFaSlpHRVhJX29IOVRodmc2UHo1c3BWWGJqbEszV2ROVHFVR3NqS3NhQUo2QjJhOGFYNlZIbzI3VWYwR0JxV3lZOEt2eGgzOXJOTmJmRVExbHF1N3ZjMnRVUm1GVTdtSWxONFNFaHhPeVpycXdWQQ?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261106T003053Z",
+        "seendate": "20261104T074600Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack on French blood banks exposes insurance and healthcare refrigeration risks",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmU3ZHdRR0lPYlpRZmxhZHRsUi1nM2YxU2pzZGNtcThhQ0lSR3NYa0k1TkJtSEdFNWVfd2VJVHM5N3lMZGpaUE1Ya1k3djl2cTZQd3Nmd1RuOXk0UGkxMnJKZ3dRMWV2Mi1WdEdyZEQ0ak9HUE9VUlhRWXZySDMtZWtIX3NocWJHSXphcVVDdWFCRi1wVDczeVlVY1g1WHJi?oc=5",
-        "domain": "beinsure.com",
-        "publisher": "Beinsure",
-        "publisher_url": "https://beinsure.com",
+        "title": "Nearly a week after cyberattack, Turning Stone still dealing with tech and phone outages across resort",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVkNRM3dmM0lEc2V0SVdnSklmMHNibUNneXZuSnVjM0FtMFRYV0FRR3hBdXRGY0NFRW1xY0JsN3h4M2FIZlNVZk9XalJzTjNlU1BRTVpDVFZSd0xOVGExQkszaE1jNC1ZZWhXMGVNUUhyaHRnNmpQZ2U1OVRvdDhQMHhnOUJvMHVUV3BTMnh3V2tyanJycVpzT3BWUEJUR3dVcGR0ZFo4SWs3YXF0MHNhcGJxeVdkOEhtenVPSHVmbWFCTVFSb09td0hSbkFUQ2hZU05sTlBDaHNvSElMLWo2bEx3?oc=5",
+        "domain": "www.syracuse.com",
+        "publisher": "Syracuse.com",
+        "publisher_url": "https://www.syracuse.com",
         "language": "",
-        "seendate": "20261107T123752Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVpHVGRid0dybXlBb0R6WGFMV3lUaEhJcTh4UE42a0ZmZUNFRDZNYk1wU08zVExycXM3WFZaa0VkUG0zeXhGMUV2aDUxQ2plNHBBVWUtbnhCTms3bmp1eWJtcFlicm4xRVZwMzlJcWtObU14dE80SUhvRGFadlA3Zm96eXBpNmJ1VThIbUlHTWpuaElXREdsUG1iOGE4QkRWSlphdDRwbkotRnZ6eERQeFdmMEw?oc=5",
-        "domain": "www.bleepingcomputer.com",
-        "publisher": "BleepingComputer",
-        "publisher_url": "https://www.bleepingcomputer.com",
-        "language": "",
-        "seendate": "20261104T180256Z",
+        "seendate": "20261106T231400Z",
         "source": "GoogleNews"
       },
       {
@@ -459,23 +419,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY25ycnZQWW52Mjc0dS1zTllGM2x5eUZHRFFNTndiemRwSHFtZUJYS29uaVZ2cEFKdlV3MXNqUXpSRWFUTkNJSHpVNUhwZDhMM2trU09yLTZWMjZyRVBCTVFKQThROFBVT2gxZ2FiLWxBcjB3RWhpVnlhYVhSX2Z2T2E1OHpSZ3lNWXVzR2tWYVNSQWw2R1JZSHlRYWgxd2VKYW1Z0gGjAUFVX3lxTE9WcGJ3cFdvVy1sMHNUVFRTazJnMl9VTl85U1hRR3lKdWJta3hWNEJTTmNCUjNMcGpKVUdlVGhVMmR3R2FQQ3RFWlRfRk5fb0VLVDIyQjNnb3E4OGp0RjJPaDh3RGNJMGMtRDhJSUhvNmY3cWZEUFhnT08taUFHTnpSeFNGTmhMcTJtRGV0UHNPTHdPMnpOci1vX0IwYzA4LUtad2s?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
+        "title": "Malware Brief: Trusted software, AI, and post-quantum ransomware",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVd4QWJoSmlvXy12WGdvTVFJWGJuZ2FrOUpreWx0M3NRWHpSS3BjOG9xSjRuTVdtZHZpUkpIcXlYZXJpdjNhZF9zckJRdVZ2N0lEUFNvcWFuNlMySTlIQ1dFcUF4NE5rU09lOS1hTnZZMWRMbkxqRVhYOUNRZFM0dTdaeG44OVRwYmNONHdnM3k1Mk5aUU1aeG0xcERRRVNpQlBOUA?oc=5",
+        "domain": "blog.barracuda.com",
+        "publisher": "Barracuda Blog",
+        "publisher_url": "https://blog.barracuda.com",
         "language": "",
-        "seendate": "20261107T170811Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Paint CVE-2026-83844: 8.1 Severity, Update Now [2026]",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDBwOXpXbXFWQlhtaFNYZ0djaldTT1ZFbEJBN1pvLUhTMHIydk43czh2SVJFOF95ODFuRVBTSm95dHkwNVphSzczbzJReUd6TWxxbFhzay1Fd0FsTFFSZFdKVmlsNndkSFprQjdyekw4Njd1ZWdJb19Qd0wxdjBGUHROWDNBN1haWnlEdkln?oc=5",
-        "domain": "tech-insider.org",
-        "publisher": "https://tech-insider.org/",
-        "publisher_url": "https://tech-insider.org",
-        "language": "",
-        "seendate": "20261107T130748Z",
+        "seendate": "20261106T003053Z",
         "source": "GoogleNews"
       },
       {
@@ -489,23 +439,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Garak: LLM Vulnerability Scanner & Probing Guide",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WM0N0dWhhUzh6WmpCN3BUbFJIZU5lRHp6WWRrdXNpNFp1WWhkN3A4Q1pJTjk2WTkwOGlHM1ItWlNhWlRnLVE?oc=5",
-        "domain": "casrai.org",
-        "publisher": "CASRAI",
-        "publisher_url": "https://casrai.org",
+        "title": "Mercado Bitcoin Is Reopening After a Cyberattack Froze Withdrawals for a Week. What Happens to Your Crypto When an Exchange Goes Dark?",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONnNLMG1yMmRkaWtmZ1JEM0R0bkRJdFRNQk1zcHlSc2k2bzVYcUtHU1JXS09iT2N5WnhTWVE3UFdVNnhFa0M0NjJVQU5xNC03RTdGYi03Z25TSTMzOE1BazlJelRzT2Z4OW5xSy10RGNVTUNOb2F6emx6eTRod2t2S2R6cXI2UTZOY2lkMzdsdkFBcXZEZWN3Y08wQ1RJSU1Pd0w1aHdaa3hJazV0MzNCWUFER0o0MWdScXpUTzQ1WERzdlBJWWZicTY5TEpEb1FDMk5taUJoVUhtQVIxc0RqODFIWEJwQUwzY1B3eUxoWVliUkMtUy1PdE5ZRkdrNF8tclF5YXY5Ny1wWXF0YlJkSmlqSUJnMngwQnNN?oc=5",
+        "domain": "247wallst.com",
+        "publisher": "24/7 Wall St.",
+        "publisher_url": "https://247wallst.com",
         "language": "",
-        "seendate": "20261107T201658Z",
+        "seendate": "20261107T221300Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Queens library network down due to ransomware attack",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU2hwTy16WHRLbU1OQXlTY2VRaWZWTzZQeFpJb2lXVW05T3paaGpUeC1mUC1kQmpELUREcEI4WUhoblNCYlEtY2I5c2gtc21hc1JVMTQ0azd1NmxwQmpyVTJ6U09QbTFsV2t5VDRwNkc0VFdoNlhFQlBMeFJkS0hBOVNnM2N1NHJvalk5SNIBkgFBVV95cUxQZ0hoN2JEY1RuSU1ETjdrUjFYNXp6SnlxRFpEb2g3RkJIZVZ2dmlKOHA0WUNYUjNLZXZhNEdKVERXM3g2Xy0wNU1MN0llTENpN0xjWTM0T2J4S1NoWi11eW4wcHRYek9LVk1HeEtVVjNCNWZJQWJINDB0RXJKUHkxajIzaUFKY2FocEQybVlfS1pSdw?oc=5",
-        "domain": "pix11.com",
-        "publisher": "PIX11",
-        "publisher_url": "https://pix11.com",
+        "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVpHVGRid0dybXlBb0R6WGFMV3lUaEhJcTh4UE42a0ZmZUNFRDZNYk1wU08zVExycXM3WFZaa0VkUG0zeXhGMUV2aDUxQ2plNHBBVWUtbnhCTms3bmp1eWJtcFlicm4xRVZwMzlJcWtObU14dE80SUhvRGFadlA3Zm96eXBpNmJ1VThIbUlHTWpuaElXREdsUG1iOGE4QkRWSlphdDRwbkotRnZ6eERQeFdmMEw?oc=5",
+        "domain": "www.bleepingcomputer.com",
+        "publisher": "BleepingComputer",
+        "publisher_url": "https://www.bleepingcomputer.com",
         "language": "",
-        "seendate": "20261106T130404Z",
+        "seendate": "20261104T180256Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Brenner Base Tunnel Cyberattack: 5 Key Facts [2026]",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEpKWkc3LU4zTTBvZ3oybWgtaVd2ZDQzUUpzWW9vSmxiaW5YQ29qN0xSRnA3Y1IxZl9TQi1CN3VjNTR2SWVFVnFfTXlaekxjRzJDZl96RFo3TDdFSU5ha3Y5dEhRdHZnLVpIb2RianpJMndfemxfMUlReW1uM0pBM1ZvemRwSTFDMk8w?oc=5",
+        "domain": "shattered.io",
+        "publisher": "shattered.io",
+        "publisher_url": "https://shattered.io",
+        "language": "",
+        "seendate": "20261107T234546Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Italy's foreign minister targeted in cyberattack due to Ukraine stance, minister says",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmc5WGQzZVJ3YUZGdmNNYzY4azRpMWFFQ1dMa2dIOFlnbFRYRkVUNmJ0TmpHVDdKOWl4R3hjaG1sa2NjZHV4cXZNcy1IZm02MGoyZW5rX1Y0TEtvSTlDV0k4N1FHbXdJYUZHTFdDbmhKYzBNQkp3LTg0NDRXX2hYS1I5QzJnMVlyNzZtdGQ2VzJscFh0a0RIZXhhcmJyQ196WExNZEw1MGZrVm1kYjVOUHlrUEk?oc=5",
+        "domain": "kyivindependent.com",
+        "publisher": "The Kyiv Independent",
+        "publisher_url": "https://kyivindependent.com",
+        "language": "",
+        "seendate": "20261107T154931Z",
         "source": "GoogleNews"
       },
       {
@@ -519,6 +489,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Queens library network down due to ransomware attack",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU2hwTy16WHRLbU1OQXlTY2VRaWZWTzZQeFpJb2lXVW05T3paaGpUeC1mUC1kQmpELUREcEI4WUhoblNCYlEtY2I5c2gtc21hc1JVMTQ0azd1NmxwQmpyVTJ6U09QbTFsV2t5VDRwNkc0VFdoNlhFQlBMeFJkS0hBOVNnM2N1NHJvalk5SNIBkgFBVV95cUxQZ0hoN2JEY1RuSU1ETjdrUjFYNXp6SnlxRFpEb2g3RkJIZVZ2dmlKOHA0WUNYUjNLZXZhNEdKVERXM3g2Xy0wNU1MN0llTENpN0xjWTM0T2J4S1NoWi11eW4wcHRYek9LVk1HeEtVVjNCNWZJQWJINDB0RXJKUHkxajIzaUFKY2FocEQybVlfS1pSdw?oc=5",
+        "domain": "pix11.com",
+        "publisher": "PIX11",
+        "publisher_url": "https://pix11.com",
+        "language": "",
+        "seendate": "20261106T130404Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Microsoft addresses high-severity vulnerability in Paint application",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2xqNU5wZ2djSGhLSEpTUkIyWkRFN3duTXJkYjFkclBPUTlia0E3VWJvUkZMWmtDcjJPQVdCX1hxUU11N2ZMSWMzM3lUdXVaU2Q3dVRNYzlFM21Ndkp4bXZXTHdXaDR1SkVYWmk4azVKUDNsU3drNzkydG1FTVYyaEZ2UHdac2U4WkZwenNqeE4teDdfb0ROUDE2ZEdDMTQ?oc=5",
         "domain": "www.scworld.com",
@@ -527,20 +507,30 @@
         "language": "",
         "seendate": "20261107T000550Z",
         "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware group claims theft of data tied to 1.3M Spartans as MSU investigates",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDF0UDFCdF9ybmJjVVlzWGl5SmlYMndPU3JZU0VXUVhyMl8ya3Rka2VwRjJfY1Rwb0lzQWI0N3oyS0FOeTVvNFNwVElhQkdIRnkyWlY0dXNoRExvdGV1MndueU1nb2FuLVNyNDl1aHU4b3lNejItdThWU2x3Tlk4bVdMRlhUMkI2ZkV4SkZ0ZDg5MVkzcFk1TUkybmdZdDhNbDlMaUx4NUdYRzJSb2dvZm05WFF5ams?oc=5",
+        "domain": "midmichigannow.com",
+        "publisher": "WSMH",
+        "publisher_url": "https://midmichigannow.com",
+        "language": "",
+        "seendate": "20261106T145836Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia’s Rosstat struggles to restore systems after major cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlU5TXVaS082OTdoZ0VON3IyLVNOOXdPNDJBeXJEU1EtaF9SUGRXOFNfa3gzb2hoLWNBOVZ3WGZqM3JrWG1vclBmWXl5c3dQVWEwMU04bGVxMURIcnRTR0ppZnlHMDU5Q3RmSFBkTDdZaGs0Rkp4dFpZRDRHaXZKUDc1OWxfdGxyRGQ0b2o2bzZDek5xa0dLeWljYnVBWVV5ZFgzVFBoeEZDNkU?oc=5",
+        "domain": "www.seattletimes.com",
+        "publisher": "The Seattle Times",
+        "publisher_url": "https://www.seattletimes.com",
+        "language": "",
+        "seendate": "20261107T183140Z",
+        "source": "GoogleNews"
       }
     ]
   },
   "events": [
-    {
-      "title": "Queens Public Library online system downed by ransomware hack, officials said",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmZKUjJUUmU0dEoweXA5SmVTRks0UXN5bHVTVXI4a1RuRnRleUU1cVFTNTh5Z1BqaWFXeFZQOThDQ0JJVmJTem5CQW1VU3Z5Qk53RzZ1YTJmWGRfYmdITnh6b2FsbnRjTmE3X3hwdUY5OEYyWUt4VkJRdWFyTWFRaXRDVGpMeDlLMzItZVpBVGwzSkx2YnVvd3lZWGVjZklOUlYtY3hB?oc=5",
-      "domain": "gothamist.com",
-      "publisher": "Gothamist",
-      "publisher_url": "https://gothamist.com",
-      "language": "",
-      "seendate": "20261107T214900Z",
-      "source": "GoogleNews"
-    },
     {
       "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanNKY19wVi1keHpMejFwcURKY0kyNFJrOTNwakVOTEhvZU5HLWNHcllQa0ppWU9XQlV4ZU5QSUlXTmQ3RVpmTEdtMTZYa2V1LWM4VlVvMktLRUVWNmhSR1pqNy1zdXV5RjZvLVJUeml3U2JMQVlRc2cyc2JDbmc4RTBvMXY?oc=5",
@@ -562,6 +552,16 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Queens Public Library online system downed by ransomware hack, officials said",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmZKUjJUUmU0dEoweXA5SmVTRks0UXN5bHVTVXI4a1RuRnRleUU1cVFTNTh5Z1BqaWFXeFZQOThDQ0JJVmJTem5CQW1VU3Z5Qk53RzZ1YTJmWGRfYmdITnh6b2FsbnRjTmE3X3hwdUY5OEYyWUt4VkJRdWFyTWFRaXRDVGpMeDlLMzItZVpBVGwzSkx2YnVvd3lZWGVjZklOUlYtY3hB?oc=5",
+      "domain": "gothamist.com",
+      "publisher": "Gothamist",
+      "publisher_url": "https://gothamist.com",
+      "language": "",
+      "seendate": "20261107T214900Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "French blood banks hit alongside cyberattack on European supermarkets",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDBfdnUzSGUzellWZVNfdElQclhWWFFORHpKZGJZSnREN1RRNC1SaFdsRmFaTDN6WFJYMGdSc2pOOUFpTnF5cHNsVHVaQl9DOS1ycVphdWh6dnFnbGp6WGhDU2wycWw0SHpqV3VEYzQ3cDhzUDVtZFoxaFF1TVc0SzBGaGF1QmoxN2ZhNUdfYy14em90N2dyUm1zV0tZY0Zmd0xyLWdiUkExNVRtRFozaVhYQzhEcFo1UzRYWGdIYlplSEpocUxVMVNkR2k1cXB3MW5kM0pwM21zRy0x?oc=5",
       "domain": "www.reuters.com",
@@ -569,6 +569,16 @@
       "publisher_url": "https://www.reuters.com",
       "language": "",
       "seendate": "20261106T083446Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "CVE-2026-123158: OpenSSH Password Authentication Bypass Affects Alpine Linux",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamFqU3BOZ2ZISWpYNmZLZDFRSXJxa0V1eDJmX3BjX1Q5cEdBOHlyY0t3eFBnQm5abXhkOWJ1RHI1ZnJzWm1vQkhjWlh4X1FrUVlDNW1DcEdTUnphdE5sXzdTaElXR3VidV9NazJ3dGt5VzlsWHAzWG9GU21LamRleHR5R2YxeWVvdVhWa0NSU3JMZUNXdFlaWVppVTFwWkd2aHM5ZQ?oc=5",
+      "domain": "socprime.com",
+      "publisher": "SOC Prime",
+      "publisher_url": "https://socprime.com",
+      "language": "",
+      "seendate": "20261106T142748Z",
       "source": "GoogleNews"
     },
     {
@@ -592,53 +602,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "CVE-2026-98432: Critical Linux Kernel TCP Flaw Enables Remote Code Execution",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXN0aHFxZlJLVXdkeGVIYVI3QWNMbEdMTHczZVB0eTQ3aDdzUk9xT2lLNVBoSktZY0E3amxDLUxYVUdNNkJubUIwZ1RvTEdmRW8zSHhpc1RvYlJKMG5CdklaMjRiQW5nWjh5V2w5NUR5SUhxZjBCQ2Q5SmZELVBYS0poVUZuclJKNUpEMVBlNUh6dVY4Wm8zcWp4MzJKLU9RMEhHRQ?oc=5",
-      "domain": "socprime.com",
-      "publisher": "SOC Prime",
-      "publisher_url": "https://socprime.com",
+      "title": "Linux Fixes Faulty Mitigation Selection For BHI Vulnerability",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05eDZBNzVGUkVneVQtcW9mdF9ZTk9YWVRNMkF5b1BPRThDc3VPMUNPekVyWk5JWTZYQXJCNVE3ekU0WVY5dEw0Q2RmeEZ5OHJ0bzJtWjdrVW5fUnM4NVRqeUsxdFBQS3hSMF85Nw?oc=5",
+      "domain": "www.phoronix.com",
+      "publisher": "Phoronix",
+      "publisher_url": "https://www.phoronix.com",
       "language": "",
-      "seendate": "20261105T132653Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Meloni Blames Pro-Russian Hackers for Cyberattack on Minister",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0RYcVpfY3pMei1wcl8zSXdmZnVZOUl1TktIMlAtQWlSVmxZZERLRUJxX1JrU0ppaklNYjFCMDc1TWNESnViSEFWTWNBeDRZLWpzWGNrcTlTUEsxS1U1dzFGbmltbjRiSU8zSTk2RWhjN1BienNRaktTb1d1Q2lYb3lzNkN2dzFOTE9LTjdSaWY0YUU0ZWkzMzVFNWVZVUMxbFBUT21XZ0ZkNmhoNFFkSlk4SmRVZw?oc=5",
-      "domain": "www.bloomberg.com",
-      "publisher": "Bloomberg.com",
-      "publisher_url": "https://www.bloomberg.com",
-      "language": "",
-      "seendate": "20261107T153030Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "GCVE: Global CVE Allocation System Guide",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94NHZZNkEtcEEzMXBhM3VMa0l6elVGVURLTzE0dHF2OWE3N2RfdUtkbUFpMGpCUjdkaG5HRGpHVWNaTVNz?oc=5",
-      "domain": "casrai.org",
-      "publisher": "CASRAI",
-      "publisher_url": "https://casrai.org",
-      "language": "",
-      "seendate": "20261108T063147Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "TruStage cyberattack leaves grieving Las Vegas family waiting for insurance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3VGQWF4MlhFdWpDTDN6Z3UxREJ2VW1UYTRLbkRoYkszcHVqYjFrRWEwaGctOUNzeU9uLXZNS1BHNTBIcWlITVpKT3A5bUVDTklNNGxhaF9sUnh4R1VWT25HamFrRFRNNmRWVnVTZnNsNk5TcF9La2dfT0tVYzRwM3hWUXpCUkdYWlM5c3B3TnM5YzlsdjBjTzdScjlQY2xmZ0Q4UU5aMVlySE9TYThBTmZsT2V6Um9yS0MtSWtsWnRXbU1tNWc?oc=5",
-      "domain": "www.ktnv.com",
-      "publisher": "KTNV Las Vegas",
-      "publisher_url": "https://www.ktnv.com",
-      "language": "",
-      "seendate": "20261107T132135Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "CNet IDs Disabled Following Cyberattack on Computer Science Department",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWY0S3BLbnBxT3VMMzBFaU0wWTBYYWl0ZlF4N3dNby1iS2pMVE1QTFRGTGJZMlFHZ3RGcklEYXVBeURIYlZZbWZPQmhXLTZ4Z21DaFFSaXJ0OU54eGxnNTRMbU5rYXN6bnppWmVlc1FGMVcyRHJXUFlLSXlfb0U0b1JWMEdoNDlIUmpIZU9sMDA4VnBsOWFUVGh4YUE1c29Dbjd2bGUtbi1IbEVr?oc=5",
-      "domain": "chicagomaroon.com",
-      "publisher": "Chicago Maroon",
-      "publisher_url": "https://chicagomaroon.com",
-      "language": "",
-      "seendate": "20261108T022004Z",
+      "seendate": "20261108T110300Z",
       "source": "GoogleNews"
     },
     {
@@ -672,13 +642,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "New Lindnor Backdoor and Glut of Security Killers Used in Ransomware Attack on U.S. Org",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1JBMWRoWV82Yk9KUTg3bEwxdndyY3JDX1gwSWxCandfdFY4TUNzOGVpMlFpSFVVenBtU1p0S19pOWx2VENyc1RzYzAzanNmdFBVWm13dEM4UDdESmthWk4yWE1pd3RxdGRQS0tjeEpnTjI4Z3BfWko0Nm1yUl9qdXpaZ2psTGZwa1Nr?oc=5",
-      "domain": "www.security.com",
-      "publisher": "SECURITY.COM",
-      "publisher_url": "https://www.security.com",
+      "title": "GCVE: Global CVE Allocation System Guide",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94NHZZNkEtcEEzMXBhM3VMa0l6elVGVURLTzE0dHF2OWE3N2RfdUtkbUFpMGpCUjdkaG5HRGpHVWNaTVNz?oc=5",
+      "domain": "casrai.org",
+      "publisher": "CASRAI",
+      "publisher_url": "https://casrai.org",
       "language": "",
-      "seendate": "20261105T111706Z",
+      "seendate": "20261108T063147Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "France: Cyberattack targets blood bank refrigerators",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXVNNEdlbnFOY3BmcGl1dmdfWjJIZVdDM0c0anpPOUNvZ2NESDdzWGtreTliZWkwM2ozR1AwVEg2SXhSS251aG1xNHVKU2Etdjc3RV8xeF9YV0ZCZGRVYXlaWGljMlk0RWx1OTlUWmJtTFNZQ3l6bkFBdDVoQm9aOS1YRG5MMENfWmlHRUlPd2hPQdIBkgFBVV95cUxQaUtuSWhpcEd3dGg3MG85UXNoclB3c084cjNuZTl1NGxqQjVCS2JhNHFOZ2dRNlA0WmdQYmhaTjllV3JRQWZxMk1hMDdWQ0JiQ2RtVDRSdVIza1FFcE0zZ05nY0pVeUxiUmd0b2Mtc0V6Wmk4Q1JmY1FPOXFnd1BLZU9BQ0NzcTdHX3pNSHBiLVlsQQ?oc=5",
+      "domain": "www.dw.com",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "language": "",
+      "seendate": "20261104T210316Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNnVRekR2aEdSY2N0QzJmZVVpZkd4dms4UkpPblUwNUFsRXBVZnppMndDZTdRWW56bHRMSExmZjJ3ckdxdHBseG9wd2duV3lZOUxoUmVLa2VnOHVUaVNrMzNVdkoxN1dqU0JVVFZiVl91SUFyOHAySmZOdjk4b0g1LW9rZU9LRDZwQUR3VVJpSDU?oc=5",
+      "domain": "www.helpnetsecurity.com",
+      "publisher": "Help Net Security",
+      "publisher_url": "https://www.helpnetsecurity.com",
+      "language": "",
+      "seendate": "20261106T124941Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "University Hospitals (Ohio) cyberattack leaves MyChart offline for two weeks",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOExFUzFBQ1dHLUlETVVmeE1xQ0hSM3JYbHJjRzRzN216aXU4N3dPSGNZLXJtMnEzXzVyVm5BeF93MFBlZlhOWTB1M3JiUjZ4Z3FJaGRLRU8tQWRnRURHbVpmRmpPMUJROE9qdUYwTzMyQ0ViRzJWMW1mTmhEVVI5RlJMSmVIbUR2N1E?oc=5",
+      "domain": "beinsure.com",
+      "publisher": "Beinsure",
+      "publisher_url": "https://beinsure.com",
+      "language": "",
+      "seendate": "20261108T120014Z",
       "source": "GoogleNews"
     }
   ],
