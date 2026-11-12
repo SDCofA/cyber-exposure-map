@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-11-11T19:53:30.821775+00:00",
+    "generated": "2026-11-12T07:47:02.608373+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,19 +23,19 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "42"
+      "value": "40"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "Ransomware Gang Says It Hacked Vanderbilt University",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTzVHcjA4RjZXb2FFSmdjNkxuajRleUthY3l1OGl3M2gtVmdqOW1PdF9vYmN4UGd1eFpZQ2Y0R2xLR0JiVDBPU0NfM2Z6TVY3c3hfNS1iTkxGYWFQT2lWQ0kycjRkSEp4YUpraXJ1SlNTOXhDbzJiQ3RTX3ZvWVBsSnNkb0Q5LU1tb2xaWUxfMlJkNnJTVUJIa3lyQ1lfZHY4UmQ4Q0oyY0tlSlc0UG5SbkxMR1lFRGJ1U3p5STlmTXVVZw?oc=5",
-        "domain": "www.insidehighered.com",
-        "publisher": "Inside Higher Ed",
-        "publisher_url": "https://www.insidehighered.com",
+        "title": "Critical RCE Vulnerability in Apache HTTP Server: Everything You Need To Know",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTAxaC1QOWxPbVZoSHNFcl9LSERXYTlWWlRsM3RlbnY5YlRKVVVWOVdVcDlKTEhuNkFFOFUtWkROTE56akVsYVVHblBUX0FsWjV4a3paMWljbWtYbDZscWNOSFNOQ2dzZHRjbzhCUmFVanlMX1N0VVhpNWpvc0NPaG5B?oc=5",
+        "domain": "www.wiz.io",
+        "publisher": "wiz.io",
+        "publisher_url": "https://www.wiz.io",
         "language": "",
-        "seendate": "20261111T080000Z",
+        "seendate": "20261111T194910Z",
         "source": "GoogleNews"
       },
       {
@@ -49,13 +49,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Who Runs the Ransomware Group Qilin?",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xWGtiSm1lTklJMXNFdXl1ZGFnQjZfdTNPZ2FvU2M0NGprNkdtc01udmhlUDctTThCUkt2QkRCdjF1cWlBTWRXZDRlM0dDb3RqRndOZ21PQzRnblN2eEFqU1h1WHBiVllTVmtRampMNHJzMXdFbC15YnJISW8?oc=5",
-        "domain": "krebsonsecurity.com",
-        "publisher": "Krebs on Security",
-        "publisher_url": "https://krebsonsecurity.com",
+        "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlZ5NGpNTUR1WTAwTjBITzhrMFBmMHRBSTJjQnBYRjNrbEFNOEVKdE5GaU1rUTlSRmRpaG9aTFNsQWZjb09MWWhMcEI1eHoxRVNreFY3NFliaTBVV2tTQ3RpY2lSWnhMWjFneXNiQnN5ZkZmZFdJOFY4ck96R25tZg?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261111T185615Z",
+        "seendate": "20261112T051200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware Gang Says It Hacked Vanderbilt University",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTzVHcjA4RjZXb2FFSmdjNkxuajRleUthY3l1OGl3M2gtVmdqOW1PdF9vYmN4UGd1eFpZQ2Y0R2xLR0JiVDBPU0NfM2Z6TVY3c3hfNS1iTkxGYWFQT2lWQ0kycjRkSEp4YUpraXJ1SlNTOXhDbzJiQ3RTX3ZvWVBsSnNkb0Q5LU1tb2xaWUxfMlJkNnJTVUJIa3lyQ1lfZHY4UmQ4Q0oyY0tlSlc0UG5SbkxMR1lFRGJ1U3p5STlmTXVVZw?oc=5",
+        "domain": "www.insidehighered.com",
+        "publisher": "Inside Higher Ed",
+        "publisher_url": "https://www.insidehighered.com",
+        "language": "",
+        "seendate": "20261111T080000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CISOs say OT will survive a cyberattack, but their engineers aren’t so sure",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNGJQYWRlMk1aQ05RWlZTVFBDcFVBWXU5ZGtGdnhxeWxpb1c3WnlIUXZSd1JBa3JZWi1uMU9Rb2R3Y3ViX2dyTDZVckVwV2NMczFfQk1pWWVJbHVhT091QXBHbWh0bW1DUEh2T1FfQWdibERhZ0JxX0VQRGJ2Y3UzTzVDcjdJWDA?oc=5",
+        "domain": "www.helpnetsecurity.com",
+        "publisher": "Help Net Security",
+        "publisher_url": "https://www.helpnetsecurity.com",
+        "language": "",
+        "seendate": "20261112T053013Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Vanderbilt faces class action lawsuit after cyberattack; law professor says victims could receive as little as $20",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEJtVWxPYUEwSTdsTEVEbmJtcGhZNTdVSkdzR2RaaVNsUG5XMlAyYUhENzNxcEp0Yy0tRzZsYlBJUWtXVUp6LUNUUi0wa1hjTnM5NXRhQnRHeVU1d0JRalU2UWpUR09OQXZvaVhqaHBxS2l2Rnc1YnBncUJ6VkRGTHlzNC1ud3YtMFJsMXF4SW13QXpSZjlXRmlXOXFLdE1tTGc?oc=5",
+        "domain": "www.wkrn.com",
+        "publisher": "WKRN News 2",
+        "publisher_url": "https://www.wkrn.com",
+        "language": "",
+        "seendate": "20261111T191554Z",
         "source": "GoogleNews"
       },
       {
@@ -65,87 +95,17 @@
         "publisher": "Cybercrime Magazine",
         "publisher_url": "https://cybersecurityventures.com",
         "language": "",
-        "seendate": "20261111T140504Z",
+        "seendate": "20261111T140423Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT21KN0hjQ2puYWxyS0kxN2VySmxtZExoSHVnUjBfNzJRWGlGVjRHel84ekxRTHAxVjE1Z1VRd1lXaVJuZjVWM2ZBbkVVdE9JdGtKTElYc0dMQU8yVGhGTmlCR0NMdW0xcW1HVy1RRWI3N2djZFUxWl9MLTI3cjlJOU9kaw?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
+        "title": "Google Chrome Multiple Vulnerabilities",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQmk1NTEtY3NEYUV6NElEN09IaHdNckIyN1dEbWNHR3Z3YXFwMGhHUlU2WFVsYVFLb1VXSEMtWUdXS1ZYNWpfUlUtNXhCM1k3MVNVM1VRNFFnTkp6ZlJ0TzlLVXkybjlwYnZoQVQtQTNubnJLRFF4WVR6dEowY3A2WlRyNW0zSk5JNUxqVEViQUxHZw?oc=5",
+        "domain": "www.hkcert.org",
+        "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
+        "publisher_url": "https://www.hkcert.org",
         "language": "",
-        "seendate": "20261111T081700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cybersecurity breach impacts Vanderbilt University",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemg4dmgwajlsWG5ISnZEU2tZa1daSTVtdlJrUG0wdm9JYzBFeUtZajVKd0lmSDZOTUJnclJlaGs1UmlGUmhOR1k2MnFhOEZseDQzNENOZlNaeUoyZVZTM1pudnBDemNHUnZkN2FqRTh2ekU2QjlCR21BYzMtWmlJLUZUOS0?oc=5",
-        "domain": "nashvillebanner.com",
-        "publisher": "Nashville Banner",
-        "publisher_url": "https://nashvillebanner.com",
-        "language": "",
-        "seendate": "20261109T184118Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
-        "language": "",
-        "seendate": "20261109T233501Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Apache HTTP Server 2.4.71 Fixes Critical mod_http2 Heap Corruption (CVE-2026-119618) — Patch Now",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTY4X1ZIeVhELWVSTVZkcU1xYThPYmh2VU1nV3EwR2RGanh6SnVyRGhvWU0zSnVJZ3doQ0JaZjlBc1NnQWxhMFdmc3JiVDNveElFdnVKdUNsLVY0b1ZGVmtnNGhIYUNHTFd1bmQ2SmhaNllwQmhNd3FWQk9IVzl6aG1OWQ?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
-        "language": "",
-        "seendate": "20261111T183000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Vanderbilt University reels following ransomware attack claimed by BYOD group",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TbnllZkhMTXRwQkQ0TWFGa2NFa1FoaG9EVjM4OGNlZ3FWT0xjZzExY0N1R09zTUlJWHVGbTRwLXBIVjFlUThRSFBRYWt5VGVDbkxtLXFFVG5pWnpnYVVJaGlXM244NDctbGZRRlJlbmZTYmJrT0dZ?oc=5",
-        "domain": "cyberscoop.com",
-        "publisher": "CyberScoop",
-        "publisher_url": "https://cyberscoop.com",
-        "language": "",
-        "seendate": "20261110T175554Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Poland shuts down government services platform ePUAP following cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaEdxRnhuYV81OXFYZGpybEl6MWZRZFNLRmJZUlhicEptTFdETVlRT1gwdm9lU2p0b1ZtajlGaGFoZzY0M2ExVVMtbUg0YXFRNk12SEtWeVRrQ2pFWDA1WU56R1U4YV9vb0ZGbWJYRFpqRkFiNl82VXF6QkwzTDJqdDFoTWdmM2xzX1E?oc=5",
-        "domain": "therecord.media",
-        "publisher": "The Record from Recorded Future News",
-        "publisher_url": "https://therecord.media",
-        "language": "",
-        "seendate": "20261111T132320Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMk4xUFBZZzJIaXpuUDlmdjdUSGZkTlZyQ0UtZ1RRQlIzVnJ6WUd6Z2RKWHU0OEpmZWRyaHJldWlZQWNidUVRRW9pQkFnZWR5eTRVZnE0UjBpSkgzLUpzT1hIZF9DbDNOTG4wYkt6TDl3eWFfY3ZZa3Rsb2tIbTdzaXFJV3BILU9xUlJ6ZFJnRmxkblVn?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261109T181607Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France's cyberattack allegations against Iran should wake up Europe",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zVnQ2R0lENEttMHZNM0FFMWw1X2JhQXdpaGJIeTB3R3VBaW85MXNxalEzOGVuTGNjbmNqMGxnVVpxdUY0Z1NZdnNYay0xM293MXc?oc=5",
-        "domain": "www.iranintl.com",
-        "publisher": "Iran International",
-        "publisher_url": "https://www.iranintl.com",
-        "language": "",
-        "seendate": "20261111T184513Z",
+        "seendate": "20261112T015337Z",
         "source": "GoogleNews"
       },
       {
@@ -159,23 +119,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Vanderbilt restores systems after cyberattack as hackers claim data theft",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbC00UDRkMTlyZXhKQmNnd2VkVkJBLUQtZWM3TGNSdWh1VDNrT2VPV2VwdE1lVFVtLThkakhscldRVEREV2FTQlViNHdTa21nRm1GcUxKcmVYS1M2dkFWQVhKb2w3SkVHcDdrcDA2M0h2bVVqSnY5WkZSZU9FRTcyeFFfeEtXclVZYlZ6RzJieE4yc3F4ZTJCc09wM3pKYlNRaGNHUmZJdUE4bWVuVWFOQWVIREk3YnNzc0U2bQ?oc=5",
-        "domain": "www.malwarebytes.com",
-        "publisher": "Malwarebytes",
-        "publisher_url": "https://www.malwarebytes.com",
+        "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMk4xUFBZZzJIaXpuUDlmdjdUSGZkTlZyQ0UtZ1RRQlIzVnJ6WUd6Z2RKWHU0OEpmZWRyaHJldWlZQWNidUVRRW9pQkFnZWR5eTRVZnE0UjBpSkgzLUpzT1hIZF9DbDNOTG4wYkt6TDl3eWFfY3ZZa3Rsb2tIbTdzaXFJV3BILU9xUlJ6ZFJnRmxkblVn?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261111T183237Z",
+        "seendate": "20261110T100800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Vanderbilt University cyberattack: What is BYOD?",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeloxOVBGSHBQV2xncGVUNUVsTk4xMkRjdDdMVVctQkpXR014OVVCUzlTQzN2dUFzTDNmMGpHYjlST1NERktNa05zMjJ5allTOHhoeVR0aGtDcWZ5ekVVNjRpY0VOUHJ1bnlLS2twcjJIalRBTHM4VjY1bmhCdkVxLW9SWlhIV0lTaDVkc1ZGRDlKSkwwZ1JtOHB30gGfAUFVX3lxTE9uYnFrVTBpRWhKLVVzZE1oM05xYnkyVWNfYlcwSVBObUdRdUlzRGpiQ2V3dkpMcGdEMGJaSHJ0MWRlSzZLc1hSMWVtcG5iQWZjbEN2MGJNaEVYX0VaZy1FcjhhUDVWalZNTXBnMUxmRmtSMGFRS0lrcV84Q3JfVVlQc0dYWTU1U1dxa19faVBPYm9jYkw0ZkxXR1pJQVlhWQ?oc=5",
-        "domain": "www.wkrn.com",
-        "publisher": "WKRN News 2",
-        "publisher_url": "https://www.wkrn.com",
+        "title": "Cybersecurity breach impacts Vanderbilt University",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemg4dmgwajlsWG5ISnZEU2tZa1daSTVtdlJrUG0wdm9JYzBFeUtZajVKd0lmSDZOTUJnclJlaGs1UmlGUmhOR1k2MnFhOEZseDQzNENOZlNaeUoyZVZTM1pudnBDemNHUnZkN2FqRTh2ekU2QjlCR21BYzMtWmlJLUZUOS0?oc=5",
+        "domain": "nashvillebanner.com",
+        "publisher": "Nashville Banner",
+        "publisher_url": "https://nashvillebanner.com",
         "language": "",
-        "seendate": "20261111T005807Z",
+        "seendate": "20261109T184118Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Who Runs the Ransomware Group Qilin?",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xWGtiSm1lTklJMXNFdXl1ZGFnQjZfdTNPZ2FvU2M0NGprNkdtc01udmhlUDctTThCUkt2QkRCdjF1cWlBTWRXZDRlM0dDb3RqRndOZ21PQzRnblN2eEFqU1h1WHBiVllTVmtRampMNHJzMXdFbC15YnJISW8?oc=5",
+        "domain": "krebsonsecurity.com",
+        "publisher": "Krebs on Security",
+        "publisher_url": "https://krebsonsecurity.com",
+        "language": "",
+        "seendate": "20261111T185734Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Vanderbilt University reels following ransomware attack claimed by BYOD group",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TbnllZkhMTXRwQkQ0TWFGa2NFa1FoaG9EVjM4OGNlZ3FWT0xjZzExY0N1R09zTUlJWHVGbTRwLXBIVjFlUThRSFBRYWt5VGVDbkxtLXFFVG5pWnpnYVVJaGlXM244NDctbGZRRlJlbmZTYmJrT0dZ?oc=5",
+        "domain": "cyberscoop.com",
+        "publisher": "CyberScoop",
+        "publisher_url": "https://cyberscoop.com",
+        "language": "",
+        "seendate": "20261110T175554Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5",
+        "domain": "www.wsj.com",
+        "publisher": "WSJ",
+        "publisher_url": "https://www.wsj.com",
+        "language": "",
+        "seendate": "20261109T222400Z",
         "source": "GoogleNews"
       },
       {
@@ -189,6 +179,56 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUxPcjFneE1rQV90Z0VldDk2THgzaUtEQ1o5NTdfMW90UHc4ME5SNk1QYTNfZWsxSXFmdHlDME9URGd6TVdMT2diRFFXSmtjWlFuaUxkMzVpaHh0OG9BR0VMVHVCYzNFaE9hV0Q1a1k5cWZRR2pzc09lYTNMZzBwRmRqcnVxR2taX29EZ0VvVUtEc0ZMenVkZjlzVUI2SVgxc2YwQTVQelNmb3pyQTVVVzV3bEJrd3pteFE?oc=5",
+        "domain": "www.bleepingcomputer.com",
+        "publisher": "BleepingComputer",
+        "publisher_url": "https://www.bleepingcomputer.com",
+        "language": "",
+        "seendate": "20261111T162418Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "After cyberattack, rural Washburn County is upping security",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWE16d0d4aWhYekpoNHRydkVVREkzb010MGpBNlBfN2o1M2hhcWM2QWl2aXdGd2VCNkZ5TnJXamFZNUVMU0ZEQjBSVTUxZGd1ZlA4bFNKSVBLRFJJdF9YekkyLUdseHBVUS1fTElCWDR6OE9VejQ1elBMMTR1RW1XQVBNbw?oc=5",
+        "domain": "www.wpr.org",
+        "publisher": "WPR",
+        "publisher_url": "https://www.wpr.org",
+        "language": "",
+        "seendate": "20261109T110000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTVVTM2dBVjNhaThUWERHMm1tb2xSTGRwalFJclBUSkN1ZGxBcWwtOU9FbGJPUnlYVUgya1hKeGFRcXF3T2NCQUhLSTZWeEpSdzJlSTRVZkVndUZkdEQ5OHBzLTNtdUQwcVN2ZHVUUG9IcndjVU0wYVhIRjQyQzdtOU5TUW5Fc2tLVmkwRjQ4Y0g3ZnV5V0JkR3BUZVlZVTNldUdZWHkzRWZ2WnNzbGN3QldaMUJwbzkyY3pnNHpzMkR1OEo1cWc?oc=5",
+        "domain": "blog.qualys.com",
+        "publisher": "Qualys",
+        "publisher_url": "https://blog.qualys.com",
+        "language": "",
+        "seendate": "20261110T203956Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81LXN3VHhmYzlQWkFXejhNdWFENWRPU0o5eGZQMVVjVjhWYWhIeEFmNlFiTmJhbEc4SWtnVDhaUW9Ob19qYnZBWGdxTDFwR2hEb3htRjFrNG9SX09LcHBERHFTeUwtM3RfRjJ6NkotQ2ZBalEzYjZXSXRGLU94UQ?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261111T161200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Mozilla Products Multiple Vulnerabilities",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR01pQ2tyTkNjdG16NmZ0R1JHZzh2Q0haeldaVUtZaEtaUGRSRlBmbnZYVHFxTDA3a2FSYjlRSVUtcTI0ZnVQb1NuWkkzRnVqWWRWVHJ4V3QtaktLd0h2bkI2b1pRUmtnOXJvZ0toUGZqazhzWEhFdjRYams2OHRoRzZkZVRZSFVyQWFlWUNJNHJjZWVmRmc?oc=5",
+        "domain": "www.hkcert.org",
+        "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
+        "publisher_url": "https://www.hkcert.org",
+        "language": "",
+        "seendate": "20261112T020840Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Vanderbilt urges campus to shut down computers amid cyberattack",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlowQkVLc29SekpxS1RIRW03VFU3Rko4eF90Q25FeVU5SDVFd0h4eFFubkhnMDRqeUhRVEN0cTUxMzZKdmowTnlpOFJ3M1RzVWlvR2RISWYzZHNwbjZ6ZFJFVzhPX3hYR2R3VnFtUUhFT2FadzVDU3d1VDBwd2RkMzJtT1d0MjRtTGlwRQ?oc=5",
         "domain": "www.axios.com",
@@ -199,23 +239,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Why Backups alone cannot save Healthcare Providers from Ransomware",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2xKYko4SlNqMVRsVm8weG1DR3c2SDNhVmZGWEZXUnFwcUkzdXJoa05XVXQwRTB6NnhmOU5YWEZzWG1MR2Z3Tk15WUpQRC1vTXh3dVpIaWhtQ0lqUWdiUmgzeXZoQUQ5ZjZIcjVTWExCOW05VWhWLWRYYjYxcWJ0WVZXQjQ3N2xFMVBQd0tsa0JWRTNiZ2VQTnUybWN2eEZuSDNZTTRKUDM5UQ?oc=5",
-        "domain": "www.cybersecurity-insiders.com",
-        "publisher": "Cybersecurity Insiders",
-        "publisher_url": "https://www.cybersecurity-insiders.com",
+        "title": "Zoom Workplace for Windows: Critical Improper Input Validation and High Origin Validation Error — Patch Now",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjFobmJ4T0U2Z1FwRzN0VnU0c1NTcTBEcmV4bDduc2pXVWJ5YUJrbTUxd0NiLTc2LWEwQTVCMnU2MkJveHY5aXc1UDh3c2ZoRGtkb2ZjQ3VGbDZPM2xmM0l2Vjcya1J5LXo0MlRBQXVzNDhGM1FkVjUxeHNvblFqeGZhaF96VWt1SWtlNQ?oc=5",
+        "domain": "www.rescana.com",
+        "publisher": "Rescana",
+        "publisher_url": "https://www.rescana.com",
         "language": "",
-        "seendate": "20261111T091813Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware crew claims 5 banks and a CU; 2 confirm breaches",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUlpQjF5V1dOMHNYRFlFeGdTUFczRVB6LURRTlZSOWxxLXNiRTgyY1R4N1hMVDExYnNVVEtVZUZRRWJNTDFwblBSUV84VVRaejlUWGFWTm8tRW5Pb0VLNHBpNVNvYUxyckJpb0RNYkxONHcwWXdMcVIxWnhfVGw3bF83YzIzNjV6WUFHNE9jS3BEV2Z0Q0VWRExB?oc=5",
-        "domain": "www.americanbanker.com",
-        "publisher": "American Banker",
-        "publisher_url": "https://www.americanbanker.com",
-        "language": "",
-        "seendate": "20261111T120000Z",
+        "seendate": "20261112T073000Z",
         "source": "GoogleNews"
       },
       {
@@ -239,33 +269,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTNQRG9EUC12Ymp2UXY5d2pibmlQZnlZeUVsRm9TMjVWb3A3RktFZ04yYjlDa2g5cHJnLU9uN0JzSzgyZmVqUlBuWm1mLTRYWWFpbUpmM2ZqcEd1RERodFVORTVMaVV5VXA1aDNCRG1qd1VnamVjbE9nUHQzd2RmdEVQR2xCZ2NaWWhaTndETlplY0VFa3FaLTFYMUFNT0N0aEM2NGhDNC1RdXI2UnhuSjU3NHE0N19KNFpmUzJrUmJURWc?oc=5",
-        "domain": "arstechnica.com",
-        "publisher": "Ars Technica",
-        "publisher_url": "https://arstechnica.com",
+        "title": "Researchers link Qilin ransomware administrator to St. Petersburg man",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVB3Q1ExbmNxdllNcjVoTzhCSE5jUW1BQUN5SDVHb2R4TWpkMEZsOUpUclh6NmdrWjRfanVEVTlveTQzdFRSYng1WWdCcVlJREc4QWlodHJuMVFORld1eTEwWnotcjdxdVBFU01kVWhLb0pMeEtSMFppQ3UzQUhsVVB1X19mNmNYemdNeWFsdWJ5UHc0US1fVVh5eXU0dG8?oc=5",
+        "domain": "www.scworld.com",
+        "publisher": "SC Media",
+        "publisher_url": "https://www.scworld.com",
         "language": "",
-        "seendate": "20261109T194134Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUxPcjFneE1rQV90Z0VldDk2THgzaUtEQ1o5NTdfMW90UHc4ME5SNk1QYTNfZWsxSXFmdHlDME9URGd6TVdMT2diRFFXSmtjWlFuaUxkMzVpaHh0OG9BR0VMVHVCYzNFaE9hV0Q1a1k5cWZRR2pzc09lYTNMZzBwRmRqcnVxR2taX29EZ0VvVUtEc0ZMenVkZjlzVUI2SVgxc2YwQTVQelNmb3pyQTVVVzV3bEJrd3pteFE?oc=5",
-        "domain": "www.bleepingcomputer.com",
-        "publisher": "BleepingComputer",
-        "publisher_url": "https://www.bleepingcomputer.com",
-        "language": "",
-        "seendate": "20261111T162418Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Romanian intelligence agency says it identified Russian-linked cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMllTNllTUmV4S2dUQXVpaG51RnMxbUppdEk1cWRSUEdNenBpNmhGaWZ1eG5tem5vTFpjWW4tVFE5TjdRX2RrMFB1eENqNFdZNTNzZUVkeVlXM09iQTNORlFwNzBLRXhCSWZoMk1LSFhVSDU5LTR1eFd5TzdsMjZCUTlncDIya0F3MjFOejNETXRhc25jamJ3X0RPSXJ4ODBXZ29FVXgxbDA4WFh6X09FZGwtQQ?oc=5",
-        "domain": "www.arabnews.com",
-        "publisher": "Arab News",
-        "publisher_url": "https://www.arabnews.com",
-        "language": "",
-        "seendate": "20261111T180408Z",
+        "seendate": "20261111T234044Z",
         "source": "GoogleNews"
       },
       {
@@ -279,33 +289,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Vanderbilt University was hit by a cyberattack. Here's what we know.",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15aG1hOE5FbGxiaUtsQjdTenJuc3gzLXFCY0tIb0ZaSDUxRkdjd2pMaHdZNko4ZUVqTkNRSmhVZ3J0OWhIcl83a29hVU9HWUtLbGRPRTZzSHdlc0U5MENRZmpqYjBIRTFaUHItR3lMU0VVQQ?oc=5",
-        "domain": "mashable.com",
-        "publisher": "Mashable",
-        "publisher_url": "https://mashable.com",
+        "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTNQRG9EUC12Ymp2UXY5d2pibmlQZnlZeUVsRm9TMjVWb3A3RktFZ04yYjlDa2g5cHJnLU9uN0JzSzgyZmVqUlBuWm1mLTRYWWFpbUpmM2ZqcEd1RERodFVORTVMaVV5VXA1aDNCRG1qd1VnamVjbE9nUHQzd2RmdEVQR2xCZ2NaWWhaTndETlplY0VFa3FaLTFYMUFNT0N0aEM2NGhDNC1RdXI2UnhuSjU3NHE0N19KNFpmUzJrUmJURWc?oc=5",
+        "domain": "arstechnica.com",
+        "publisher": "Ars Technica",
+        "publisher_url": "https://arstechnica.com",
         "language": "",
-        "seendate": "20261110T184451Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware crew claims 5 banks and a CU, 2 confirm breaches; FTC emerges as main consumer-protection watchdog in D.C.—and more in Bankers' Hours",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2pwUGxjS284OGJBWDZrUENNeFR6VWJYNUVWVXlfYkF4T3JCaDFmdGpBOHNtVmNVXzMxX1BZVUNDMXI1SVdQUHA2enQtbGtad1FydlQ3OTRYSUJnSlRJNVFBUWIzYlIxUFE0TU1yT29pVmJpWW5UV1lVc0Z6aDJ1VlhxNnBsUXBxajE4bmJUTXdiNHJnNFNpeA?oc=5",
-        "domain": "www.linkedin.com",
-        "publisher": "LinkedIn",
-        "publisher_url": "https://www.linkedin.com",
-        "language": "",
-        "seendate": "20261111T151538Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Dire Wolf ransomware: An apex predator stalking your data",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUF0S3FGNEpBRU83aG5EeDFlUkY5Rk1ZT0pyZnd0VVpkU09OcUhvdi04aWMwdGxGTUhLVWJkQWFac3VRX09jR29JWEVxQmF6WlVjby1PZTJXZXpCUFJFaUFhY0pmTmwzWnVhQUlPODA0OS1NU3hxSi1hY3RUV2pPNFcwTW95M21aY05fVlFBT2hwWG43MmNfUVZZeHg?oc=5",
-        "domain": "blog.barracuda.com",
-        "publisher": "Barracuda Blog",
-        "publisher_url": "https://blog.barracuda.com",
-        "language": "",
-        "seendate": "20261111T010545Z",
+        "seendate": "20261109T194134Z",
         "source": "GoogleNews"
       },
       {
@@ -319,93 +309,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "OSF joins statewide AI cyberattack exercise to strengthen hospital emergency response",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWEwUVV3LV9QZ2hxN20tRHZuSGlsZjExNnMwLUVqbTJLVGUxWDZXRU1qQXVYd0k3S0hvV3U3MVgwakZIdEZURTUtR3RwSXkxamJUMndPYWc5aUkzMEI2N0NwSXA5STV5U0hvOWduT0tNWGJhN2laTVNDSkZSYWdLRDNQRFc0cDBadC1OdW4yaVNOalpCS3ZuaWFQUUEzTE5kU3gyR2drUGhDNWQtMWZ6LVFFQ3dRamRJRTNQcdIB0AFBVV95cUxOenN5ZC1yeFN4Y2FhT0Q5dm1iSEE4a0s4QVF4M1FBVDhTdnRmbHlhS0hYSURMcklydmRQelFScWxQMjItc2xPcUl0a0hPakZnZ3lDYmpDdVpqRlVYY2NRcUEycWVRYzBvQ3JwbHg2NlU5Q3hmeU1fSWJUU0JoWFZnVGRJeUgyZVRKeW82bDBGd0dkUGliVE83dmw2TXdEYUE5M2dSU3RmSFZiOEl4eTlRQThJajZLYWhnZ0F4TEZlczBMZTNzMUNuenJueDgzUTl3?oc=5",
-        "domain": "www.25newsnow.com",
-        "publisher": "WEEK | 25 News Now",
-        "publisher_url": "https://www.25newsnow.com",
+        "title": "Maersk Probes Ransomware Claim Tied to Legacy System",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3Vza2ZITVB3TWdFZUFCVmdnWFJvMlhkcmFQQktXNWg5S2tkTnh5OGpvc1VSX0tJUVlialJYOTdSR01sMjZURmxMc0lzbVF2S0lqQkE2akJzSF9jRVhiSDBqRDYyY3RsNk9iMnk5OUhnSzV4YWtzVm4yOEdzYl9QejhjN3QwRmMyWlBRRk9jcm8tZnNyekJLZQ?oc=5",
+        "domain": "www.bankinfosecurity.com",
+        "publisher": "BankInfoSecurity",
+        "publisher_url": "https://www.bankinfosecurity.com",
         "language": "",
-        "seendate": "20261111T022900Z",
+        "seendate": "20261111T195650Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nearly half of big firms shelve or close vulnerability findings they haven’t confirmed",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTnBLbEJRN3hoRGRBR0ZNdmxiQjAzbWxNSFFocEFseVE1cy1xWlEzcWxmaFZuM0RieUwtczUzbHJheXh0bXZqMUliYjVvRTd5a3hiN0FoczZpN3VJNjRwTlJtSk9IY3BwMi1Oa1RxSDRDeFRuM21hcU50bDFOMGJHbjdvd1NLTzA?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
+        "title": "Queens Public Library Ransomware Attack Knocks Out Digital Services Across 66 Branches",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWWJqWmZCc3pVYWxnX1ZlaXRyMUdnVlFhSGd0QmYycmJFdkVvX1N1UURSRU1PNl9OSTVKMnhONEpWMV9Yb3FkMWF2Y1J0bGd2Q2JVNldvT2MtOWNXOFJYV0tsb1JIN2xsTVJOWDVNMGZ6aXl0QVVrSVZSNmJLXzdDU2ZuYVo1SHkxRXlRQTdXNklULUdNZVhsTWhFOUd3eWZFenY1cnVWNTQyaDBBclByNmNMNDdpS0pjdlFWczBMcVZtZndCLWYxTmo4a2pIWkU?oc=5",
+        "domain": "bushwickdaily.com",
+        "publisher": "Bushwick Daily",
+        "publisher_url": "https://bushwickdaily.com",
         "language": "",
-        "seendate": "20261111T053030Z",
+        "seendate": "20261112T034247Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cisco BroadWorks CVE-2026-20320: Unauthenticated XXE Can Expose Sensitive Configuration — Patch Now",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeS14TC1vQ1JqT3cxYXA4eWVXV2o3d3YzcER4aEM4M1VFNVBpdzJOLUtNU0hTVG5najlLLXRQYWdOcWJ0SHFFNmplaXdCazdkRk81RFRGeHV5azROZTlacGk3ZzVqMGlJMTNhU0lMNUNxMlQ2Wk1ON2VWeFVYdzlkVUotd3c?oc=5",
+        "title": "Poland shuts down government services platform ePUAP following cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaEdxRnhuYV81OXFYZGpybEl6MWZRZFNLRmJZUlhicEptTFdETVlRT1gwdm9lU2p0b1ZtajlGaGFoZzY0M2ExVVMtbUg0YXFRNk12SEtWeVRrQ2pFWDA1WU56R1U4YV9vb0ZGbWJYRFpqRkFiNl82VXF6QkwzTDJqdDFoTWdmM2xzX1E?oc=5",
+        "domain": "therecord.media",
+        "publisher": "The Record from Recorded Future News",
+        "publisher_url": "https://therecord.media",
+        "language": "",
+        "seendate": "20261111T132320Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Vanderbilt University was hit by a cyberattack. Here's what we know.",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15aG1hOE5FbGxiaUtsQjdTenJuc3gzLXFCY0tIb0ZaSDUxRkdjd2pMaHdZNko4ZUVqTkNRSmhVZ3J0OWhIcl83a29hVU9HWUtLbGRPRTZzSHdlc0U5MENRZmpqYjBIRTFaUHItR3lMU0VVQQ?oc=5",
+        "domain": "mashable.com",
+        "publisher": "Mashable",
+        "publisher_url": "https://mashable.com",
+        "language": "",
+        "seendate": "20261110T184451Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Apache HTTP Server 2.4.71 Fixes Critical mod_http2 Heap Corruption (CVE-2026-119618) — Patch Now",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTY4X1ZIeVhELWVSTVZkcU1xYThPYmh2VU1nV3EwR2RGanh6SnVyRGhvWU0zSnVJZ3doQ0JaZjlBc1NnQWxhMFdmc3JiVDNveElFdnVKdUNsLVY0b1ZGVmtnNGhIYUNHTFd1bmQ2SmhaNllwQmhNd3FWQk9IVzl6aG1OWQ?oc=5",
         "domain": "www.rescana.com",
         "publisher": "Rescana",
         "publisher_url": "https://www.rescana.com",
         "language": "",
-        "seendate": "20261111T093000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France requests arrest warrants for Iranian suspects over supermarket cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObk1NM3RWYzdobkRuYWM5cms4MWk2Z0RnQUhHN0h1ZUlzTlpvS0NOcEZJeWo3SWxVLWlPSEY4VGpSZnVPTUY0TzlTVlZrZEQ2UXR0ZWxGV3pUaE9ZT1N6TndGTUQzWFI1RUxKNTFBdVNpa2FQcjNhaGlnbkNqaUptS0F1ano3cTFYd1MwVVIyOUhhb3FtTzZTZ1NoaTNzMFUyQzRZRk4zMnZHRXpLRWZUNmt1VGtyMGQ0a1RF?oc=5",
-        "domain": "www.rfi.fr",
-        "publisher": "RFI",
-        "publisher_url": "https://www.rfi.fr",
-        "language": "",
-        "seendate": "20261111T160040Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZTEwcGk1aFgtYVd0anRBbHdibDNVd05ESnItLUdTbDdUM0hSN0tuaDR5OFM3WUV4RFpRUjFrSlhqU3hSdm9ESUFxMnN0Y291b3hGYnN2WmpMU0M3VzZIOXZKWnE1WUxCU1NhZmhUWUlOTE10ZG1OMHpISjVuOEIzaVFkZ1JGME9iRjJUcTZGbWpiRTQ?oc=5",
-        "domain": "krebsonsecurity.com",
-        "publisher": "Krebs on Security",
-        "publisher_url": "https://krebsonsecurity.com",
-        "language": "",
-        "seendate": "20261110T220730Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "IBM Aspera Faspex CVE-2026-123218: Authorization Bypass Can Grant Full Administrative Privileges",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYklzVXhhVnRpRF9vODBCZVlmblhRSkpqb09lSDIzc2M3Mk1naG5JNkExaDVoY3V3NU9EakI0eEwyYXdWV1BuSmlIU0RmcjN3cDhjWXBGWFF5akFkVGs5NE40X2VDclgwNGtrc3pLYXBHRk1vUmdodnFYMm11LXVNMnJkbHp6Nk1vSmNNZnZ2MXVpbWYtZVhGRlpadw?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
-        "language": "",
-        "seendate": "20261111T072000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "French officials blame Iran for refrigerator hacks, vow retaliation",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261110T000734Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ethical hacker warns: one in two people risk falling victim to a cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSnZWZzhOSFI0SllVZTlFWFBHdjBJZ3VJNnpXTzY2MUxKMU10Y3hxOVR2U091RUJKTDJLbWtZTHJ3UTVtWmthZjhQLVROTGhpbE5tVDNLRHhkS2M1cnYyc213M0s0bmJ5SllKaUkzMGllRG5Pd2lzUVp6NGtjTXhfMG1yZUFLX3M5VnFTdXYzWDE3TjFJV3RxVklMcDNMN0tLeFBSSzBuMHJiVFk4S0V2eg?oc=5",
-        "domain": "www.euronews.com",
-        "publisher": "Euronews.com",
-        "publisher_url": "https://www.euronews.com",
-        "language": "",
-        "seendate": "20261111T093337Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ivanti November 2026 Security Update: Unauthenticated EPM RCE and CSA Certificate Flaw — Patch Now",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY2wwaGtyUGpHdzByUnZWek1RUVk3UUJ4Z3R0RmVBN1kwT3dDMG11RU92S0h5Q1JVYUFYUTFxdzRvRTBaTkVGQ2ttQjZWTHhqY1VsTXVsc0FteV9HTnM4MmdUMXp6cDJfd2VZYnNySXNaRE9SVWhkQWY3Rl9wVFhDdlFR?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
-        "language": "",
-        "seendate": "20261111T153000Z",
+        "seendate": "20261111T183000Z",
         "source": "GoogleNews"
       },
       {
@@ -419,23 +369,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "France blames Iran for a cyberattack that heated supermarket refrigerators",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3MxdFVOdmN3Y2lHVWlZVHRIdjJLbElKcTl6YnN0N3RwZXZXalAySVdselJLaEVMSXp5Q3MzVU9UNWxBSmhMWXJCYzF2bV94bEgzM0x2UUpwbS1CWUgtaDBpVmEwRTluSGNtVlE1N2QyWTJURWg5OUpFTy1WQm41RWEyYUxfWXhoZjVEUVNVbldOX3UySFh1VjctSWNqN0NPaTMwVlprWF82UVg0OVE?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
+        "title": "Ransomware crew claims 5 banks and a CU; 2 confirm breaches",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUlpQjF5V1dOMHNYRFlFeGdTUFczRVB6LURRTlZSOWxxLXNiRTgyY1R4N1hMVDExYnNVVEtVZUZRRWJNTDFwblBSUV84VVRaejlUWGFWTm8tRW5Pb0VLNHBpNVNvYUxyckJpb0RNYkxONHcwWXdMcVIxWnhfVGw3bF83YzIzNjV6WUFHNE9jS3BEV2Z0Q0VWRExB?oc=5",
+        "domain": "www.americanbanker.com",
+        "publisher": "American Banker",
+        "publisher_url": "https://www.americanbanker.com",
         "language": "",
-        "seendate": "20261110T011700Z",
+        "seendate": "20261111T120000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Vulnerability Management Dies in 2027",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mM0R2Z0RmZ0hYb1FfcTV3THg5MFhjV1VOaFExenExVnZLUTdNMWYtc1lkekc4bUo1TkdQbHRKaldTbkZ3ZGtCV0NVWUk3Ukpsc1ZyNXYyZExvZVBud2pIMGZvV0xFV3lFWFFkdGw5TVBxdWc?oc=5",
-        "domain": "vmblog.com",
-        "publisher": "VMblog",
-        "publisher_url": "https://vmblog.com",
+        "title": "Ransomware Group Claims Attacks On Five Banks, Insight Credit Union",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEZ2WHdUclBfczlZNXlzRmViM0duZkVDQ1RYc0d5eXgxdzhMMHZael9QX3pzcE4zNDg5VGFiUV9TUGNiYXFXblVJSmd5VTZXalVEVjNrMkxlNWNiQ3hSSGxBUnRuY19mR0dTLWFaT1ZvemFrMEhzRm45bGl0LVZ4MGlOczVjLVNLMURvSDNIVFFUQV9xTDFOM040X180dTNJWnp1c3BB?oc=5",
+        "domain": "www.cutoday.info",
+        "publisher": "CU Today",
+        "publisher_url": "https://www.cutoday.info",
         "language": "",
-        "seendate": "20261111T130343Z",
+        "seendate": "20261111T184118Z",
         "source": "GoogleNews"
       },
       {
@@ -449,63 +399,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Lenke Rothman’s Resilience and Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXRoSC0weFlvLUxYTTcwUnBkZFc1bHFlQmtRTTlhaVVVbkFEZEZaODRnMEZ0dGFTQXUtZURvVENJTVlvRXp1SGNQX3l4ZEZiRE5UNjhyXzFVZnl2U1QtQ2xtQkVtMGk1UjlqMnVFQkdaZDNKcXdfMjk1cnZBQ2dpb1hyU2VDc0FmRS1KQmxVREZuOTlMcDN6TU81ajBRZFRWWV9kb1NVNmE1NjZlc21VclJ6THlobVh3VVNFbXBldw?oc=5",
-        "domain": "artreview.com",
-        "publisher": "ArtReview",
-        "publisher_url": "https://artreview.com",
+        "title": "Vanderbilt restores systems after cyberattack as hackers claim data theft",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbC00UDRkMTlyZXhKQmNnd2VkVkJBLUQtZWM3TGNSdWh1VDNrT2VPV2VwdE1lVFVtLThkakhscldRVEREV2FTQlViNHdTa21nRm1GcUxKcmVYS1M2dkFWQVhKb2w3SkVHcDdrcDA2M0h2bVVqSnY5WkZSZU9FRTcyeFFfeEtXclVZYlZ6RzJieE4yc3F4ZTJCc09wM3pKYlNRaGNHUmZJdUE4bWVuVWFOQWVIREk3YnNzc0U2bQ?oc=5",
+        "domain": "www.malwarebytes.com",
+        "publisher": "Malwarebytes",
+        "publisher_url": "https://www.malwarebytes.com",
         "language": "",
-        "seendate": "20261111T130323Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRTFFWWJpcm1qeEJkSTJrV2wwVEUyVGkwVGJKbWg4SGNkUklDQnZPQ0xkWlNkbDZnX3Z2VGVFalllVGxoT3JEVG5BV3E2THBTUm5VSk9YbjlZbVpEOXZ1MWJtY2tCRUJfVElranJSN0R4Q0JTTFp0dkVCdmwzd0pQa1o0WQ?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261111T140100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NEWS: French bank Credit Mutuel Arkea says €100m missing after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXBrYU1PeVhNZTkxLVdXaVhsa0VKTlBMUEpKM1hOT1dpcG1DQUtFaWtSN3V3bVBCZGJWdlEyNWdBZ014RXpQdHRnaFh2ckdrOWVaRVhSbl95MDhRckZSNElxODdEeFI1UmdoTktvcWRrcmxxNjBiTkNCam1PYmRrX1VSTm9mMEI2c1VYdnpxZE84Tng2MjZJVDQwY0EtSURQWkEwT3BDNm1femM3OWJNaGlCVGw?oc=5",
-        "domain": "www.amlintelligence.com",
-        "publisher": "AML Intelligence",
-        "publisher_url": "https://www.amlintelligence.com",
-        "language": "",
-        "seendate": "20261111T131918Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ransomware Has a Supply Chain. Credentials Fuel It.",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGxxUjlKaEFMSE9FRmt2d04zdlhuR29SNTU1N3BFWFM0MUMxdXZUMzY0ZWZZVjVNUFdCNVZTYjMzQnlubDF2VTFaSGUzVjdKSmd4U3ZOYTYtVUM1QUpTOVY5M2luRk42U21KU3BWNURFeTUtVDNiMFY5RzB2OThEMGE5SEJFOFhXS3I0OEgwcTg3Zw?oc=5",
-        "domain": "securityboulevard.com",
-        "publisher": "Security Boulevard",
-        "publisher_url": "https://securityboulevard.com",
-        "language": "",
-        "seendate": "20261111T154641Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hackers Claim Data on 1 Million People in Vanderbilt University Ransomware Attack",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3NrcXFsLWFMb2F5T01QT2tPMUF1OUliM1BiMGlmY1RvRGU2NkxjNEFyV2VpZG1NMzFDYXdSOC1vSzhSbVRDUzhlV1hfRTdXRlExYkdBN1hKQ0JRcjMyS1o4MEppVGkwM2l5VGFFQ0pVSlJXNlg3UDJhbGhZQUZKUXQtYUw5dlFQaHBZZ1VUZ2RzSnBzeHV5ZVVQSVFydzNtaDZrbHhR?oc=5",
-        "domain": "www.sofx.com",
-        "publisher": "The SOFX Report",
-        "publisher_url": "https://www.sofx.com",
-        "language": "",
-        "seendate": "20261111T040802Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "China’s cyber foothold in US infrastructure exposes major vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XUjhCcTJoR3Jndm14RF8yc2VYM3JtTUI4UFQ1c2NmZzNkRTJKRTBxX1h0cnhhWFc5cTc1TTdEYk5BblBNbkxjWEhQdVpQQmdXQ3ZJNnNVSUxEWGlESE50UzdnZw?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261111T084228Z",
+        "seendate": "20261111T183237Z",
         "source": "GoogleNews"
       },
       {
@@ -519,6 +419,66 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Vanderbilt University cyberattack: What is BYOD?",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeloxOVBGSHBQV2xncGVUNUVsTk4xMkRjdDdMVVctQkpXR014OVVCUzlTQzN2dUFzTDNmMGpHYjlST1NERktNa05zMjJ5allTOHhoeVR0aGtDcWZ5ekVVNjRpY0VOUHJ1bnlLS2twcjJIalRBTHM4VjY1bmhCdkVxLW9SWlhIV0lTaDVkc1ZGRDlKSkwwZ1JtOHB30gGfAUFVX3lxTE9uYnFrVTBpRWhKLVVzZE1oM05xYnkyVWNfYlcwSVBObUdRdUlzRGpiQ2V3dkpMcGdEMGJaSHJ0MWRlSzZLc1hSMWVtcG5iQWZjbEN2MGJNaEVYX0VaZy1FcjhhUDVWalZNTXBnMUxmRmtSMGFRS0lrcV84Q3JfVVlQc0dYWTU1U1dxa19faVBPYm9jYkw0ZkxXR1pJQVlhWQ?oc=5",
+        "domain": "www.wkrn.com",
+        "publisher": "WKRN News 2",
+        "publisher_url": "https://www.wkrn.com",
+        "language": "",
+        "seendate": "20261111T005807Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT21KN0hjQ2puYWxyS0kxN2VySmxtZExoSHVnUjBfNzJRWGlGVjRHel84ekxRTHAxVjE1Z1VRd1lXaVJuZjVWM2ZBbkVVdE9JdGtKTElYc0dMQU8yVGhGTmlCR0NMdW0xcW1HVy1RRWI3N2djZFUxWl9MLTI3cjlJOU9kaw?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261111T081700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Sysdig’s CFO Found Strength in Vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTEJid09zbmpLek42QTd6QnJTZXdTbWlDbFllaXZ5QW4zMlRzbGlJQkJuVEtMZGk4YUtFRTJOT1dqZVNyNUVRbk1xeUNRb0ZYTUJ3TjFadzZpbHBaNkFPdnFDQWFQajVlQTN4RXBCTGVuQUxBN0s5cG1QX25XRFZpaF96LWpza3VMbmZWQ1psWmE3WVZhRDl4R0p3?oc=5",
+        "domain": "www.thedailyupside.com",
+        "publisher": "The Daily Upside",
+        "publisher_url": "https://www.thedailyupside.com",
+        "language": "",
+        "seendate": "20261112T050544Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "France blames Iran for a cyberattack that heated supermarket refrigerators",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3MxdFVOdmN3Y2lHVWlZVHRIdjJLbElKcTl6YnN0N3RwZXZXalAySVdselJLaEVMSXp5Q3MzVU9UNWxBSmhMWXJCYzF2bV94bEgzM0x2UUpwbS1CWUgtaDBpVmEwRTluSGNtVlE1N2QyWTJURWg5OUpFTy1WQm41RWEyYUxfWXhoZjVEUVNVbldOX3UySFh1VjctSWNqN0NPaTMwVlprWF82UVg0OVE?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261110T011700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "This Actively Exploited Chrome Vulnerability Is Putting Your Browser at Risk",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQldlOHlDNm8zenFmUWx6QmdCX3B1VFpUdk00N3o1aXBWZWQyWXNpZ3dQNkVFRjVfUEprNjEzU2VITWpOMzZCdW1fS1ZDOWtOZm81X25fSU5XMFNJMERwYzZwb09jY1kzSXVGZWstczRBQzctV3lSSUtMT05udmI2NWh2UFBiZXdadVQtSXhXTGNIU2hjUHV6WnpGeVRjNnVJREJnTVNrcGk?oc=5",
+        "domain": "lifehacker.com",
+        "publisher": "Lifehacker",
+        "publisher_url": "https://lifehacker.com",
+        "language": "",
+        "seendate": "20261110T200000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZTEwcGk1aFgtYVd0anRBbHdibDNVd05ESnItLUdTbDdUM0hSN0tuaDR5OFM3WUV4RFpRUjFrSlhqU3hSdm9ESUFxMnN0Y291b3hGYnN2WmpMU0M3VzZIOXZKWnE1WUxCU1NhZmhUWUlOTE10ZG1OMHpISjVuOEIzaVFkZ1JGME9iRjJUcTZGbWpiRTQ?oc=5",
+        "domain": "krebsonsecurity.com",
+        "publisher": "Krebs on Security",
+        "publisher_url": "https://krebsonsecurity.com",
+        "language": "",
+        "seendate": "20261110T220730Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjlURm1XclVha3VlWUM0UTVVWFFXTVRueUdLUXdaWVVOa1pHZ0xZNDNqeVdRdktkdVlWbGJ2MV9wZW5IeVAzeUw3NzJBQlVTTG5pTjFKMUtqYl9RZTEzNWRfSEdFTjVnNl9QNHdfM0VKdWtIYmJEaXpZdTc2SXAzM1plaUE?oc=5",
         "domain": "thehackernews.com",
@@ -527,18 +487,58 @@
         "language": "",
         "seendate": "20261109T060500Z",
         "source": "GoogleNews"
+      },
+      {
+        "title": "Richmond Schools respond as cyberattack data hits the dark web: 'Deeply disturbed'",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmFDTUFuM2M4WGVEdmh1WFR0NUNFWGtNQk43QjV0OEtUOXJmNWNneUdPcFFEcUplQjFlZGI2Q01XOHJWcEpuMnEzT2I4TkdmZjBQMlhjcWVQYzByU1hua1VsVnJ6N2VIQzdYV0FSY1FUa3VqTnUyWWFhOWF2ZF9Dc1B5eGNVU0JGYzc5NEllNGZLVFhtWkRR?oc=5",
+        "domain": "www.wtvr.com",
+        "publisher": "WTVR.com",
+        "publisher_url": "https://www.wtvr.com",
+        "language": "",
+        "seendate": "20261112T040328Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Dire Wolf ransomware: An apex predator stalking your data",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUF0S3FGNEpBRU83aG5EeDFlUkY5Rk1ZT0pyZnd0VVpkU09OcUhvdi04aWMwdGxGTUhLVWJkQWFac3VRX09jR29JWEVxQmF6WlVjby1PZTJXZXpCUFJFaUFhY0pmTmwzWnVhQUlPODA0OS1NU3hxSi1hY3RUV2pPNFcwTW95M21aY05fVlFBT2hwWG43MmNfUVZZeHg?oc=5",
+        "domain": "blog.barracuda.com",
+        "publisher": "Barracuda Blog",
+        "publisher_url": "https://blog.barracuda.com",
+        "language": "",
+        "seendate": "20261111T010545Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZTh2WHFSUXJfbEJCaFNDaUUzTmpTMjljenJPTWdHRHhnNjZUOGFraktSMHVKUHlFcXJWQmg1aHRHdzY3eWlOMGZ6OWIzODk0Sng4a0R6UWk1SFZKU2htTXBad3M0VktidF9uc1N4c19USklTR2VfZmZjNUE2R2g3LQ?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261110T192300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Poland takes its national e-government platform offline after a cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSld4cVQ3cGlVQWJiVXJwVUY4XzF4dHpybGpiRzhkOW83dG9fT3lQZ2pVRzVOckthbnQwYjBiUXFRaUZIM1pGWEtPVzBuYkRSa0Ezd2RmWkRVQXNqNE9oZG8xQ2taOTlTMlZ6RFFxX2h1cmxtUWgzdWgzYlBqTmRvUFdjdUdvM3VPU0xsVUkzenA4a3JHaGRwNkE2bFA0VTgxeERhUzJIdWU3R0xxNzkxcmhfakxQY25LZG1wMG1Qb1pOUdIBxwFBVV95cUxQTG9uS1NBOWVBVmRXNUtleWUyUHBsQmRtU3pfSWtZeFhpTWRrR0phNFB5cGpoMGJySGVxUXE0S0ZSbnB5Ym9JaVVXRDBLT2NjTm83dUtBbUJsR2JyNlk1U0R5b1BxUmd0bkNENHpRQ0hpRGpjeDNCVzVWRXRMSUtINm9aUEtPRzdReEtDY2F3Ym00bk9oQkdoMUU1X1ZoNGhpckdCZnV6V0JYbUNpUTVuQ3pUc2N6S2s3cHcwWEdIMFEySHB6WE1v?oc=5",
+        "domain": "securityaffairs.com",
+        "publisher": "Security Affairs",
+        "publisher_url": "https://securityaffairs.com",
+        "language": "",
+        "seendate": "20261112T065857Z",
+        "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "Ransomware Gang Says It Hacked Vanderbilt University",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTzVHcjA4RjZXb2FFSmdjNkxuajRleUthY3l1OGl3M2gtVmdqOW1PdF9vYmN4UGd1eFpZQ2Y0R2xLR0JiVDBPU0NfM2Z6TVY3c3hfNS1iTkxGYWFQT2lWQ0kycjRkSEp4YUpraXJ1SlNTOXhDbzJiQ3RTX3ZvWVBsSnNkb0Q5LU1tb2xaWUxfMlJkNnJTVUJIa3lyQ1lfZHY4UmQ4Q0oyY0tlSlc0UG5SbkxMR1lFRGJ1U3p5STlmTXVVZw?oc=5",
-      "domain": "www.insidehighered.com",
-      "publisher": "Inside Higher Ed",
-      "publisher_url": "https://www.insidehighered.com",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server: Everything You Need To Know",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTAxaC1QOWxPbVZoSHNFcl9LSERXYTlWWlRsM3RlbnY5YlRKVVVWOVdVcDlKTEhuNkFFOFUtWkROTE56akVsYVVHblBUX0FsWjV4a3paMWljbWtYbDZscWNOSFNOQ2dzZHRjbzhCUmFVanlMX1N0VVhpNWpvc0NPaG5B?oc=5",
+      "domain": "www.wiz.io",
+      "publisher": "wiz.io",
+      "publisher_url": "https://www.wiz.io",
       "language": "",
-      "seendate": "20261111T080000Z",
+      "seendate": "20261111T194910Z",
       "source": "GoogleNews"
     },
     {
@@ -552,13 +552,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Who Runs the Ransomware Group Qilin?",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xWGtiSm1lTklJMXNFdXl1ZGFnQjZfdTNPZ2FvU2M0NGprNkdtc01udmhlUDctTThCUkt2QkRCdjF1cWlBTWRXZDRlM0dDb3RqRndOZ21PQzRnblN2eEFqU1h1WHBiVllTVmtRampMNHJzMXdFbC15YnJISW8?oc=5",
-      "domain": "krebsonsecurity.com",
-      "publisher": "Krebs on Security",
-      "publisher_url": "https://krebsonsecurity.com",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlZ5NGpNTUR1WTAwTjBITzhrMFBmMHRBSTJjQnBYRjNrbEFNOEVKdE5GaU1rUTlSRmRpaG9aTFNsQWZjb09MWWhMcEI1eHoxRVNreFY3NFliaTBVV2tTQ3RpY2lSWnhMWjFneXNiQnN5ZkZmZFdJOFY4ck96R25tZg?oc=5",
+      "domain": "thehackernews.com",
+      "publisher": "The Hacker News",
+      "publisher_url": "https://thehackernews.com",
       "language": "",
-      "seendate": "20261111T185615Z",
+      "seendate": "20261112T051200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Ransomware Gang Says It Hacked Vanderbilt University",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTzVHcjA4RjZXb2FFSmdjNkxuajRleUthY3l1OGl3M2gtVmdqOW1PdF9vYmN4UGd1eFpZQ2Y0R2xLR0JiVDBPU0NfM2Z6TVY3c3hfNS1iTkxGYWFQT2lWQ0kycjRkSEp4YUpraXJ1SlNTOXhDbzJiQ3RTX3ZvWVBsSnNkb0Q5LU1tb2xaWUxfMlJkNnJTVUJIa3lyQ1lfZHY4UmQ4Q0oyY0tlSlc0UG5SbkxMR1lFRGJ1U3p5STlmTXVVZw?oc=5",
+      "domain": "www.insidehighered.com",
+      "publisher": "Inside Higher Ed",
+      "publisher_url": "https://www.insidehighered.com",
+      "language": "",
+      "seendate": "20261111T080000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "CISOs say OT will survive a cyberattack, but their engineers aren’t so sure",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNGJQYWRlMk1aQ05RWlZTVFBDcFVBWXU5ZGtGdnhxeWxpb1c3WnlIUXZSd1JBa3JZWi1uMU9Rb2R3Y3ViX2dyTDZVckVwV2NMczFfQk1pWWVJbHVhT091QXBHbWh0bW1DUEh2T1FfQWdibERhZ0JxX0VQRGJ2Y3UzTzVDcjdJWDA?oc=5",
+      "domain": "www.helpnetsecurity.com",
+      "publisher": "Help Net Security",
+      "publisher_url": "https://www.helpnetsecurity.com",
+      "language": "",
+      "seendate": "20261112T053013Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Vanderbilt faces class action lawsuit after cyberattack; law professor says victims could receive as little as $20",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEJtVWxPYUEwSTdsTEVEbmJtcGhZNTdVSkdzR2RaaVNsUG5XMlAyYUhENzNxcEp0Yy0tRzZsYlBJUWtXVUp6LUNUUi0wa1hjTnM5NXRhQnRHeVU1d0JRalU2UWpUR09OQXZvaVhqaHBxS2l2Rnc1YnBncUJ6VkRGTHlzNC1ud3YtMFJsMXF4SW13QXpSZjlXRmlXOXFLdE1tTGc?oc=5",
+      "domain": "www.wkrn.com",
+      "publisher": "WKRN News 2",
+      "publisher_url": "https://www.wkrn.com",
+      "language": "",
+      "seendate": "20261111T191554Z",
       "source": "GoogleNews"
     },
     {
@@ -568,87 +598,17 @@
       "publisher": "Cybercrime Magazine",
       "publisher_url": "https://cybersecurityventures.com",
       "language": "",
-      "seendate": "20261111T140504Z",
+      "seendate": "20261111T140423Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT21KN0hjQ2puYWxyS0kxN2VySmxtZExoSHVnUjBfNzJRWGlGVjRHel84ekxRTHAxVjE1Z1VRd1lXaVJuZjVWM2ZBbkVVdE9JdGtKTElYc0dMQU8yVGhGTmlCR0NMdW0xcW1HVy1RRWI3N2djZFUxWl9MLTI3cjlJOU9kaw?oc=5",
-      "domain": "thehackernews.com",
-      "publisher": "The Hacker News",
-      "publisher_url": "https://thehackernews.com",
+      "title": "Google Chrome Multiple Vulnerabilities",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQmk1NTEtY3NEYUV6NElEN09IaHdNckIyN1dEbWNHR3Z3YXFwMGhHUlU2WFVsYVFLb1VXSEMtWUdXS1ZYNWpfUlUtNXhCM1k3MVNVM1VRNFFnTkp6ZlJ0TzlLVXkybjlwYnZoQVQtQTNubnJLRFF4WVR6dEowY3A2WlRyNW0zSk5JNUxqVEViQUxHZw?oc=5",
+      "domain": "www.hkcert.org",
+      "publisher": "Hong Kong Computer Emergency Response Team Coordination Centre",
+      "publisher_url": "https://www.hkcert.org",
       "language": "",
-      "seendate": "20261111T081700Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cybersecurity breach impacts Vanderbilt University",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemg4dmgwajlsWG5ISnZEU2tZa1daSTVtdlJrUG0wdm9JYzBFeUtZajVKd0lmSDZOTUJnclJlaGs1UmlGUmhOR1k2MnFhOEZseDQzNENOZlNaeUoyZVZTM1pudnBDemNHUnZkN2FqRTh2ekU2QjlCR21BYzMtWmlJLUZUOS0?oc=5",
-      "domain": "nashvillebanner.com",
-      "publisher": "Nashville Banner",
-      "publisher_url": "https://nashvillebanner.com",
-      "language": "",
-      "seendate": "20261109T184118Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5",
-      "domain": "www.wsj.com",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "language": "",
-      "seendate": "20261109T233501Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Apache HTTP Server 2.4.71 Fixes Critical mod_http2 Heap Corruption (CVE-2026-119618) — Patch Now",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTY4X1ZIeVhELWVSTVZkcU1xYThPYmh2VU1nV3EwR2RGanh6SnVyRGhvWU0zSnVJZ3doQ0JaZjlBc1NnQWxhMFdmc3JiVDNveElFdnVKdUNsLVY0b1ZGVmtnNGhIYUNHTFd1bmQ2SmhaNllwQmhNd3FWQk9IVzl6aG1OWQ?oc=5",
-      "domain": "www.rescana.com",
-      "publisher": "Rescana",
-      "publisher_url": "https://www.rescana.com",
-      "language": "",
-      "seendate": "20261111T183000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Vanderbilt University reels following ransomware attack claimed by BYOD group",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TbnllZkhMTXRwQkQ0TWFGa2NFa1FoaG9EVjM4OGNlZ3FWT0xjZzExY0N1R09zTUlJWHVGbTRwLXBIVjFlUThRSFBRYWt5VGVDbkxtLXFFVG5pWnpnYVVJaGlXM244NDctbGZRRlJlbmZTYmJrT0dZ?oc=5",
-      "domain": "cyberscoop.com",
-      "publisher": "CyberScoop",
-      "publisher_url": "https://cyberscoop.com",
-      "language": "",
-      "seendate": "20261110T175554Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Poland shuts down government services platform ePUAP following cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaEdxRnhuYV81OXFYZGpybEl6MWZRZFNLRmJZUlhicEptTFdETVlRT1gwdm9lU2p0b1ZtajlGaGFoZzY0M2ExVVMtbUg0YXFRNk12SEtWeVRrQ2pFWDA1WU56R1U4YV9vb0ZGbWJYRFpqRkFiNl82VXF6QkwzTDJqdDFoTWdmM2xzX1E?oc=5",
-      "domain": "therecord.media",
-      "publisher": "The Record from Recorded Future News",
-      "publisher_url": "https://therecord.media",
-      "language": "",
-      "seendate": "20261111T132320Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMk4xUFBZZzJIaXpuUDlmdjdUSGZkTlZyQ0UtZ1RRQlIzVnJ6WUd6Z2RKWHU0OEpmZWRyaHJldWlZQWNidUVRRW9pQkFnZWR5eTRVZnE0UjBpSkgzLUpzT1hIZF9DbDNOTG4wYkt6TDl3eWFfY3ZZa3Rsb2tIbTdzaXFJV3BILU9xUlJ6ZFJnRmxkblVn?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "language": "",
-      "seendate": "20261109T181607Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "France's cyberattack allegations against Iran should wake up Europe",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zVnQ2R0lENEttMHZNM0FFMWw1X2JhQXdpaGJIeTB3R3VBaW85MXNxalEzOGVuTGNjbmNqMGxnVVpxdUY0Z1NZdnNYay0xM293MXc?oc=5",
-      "domain": "www.iranintl.com",
-      "publisher": "Iran International",
-      "publisher_url": "https://www.iranintl.com",
-      "language": "",
-      "seendate": "20261111T184513Z",
+      "seendate": "20261112T015337Z",
       "source": "GoogleNews"
     },
     {
@@ -662,23 +622,63 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Vanderbilt restores systems after cyberattack as hackers claim data theft",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbC00UDRkMTlyZXhKQmNnd2VkVkJBLUQtZWM3TGNSdWh1VDNrT2VPV2VwdE1lVFVtLThkakhscldRVEREV2FTQlViNHdTa21nRm1GcUxKcmVYS1M2dkFWQVhKb2w3SkVHcDdrcDA2M0h2bVVqSnY5WkZSZU9FRTcyeFFfeEtXclVZYlZ6RzJieE4yc3F4ZTJCc09wM3pKYlNRaGNHUmZJdUE4bWVuVWFOQWVIREk3YnNzc0U2bQ?oc=5",
-      "domain": "www.malwarebytes.com",
-      "publisher": "Malwarebytes",
-      "publisher_url": "https://www.malwarebytes.com",
+      "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMk4xUFBZZzJIaXpuUDlmdjdUSGZkTlZyQ0UtZ1RRQlIzVnJ6WUd6Z2RKWHU0OEpmZWRyaHJldWlZQWNidUVRRW9pQkFnZWR5eTRVZnE0UjBpSkgzLUpzT1hIZF9DbDNOTG4wYkt6TDl3eWFfY3ZZa3Rsb2tIbTdzaXFJV3BILU9xUlJ6ZFJnRmxkblVn?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
       "language": "",
-      "seendate": "20261111T183237Z",
+      "seendate": "20261110T100800Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Vanderbilt University cyberattack: What is BYOD?",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeloxOVBGSHBQV2xncGVUNUVsTk4xMkRjdDdMVVctQkpXR014OVVCUzlTQzN2dUFzTDNmMGpHYjlST1NERktNa05zMjJ5allTOHhoeVR0aGtDcWZ5ekVVNjRpY0VOUHJ1bnlLS2twcjJIalRBTHM4VjY1bmhCdkVxLW9SWlhIV0lTaDVkc1ZGRDlKSkwwZ1JtOHB30gGfAUFVX3lxTE9uYnFrVTBpRWhKLVVzZE1oM05xYnkyVWNfYlcwSVBObUdRdUlzRGpiQ2V3dkpMcGdEMGJaSHJ0MWRlSzZLc1hSMWVtcG5iQWZjbEN2MGJNaEVYX0VaZy1FcjhhUDVWalZNTXBnMUxmRmtSMGFRS0lrcV84Q3JfVVlQc0dYWTU1U1dxa19faVBPYm9jYkw0ZkxXR1pJQVlhWQ?oc=5",
-      "domain": "www.wkrn.com",
-      "publisher": "WKRN News 2",
-      "publisher_url": "https://www.wkrn.com",
+      "title": "Cybersecurity breach impacts Vanderbilt University",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemg4dmgwajlsWG5ISnZEU2tZa1daSTVtdlJrUG0wdm9JYzBFeUtZajVKd0lmSDZOTUJnclJlaGs1UmlGUmhOR1k2MnFhOEZseDQzNENOZlNaeUoyZVZTM1pudnBDemNHUnZkN2FqRTh2ekU2QjlCR21BYzMtWmlJLUZUOS0?oc=5",
+      "domain": "nashvillebanner.com",
+      "publisher": "Nashville Banner",
+      "publisher_url": "https://nashvillebanner.com",
       "language": "",
-      "seendate": "20261111T005807Z",
+      "seendate": "20261109T184118Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xWGtiSm1lTklJMXNFdXl1ZGFnQjZfdTNPZ2FvU2M0NGprNkdtc01udmhlUDctTThCUkt2QkRCdjF1cWlBTWRXZDRlM0dDb3RqRndOZ21PQzRnblN2eEFqU1h1WHBiVllTVmtRampMNHJzMXdFbC15YnJISW8?oc=5",
+      "domain": "krebsonsecurity.com",
+      "publisher": "Krebs on Security",
+      "publisher_url": "https://krebsonsecurity.com",
+      "language": "",
+      "seendate": "20261111T185734Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Vanderbilt University reels following ransomware attack claimed by BYOD group",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TbnllZkhMTXRwQkQ0TWFGa2NFa1FoaG9EVjM4OGNlZ3FWT0xjZzExY0N1R09zTUlJWHVGbTRwLXBIVjFlUThRSFBRYWt5VGVDbkxtLXFFVG5pWnpnYVVJaGlXM244NDctbGZRRlJlbmZTYmJrT0dZ?oc=5",
+      "domain": "cyberscoop.com",
+      "publisher": "CyberScoop",
+      "publisher_url": "https://cyberscoop.com",
+      "language": "",
+      "seendate": "20261110T175554Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5",
+      "domain": "www.wsj.com",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "language": "",
+      "seendate": "20261109T222400Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Queens libraries still reeling from ransomware attack as some services return",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDhxVjEzV1owV2pkVXpXdjhwaU9LeGZ6b2FxMm5ZdGJIYU93elF1ZWtEYjdPNlZ2T0swRXZSa1p6MVVHSEgtd2Z6QU5fc0t3RHFzYnJ5SjVnV0dxTzB1ZkNZNklkSlVLeWhvQ21jRnBKQjZSeDdYa3paSGozU3A4WU9fdUZQa0NFY3Z3Mnhxd1QxQW9PdUNoczlMUmgxWExkc1p2TVFaMDhKR2gtMV93OHRQX3hham8?oc=5",
+      "domain": "queenseagle.com",
+      "publisher": "Queens Daily Eagle",
+      "publisher_url": "https://queenseagle.com",
+      "language": "",
+      "seendate": "20261110T160000Z",
       "source": "GoogleNews"
     }
   ],
