@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-11-14T18:31:28.325179+00:00",
+    "generated": "2026-11-14T22:46:03.435145+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "41"
+      "value": "42"
     }
   ],
   "live_data": {
@@ -49,6 +49,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Iran-linked cyberattack targets European supermarkets and critical infrastructure: What we know so far",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmxDdXl3bndDSF9qWFI4UEhNaGcwSFQwMHBNU0ptQkhTYkdXTVZKZ3VHUWh6WGtaYjJITnBsV1lIcTR5UXh6UHMyMTE0TGdId0pvTGg4cVNTYURzMHZnNlJpMElSTThXYnJKZGxfaVVNbWs1aTUxOTIzb0g3c0dOTEdLN0VtWnQtaUlfS2NTQzV6TjBvbUhVd2RuMmx1YTNFNEZWX2M3bVBPVDla?oc=5",
+        "domain": "beinsure.com",
+        "publisher": "Beinsure",
+        "publisher_url": "https://beinsure.com",
+        "language": "",
+        "seendate": "20261114T184934Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘We don’t believe so’: Duffy dismisses cyberattack as cause for air traffic shutdown",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUJucnF5OWhCcHJIa2RKVm8tMUotcUZFOWQ4ZlBRM1dZdlNXM1NqNDhfUmdaLUtaSUxQMFlhZXV1RzBRYXk4YmtXQWV0eEVWcy1ZOXMzaU5RSFFqMDdlbVNRLVYwYzNyczdfUVBKVXZNTlZvZnNkN1JhRDJqNWlVVVlEb0k?oc=5",
+        "domain": "www.ms.now",
+        "publisher": "MS NOW",
+        "publisher_url": "https://www.ms.now",
+        "language": "",
+        "seendate": "20261114T194205Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "DHS says nationwide ground stop was not a cyberattack: 'We are built to handle crisis like this'",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdzB0Y0pHdF9oUnR5WkFBM0MxZ3NjX0htZUt4LU5waE1RRXRhYlFxTHBpQmFGclQ1WFo2VGpuaVExeEdBU05FNktrWnY5VnhuZTZHM3A0bGxObnFGaDZIQXBGUkRwLXNoank1aWdoMGN5QkRaSktVaFpuNExYS3RNOUFIQW83VGtjWk1PWlUxZ01xeTVVM292OFBuWnE4TUFFUnliTHB2VEYxUHlNVXdqd2FBSmxYUXZpd0Rlb3hB?oc=5",
         "domain": "www.nbcnews.com",
@@ -66,46 +86,6 @@
         "publisher_url": "https://www.fastcompany.com",
         "language": "",
         "seendate": "20261114T135126Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Next Cyberattack May Target Your HVAC, Elevators, or Worse. These 3 Steps Close the Gap",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOXk5LTNjdGZPem54TlZBU3A0ZlBzQUtaeDVtckZMa1prMjQwSlhNSy02REU0aWNQOUVRUW5IcGFlZGdnXzQwUlJMYkJ2V1plVFJXM0N2cnlMakhSWi11MlpqNDlwRXZ6cGJOVFZBaTJIYjNYMTF6clFnVmF2Q08wdENVM0xqZUpNNjlYYnhKQVVROXg0ZFp0MDNHY2hLaUZNZENCOVJuRFFELVYxWUdHcWZsWGV5eVRPRGpkbENZREtXZEtIT1BjOWtB?oc=5",
-        "domain": "www.inc.com",
-        "publisher": "Inc.com",
-        "publisher_url": "https://www.inc.com",
-        "language": "",
-        "seendate": "20261113T215902Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FAA ground stop sparks cyberattack questions. Here’s what officials are saying",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVA3S1RzQnl3QjRCaW1MMlJ4ejh0bEY2ZjdjVTZYS244OFdSNUN5UmdFQ2hVUFFSU2Z5Q2ZSVUpPbDVISUdGekJ3d0FQUXR4QzI4a2RsVHdVVzR5TWxjODNRY1ctdnRWZWt2VHVYSG1WR1QtX09mSFA5VGpwN1BxbE1sVFJkblhJYWtTQzBpbWhaN3czWDZsUjlUNGhhaUpZSGRvWEZlcEdFdXVBXzZPUVZGYnlNaTh6MksxRNIB0AFBVV95cUxPTTdBbDFCOXFrNm9nbXFBR3loZzN5M2ZNVUY2b2ZjaUdFWlBuWVdnLTNKVmk0SkNKWWFFMXFxVTB5aHIyYXhGNnJyS0t2OHZWM1VvZC1VLVExOTN5Y2xyTldGcHFDLTlPQjFrV3pBUHlwWVlfVWZ4WHhOdjV3RkFHNmY2d050RzVpR0Z6TUZEbHlTSExrWTNtdzFsNVBvWDV0ZjBJekpBencwaWRzd256eDhVa0RyclRjejJMZTUyQUZDcjR0WmZOeko3cHVBZTlz?oc=5",
-        "domain": "www.cleveland.com",
-        "publisher": "Cleveland.com",
-        "publisher_url": "https://www.cleveland.com",
-        "language": "",
-        "seendate": "20261113T220700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Update: Ground Stop Lifted After FAA Grounds Thousands of Flights Across the U.S., 'No Indication' of Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmlYemRiUGw4b2ZiUF80eXZ2SWlpSXd3Ql9Ic0E1QnhYNjFhQk04eUs2dTJzR1ZFNnMtSzhHbzMwT1NoZTM5cUxjMmNwSEpBNW5veVRES3Q3X2huVW90TWdGUlNYNFhhYkgyQk1yWkMzempKd1ppd1BnZ2o2aF9BR2QxU2JlTG9VVXNiVlRodmdPS09Bc3ZGVWR5emo5N1Q0aUVRcnY4V1g0S2VSMDYwbXpXb1M?oc=5",
-        "domain": "indepthnh.org",
-        "publisher": "InDepthNH.org",
-        "publisher_url": "https://indepthnh.org",
-        "language": "",
-        "seendate": "20261114T014905Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FedRAMP pushes new cyber vulnerability rules to keep pace with AI",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajBKaEZ1SXltYXc2M2lWbjYyTDdxNWhHZFowZWRzZ2szYVhFc05IaEcwWHNHRGdzT215NHVYYVZaNVA2cXI0T0ZnVlY2OFhSTGdpQzkxSzhWMm9fSDVfMGVvaWNqM19uY1VGa2UtWFB0M2tlXzktOUp1d1FhS09jaUdNcVpTc1dGZ05XREtsMFBKMWVtLS1xZ1hHZjR0RWVhVDlkWmc0VVdTSTIyYnNrRjh2eXpSS0RlZTh3?oc=5",
-        "domain": "federalnewsnetwork.com",
-        "publisher": "Federal News Network",
-        "publisher_url": "https://federalnewsnetwork.com",
-        "language": "",
-        "seendate": "20261113T232358Z",
         "source": "GoogleNews"
       },
       {
@@ -129,6 +109,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Update: Ground Stop Lifted After FAA Grounds Thousands of Flights Across the U.S., 'No Indication' of Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmlYemRiUGw4b2ZiUF80eXZ2SWlpSXd3Ql9Ic0E1QnhYNjFhQk04eUs2dTJzR1ZFNnMtSzhHbzMwT1NoZTM5cUxjMmNwSEpBNW5veVRES3Q3X2huVW90TWdGUlNYNFhhYkgyQk1yWkMzempKd1ppd1BnZ2o2aF9BR2QxU2JlTG9VVXNiVlRodmdPS09Bc3ZGVWR5emo5N1Q0aUVRcnY4V1g0S2VSMDYwbXpXb1M?oc=5",
+        "domain": "indepthnh.org",
+        "publisher": "InDepthNH.org",
+        "publisher_url": "https://indepthnh.org",
+        "language": "",
+        "seendate": "20261114T014905Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Next Cyberattack May Target Your HVAC, Elevators, or Worse. These 3 Steps Close the Gap",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOXk5LTNjdGZPem54TlZBU3A0ZlBzQUtaeDVtckZMa1prMjQwSlhNSy02REU0aWNQOUVRUW5IcGFlZGdnXzQwUlJMYkJ2V1plVFJXM0N2cnlMakhSWi11MlpqNDlwRXZ6cGJOVFZBaTJIYjNYMTF6clFnVmF2Q08wdENVM0xqZUpNNjlYYnhKQVVROXg0ZFp0MDNHY2hLaUZNZENCOVJuRFFELVYxWUdHcWZsWGV5eVRPRGpkbENZREtXZEtIT1BjOWtB?oc=5",
+        "domain": "www.inc.com",
+        "publisher": "Inc.com",
+        "publisher_url": "https://www.inc.com",
+        "language": "",
+        "seendate": "20261113T215902Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Check Point Gaia CVE-2026-123039: Exploited DynamicCLI Root Escalation Added to CISA KEV — Patch Now",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tMnJYMnlvcDhVU2NFcVZUNlNfdWhiQTQxR0dxMlVUUDdQaTZZMEhDMVJNWXN0cjVtV1FSMjFNd2lPcVY2TFJjR0JtY3g0aGpKVzhwaEp0MmNzTG5fMWFfbHgzZmRkMXNLSDRkczFJVEU1UkRkSnIxdW04WjNlVVE?oc=5",
         "domain": "www.rescana.com",
@@ -136,46 +136,6 @@
         "publisher_url": "https://www.rescana.com",
         "language": "",
         "seendate": "20261114T080000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3dhZ0VPOHVUZTdFMUdWOENxNFQzalNwbmFoNks5dFRNV3lqb09rdlRmSXpDeGRpYXJZNmNXLWhNOHRLblp6WkNvcUsxOXIyMC02eFZ5amFfbldidmZYN0ttcEticjVKTDFXMHZhQUllYmdVY3hnck1yLXNZemtsdE83bw?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261114T123800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "German drone manufacturer Quantum Systems reports cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkJuYlBFZ3ZLMXRzYVNNZzN2OVpqZTlwUEU5WjEtMktUR3M3UzhpdmVyVVJfdFFkU0RmdEJOLXFzVGx3TXRRcTZ6Y1NYVFo5cEdzcjNlTS1NWFVaUV9zb3lidFUwT0lTdXBBYlRmaTRTTGJvQi1CdUdsU2JMVFZNd3JOMnd1SmlPMGliZnE5VDYzNnVkNkE?oc=5",
-        "domain": "www.scworld.com",
-        "publisher": "SC Media",
-        "publisher_url": "https://www.scworld.com",
-        "language": "",
-        "seendate": "20261114T002250Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNS1ManpreGNOcmQ1N0drOFRuQ2ZQRUtNemFIb2s5b0NmdkJJdTRVclF0RzNyX3FDSVNLbklmUUZBdmhuVGdWdmtEUkNNM0R1bTY3WWV2NllsWUJiLVZWTE1DVzhXcWx0a1NxcGE0SHJwRXhTZl9FUE5KRDhoVkJuOEdIVHdJZWcweEEyNENLb0Q4TE5CdzZMc1I5Wkd0Rk1yR3RPZEZobWlUX2I1Q1E?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
-        "language": "",
-        "seendate": "20261114T084022Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CVE-2026-119618: Critical Apache HTTP/2 RCE",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2lZQjFteEhkOGIyR2hNekR0TjZXcy1ZblVDS1dIcUxDa0h3R1NlLVMwVGYtMEp0N0EtVXBOeU56bFA1Y1lOb1Q2a2FtUDJ0T2J2V0hpVVJ4Tl9iTzMxeXk4NEhXc29MQUtPRUtmSzNHblBPSDVDRC1iRDdDUndmVDNXY0I2Q3ZpYzFPRS1TTlBseEZSQTZXWHFha2Jzd0tmUnc?oc=5",
-        "domain": "socprime.com",
-        "publisher": "SOC Prime",
-        "publisher_url": "https://socprime.com",
-        "language": "",
-        "seendate": "20261111T080000Z",
         "source": "GoogleNews"
       },
       {
@@ -189,13 +149,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "PostgreSQL CVE-2026-6460 and 51 More Flaws Fixed in November 2026 Updates — Patch Now",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVBUZ2kxYjB0czVVRnJMOFJUZG91aERIRGl4N05LQ0REVlBpV2M1LVBuZDExU1VGaFlaMjdvXzlpTlN6RVJ5ZmFSZ0NBUC1QbWhlZHRTWHdiQ3hiVE5lenZfNjVuNXFmYWJGQmk4RjJFOFpBcGI1bGxjOHZKa2FNNFhyMA?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
+        "title": "FAA ground stop sparks cyberattack questions. Here’s what officials are saying",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVA3S1RzQnl3QjRCaW1MMlJ4ejh0bEY2ZjdjVTZYS244OFdSNUN5UmdFQ2hVUFFSU2Z5Q2ZSVUpPbDVISUdGekJ3d0FQUXR4QzI4a2RsVHdVVzR5TWxjODNRY1ctdnRWZWt2VHVYSG1WR1QtX09mSFA5VGpwN1BxbE1sVFJkblhJYWtTQzBpbWhaN3czWDZsUjlUNGhhaUpZSGRvWEZlcEdFdXVBXzZPUVZGYnlNaTh6MksxRNIB0AFBVV95cUxPTTdBbDFCOXFrNm9nbXFBR3loZzN5M2ZNVUY2b2ZjaUdFWlBuWVdnLTNKVmk0SkNKWWFFMXFxVTB5aHIyYXhGNnJyS0t2OHZWM1VvZC1VLVExOTN5Y2xyTldGcHFDLTlPQjFrV3pBUHlwWVlfVWZ4WHhOdjV3RkFHNmY2d050RzVpR0Z6TUZEbHlTSExrWTNtdzFsNVBvWDV0ZjBJekpBencwaWRzd256eDhVa0RyclRjejJMZTUyQUZDcjR0WmZOeko3cHVBZTlz?oc=5",
+        "domain": "www.cleveland.com",
+        "publisher": "Cleveland.com",
+        "publisher_url": "https://www.cleveland.com",
         "language": "",
-        "seendate": "20261114T093000Z",
+        "seendate": "20261113T220700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "FedRAMP pushes new cyber vulnerability rules to keep pace with AI",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajBKaEZ1SXltYXc2M2lWbjYyTDdxNWhHZFowZWRzZ2szYVhFc05IaEcwWHNHRGdzT215NHVYYVZaNVA2cXI0T0ZnVlY2OFhSTGdpQzkxSzhWMm9fSDVfMGVvaWNqM19uY1VGa2UtWFB0M2tlXzktOUp1d1FhS09jaUdNcVpTc1dGZ05XREtsMFBKMWVtLS1xZ1hHZjR0RWVhVDlkWmc0VVdTSTIyYnNrRjh2eXpSS0RlZTh3?oc=5",
+        "domain": "federalnewsnetwork.com",
+        "publisher": "Federal News Network",
+        "publisher_url": "https://federalnewsnetwork.com",
+        "language": "",
+        "seendate": "20261113T232358Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Catch Of The Week: A Ransomware Gang Says It Hacked Vanderbilt",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOXzBJdEN3OXhDTVpwdnpHSFR3NEdydExwdUVmLW8yb0NTTUNiT200R1N4WTVmM2pBN2pjWl85blVXZDViSDV4bnJuN3p5TG8xdjVpN2plbHZxbDB3VnZGNzVhNVYteW02aWp2TGhnWUw4OUcyRGg1SDdWbk1MWDRYbmFmUHN3WFdOUHR5dDBNcmNRSjA4VklqTGFNWE1xVkl4X3dnNkJZTkhxNWF2ak84SEx3ckhpVFdpUFJudk82QnI1Zk9CNzUyd2lQWVh6TjU4Q3ZxcEFaNEtpbXpkVkJlT2hOT3M?oc=5",
+        "domain": "www.ladailypost.com",
+        "publisher": "Los Alamos Daily Post",
+        "publisher_url": "https://www.ladailypost.com",
+        "language": "",
+        "seendate": "20261114T200300Z",
         "source": "GoogleNews"
       },
       {
@@ -209,43 +189,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Quantum Systems Cyberattack: 0 Attackers Named",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3BvVnRrdEg4Vi13YV9Bd0hXRjZsZENJejRWV3JnS0ZfbjByWkNPMDlxWHp1Ml9ta0hWcWY5cDRnLWU5OFhCdm5hSkxLY2F1OV95eEkySkI0Q0VRRmFfWXEzcmZoUjE5ZFQwcUlVUGFqYS1reVppWU9NXzZ5QmZtR2ZHU2p2bWdQV2k5LW0xZzBYUXpoMVE?oc=5",
-        "domain": "shattered.io",
-        "publisher": "shattered.io",
-        "publisher_url": "https://shattered.io",
+        "title": "CVE-2026-119618: Critical Apache HTTP/2 RCE",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2lZQjFteEhkOGIyR2hNekR0TjZXcy1ZblVDS1dIcUxDa0h3R1NlLVMwVGYtMEp0N0EtVXBOeU56bFA1Y1lOb1Q2a2FtUDJ0T2J2V0hpVVJ4Tl9iTzMxeXk4NEhXc29MQUtPRUtmSzNHblBPSDVDRC1iRDdDUndmVDNXY0I2Q3ZpYzFPRS1TTlBseEZSQTZXWHFha2Jzd0tmUnc?oc=5",
+        "domain": "socprime.com",
+        "publisher": "SOC Prime",
+        "publisher_url": "https://socprime.com",
         "language": "",
-        "seendate": "20261114T181802Z",
+        "seendate": "20261111T080000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. ground stop: Homeland Security says cyberattack cannot be ruled out",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOWt3bHliTzdtcTRob3lEb2xHUmRrWnFkOHE1RGo1blNqOFZsdHo1Zmh5Y2xjaHo4RllmZ2JZRnQ0eVpkOThzNzVpUzYxeTRxdURoU3pORTZTLTJsckk2b1NNZGROMzBVMllDaDBNV2lJNmg5anhnZWNBVjVPSUVacXFwQkdTV21CTlB2d1ZVZnBXeFBrZTVQdXNMYVktNGFKUmNnUzB4aEhMRjJWbTMyRkZYVktzLU5tMzdxbHJNaERGNHU1ZEtRR0k2dnpzWTc1?oc=5",
-        "domain": "tickernews.co",
-        "publisher": "Ticker News",
-        "publisher_url": "https://tickernews.co",
+        "title": "PostgreSQL CVE-2026-6460 and 51 More Flaws Fixed in November 2026 Updates — Patch Now",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVBUZ2kxYjB0czVVRnJMOFJUZG91aERIRGl4N05LQ0REVlBpV2M1LVBuZDExU1VGaFlaMjdvXzlpTlN6RVJ5ZmFSZ0NBUC1QbWhlZHRTWHdiQ3hiVE5lenZfNjVuNXFmYWJGQmk4RjJFOFpBcGI1bGxjOHZKa2FNNFhyMA?oc=5",
+        "domain": "www.rescana.com",
+        "publisher": "Rescana",
+        "publisher_url": "https://www.rescana.com",
         "language": "",
-        "seendate": "20261113T221416Z",
+        "seendate": "20261114T093000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Dark Web Marketplaces Scaling Ransomware Operations",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXhRTXNvV1lJNGFYbGxSZXdhY1duRV8tWWxObjJvTXc0OEhMRmJ4YXVyOXVGQm96SHhvOFA2VWNmRUdpVVV1MHNxdWJ0RDhiRVh5aGRndDYxUWtxTlY4Unc4ZmJ1UDBnQ1FZWTFmRjJJeWU0d1BnOGZnRnEzZWpPdk9UdU5nbjBEOHRmMUw0UWNVOWZJVXRtY1g5LTd2WG8?oc=5",
-        "domain": "mexicobusiness.news",
-        "publisher": "Mexico Business News",
-        "publisher_url": "https://mexicobusiness.news",
+        "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3dhZ0VPOHVUZTdFMUdWOENxNFQzalNwbmFoNks5dFRNV3lqb09rdlRmSXpDeGRpYXJZNmNXLWhNOHRLblp6WkNvcUsxOXIyMC02eFZ5amFfbldidmZYN0ttcEticjVKTDFXMHZhQUllYmdVY3hnck1yLXNZemtsdE83bw?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261113T222052Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cybersecurity expert breaks down Microsoft 'health check' failure and cyberattack fears",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9valRTTHZ5RFBaYUt3RFVzUDlWN0hJMnJ5Ukw4d2NJOFhrZWtYUlpaU0JHTk9XZ0FteW1rU1lJV0xJZVYzR0tjRXJtVnpjSzNVX0FUMXAzUWVPbUE?oc=5",
-        "domain": "www.foxbusiness.com",
-        "publisher": "Fox Business",
-        "publisher_url": "https://www.foxbusiness.com",
-        "language": "",
-        "seendate": "20261113T192028Z",
+        "seendate": "20261114T123800Z",
         "source": "GoogleNews"
       },
       {
@@ -256,6 +226,16 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261113T094144Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Was Microsoft hacked? Company says cyberattack not suspected",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2FVdmpJSXFDRWZjMHBhWUlmZTZraWEzMF9QcXVSTWUyVUEtWFlvMFlURVhPODdvSnF2VkRYdGJMczhXYll3eHNuSFlYRVpoMzFOTlZ3LTJpYXRQX25WOXd0RWRtUlRLWjMzYnFnbERLakozVFEwMWY5SklEZzN4ZUdWZTY5TUxlYXgwdWxXVUxyMGh2ZjFVRVh5T25fbERPU1dDckplZ28wRldKa3BncmdZaXRsUQ?oc=5",
+        "domain": "www.usatoday.com",
+        "publisher": "USA Today",
+        "publisher_url": "https://www.usatoday.com",
+        "language": "",
+        "seendate": "20261113T182400Z",
         "source": "GoogleNews"
       },
       {
@@ -279,33 +259,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Was Microsoft hacked? Company says cyberattack not suspected",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2FVdmpJSXFDRWZjMHBhWUlmZTZraWEzMF9QcXVSTWUyVUEtWFlvMFlURVhPODdvSnF2VkRYdGJMczhXYll3eHNuSFlYRVpoMzFOTlZ3LTJpYXRQX25WOXd0RWRtUlRLWjMzYnFnbERLakozVFEwMWY5SklEZzN4ZUdWZTY5TUxlYXgwdWxXVUxyMGh2ZjFVRVh5T25fbERPU1dDckplZ28wRldKa3BncmdZaXRsUQ?oc=5",
-        "domain": "www.usatoday.com",
-        "publisher": "USA Today",
-        "publisher_url": "https://www.usatoday.com",
+        "title": "Quantum Systems Cyberattack: 0 Attackers Named",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3BvVnRrdEg4Vi13YV9Bd0hXRjZsZENJejRWV3JnS0ZfbjByWkNPMDlxWHp1Ml9ta0hWcWY5cDRnLWU5OFhCdm5hSkxLY2F1OV95eEkySkI0Q0VRRmFfWXEzcmZoUjE5ZFQwcUlVUGFqYS1reVppWU9NXzZ5QmZtR2ZHU2p2bWdQV2k5LW0xZzBYUXpoMVE?oc=5",
+        "domain": "shattered.io",
+        "publisher": "shattered.io",
+        "publisher_url": "https://shattered.io",
         "language": "",
-        "seendate": "20261113T182400Z",
+        "seendate": "20261114T181802Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nationwide ground stop lifted after more than 4 hours as Trump administration blames old, overloaded tech",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjZESEhXTWRPNDJEOGZqM0ZUOUdHeHJlVndERnFVejFBYmNfbnV3OUVIdTRFUEI2eHdqTkhPOWJ0OHY5RTd1WWh2VzV0YS1sVk41QVZfSXpmcmdvMXM2dDVNX3dnQ1l5VmRfOXNrSGUzVzQ5VkJnNDl1OUdXN1ByUDltakdoTVp1b2t0ZE5R?oc=5",
-        "domain": "abcnews.com",
-        "publisher": "ABC News - Breaking News, Latest News and Videos",
-        "publisher_url": "https://abcnews.com",
+        "title": "The Best Brand Mascots Embrace Edginess, Charm and Human Vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVh5dFFUcWZwUW1zZzFtbkI1ZGl2eG1Cd1g5SFo1TlM3ckZ2dWpNRGRXczBTSXNKV0VkT3NkUnZCVWo1SklRVXdlVnVON19wME9mN2RGRzNubDZkanJDYnFQNGlHVVIxUFROY05LbmMtc1p1U2taZFJoaUI2U21ZNnVrc1RINzduWVZvSlBDckxvR1JtSmdDQ3YyX0NUaUZydnJYSA?oc=5",
+        "domain": "musebyclios.com",
+        "publisher": "Muse by Clio",
+        "publisher_url": "https://musebyclios.com",
         "language": "",
-        "seendate": "20261114T112308Z",
+        "seendate": "20261114T144243Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Experts predict AI will revolutionize ransomware tactics by 2027",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3BJMTBoQ3RwQlpaZDA4OVRhd0RPRFN1MEZaN1MtbXUyZlh6R3ROT2U5UGRfdkFQYnU1ZTJfQXhObV85RWdFTVl6ek9FdVNncjlkTnhVcFVCcEhOMjVsUFdRN2ViMkhaLUJ0aXh0V084ZDdYb3p6bTBIcllBcmFKa1dka05ycXlSaGdXaHMzTzE3WUQwekhJY3lB?oc=5",
-        "domain": "www.scworld.com",
-        "publisher": "SC Media",
-        "publisher_url": "https://www.scworld.com",
+        "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNS1ManpreGNOcmQ1N0drOFRuQ2ZQRUtNemFIb2s5b0NmdkJJdTRVclF0RzNyX3FDSVNLbklmUUZBdmhuVGdWdmtEUkNNM0R1bTY3WWV2NllsWUJiLVZWTE1DVzhXcWx0a1NxcGE0SHJwRXhTZl9FUE5KRDhoVkJuOEdIVHdJZWcweEEyNENLb0Q4TE5CdzZMc1I5Wkd0Rk1yR3RPZEZobWlUX2I1Q1E?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
         "language": "",
-        "seendate": "20261114T002850Z",
+        "seendate": "20261114T084022Z",
         "source": "GoogleNews"
       },
       {
@@ -319,6 +299,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Cybersecurity expert breaks down Microsoft 'health check' failure and cyberattack fears",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9valRTTHZ5RFBaYUt3RFVzUDlWN0hJMnJ5Ukw4d2NJOFhrZWtYUlpaU0JHTk9XZ0FteW1rU1lJV0xJZVYzR0tjRXJtVnpjSzNVX0FUMXAzUWVPbUE?oc=5",
+        "domain": "www.foxbusiness.com",
+        "publisher": "Fox Business",
+        "publisher_url": "https://www.foxbusiness.com",
+        "language": "",
+        "seendate": "20261113T192028Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSWV6UEFjd0d6TU5mRldraGdUUnV5aXpIeGZ3NTVuZGg3VFlTcXpwakJOS3FOdHctT1NweXNjeVJVbHBBXy1mWjhVOWk3bWt1SWdhTXExMTNZa1pzbGVQVzRTNzRURExQWHVMbURfSFJWVF9HbG5DQ2dNRUdiMjBqaDdxdkJBWFo3Ukt1MFYxTGhZc0hKbFUwODQwaUVPaDU1UnhkM3pJVnpBaWQ1cUNjZzNJVmZMT2ZxSHVOSEFDSQ?oc=5",
         "domain": "techcrunch.com",
@@ -326,36 +316,6 @@
         "publisher_url": "https://techcrunch.com",
         "language": "",
         "seendate": "20261112T150228Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Was Friday's FAA ground stop a cyberattack? Officials say no and blame overloaded old routers",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTR4T3FEbXIyTVJvQVRDT1lSQVg0ckJnR3VMR3AzdFVBRWJVXzZQOE4xWmx5WkRMZlZlcU9jNVFKX05OYTRZVmwyN0t0aHBhczg3TkVVNHJtMzlNYm9RZWdKNHViN2JFUl96dXE5UkJndGZsRXZ4U2VuSjFTRUtqMUdYRWl4cXIzNzVKVzdtZ0xCREREQVhuVkdQU3BQTGFIZk1CdXZRUlJuRTlZNzAteWF3dUVzRzF4?oc=5",
-        "domain": "www.nacionale.com",
-        "publisher": "Nacionale",
-        "publisher_url": "https://www.nacionale.com",
-        "language": "",
-        "seendate": "20261113T222926Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "All US flights grounded amid cyberattack speculation: What we know so far",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanJHX2FCTG1uMGlnZjVwWUhCVXVVVzhwa3Jfb2hISjFmeXZjOGRkdjFORW54d3ZUVHB1Sk9CQk5mdE5wTFBKd2dkMWVUNEk1THZLUkZOVTlPa0haLUU1alNtVG5sV2xHRXpWSy1WOHZURFRtTFFTUVRmcG80WFFPaG5OcHRCT1NINUFJMHluVE10Z3R2aHhCN0xUdWFoNzJGT1pXZ05PbmZMQQ?oc=5",
-        "domain": "www.egyptindependent.com",
-        "publisher": "Egypt Independent",
-        "publisher_url": "https://www.egyptindependent.com",
-        "language": "",
-        "seendate": "20261113T232235Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Expedia Confirms Cyberattack Through Third-Party Vendor",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNDFDeDhzZnZEWUpQLVBKek1YR3BIa0M1YTIyYmR3RlFCYl9BZTJWenFOMEdkSVFNbHMwOU5UNDhvcVFVQkRTMXp1X3NvMjc0VGpmbjdTS1pWUGpzbkxlSUxNMzlJRC0wQTVaandRY3RobWpkcnptMlNxekMwM1lJN29YS2RKOVNhVkpmLTBB?oc=5",
-        "domain": "skift.com",
-        "publisher": "Skift",
-        "publisher_url": "https://skift.com",
-        "language": "",
-        "seendate": "20261113T015347Z",
         "source": "GoogleNews"
       },
       {
@@ -369,13 +329,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cenovus Energy (NYSE:CVE) Screens as a Decent Value Stock",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT0VSV0c3REcxdDNjU0JaTU9FcFNGWktJY0hjbTE0MzQ0U29MZ3dWbl9SSEVSazZRRTIxeU5YOTh0YnR1dFN4VEo4RVdlbHpTLVRGdzk5S2NfNG1ZZlNRTDdWSkV0Y3N1SW1EanBDdnFUMW90U2VudEhZMS1PYWZHS1BKMW1yWkNoemhRM2piWDBiSGZCYnFraXhudjVYcnFWejI0aDdxMnY?oc=5",
-        "domain": "www.chartmill.com",
-        "publisher": "ChartMill",
-        "publisher_url": "https://www.chartmill.com",
+        "title": "Expedia Confirms Cyberattack Through Third-Party Vendor",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNDFDeDhzZnZEWUpQLVBKek1YR3BIa0M1YTIyYmR3RlFCYl9BZTJWenFOMEdkSVFNbHMwOU5UNDhvcVFVQkRTMXp1X3NvMjc0VGpmbjdTS1pWUGpzbkxlSUxNMzlJRC0wQTVaandRY3RobWpkcnptMlNxekMwM1lJN29YS2RKOVNhVkpmLTBB?oc=5",
+        "domain": "skift.com",
+        "publisher": "Skift",
+        "publisher_url": "https://skift.com",
         "language": "",
-        "seendate": "20261114T105055Z",
+        "seendate": "20261113T015347Z",
         "source": "GoogleNews"
       },
       {
@@ -386,6 +346,16 @@
         "publisher_url": "https://blog.checkpoint.com",
         "language": "",
         "seendate": "20261112T065803Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nationwide ground stop lifted after more than 4 hours as Trump administration blames old, overloaded tech",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjZESEhXTWRPNDJEOGZqM0ZUOUdHeHJlVndERnFVejFBYmNfbnV3OUVIdTRFUEI2eHdqTkhPOWJ0OHY5RTd1WWh2VzV0YS1sVk41QVZfSXpmcmdvMXM2dDVNX3dnQ1l5VmRfOXNrSGUzVzQ5VkJnNDl1OUdXN1ByUDltakdoTVp1b2t0ZE5R0gGTAUFVX3lxTE80VGZ5dW9Tb3hkTDNXTHFnNmxnWXhER1RQbGpWMjB2cEZBX0E5a0xNRXVjNVR2czRCbmVUTkJxRHlNUmFlRXBMWlVEOVNnRHZVY0JNeUx6aDdqalZnbUFpYVZ5WXE5Ukl1RFhvbU5lUGpuRXZ1WFp0M0tBWXU2a3VFenBFTVVPbE9lNGZfUi1Oa3ZkZw?oc=5",
+        "domain": "abcnews.com",
+        "publisher": "ABC News - Breaking News, Latest News and Videos",
+        "publisher_url": "https://abcnews.com",
+        "language": "",
+        "seendate": "20261114T112308Z",
         "source": "GoogleNews"
       },
       {
@@ -409,13 +379,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "PHP2Shell Exploitation on Check Point Gateway",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY3lGY1RxMkRfeXY3UFdibzRxemdwVGp1aHVSS1ZRV0RvR3QtWDFiRjkwOElreF9qZ09WejdoOWphVEdRYXhraEdESGxLdzVhTmpHem1NZVVOMHZrejMtVWZacmwzUVlaZ2ZyLUhoVnNGQllTVUxqRXpsVF9Cb0F0RlNaV0pySmluSnZn?oc=5",
-        "domain": "research.checkpoint.com",
-        "publisher": "Check Point Research",
-        "publisher_url": "https://research.checkpoint.com",
+        "title": "German drone manufacturer Quantum Systems reports cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkJuYlBFZ3ZLMXRzYVNNZzN2OVpqZTlwUEU5WjEtMktUR3M3UzhpdmVyVVJfdFFkU0RmdEJOLXFzVGx3TXRRcTZ6Y1NYVFo5cEdzcjNlTS1NWFVaUV9zb3lidFUwT0lTdXBBYlRmaTRTTGJvQi1CdUdsU2JMVFZNd3JOMnd1SmlPMGliZnE5VDYzNnVkNkE?oc=5",
+        "domain": "www.scworld.com",
+        "publisher": "SC Media",
+        "publisher_url": "https://www.scworld.com",
         "language": "",
-        "seendate": "20261112T140508Z",
+        "seendate": "20261114T002250Z",
         "source": "GoogleNews"
       },
       {
@@ -429,83 +399,73 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Former Vanderbilt student files class-action lawsuit against Vanderbilt after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVJRTnZzZlJDaE5WOVdMTDR0TXRsQ2JZQWNJQUp0a0M1SWJxcDBvcGItMU1QT0x4Q1h5Z1hVRXF0WjhNTG9hTmtFWGEwLTJXalBiM21EbXVpVkRGRVlyQzNjZjdmLW1hWjRWZU1YaWVnZThGdGkyR21lMlFSbWUtanhzOGRsSWhPNWZOMm0zRkJJbWRnMWhZZzdWMzVWMVVGNjhENDNZYjVKMHlsZ0NraG9BZ25oTDFVV1BMMm4tWTlIdlp0cHYtUldvOA?oc=5",
-        "domain": "vanderbilthustler.com",
-        "publisher": "The Vanderbilt Hustler",
-        "publisher_url": "https://vanderbilthustler.com",
+        "title": "PHP2Shell Exploitation on Check Point Gateway",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY3lGY1RxMkRfeXY3UFdibzRxemdwVGp1aHVSS1ZRV0RvR3QtWDFiRjkwOElreF9qZ09WejdoOWphVEdRYXhraEdESGxLdzVhTmpHem1NZVVOMHZrejMtVWZacmwzUVlaZ2ZyLUhoVnNGQllTVUxqRXpsVF9Cb0F0RlNaV0pySmluSnZn?oc=5",
+        "domain": "research.checkpoint.com",
+        "publisher": "Check Point Research",
+        "publisher_url": "https://research.checkpoint.com",
         "language": "",
-        "seendate": "20261113T213132Z",
+        "seendate": "20261112T140508Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Microsoft Restores Microsoft 365 After Global Outlook Outage, Rules Out Cyberattack: 21 outlets compared",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb0h4MWVTWW92WlhXRzROMGdmMFNGNEpQNjVCSmp6aGdhOWFJVTVybzltTlJ0RGczWnlwSVkwY0xEdGlZZUtZREVQbnZBbFRfNlVvQ2t2SkNqYnczTzNfdTU5QlBYYk1HOEFvOFc5YjdQVVVaaVYwSDQ0aDNGdlUyTnotYlhfQzk1ckFqZjJsaUlyQ0tPYzVhVF9ueFNodzlTQ2JqZ2ZHLUhjUzRyWlp4R0E5ZUhMLVJpTGJVT2RaaU9IUW8wYUlGa09RZmx0cWhfcHhzc1dBbmsxN2hScEVNdTdJTHc1ZTJJV2c?oc=5",
-        "domain": "newscord.org",
-        "publisher": "NewsCord",
-        "publisher_url": "https://newscord.org",
+        "title": "Study Links AI Companion Vulnerability to Wellbeing",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmdHdUw3Y3Zrb2JDMUxNNGY4MTRiVG5sMFdUaG1aWVJkejZOaGhzZ19vRmFmdVJ4M0pKdzhJMW5lbDJOdzlRZThyRXJfcnlQS21PUmFuYU1RNUFpb1V1ajZEeDU5anM3T05TcjRqaGRvSTR6MmJBb21YUXNGSjJ6NGVR?oc=5",
+        "domain": "bioengineer.org",
+        "publisher": "Bioengineer.org",
+        "publisher_url": "https://bioengineer.org",
         "language": "",
-        "seendate": "20261114T112218Z",
+        "seendate": "20261114T211221Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Sophos: Retail Ransomware Encryption Rates Rising Despite Faster Recovery",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTFRZelBTdTNUSGRJejFybXpHbndGemRjaWdjTXNDczI4ZXA2ZExXVXBSaXpiM2VTNGZEX1NKeE9UYktTWUdqenJxRkpOdEVLRFZPU3RuUjFwempYejBMeWNFTlNsRG5qd2tieUF1N0xCWEkwUVZ3eVhWcFFDUkJLZUc4bjM4c0h2RHJVVFZTR3ZleWxzZ29BNUJOX3I5MlhaQjljNU5ESlhiSmZRRXBtOS10TnE0eVg0eGlPckxuUUYwamFpVWo3LXU0TXVzVFdHSVFQeg?oc=5",
-        "domain": "www.securityinfowatch.com",
-        "publisher": "Security Info Watch",
-        "publisher_url": "https://www.securityinfowatch.com",
+        "title": "Rosstat Still Struggling After Cyberattack, Key Data Remain Unavailable",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVZWbDJBeGl5N1BXYnMxd0c4MFo0TU4tanE3WU5qaFZYVjc1Nmlnell2RjJiY1ZXekg3YXI0ZXNSdnZ4MWhKSHhXbUF6c3RvYkVWQkdFTW0yRHlEODNOQUg4ampzQ21fUnB4eUVMOWhfdy10THFjc1lyRGFpaXFUcGlPM19WMDhzMTlSYWNHVjZ1QQ?oc=5",
+        "domain": "www.briefs.co",
+        "publisher": "Briefs Finance",
+        "publisher_url": "https://www.briefs.co",
         "language": "",
-        "seendate": "20261113T222630Z",
+        "seendate": "20261114T153000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Markwayne Mullin addresses cyberattack concerns after nationwide ground stop lifted",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMUhxS0dNbXNRcGF4Snd4SFlramxzcFVoVHVCN28zQUNLMWF6WGxWWGEzU0I5X1ZabnZiX00yTFFrX1hvbDgzTHZKZ1FfV0pGWWhTdEFnSTRRWUE1bmtCY1NxVDBXM3BSTlh3cmhXTndxVU9YeGo3UVR5Z3ZWR1VQaEQ2YU9Dai1Ra0gyZEVwckNNcUhaR0xmTWc1UFVaZHV5NDY0V2pqNE96Yk1LNC1HVVR5OVU0aHd1QTNBNF9ZelBJSmxOcXpkeERoQWpGV3pkcXcxZNIB3AFBVV95cUxPYUd5N1lsTkpCRXZReVlkYk9xazl0RlU4dVRMdXlRTXlLd0pkdnB6a2dpTVM5WXB1ZVZlWmtXazhIRFZEYjhvU2FsOWtDeUI0R084OTJYQjh3Vm53bGxsZFdLbW9EMjZIck00Y3FUOFU4MnlFdE1QbXlTell0X2FIVmxMR01nakwtbkZGSlB3UndqX3BaSHEtOW5DZXF3Z2J1RFRWbjNzaFhYRVc0UEpDREdnS0NBSWNfaW1rZ0J0eGdEU3luUEtJTWNPYTBKNHI5anNseG5ReUsyUWJo?oc=5",
-        "domain": "www.nbcchicago.com",
-        "publisher": "NBC 5 Chicago",
-        "publisher_url": "https://www.nbcchicago.com",
+        "title": "Dark Web Marketplaces Scaling Ransomware Operations",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXhRTXNvV1lJNGFYbGxSZXdhY1duRV8tWWxObjJvTXc0OEhMRmJ4YXVyOXVGQm96SHhvOFA2VWNmRUdpVVV1MHNxdWJ0RDhiRVh5aGRndDYxUWtxTlY4Unc4ZmJ1UDBnQ1FZWTFmRjJJeWU0d1BnOGZnRnEzZWpPdk9UdU5nbjBEOHRmMUw0UWNVOWZJVXRtY1g5LTd2WG8?oc=5",
+        "domain": "mexicobusiness.news",
+        "publisher": "Mexico Business News",
+        "publisher_url": "https://mexicobusiness.news",
         "language": "",
-        "seendate": "20261114T021340Z",
+        "seendate": "20261113T222052Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Homeland Security says no proof FAA communications failure was due to a cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY2xRY0RyTmQ0NTRPVVZOUG1kY3Iyelk1MGtEbWFDMUFEVFBpQTNKMWNCR3N1d1RaWE8zenl0cFFMNU1IbkxzSG5xRnpqcWg2WVkyQ2hIX2UyNHlPOG9iVk5yMzQtZ3VHa19ubEc3LU5vLTFmenBubUVEMG5janpkbmJWdU5ZZk9xZE9rNUdVUDVTeG4zVlduZFhSV19QMXVMY3lCeXVYRlp0d1U4anJIRVVHTXV5S29pUExkUUFma3p1c0kyTzBLa3lHaWhrczE5SXFqbEpxU0xBYWZ3?oc=5",
-        "domain": "www.wusa9.com",
-        "publisher": "WUSA9",
-        "publisher_url": "https://www.wusa9.com",
+        "title": "U.S. ground stop: Homeland Security says cyberattack cannot be ruled out",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOWt3bHliTzdtcTRob3lEb2xHUmRrWnFkOHE1RGo1blNqOFZsdHo1Zmh5Y2xjaHo4RllmZ2JZRnQ0eVpkOThzNzVpUzYxeTRxdURoU3pORTZTLTJsckk2b1NNZGROMzBVMllDaDBNV2lJNmg5anhnZWNBVjVPSUVacXFwQkdTV21CTlB2d1ZVZnBXeFBrZTVQdXNMYVktNGFKUmNnUzB4aEhMRjJWbTMyRkZYVktzLU5tMzdxbHJNaERGNHU1ZEtRR0k2dnpzWTc1?oc=5",
+        "domain": "tickernews.co",
+        "publisher": "Ticker News",
+        "publisher_url": "https://tickernews.co",
         "language": "",
-        "seendate": "20261113T215600Z",
+        "seendate": "20261113T221416Z",
         "source": "GoogleNews"
       },
       {
-        "title": "FAA lifts ground stop as homeland security chief blames tech upgrades for 'overwhelming' old systems",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGFvaDFHVzZSSzBqZ0E4ZnZyUWpYYWl5bVRVVi1ZbG9OWmE1UXpjVThnMy1NTy16R1YxNzBzNV9FRDcyNVpkRVVUOXlXS0dwbkUyRFl4TkNQTGFvMW9JVUxncFl2TUtOTm9sMVI1LTg1WHlyS3VUOFhEVklGTlB1WVlCTENORkQ2clFEVndB?oc=5",
-        "domain": "fortune.com",
-        "publisher": "Fortune",
-        "publisher_url": "https://fortune.com",
+        "title": "Experts predict AI will revolutionize ransomware tactics by 2027",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3BJMTBoQ3RwQlpaZDA4OVRhd0RPRFN1MEZaN1MtbXUyZlh6R3ROT2U5UGRfdkFQYnU1ZTJfQXhObV85RWdFTVl6ek9FdVNncjlkTnhVcFVCcEhOMjVsUFdRN2ViMkhaLUJ0aXh0V084ZDdYb3p6bTBIcllBcmFKa1dka05ycXlSaGdXaHMzTzE3WUQwekhJY3lB?oc=5",
+        "domain": "www.scworld.com",
+        "publisher": "SC Media",
+        "publisher_url": "https://www.scworld.com",
         "language": "",
-        "seendate": "20261114T021500Z",
+        "seendate": "20261114T002850Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Ransomware attack on Belarusian cloud firm disrupts businesses for days",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUdEWS1FSTBNMnRWdFRWVWtNa3Fsc3U1N3JaZldSUXVfeW84Q1VBdkZITTJuT2N6dXlJa2YxMUxlMEROR2luTF8yWml2T3htZFJBVHhDbXBXbTladDVMalROTnYzbTVKSWZDR1dHTmFBaTZQcldQdFA1OXFlVFdHbXFB?oc=5",
-        "domain": "therecord.media",
-        "publisher": "The Record from Recorded Future News",
-        "publisher_url": "https://therecord.media",
+        "title": "Cenovus Energy (NYSE:CVE) Screens as a Decent Value Stock",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT0VSV0c3REcxdDNjU0JaTU9FcFNGWktJY0hjbTE0MzQ0U29MZ3dWbl9SSEVSazZRRTIxeU5YOTh0YnR1dFN4VEo4RVdlbHpTLVRGdzk5S2NfNG1ZZlNRTDdWSkV0Y3N1SW1EanBDdnFUMW90U2VudEhZMS1PYWZHS1BKMW1yWkNoemhRM2piWDBiSGZCYnFraXhudjVYcnFWejI0aDdxMnY?oc=5",
+        "domain": "www.chartmill.com",
+        "publisher": "ChartMill",
+        "publisher_url": "https://www.chartmill.com",
         "language": "",
-        "seendate": "20261113T144026Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CVE-2026-124194: Outlook Flaw Scores 6.5, Patch Now",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVVteWJOMFFzRE9nVU9jYzBBMGxfSzVSSXB1VXRPbGhNdmpVVVFJSnU0cXRNY0JjbzB6cGVjY1BJVnlXbnRDZ3JIb3JlV29zQ1hEZUNPSS1wOEtTZV96aDBCYTFoU3hWVWY4VWNNaUlRdHhNQ1o2MWdPX3FUUmYyQkNycTB5Q0UxQXl4a05R?oc=5",
-        "domain": "shattered.io",
-        "publisher": "shattered.io",
-        "publisher_url": "https://shattered.io",
-        "language": "",
-        "seendate": "20261114T035821Z",
+        "seendate": "20261114T105055Z",
         "source": "GoogleNews"
       },
       {
@@ -519,6 +479,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Microsoft Restores Microsoft 365 After Global Outlook Outage, Rules Out Cyberattack: 21 outlets compared",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb0h4MWVTWW92WlhXRzROMGdmMFNGNEpQNjVCSmp6aGdhOWFJVTVybzltTlJ0RGczWnlwSVkwY0xEdGlZZUtZREVQbnZBbFRfNlVvQ2t2SkNqYnczTzNfdTU5QlBYYk1HOEFvOFc5YjdQVVVaaVYwSDQ0aDNGdlUyTnotYlhfQzk1ckFqZjJsaUlyQ0tPYzVhVF9ueFNodzlTQ2JqZ2ZHLUhjUzRyWlp4R0E5ZUhMLVJpTGJVT2RaaU9IUW8wYUlGa09RZmx0cWhfcHhzc1dBbmsxN2hScEVNdTdJTHc1ZTJJV2c?oc=5",
+        "domain": "newscord.org",
+        "publisher": "NewsCord",
+        "publisher_url": "https://newscord.org",
+        "language": "",
+        "seendate": "20261114T112218Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NUswNElUcjRodEQ5VFloeHhBSXJSVVNzMnRONXcwQkRDNklZWC1tZFJwM3VabjVPSS1sazBlbzF0UXE3QlJpdzFvZ1RHVTRORVVoSXlrZ0l2VWs0Vi1Xb3Z2YVljaElfMzVGZWZfcWxtend4dXN3YXRSU3JjYVk?oc=5",
         "domain": "thehackernews.com",
@@ -526,6 +496,36 @@
         "publisher_url": "https://thehackernews.com",
         "language": "",
         "seendate": "20261112T175000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Was the US hit with an Iranian cyberattack? | Katie Pavlich Tonight Full Show",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOejlZdVk3VDBrMFYwQ085aDFvUFNDcU9rcEk0ckVMWXZnampRdWo3QWtkakpVTVJpc3lxbGRDS1JVOFEwZjI1Tk1nUE5aU25GaDNJZ0V3bEM3cVJZM1RWS241TWVVUzNxM085RGtMVkZ2TDBIUmppSFlCeDJfMUZlTHEzTzlPdmNPNjVoQlVoN2NUUU5uSGthQnVNbkFuZFNSMjBORUtyWmxVaWFPQTQtTEtBS0dOb1Y4eEotcGdHWGtKZlEwbnJOZjN30gHPAUFVX3lxTE02UXhjSWVURGt1MmZOVTBkQTF5Nlp3SmF0enloLXl6ZzF2RERsMGpBOTdwOWdQcWp0eEg0MnZKdFRFS1FNaDBoMHFkMGNDbm8zZnZwaUlIYTNrZGhzSUlGZTBab0FabExSa21jb2lhcGZVSmtaTUlYc0tiVDZjM3lrOV9Nb3h4LW9WYWQxYmtkNTJ2WExwa1dKcTdhQmFGcENjODZmZkREV3A4TUsxcW5id3RRU0lScTItNVZ6aXhrMDdIYTIwZ2VfWUhUbHZPbw?oc=5",
+        "domain": "www.newsnationnow.com",
+        "publisher": "NewsNation",
+        "publisher_url": "https://www.newsnationnow.com",
+        "language": "",
+        "seendate": "20261114T153251Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "FAA lifts ground stop as homeland security chief blames tech upgrades for 'overwhelming' old systems",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGFvaDFHVzZSSzBqZ0E4ZnZyUWpYYWl5bVRVVi1ZbG9OWmE1UXpjVThnMy1NTy16R1YxNzBzNV9FRDcyNVpkRVVUOXlXS0dwbkUyRFl4TkNQTGFvMW9JVUxncFl2TUtOTm9sMVI1LTg1WHlyS3VUOFhEVklGTlB1WVlCTENORkQ2clFEVndB?oc=5",
+        "domain": "fortune.com",
+        "publisher": "Fortune",
+        "publisher_url": "https://fortune.com",
+        "language": "",
+        "seendate": "20261114T021500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "All US flights grounded amid cyberattack speculation: What we know so far",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOanJHX2FCTG1uMGlnZjVwWUhCVXVVVzhwa3Jfb2hISjFmeXZjOGRkdjFORW54d3ZUVHB1Sk9CQk5mdE5wTFBKd2dkMWVUNEk1THZLUkZOVTlPa0haLUU1alNtVG5sV2xHRXpWSy1WOHZURFRtTFFTUVRmcG80WFFPaG5OcHRCT1NINUFJMHluVE10Z3R2aHhCN0xUdWFoNzJGT1pXZ05PbmZMQQ?oc=5",
+        "domain": "www.egyptindependent.com",
+        "publisher": "Egypt Independent",
+        "publisher_url": "https://www.egyptindependent.com",
+        "language": "",
+        "seendate": "20261113T232235Z",
         "source": "GoogleNews"
       }
     ]
@@ -552,6 +552,26 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Iran-linked cyberattack targets European supermarkets and critical infrastructure: What we know so far",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmxDdXl3bndDSF9qWFI4UEhNaGcwSFQwMHBNU0ptQkhTYkdXTVZKZ3VHUWh6WGtaYjJITnBsV1lIcTR5UXh6UHMyMTE0TGdId0pvTGg4cVNTYURzMHZnNlJpMElSTThXYnJKZGxfaVVNbWs1aTUxOTIzb0g3c0dOTEdLN0VtWnQtaUlfS2NTQzV6TjBvbUhVd2RuMmx1YTNFNEZWX2M3bVBPVDla?oc=5",
+      "domain": "beinsure.com",
+      "publisher": "Beinsure",
+      "publisher_url": "https://beinsure.com",
+      "language": "",
+      "seendate": "20261114T184934Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "‘We don’t believe so’: Duffy dismisses cyberattack as cause for air traffic shutdown",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUJucnF5OWhCcHJIa2RKVm8tMUotcUZFOWQ4ZlBRM1dZdlNXM1NqNDhfUmdaLUtaSUxQMFlhZXV1RzBRYXk4YmtXQWV0eEVWcy1ZOXMzaU5RSFFqMDdlbVNRLVYwYzNyczdfUVBKVXZNTlZvZnNkN1JhRDJqNWlVVVlEb0k?oc=5",
+      "domain": "www.ms.now",
+      "publisher": "MS NOW",
+      "publisher_url": "https://www.ms.now",
+      "language": "",
+      "seendate": "20261114T194205Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "DHS says nationwide ground stop was not a cyberattack: 'We are built to handle crisis like this'",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdzB0Y0pHdF9oUnR5WkFBM0MxZ3NjX0htZUt4LU5waE1RRXRhYlFxTHBpQmFGclQ1WFo2VGpuaVExeEdBU05FNktrWnY5VnhuZTZHM3A0bGxObnFGaDZIQXBGUkRwLXNoank1aWdoMGN5QkRaSktVaFpuNExYS3RNOUFIQW83VGtjWk1PWlUxZ01xeTVVM292OFBuWnE4TUFFUnliTHB2VEYxUHlNVXdqd2FBSmxYUXZpd0Rlb3hB?oc=5",
       "domain": "www.nbcnews.com",
@@ -569,46 +589,6 @@
       "publisher_url": "https://www.fastcompany.com",
       "language": "",
       "seendate": "20261114T135126Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "The Next Cyberattack May Target Your HVAC, Elevators, or Worse. These 3 Steps Close the Gap",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOXk5LTNjdGZPem54TlZBU3A0ZlBzQUtaeDVtckZMa1prMjQwSlhNSy02REU0aWNQOUVRUW5IcGFlZGdnXzQwUlJMYkJ2V1plVFJXM0N2cnlMakhSWi11MlpqNDlwRXZ6cGJOVFZBaTJIYjNYMTF6clFnVmF2Q08wdENVM0xqZUpNNjlYYnhKQVVROXg0ZFp0MDNHY2hLaUZNZENCOVJuRFFELVYxWUdHcWZsWGV5eVRPRGpkbENZREtXZEtIT1BjOWtB?oc=5",
-      "domain": "www.inc.com",
-      "publisher": "Inc.com",
-      "publisher_url": "https://www.inc.com",
-      "language": "",
-      "seendate": "20261113T215902Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "FAA ground stop sparks cyberattack questions. Here’s what officials are saying",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVA3S1RzQnl3QjRCaW1MMlJ4ejh0bEY2ZjdjVTZYS244OFdSNUN5UmdFQ2hVUFFSU2Z5Q2ZSVUpPbDVISUdGekJ3d0FQUXR4QzI4a2RsVHdVVzR5TWxjODNRY1ctdnRWZWt2VHVYSG1WR1QtX09mSFA5VGpwN1BxbE1sVFJkblhJYWtTQzBpbWhaN3czWDZsUjlUNGhhaUpZSGRvWEZlcEdFdXVBXzZPUVZGYnlNaTh6MksxRNIB0AFBVV95cUxPTTdBbDFCOXFrNm9nbXFBR3loZzN5M2ZNVUY2b2ZjaUdFWlBuWVdnLTNKVmk0SkNKWWFFMXFxVTB5aHIyYXhGNnJyS0t2OHZWM1VvZC1VLVExOTN5Y2xyTldGcHFDLTlPQjFrV3pBUHlwWVlfVWZ4WHhOdjV3RkFHNmY2d050RzVpR0Z6TUZEbHlTSExrWTNtdzFsNVBvWDV0ZjBJekpBencwaWRzd256eDhVa0RyclRjejJMZTUyQUZDcjR0WmZOeko3cHVBZTlz?oc=5",
-      "domain": "www.cleveland.com",
-      "publisher": "Cleveland.com",
-      "publisher_url": "https://www.cleveland.com",
-      "language": "",
-      "seendate": "20261113T220700Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Update: Ground Stop Lifted After FAA Grounds Thousands of Flights Across the U.S., 'No Indication' of Cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmlYemRiUGw4b2ZiUF80eXZ2SWlpSXd3Ql9Ic0E1QnhYNjFhQk04eUs2dTJzR1ZFNnMtSzhHbzMwT1NoZTM5cUxjMmNwSEpBNW5veVRES3Q3X2huVW90TWdGUlNYNFhhYkgyQk1yWkMzempKd1ppd1BnZ2o2aF9BR2QxU2JlTG9VVXNiVlRodmdPS09Bc3ZGVWR5emo5N1Q0aUVRcnY4V1g0S2VSMDYwbXpXb1M?oc=5",
-      "domain": "indepthnh.org",
-      "publisher": "InDepthNH.org",
-      "publisher_url": "https://indepthnh.org",
-      "language": "",
-      "seendate": "20261114T014905Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "FedRAMP pushes new cyber vulnerability rules to keep pace with AI",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajBKaEZ1SXltYXc2M2lWbjYyTDdxNWhHZFowZWRzZ2szYVhFc05IaEcwWHNHRGdzT215NHVYYVZaNVA2cXI0T0ZnVlY2OFhSTGdpQzkxSzhWMm9fSDVfMGVvaWNqM19uY1VGa2UtWFB0M2tlXzktOUp1d1FhS09jaUdNcVpTc1dGZ05XREtsMFBKMWVtLS1xZ1hHZjR0RWVhVDlkWmc0VVdTSTIyYnNrRjh2eXpSS0RlZTh3?oc=5",
-      "domain": "federalnewsnetwork.com",
-      "publisher": "Federal News Network",
-      "publisher_url": "https://federalnewsnetwork.com",
-      "language": "",
-      "seendate": "20261113T232358Z",
       "source": "GoogleNews"
     },
     {
@@ -632,6 +612,26 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Update: Ground Stop Lifted After FAA Grounds Thousands of Flights Across the U.S., 'No Indication' of Cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmlYemRiUGw4b2ZiUF80eXZ2SWlpSXd3Ql9Ic0E1QnhYNjFhQk04eUs2dTJzR1ZFNnMtSzhHbzMwT1NoZTM5cUxjMmNwSEpBNW5veVRES3Q3X2huVW90TWdGUlNYNFhhYkgyQk1yWkMzempKd1ppd1BnZ2o2aF9BR2QxU2JlTG9VVXNiVlRodmdPS09Bc3ZGVWR5emo5N1Q0aUVRcnY4V1g0S2VSMDYwbXpXb1M?oc=5",
+      "domain": "indepthnh.org",
+      "publisher": "InDepthNH.org",
+      "publisher_url": "https://indepthnh.org",
+      "language": "",
+      "seendate": "20261114T014905Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "The Next Cyberattack May Target Your HVAC, Elevators, or Worse. These 3 Steps Close the Gap",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOXk5LTNjdGZPem54TlZBU3A0ZlBzQUtaeDVtckZMa1prMjQwSlhNSy02REU0aWNQOUVRUW5IcGFlZGdnXzQwUlJMYkJ2V1plVFJXM0N2cnlMakhSWi11MlpqNDlwRXZ6cGJOVFZBaTJIYjNYMTF6clFnVmF2Q08wdENVM0xqZUpNNjlYYnhKQVVROXg0ZFp0MDNHY2hLaUZNZENCOVJuRFFELVYxWUdHcWZsWGV5eVRPRGpkbENZREtXZEtIT1BjOWtB?oc=5",
+      "domain": "www.inc.com",
+      "publisher": "Inc.com",
+      "publisher_url": "https://www.inc.com",
+      "language": "",
+      "seendate": "20261113T215902Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Check Point Gaia CVE-2026-123039: Exploited DynamicCLI Root Escalation Added to CISA KEV — Patch Now",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tMnJYMnlvcDhVU2NFcVZUNlNfdWhiQTQxR0dxMlVUUDdQaTZZMEhDMVJNWXN0cjVtV1FSMjFNd2lPcVY2TFJjR0JtY3g0aGpKVzhwaEp0MmNzTG5fMWFfbHgzZmRkMXNLSDRkczFJVEU1UkRkSnIxdW04WjNlVVE?oc=5",
       "domain": "www.rescana.com",
@@ -642,43 +642,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3dhZ0VPOHVUZTdFMUdWOENxNFQzalNwbmFoNks5dFRNV3lqb09rdlRmSXpDeGRpYXJZNmNXLWhNOHRLblp6WkNvcUsxOXIyMC02eFZ5amFfbldidmZYN0ttcEticjVKTDFXMHZhQUllYmdVY3hnck1yLXNZemtsdE83bw?oc=5",
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDBfekFQb0pMZmFRY2kzUmVmUEZFUldTQjNsSjBlMkF4Rl9TalJIaG9BOXB6NXIzd01hSFBNbndHbGxRY29hamppTUt3UEh4X1I0RUc0MUt2bThNeTlMVGxXRWk1TXdRQi1yVXJWNThQNTdodkRWaURhOTc5eTdrWWdMb2w?oc=5",
       "domain": "thehackernews.com",
       "publisher": "The Hacker News",
       "publisher_url": "https://thehackernews.com",
       "language": "",
-      "seendate": "20261114T123800Z",
+      "seendate": "20261112T092500Z",
       "source": "GoogleNews"
     },
     {
-      "title": "German drone manufacturer Quantum Systems reports cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkJuYlBFZ3ZLMXRzYVNNZzN2OVpqZTlwUEU5WjEtMktUR3M3UzhpdmVyVVJfdFFkU0RmdEJOLXFzVGx3TXRRcTZ6Y1NYVFo5cEdzcjNlTS1NWFVaUV9zb3lidFUwT0lTdXBBYlRmaTRTTGJvQi1CdUdsU2JMVFZNd3JOMnd1SmlPMGliZnE5VDYzNnVkNkE?oc=5",
-      "domain": "www.scworld.com",
-      "publisher": "SC Media",
-      "publisher_url": "https://www.scworld.com",
+      "title": "FAA ground stop sparks cyberattack questions. Here’s what officials are saying",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVA3S1RzQnl3QjRCaW1MMlJ4ejh0bEY2ZjdjVTZYS244OFdSNUN5UmdFQ2hVUFFSU2Z5Q2ZSVUpPbDVISUdGekJ3d0FQUXR4QzI4a2RsVHdVVzR5TWxjODNRY1ctdnRWZWt2VHVYSG1WR1QtX09mSFA5VGpwN1BxbE1sVFJkblhJYWtTQzBpbWhaN3czWDZsUjlUNGhhaUpZSGRvWEZlcEdFdXVBXzZPUVZGYnlNaTh6MksxRNIB0AFBVV95cUxPTTdBbDFCOXFrNm9nbXFBR3loZzN5M2ZNVUY2b2ZjaUdFWlBuWVdnLTNKVmk0SkNKWWFFMXFxVTB5aHIyYXhGNnJyS0t2OHZWM1VvZC1VLVExOTN5Y2xyTldGcHFDLTlPQjFrV3pBUHlwWVlfVWZ4WHhOdjV3RkFHNmY2d050RzVpR0Z6TUZEbHlTSExrWTNtdzFsNVBvWDV0ZjBJekpBencwaWRzd256eDhVa0RyclRjejJMZTUyQUZDcjR0WmZOeko3cHVBZTlz?oc=5",
+      "domain": "www.cleveland.com",
+      "publisher": "Cleveland.com",
+      "publisher_url": "https://www.cleveland.com",
       "language": "",
-      "seendate": "20261114T002250Z",
+      "seendate": "20261113T220700Z",
       "source": "GoogleNews"
     },
     {
-      "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNS1ManpreGNOcmQ1N0drOFRuQ2ZQRUtNemFIb2s5b0NmdkJJdTRVclF0RzNyX3FDSVNLbklmUUZBdmhuVGdWdmtEUkNNM0R1bTY3WWV2NllsWUJiLVZWTE1DVzhXcWx0a1NxcGE0SHJwRXhTZl9FUE5KRDhoVkJuOEdIVHdJZWcweEEyNENLb0Q4TE5CdzZMc1I5Wkd0Rk1yR3RPZEZobWlUX2I1Q1E?oc=5",
-      "domain": "www.securityweek.com",
-      "publisher": "SecurityWeek",
-      "publisher_url": "https://www.securityweek.com",
+      "title": "FedRAMP pushes new cyber vulnerability rules to keep pace with AI",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajBKaEZ1SXltYXc2M2lWbjYyTDdxNWhHZFowZWRzZ2szYVhFc05IaEcwWHNHRGdzT215NHVYYVZaNVA2cXI0T0ZnVlY2OFhSTGdpQzkxSzhWMm9fSDVfMGVvaWNqM19uY1VGa2UtWFB0M2tlXzktOUp1d1FhS09jaUdNcVpTc1dGZ05XREtsMFBKMWVtLS1xZ1hHZjR0RWVhVDlkWmc0VVdTSTIyYnNrRjh2eXpSS0RlZTh3?oc=5",
+      "domain": "federalnewsnetwork.com",
+      "publisher": "Federal News Network",
+      "publisher_url": "https://federalnewsnetwork.com",
       "language": "",
-      "seendate": "20261114T084022Z",
+      "seendate": "20261113T232358Z",
       "source": "GoogleNews"
     },
     {
-      "title": "CVE-2026-119618: Critical Apache HTTP/2 RCE",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2lZQjFteEhkOGIyR2hNekR0TjZXcy1ZblVDS1dIcUxDa0h3R1NlLVMwVGYtMEp0N0EtVXBOeU56bFA1Y1lOb1Q2a2FtUDJ0T2J2V0hpVVJ4Tl9iTzMxeXk4NEhXc29MQUtPRUtmSzNHblBPSDVDRC1iRDdDUndmVDNXY0I2Q3ZpYzFPRS1TTlBseEZSQTZXWHFha2Jzd0tmUnc?oc=5",
-      "domain": "socprime.com",
-      "publisher": "SOC Prime",
-      "publisher_url": "https://socprime.com",
+      "title": "Catch Of The Week: A Ransomware Gang Says It Hacked Vanderbilt",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOXzBJdEN3OXhDTVpwdnpHSFR3NEdydExwdUVmLW8yb0NTTUNiT200R1N4WTVmM2pBN2pjWl85blVXZDViSDV4bnJuN3p5TG8xdjVpN2plbHZxbDB3VnZGNzVhNVYteW02aWp2TGhnWUw4OUcyRGg1SDdWbk1MWDRYbmFmUHN3WFdOUHR5dDBNcmNRSjA4VklqTGFNWE1xVkl4X3dnNkJZTkhxNWF2ak84SEx3ckhpVFdpUFJudk82QnI1Zk9CNzUyd2lQWVh6TjU4Q3ZxcEFaNEtpbXpkVkJlT2hOT3M?oc=5",
+      "domain": "www.ladailypost.com",
+      "publisher": "Los Alamos Daily Post",
+      "publisher_url": "https://www.ladailypost.com",
       "language": "",
-      "seendate": "20261111T080000Z",
+      "seendate": "20261114T200300Z",
       "source": "GoogleNews"
     }
   ],
