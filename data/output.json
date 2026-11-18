@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-11-17T21:23:43.468622+00:00",
+    "generated": "2026-11-18T07:59:08.349123+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,19 +23,89 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "40"
+      "value": "43"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0tpUkRvaGcwWEh5T0JlUzZzMEdTakNIenJjdjltc1dLb25pdlgxQks1aExOSTQ5UDI4ZVEwTjZDWm5nRk1XTkkxM0tUQVFIS19JSGNsblFxcW9jT0ZPb3U2QmxnVmh6b1hGbjFRcU1SaDRza0lzcEFGRWNMUjdSX1QtVDNTdnRMeUJRb0FRbk5kc1MwVnVTNWJQdXBvM3d2VXhVQzZtenJ5U0I4?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
+        "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWJtZnlLOVpILWNKalhlRWFFdWYzbUtucWZ4REQ2RDFTR0RnUlIyQ0N4RDBCbExRRXQwQ1R5azFXUmxjQ1ZWYk5Wcl9qS2h6ZHptdzZ5UHB5UlZoaG1WZVctSHg2M0M4elVpV1JPLWhCWERuVVVCc0R3eHNsLXZPN292U3VhQVh1X19SQnFrSldDRGlhZkpmX0NsSlFrUlVDbFNDLXlPaVktSF9LWG1KY2Y5eTFYMHV0el9HTWJvck53Q0dwT1pjWXFiMHMzR3lBcml1Uk1OemZmbnVPdm9F?oc=5",
+        "domain": "blog.qualys.com",
+        "publisher": "Qualys",
+        "publisher_url": "https://blog.qualys.com",
         "language": "",
-        "seendate": "20261117T153126Z",
+        "seendate": "20261118T044539Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KcURqeXZrWXg1OF9iNkwtRmxqaU40ZnR5Yk5xZV9ZNWdDdS1pQzBHaWIzd0xBX1p6OFNLbFl4bklvQUhvWnFxcFlHelVCTUE5VGVCSjJiS0ZSQQ?oc=5",
+        "domain": "blog.talosintelligence.com",
+        "publisher": "Cisco Talos Blog",
+        "publisher_url": "https://blog.talosintelligence.com",
+        "language": "",
+        "seendate": "20261118T015308Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-114938 RCE in OpenJDK: Everything You Need to Know",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xQjh3VUkzU1loWTdzYk9sUVRZODRfeVc2Z0E1TjlOV3FGdDh2VTdneGVhUnhRQ0o1bkJreGM5dUlXeGNsN1VKSXZwcmhnTWJxSkdNb3lhamtJaVRzMjZBWW0wRG5XVDRvYkt5SzljZw?oc=5",
+        "domain": "www.wiz.io",
+        "publisher": "wiz.io",
+        "publisher_url": "https://www.wiz.io",
+        "language": "",
+        "seendate": "20261117T222957Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzVfYTJEcDA4Y3dpa2tiOWlUbm82ZDFLa2Z6VmlrVk45MUdINDdjdHJyUXYwb2tMRzVEdHVRanVDODNvbEhCNjJvYVhodHVNbHQtYURfV2NiSTNGcnJwX01yUGJEYWpyTW85NngxV091RnJJTzVXRFQxbkxvdGd3eC14MA?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261118T042700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Java4Shell (CVE-2026-114938): Pre-Auth Heap Overflow in OpenJDK",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN21yTGhnejdpR0ljcjkyREY3UHRJMGxyQk9jSUx1dkpXVjBBeTB6RHhrampEOVp0QV9uU1h3ZjBFU3hGUmlhbmNrZEp1dW04OEdCVFd4cVIwNEN3RE1kRkJVQUxtTEtteURCSjY5VGR3NnJoTjN5Tnc1eXZTX1lOMl9PU2VIWEZHQUVJY0Qza3VQRHNQOGJYcVNzUm5WVFQ5SU9Z?oc=5",
+        "domain": "www.endorlabs.com",
+        "publisher": "Endor Labs",
+        "publisher_url": "https://www.endorlabs.com",
+        "language": "",
+        "seendate": "20261117T203948Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "National intelligence director says no signs of cyberattack amid tech outage concerns",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2xuYmRKREUxeWp5ZnJYcXYzemJTU0xWcFluSW9lRDRLc2FGbWtKMDkyNjhiUTd3dFdQZWgzTzRRd3RPX2d4em9jWXJoQlB5VGlEX19sc3ZHTEV4RS0wVkR5Njd1a3RjVzBCRDlIZlpOVTJ3Ymw3bUVHYkZqM0RyNWtrLTJwSEZwLWJ5bVliS20wRkIzcmhmcEppaUxyRjdvVHVSRmJxRFQzeFHSAbABQVVfeXFMUHdIejhTQmUxTG9acUlscG9jdjhOVVNScGRtMUZRWERRdnFURW90QU9zSmVTd3ZDSjU2bUk2MHppeHU2bTNqaGRrYzFQVHRTblpUbW5iZjZGUVV1Z3BmT012YmI0UUhycDlycW1ZQ0p4eTBWWHprTk5iTFNGb3NGYXhTVjNXSXEzLUNjQ3pseWxmbGZUdWhnUi1NZTJMbFE5SG81LVExNXhoNUtDZjA4QzQ?oc=5",
+        "domain": "abcnews.com",
+        "publisher": "ABC News - Breaking News, Latest News and Videos",
+        "publisher_url": "https://abcnews.com",
+        "language": "",
+        "seendate": "20261118T024757Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyber agency warns of ‘critical’ vulnerability in Java programming language",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3QyYTlZNl81LVpHMzBrdjZtLWtEUjNZazAzd1dzS1A1dTdTemlTRlFOUV9QS0x6UXowQUg3WEt0OFhHMHV2MFZqbGpqSDJ4bE1RcGNmclh4SjNCSk9PSkRFM1BoZXR5ZmxwVkx2MW83QUFiOENZOFZPU0NDNHhGbXpnQXhCdXI5Wk5CRl91NA?oc=5",
+        "domain": "www.politico.com",
+        "publisher": "Politico",
+        "publisher_url": "https://www.politico.com",
+        "language": "",
+        "seendate": "20261118T010200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhGTnNBTjRRNVlLVTFYb2NsSnB6bDJmbUIwbWY2UTh5YUpDNC1UQXpvLWJacEh2THJTOUlnM2NkMHF0QUJramtnRkpadURDR0FieUJvOWU4bFdka2RKdVE0b3dCMGVHTWpCYzV4SHBZNDZkU3gwOGwwRThtMnNRQ0NtZG5OdUNzRXdnNU1TY0E5Z3FHQV9PeVJmZm40RmpmclE?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261117T232117Z",
         "source": "GoogleNews"
       },
       {
@@ -59,13 +129,63 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Optimizely confirms massive cyberattack on customer websites injected stealer malware",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0R0ODQ0eDFUYUtjODExbWZrd3hfYjlXN1dxVHBzeTlTUnc3ODI5bXVvOE93SXEzZ3RMY2ZYNGpNWjhRZWpsWkRReW5vVVp0V0N5Q3J2RS1xWW01VExhNm55TUZOeURYYVdqNXhBYXJmOUhvT05OU0JwVnAtaHl4YzdsUUVnQ0FTV2hlVEFBclhNZkZQc09KdURPbTJHZHVRX1RsTnR0RU00WFV4dm56TmM0OVFNVkxLU3g3bjJCcEVlRTVlT2hOQy1GbEw?oc=5",
+        "domain": "www.csoonline.com",
+        "publisher": "CSO Online",
+        "publisher_url": "https://www.csoonline.com",
+        "language": "",
+        "seendate": "20261118T012427Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack targets Optimizely, third-party software used by major websites",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDJWSFN6eGEwZ1k3X01HVGU1U29mX3k4M3JwRTJlQThpZXVrcjdvUUdQWjhWUWRuRENHMFRCcUg0d0stbjdXREdvWENfaWpSSWNsUTEtMzF1UHJ3UXdJYnpsb0g3WXdXQnhpeWtjRmV2eWxaZDUwT1V1dURGdld0Z3dRcUpUTktsdDJvb1NYMDBpWUhRa0kwbndJME82UTloeUlhcGY1V2ptY2lra3lxT0wyTXJadjk4a21ELU1qV3JDZVdZVEdN?oc=5",
+        "domain": "www.clickondetroit.com",
+        "publisher": "ClickOnDetroit | WDIV Local 4",
+        "publisher_url": "https://www.clickondetroit.com",
+        "language": "",
+        "seendate": "20261117T215647Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "'Java4Shell' vulnerability (CVE-2026-114938) could allow remote code execution",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmV1bmkwTE1HVklxNm1LcG1LX3E4RnMzWlplbXFENUJ0WEpmaFpSQ1pzQ1Brd0pDYjY0RDJJNzU2OVFlN3dpNU9ja0ltTkc0RzJuNUw5eU5Gcjg5SlFDc01wLVY4d1NodUpQaURUeDF1czR1elVMV1hiSjBnSjNsb2ZuMk0?oc=5",
+        "domain": "www.sophos.com",
+        "publisher": "Sophos",
+        "publisher_url": "https://www.sophos.com",
+        "language": "",
+        "seendate": "20261118T003155Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY21ILXk5ZjRsUTJaVXA1Vk85MlR2OUtQLURDR1NRWXZMcEhtVkRSOWpMNmlPdi1zQTcyZEc1eUNZNGJibzBaWGE1b2F3Rk96QmpqZzhBeUJmRXhJeFYxYWVJMzFvRVNyNEVObFZoM0lqTl9oQWtlMUFkUmV5N2l6dDg5dm8?oc=5",
+        "domain": "www.ft.com",
+        "publisher": "Financial Times",
+        "publisher_url": "https://www.ft.com",
+        "language": "",
+        "seendate": "20261118T022311Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Some of the world’s most-visited websites targeted by cyberattack",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEQTM5aEhLeUozcmY0Z1ZWdmk2Rl9oYWtrelhXblZPRXZfYVk5b0h5V1VVWlBTamZVZ2g5MEo0T2FPamZ1aHFNaTVOMGpvVTlkeHBkUU1GZUY0bzVWZ0xwRTROdVR5Wk40QnpjYUhZR2l3bEFyOTRmS3Rn?oc=5",
         "domain": "www.wbaltv.com",
         "publisher": "WBAL-TV",
         "publisher_url": "https://www.wbaltv.com",
         "language": "",
-        "seendate": "20261117T174600Z",
+        "seendate": "20261117T184500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEsyMTZIZmRtLWR2emJyWkNVVldUdW9Pay12YUZPRDdJZEtQN3VUWWNnWXVnaVJYUHgzdnM3NXF1Q3RKclp5Rzk4Z2QtVllIMGZCVXlCb3cyQ25sVzJna1RVLThYYXJJYXdURkpBZlRTV0RYaDdhOE9TMjhCYXpjZnNrdlhkYTZYb2psdjhRVUctUG5tVUFSbHdQa2FjVlJTMFBGR3RRaXBaNWZrSGh5NUJ3?oc=5",
+        "domain": "cloud.google.com",
+        "publisher": "Google Cloud",
+        "publisher_url": "https://cloud.google.com",
+        "language": "",
+        "seendate": "20261116T152909Z",
         "source": "GoogleNews"
       },
       {
@@ -79,43 +199,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Equinor detects ongoing cyberattack, output unaffected",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhGTnNBTjRRNVlLVTFYb2NsSnB6bDJmbUIwbWY2UTh5YUpDNC1UQXpvLWJacEh2THJTOUlnM2NkMHF0QUJramtnRkpadURDR0FieUJvOWU4bFdka2RKdVE0b3dCMGVHTWpCYzV4SHBZNDZkU3gwOGwwRThtMnNRQ0NtZG5OdUNzRXdnNU1TY0E5Z3FHQV9PeVJmZm40RmpmclE?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0tpUkRvaGcwWEh5T0JlUzZzMEdTakNIenJjdjltc1dLb25pdlgxQks1aExOSTQ5UDI4ZVEwTjZDWm5nRk1XTkkxM0tUQVFIS19JSGNsblFxcW9jT0ZPb3U2QmxnVmh6b1hGbjFRcU1SaDRza0lzcEFGRWNMUjdSX1QtVDNTdnRMeUJRb0FRbk5kc1MwVnVTNWJQdXBvM3d2VXhVQzZtenJ5U0I4?oc=5",
+        "domain": "www.cnn.com",
+        "publisher": "CNN",
+        "publisher_url": "https://www.cnn.com",
         "language": "",
-        "seendate": "20261117T182732Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFcyTFE0b2NfSjg4N3E4eG9VQ1IwWXBraEQ4TjY5YU9iVE96OVZNcGdtWGJJX1JBTmF1TWtXbkM3VGhndHBkU1Vpc0ktRXhpODJ6eHdaSEtDMjJtcy1hRV9fSkZGZDg1ZEdQSGJ3dzZJUjdIb2ZURDNUem4wcFQ1V2FfOUFMdXpjSXJfbHMwRmJrNjVJeXVkbVQ1Z1ZhQUN2?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
-        "language": "",
-        "seendate": "20261117T102220Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack hits 178 organizations: Credit cards, crypto, other data at risk",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEk0NFhMYXFvSVRIemVuWTRsbURQMk82bWc3WW1aZGZVTVgzSk9QTFpCU1o3bkdRbFZjRkFSZXg5dk1QcUE0S2xnWDF2RWNtd3NsbEUtSVM0MXJCb3JTWGdtU3JOSWFxQmYtT0lTUnEwbE9Jd0dYUS1rcHp3cjJLcnp0LS1KMFdXN2p2NHh4ei0tS25BMXJQTGxoQnhZRV9KTVhVX2JROVBJanJPTDZTV05wV284SmZTSHZJ?oc=5",
-        "domain": "www.syracuse.com",
-        "publisher": "Syracuse.com",
-        "publisher_url": "https://www.syracuse.com",
-        "language": "",
-        "seendate": "20261117T145700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmFJdXhVWlNyTXNwRmUxcFhCekpWaFNkMEl4MGc5NjUwWFF4VXNaMExXWUlYenc0VTFRbkpFck05NkpGTEp3ZVNJZjl1OHY4a19pcXJFdkNwSW9lem50Zi1HUF9FNmcwZUxJVV9jRTc0bmx4bDltbDVQX3pjTF9vUjJFTQ?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261117T151700Z",
+        "seendate": "20261117T153126Z",
         "source": "GoogleNews"
       },
       {
@@ -129,93 +219,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Russian-Speaking Hackers Launched First Fully Automated AI Cyberattack, Google Says",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEFlcEk2eVFna1VOWm84MmJkeWZSYTlKRkZqY3VJdExmSU1aNnZZbnBWRThSbjMzM3BUVkl4TjZsV2dsVEVkSVhZbnRoSy1YRmQ2b2NpRWZmWldQS3lwdlJHd0dUcDJyZ1Z2S0plUnNmeVd5Z3piRmJMT0Y2WDNwYkE2R3dPYjBYNU93enhVblNIOW00eHlZME5sOExqQWEtcWxEa3h6eFpBY3NHc3hoS0dFMGZCazNiT1pBaQ?oc=5",
-        "domain": "united24media.com",
-        "publisher": "UNITED24 Media",
-        "publisher_url": "https://united24media.com",
+        "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmFJdXhVWlNyTXNwRmUxcFhCekpWaFNkMEl4MGc5NjUwWFF4VXNaMExXWUlYenc0VTFRbkpFck05NkpGTEp3ZVNJZjl1OHY4a19pcXJFdkNwSW9lem50Zi1HUF9FNmcwZUxJVV9jRTc0bmx4bDltbDVQX3pjTF9vUjJFTQ?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261117T125012Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘Malicious’ Cyberattack on 178 Major Websites Tried to Steal Credit Cards and Crypto — Here's What You Should Do Immediately",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQakw5QUtVU3Ftd3ZTU3BBSVhZaVk1d0pzUEg4akd4X25TcDVOdWNpUmpVZVVuZk5weGp3Y1B3Y0NTcWFBTzNiemdncmNydHNIWmtCczJKSUtNRlhLZDhGZHIxa25LVUJUN0Y4QTRvdWNZV2xBM2I0V0VIVmpjalJSWEQ4VUlwLXZ5b2s5TGpNeFZnVURZQ3dqaDdyVGNkUUpvNDBpZ2VrNFJhSzJUNGRHd3BjZ0pwWW1yOWxvUGs1NUJoMjNSVklIM3BWbVNYZGFMVlFXa2RIVlQwMFIyVGw1cDNsdHhyVVFiTFVTSmdaOWJIYUx6?oc=5",
-        "domain": "www.entrepreneur.com",
-        "publisher": "Entrepreneur",
-        "publisher_url": "https://www.entrepreneur.com",
-        "language": "",
-        "seendate": "20261117T201106Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Is there a cyberattack today? What 178, Optimizely mean",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObDFicS1NNC1Pb29OR2VWemxVbWlzR00ySlhmejExY2wwbFNFQ0ZCQlduOGcyVS1RYWt1VlJHajlOYWdJcGZVeXp2YWk0RV9EZ0ZFWGk2cFBoM0NSZmhlaEdNWnR6czY4ZVhvUUZ4b05FU1JHNzh1QUFoQktfU2UzSTdfRkFlQXdyVTl6UDYzYzBnM1JydGJEUVZGdjFkWXdfYi14S25yVWVaT2Rmb0lvWWtxTm8yQQ?oc=5",
-        "domain": "www.northjersey.com",
-        "publisher": "Bergen Record",
-        "publisher_url": "https://www.northjersey.com",
-        "language": "",
-        "seendate": "20261117T150700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Dragos finds industrial ransomware attacks rose 11% in Q3 2026, with manufacturing accounting for 69% of victims",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGVQeE45RzYzZ1dEYzJGNnAyUDRhaWJnU0t0Q2tOcVVkYnBVTXcxVmJDd1g3V3lValZkWnhfQlNkVU9YTXZBbHF5Q2xtQmFSYWQ0ZDJRYkJuaHVvY00wMjBzeHVOY1FFLU80UWhUZzU0SkRlNXBLLUl2MWtEZ3Y5SkFiMXRPLXpQQmhaeU1MZm12WmZkcWRlN3VkZVlTTlo5cmYxY1dlcmY3QmtQNmlvUTdrTkdtdDRDdnc5X252TGJ2TjRWazFJcmRjNGRFbGJsY3Q3SmV3S3pTbnhhUlE?oc=5",
-        "domain": "industrialcyber.co",
-        "publisher": "Industrial Cyber",
-        "publisher_url": "https://industrialcyber.co",
-        "language": "",
-        "seendate": "20261117T124558Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Queens Libraries Still Contending With Ransomware Attack",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaU5VVVJHSUpNUDlUTEtFMHBfdW5oVTByS0lwWWpYR3ZhZEd1YS0wbkl5SEpJck9SY3E5bXZ3YUZRUWpzUFNlUXptMHI1SGxLVkdtYTcxN0p3ZHdMM2FHNTNrMURqYTJKcHpuVDNFcDdiT2lrZXZVWlk5dnd4MDFEdk9FaHdfMlRZNUl3?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261117T100310Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Apple Blames Internal Update for Outage, Says It Wasn't a Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xRVdDeklaZnVIZ1RLWG5Ba2tNaXhkRC02WFFjZ3BoUVdGZEpqdHA2UTR1X0xZRVRRQTZxLWIxODhoMTZWSFA2VDcxZG5ySGJ2M2hVS205ZHJ3aHpabldBR195ek45ZDBQSkk1V19VRWFkSkFF?oc=5",
-        "domain": "www.macrumors.com",
-        "publisher": "MacRumors",
-        "publisher_url": "https://www.macrumors.com",
-        "language": "",
-        "seendate": "20261117T193133Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Zoom, CNN, Salesforce Among 178 Websites Exposed in Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNenB5QmthbHdzMmk5T3FOdTRrbWVrdnllallLZ1o0Y00xb29GbkFMNG44WFZjNEMta1EwS0hBdHdoQmVKT2lYWWtjYy1FNXY5QW9wV09lNVlKZkw4cGlwZ1J2eF9Yai03eG4tNGNoNHphWk9YaEl2Y2hZck5FYUNpWmVjYUcxYVhCd2I4dWU2VWV3UzhPZHZtYXVnZGRfT0Q4UGl4bm15RDlTVHloZXhPUmdqZ0NCSXhXVEY4NUFxVQ?oc=5",
-        "domain": "nationalcioreview.com",
-        "publisher": "The National CIO Review",
-        "publisher_url": "https://nationalcioreview.com",
-        "language": "",
-        "seendate": "20261117T154103Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyber attack hits 178 major websites including CNN and Zoom in bid to steal crypto, infect iPhones: report",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZVBEeElMZldnWUF0OERTSXdqXzdYOWpMdUVPX2FXN1BsWWR5amxHQ2VUSkZnUWFEcUd2WC03YlhpMVFRVzY3RjFuRlAzYkszeXBpaEhFU1FxVjQ0QVpHQWJ6cE0yX0hvZFJXYUhMMnBhdUtvd29RdmV3Nko2WGowclNPVjBTendZRC12NURRa2dUVEJDd0VUb19wWkR5dDlod091c0FwY2gwcHNBQTFJNE1XOEhzVmlqWE5yb0lleTRzcFRzUi0xbnFXYVpvVnNGZkVsaWpZMVU0dnM?oc=5",
-        "domain": "nypost.com",
-        "publisher": "New York Post",
-        "publisher_url": "https://nypost.com",
-        "language": "",
-        "seendate": "20261117T190223Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hours Before the Chase Outage, a Ransomware Group Listed Chase as a Victim - Jay Longley",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0FlQnN1TU1HTThxQlB4YlB0aWxIX2ZCTzdIT2NURGFWU25kSWJqamh2ZVlqR0JVUjFRM1hIQ3hhcnRYZ0hHVGtPNHhhaXpEUEdjMkJNc0dsYnVCNDZsQS1fVnlXVlpfdFBDT0k5LU1aaU01RlVKSDJPdjF2ekc2czVudU9IYmtZZ01Fa0MyR2lBQ2VRc3RmbUEzMVYwbDNLbzBQelZYdTlrUkVyUHlPY1VYUnkxSVgwY0E?oc=5",
-        "domain": "www.golocalprov.com",
-        "publisher": "Go Local Prov",
-        "publisher_url": "https://www.golocalprov.com",
-        "language": "",
-        "seendate": "20261117T073000Z",
+        "seendate": "20261117T151700Z",
         "source": "GoogleNews"
       },
       {
@@ -229,93 +239,93 @@
         "source": "GoogleNews"
       },
       {
-        "title": "In a first, Google detects AI-automated cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2t5RHYxRENmb1ZYUS1ELUU1WlhuV0pna2dOcGFNa0ZyYmJIN216QnpTblRiSF9vb0tpc3BwREhEeVJXN2JDeU11MHZZV202MmpCcjU3U3RXdWxUd01BQUp2MlM1aUV5U1dfdjNMeHRkNkZTSFRRajVQRUdiUS1zS25MRUZRYTZnYTJ4bUZEUk1fZWhuYVlDLXJ1TTJ5cUJBTE04ZUVVMEtHZE830gGyAUFVX3lxTE9VRjZLbTFpRE12VGlZOHViODltbzBGMjhVZkdfRHhoNW1UUWNkNTJmMlVhTzVFTTZGVjMtUFY5c1dtdzk3Zm5vbGFWS09tNWVWTlpIdTdybTFOS01RVi0zZlBPRUtacjhPNDhfTnFtNy1mb2xrMkM0MDVKeHVuUjNsQlF3SUdoVFBkSmRfbjd5THlYQmtobGhxOW5DcnpwdmltOVFiOTdpWm54VzFmbm1oMkE?oc=5",
-        "domain": "www.upi.com",
-        "publisher": "upi",
-        "publisher_url": "https://www.upi.com",
+        "title": "Cyberattack hits 178 organizations: Credit cards, crypto, other data at risk",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEk0NFhMYXFvSVRIemVuWTRsbURQMk82bWc3WW1aZGZVTVgzSk9QTFpCU1o3bkdRbFZjRkFSZXg5dk1QcUE0S2xnWDF2RWNtd3NsbEUtSVM0MXJCb3JTWGdtU3JOSWFxQmYtT0lTUnEwbE9Jd0dYUS1rcHp3cjJLcnp0LS1KMFdXN2p2NHh4ei0tS25BMXJQTGxoQnhZRV9KTVhVX2JROVBJanJPTDZTV05wV284SmZTSHZJ?oc=5",
+        "domain": "www.syracuse.com",
+        "publisher": "Syracuse.com",
+        "publisher_url": "https://www.syracuse.com",
         "language": "",
-        "seendate": "20261117T064834Z",
+        "seendate": "20261117T145700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "FEMA emergency alert Tuesday: No blackout, cyberattack or action required",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUEhjNzhKV3JFRWtsNUxab3dIejlsV1RsRURkeHVXekxhX1BaeTdKSzhaZm5aV0RaMHdwc1FNVjR6TjI3NnZ2YlE3LXg5SDR1NVd0dnpBRmtZOFQ2cVFQMlZzTUs4WlU3WjZpalZ2SWg5ekN6bEYtVGVIWmVUMlIyeTFfZ1duQWFDbm8wNVZTZE1DT3VuY1RWWldZcVIzVWc?oc=5",
-        "domain": "www.ctinsider.com",
-        "publisher": "CT Insider",
-        "publisher_url": "https://www.ctinsider.com",
+        "title": "HSBC, Associated sites briefly affected by cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQm9ZRjcyeVFtWVc0bmxUOS0wcENjVGFSMXNEdC1SQk1hSzYyVTd6cTNmQUVLaGk0QU9yN2t3V3hLSFVlei1PYUtJUTFxV0RZS2gzRTIwcjdfRHM3cmxqWllGSEpObVNQUV92NW15SUFSb2hwSjBIdkItTm1GMHRxTzlTaE1wR21HYVNQZ0NDV1lVM0k?oc=5",
+        "domain": "www.americanbanker.com",
+        "publisher": "American Banker",
+        "publisher_url": "https://www.americanbanker.com",
         "language": "",
-        "seendate": "20261117T140047Z",
+        "seendate": "20261117T215450Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack hits 178 websites, including CNN and Zoom, TMZ reports",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXFBVmNVemNXT3VjSTc2Q1EwTVNOVmRKcnBwMzRWdDluaTZQdU82NEwzV19ScnRnb3l5M2hQS0VMQ2hBdWhXQnhvMU9DSFF3V2FVMzQ5Zmw3LXNCOXNoM3lNLUlCOUJBOS1TamVRY2t2U2NhX1JwRFBVZWxUcENYNlg3MFdBb1o2ZG1Id3B4X2NJd2tONWFUUVdNQk55ZVlGZlNOanhOTQ?oc=5",
-        "domain": "www.fox5vegas.com",
-        "publisher": "FOX5 Vegas",
-        "publisher_url": "https://www.fox5vegas.com",
+        "title": "Queens Libraries Still Contending With Ransomware Attack",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaU5VVVJHSUpNUDlUTEtFMHBfdW5oVTByS0lwWWpYR3ZhZEd1YS0wbkl5SEpJck9SY3E5bXZ3YUZRUWpzUFNlUXptMHI1SGxLVkdtYTcxN0p3ZHdMM2FHNTNrMURqYTJKcHpuVDNFcDdiT2lrZXZVWlk5dnd4MDFEdk9FaHdfMlRZNUl3?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261117T173400Z",
+        "seendate": "20261117T143036Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cyber Attack Hits 178 Major Websites: Full List of Affected Organizations",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oVkNMRG5vN1dyNnVzaVJINk5FSHV3MWozZXNhMllRZ3FEZzNuUXpwR2hHazVkMDJmRVBNa3BKZjl3ODNpbVAzbmhheVlKaEpmQlRVMXhWUFV1X1JQTGdNeWhRU3dORkRReXNULWpvWmo1Zw?oc=5",
-        "domain": "www.newsweek.com",
-        "publisher": "Newsweek",
-        "publisher_url": "https://www.newsweek.com",
+        "title": "New Mexico Information Technology Department seeks $30M funding boost amid cyberattack ‘crisis’",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3FTbXBWX091eXBNLUdURDNSdkVpSk5zM0VQcDdVbUVScGVYU05PbUk4SjFHVHA2NDFfejRVVm42V2xUckZrZWgwMTlvYm5DVkthR1FVS0FRQTRBdzNaak85bzRZYXhFWTUtVmpCaTlOSFJjN3BwZ2J6b2NGZ19qV1NTRzFBZWkzdnlrZm9wMjlaR1NISHZFcERFdHl2YWpNTlR0SUhVU1RtV1luTVpNRklzRXpLeWJ1STI5YUM1SURxVFU?oc=5",
+        "domain": "sourcenm.com",
+        "publisher": "Source New Mexico",
+        "publisher_url": "https://sourcenm.com",
         "language": "",
-        "seendate": "20261117T105900Z",
+        "seendate": "20261117T230721Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Can bank deposits be affected in a cyberattack? 10 things to know",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhdjV3UUhOZFl5QV84QzI0Mk9lbnZ6MXNzaVdBcW1aYzVoajhJdDQzV0p2b2JVT1FHQW91Ty1EN0t6RnBFQjdLYmFPNkp2aVExNFpCVUpaS1NhVGpOQXc?oc=5",
-        "domain": "qz.com",
-        "publisher": "qz.com",
-        "publisher_url": "https://qz.com",
+        "title": "Cyberattack hits 178 websites, spreading malware as major services falter",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNcmhLRGhDQ0h5U2FtWFJmT0RNQVU1TER4UFBVZXpUbEI4bWRZNWluc3RsVHpmdzRaOFJTckc4SnNRWEZ6TGg3bm9tajUxWmJoblRMSWZDNnRGWUJmckRHWXRBNThuNS1vZ3ZGa2hvUDBCamZyMk1iS2Q3dHpOWG1qNmpaZUV5dnR0QkNaZ1ZvYm9UdnVMSVRHWW5ZdVFQZTNQdklYc19qQTlTaGZ6TW5heF8yNGhSMWU1MW54YmdrV09Jc2ROOXNLUm1uRFlZbzN3UXVFZlN5QXA0UVU0R3dDSnV0cXNqMlJEQXhvQmE0ZUZUQ3U2OEVZSFJ1UEg4c1c4VGlqVG5vOTdhYW5aVmRlOFFyVGR3a1o1eXRhNEx3UTVjVEhOOXgzSkkzNzhLWmw4UkRCeU5CNHpNbUxiQUlKNHh4a29ucXdBbWdLVU40d1B6SFg2TFNZ?oc=5",
+        "domain": "local12.com",
+        "publisher": "WKRC",
+        "publisher_url": "https://local12.com",
         "language": "",
-        "seendate": "20261117T152352Z",
+        "seendate": "20261117T234543Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Global Cyberattack hits 178 major websites and the iPhone",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmtKeFFtQ2xuMFRnaUU3c19Td2FDanJscHRNS1Zsd1JJU2R0c1RjUHdzcUZGODYxUkVVMS1UN0ZhZVdKMXdaWU5jc01JMjVDTURlelhMOExPZmFIclJqZ3VyNmJ1d2lpX2xPSlAwdGlwMzVIOWpMRWNUV3NER1JXZmZ2VzZsaW83djZ3RVdBRFl0c2EzQnVXdG52blBVTHM?oc=5",
-        "domain": "www.phonearena.com",
-        "publisher": "PhoneArena",
-        "publisher_url": "https://www.phonearena.com",
+        "title": "US spy chief sees no sign of 'coordinated cyberattack' amid tech outages",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0hJcUhwekU2dzhMZ3JtNF9OWkptYXlWcElwbXpyS2ZxVkU4aUhjRS1JS1FWWW9obVZTYlVQbjB0alNHRGpBdmVia1RxOXpKeTBJNndTeXZUVl9uMDFUbndaZ19zUGsyeVFVeWE4Nmx1MVNuWVFMTDNpOWNUdXY0N0pqNDVWY3hJOFYxUnNhS0xoeWlLZklxdDdJRThiNzZFVEVZYTltSzlaeXc?oc=5",
+        "domain": "www.usatoday.com",
+        "publisher": "USA Today",
+        "publisher_url": "https://www.usatoday.com",
         "language": "",
-        "seendate": "20261117T184115Z",
+        "seendate": "20261117T233700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Technical glitches or ‘malicious cyber actors’ at work? It’s getting harder to tell them apart",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83MkJFZktKT2pSa1h5eVQzdzduOUUxQUlEa011UWFKZWF6WENTaGpGQzhYeWUyU1BxTXI4UHBQZWZoQXNtWDV2b3dYNzgyUU5OZVJVVk44OVNuYTk5TUNjT2c0RVctWEU3Qkp1cFRJMW51LWRUSm5PRQ?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
+        "title": "Charleston Co. investigating potential cyberattack after data removed from systems",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMENlUVBFUzZEczY4azlyOVY0VlJEbGNUSktzLW1QTFY1dk9OQ1pNNVdDS0xvS2NCUVU5OTVWSmZUQVk4dXpDaThDY1ZMSnBnR0w4aGpIdGxKWVh2Qi1ibm5iUDV3NzMwMVhneHB3QUktU3d4Qm9sT1RfNjgwR3RvTTFrM0RfdnplQ3VUX3kxZWtJNmxUUlVIeE5mYkJPMGNlU1NTa3U3cHZoVGp2ajlqMFN4bmrSAcgBQVVfeXFMTkVLalZTY1d5c3pEMENLbUdJMEpta2Zzb25tdXY4amlSYWlsV2ZpMGItZ1Bya2FTbFlrZS1iSkJwOTczbGdjZGV6OHppNkw0Y1Q4cFBQMDRnNEtGOFN0YzN1Mi1aVGtzVXMtb3B6TjVyOFZRdi05Wm1MTzc4Z091MUF5YTBFc2Y3SHNqYm1wbmxNTFVOOUQ5c0g0b182WHI0MDRITkNRbXUtTUMtYlZTekJ2OHFPN00ybExPNjQ1TlNIMkdKT3FZOVQ?oc=5",
+        "domain": "www.live5news.com",
+        "publisher": "Live 5 News",
+        "publisher_url": "https://www.live5news.com",
         "language": "",
-        "seendate": "20261117T200624Z",
+        "seendate": "20261117T233700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "NSA Classified Communications Network Down, Cyberattack Not Suspected - Report",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjRCZDM0QnEycnlVWUxjQjNKakFvUTB6ZzBJQ01sSGJhdGFOWXdiNjMzcWhhdDFYTjQwMENzOFRHc3FxQ1VEeFJYMWRMVFZ5SXhfYTg3Y2R5N19YV3hTeDR6eTF2b01tcG5xeXowc3NpNjJldmlKQVdjYTFqMFY2dzFTMS1vbWJuVWZGVGJYSDlib29IQW5LcHhSRUhIUmVrZmNtZmlxY05CWVJweWU1N3R3dUVfVHhKSDVLcG9VT1RlZ28wUVRyLXNheEZ6THc?oc=5",
-        "domain": "www.i24news.tv",
-        "publisher": "i24NEWS",
-        "publisher_url": "https://www.i24news.tv",
+        "title": "‘Malicious’ Cyberattack on 178 Major Websites Tried to Steal Credit Cards and Crypto — Here's What You Should Do Immediately",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQakw5QUtVU3Ftd3ZTU3BBSVhZaVk1d0pzUEg4akd4X25TcDVOdWNpUmpVZVVuZk5weGp3Y1B3Y0NTcWFBTzNiemdncmNydHNIWmtCczJKSUtNRlhLZDhGZHIxa25LVUJUN0Y4QTRvdWNZV2xBM2I0V0VIVmpjalJSWEQ4VUlwLXZ5b2s5TGpNeFZnVURZQ3dqaDdyVGNkUUpvNDBpZ2VrNFJhSzJUNGRHd3BjZ0pwWW1yOWxvUGs1NUJoMjNSVklIM3BWbVNYZGFMVlFXa2RIVlQwMFIyVGw1cDNsdHhyVVFiTFVTSmdaOWJIYUx6?oc=5",
+        "domain": "www.entrepreneur.com",
+        "publisher": "Entrepreneur",
+        "publisher_url": "https://www.entrepreneur.com",
         "language": "",
-        "seendate": "20261117T192247Z",
+        "seendate": "20261117T201106Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Google says Russian-speaking hackers ran the first fully automated AI cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ic0xuWHpoQXQwVWNldkJuc1Z1RXp6QWoxTWFrMGdLSUZSNHhjaTdockN0YkFhNW5KY190cTk3N2NOXzNUaW53Q0I1c2tabHlubDRlSlhPWWZMTVlBOW1zekdFN1hVbUJnYUlaRU5B?oc=5",
-        "domain": "cyberscoop.com",
-        "publisher": "CyberScoop",
-        "publisher_url": "https://cyberscoop.com",
+        "title": "Zoom, CNN, Salesforce Among 178 Websites Exposed in Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNenB5QmthbHdzMmk5T3FOdTRrbWVrdnllallLZ1o0Y00xb29GbkFMNG44WFZjNEMta1EwS0hBdHdoQmVKT2lYWWtjYy1FNXY5QW9wV09lNVlKZkw4cGlwZ1J2eF9Yai03eG4tNGNoNHphWk9YaEl2Y2hZck5FYUNpWmVjYUcxYVhCd2I4dWU2VWV3UzhPZHZtYXVnZGRfT0Q4UGl4bm15RDlTVHloZXhPUmdqZ0NCSXhXVEY4NUFxVQ?oc=5",
+        "domain": "nationalcioreview.com",
+        "publisher": "The National CIO Review",
+        "publisher_url": "https://nationalcioreview.com",
         "language": "",
-        "seendate": "20261116T225154Z",
+        "seendate": "20261117T154103Z",
         "source": "GoogleNews"
       },
       {
@@ -329,53 +339,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack hits 178 major global brands, exposing visitors to data theft",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUktGNFdJSU0wME1BQU83a2l6T2tONmhGZ0NEUHk4a2dKbGw3TkxwbU9GZWV5MHh4cVJZNFFNN05ZcFJfVkZvNV90bUw5bHpiOHc2UE9ka0VONDhmNEkwSnU0ZldnZ0NLTnZUVXU3eFlQV0R2cGJ1NGdRSEg1aVhSV3hFQVVHbW5nOS1nQ3N6YzZGaGpuTDhQbUhidnJ1SXFDdjlyZ3lfQW5fNm8?oc=5",
-        "domain": "aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://aa.com.tr",
+        "title": "Russian-Speaking Hackers Launched First Fully Automated AI Cyberattack, Google Says",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEFlcEk2eVFna1VOWm84MmJkeWZSYTlKRkZqY3VJdExmSU1aNnZZbnBWRThSbjMzM3BUVkl4TjZsV2dsVEVkSVhZbnRoSy1YRmQ2b2NpRWZmWldQS3lwdlJHd0dUcDJyZ1Z2S0plUnNmeVd5Z3piRmJMT0Y2WDNwYkE2R3dPYjBYNU93enhVblNIOW00eHlZME5sOExqQWEtcWxEa3h6eFpBY3NHc3hoS0dFMGZCazNiT1pBaQ?oc=5",
+        "domain": "united24media.com",
+        "publisher": "UNITED24 Media",
+        "publisher_url": "https://united24media.com",
         "language": "",
-        "seendate": "20261117T084418Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NSA Net Down: 6 Sources Cite No Sign of Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFRZelFNYzZxeWZBbGpVTmpJM2QyU3BScndpVUdqNXE5bmlkWDd1eUM1d2JjOFhLUzdJVXVFRVg4anZKZ0dRQmsySUh6QVowVndoanVoZjdzNGFQSFFYbUNVM2xlNGI5TkpIZlVKbkVGRWdLNkFtcnFyWUdKdXV1UnBvYWNfQQ?oc=5",
-        "domain": "shattered.io",
-        "publisher": "shattered.io",
-        "publisher_url": "https://shattered.io",
-        "language": "",
-        "seendate": "20261117T193225Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Not a cyberattack: Apple revealed what caused the company’s global outage",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbC1fMUdMRVBUWTZlWTF0Vk9hRi0ySHFyUDR2ZU43dGFacDNMaWxSMi1nUEJvUktBNVlyVHc2NUluVHRVbTFlT0N3cGUwUHJVWW5EOUExbUhXUlVJLWdhaGUzYTVZMHFxYi1ubGt3aE1FRFdvMVQzTWItQzE3N1JJWENoQnVEMDJYTlpLQ2dpcDNTdGFsLWpJddIBlwFBVV95cUxNeU1uTGRiSFJGaVRzeW1LZmZhWmI1WnpCS3NyZUJCN2V5eVV5dUJqTnViU2pWTUNRMGx1X0dabzJIZVpIal9zQlZBSW1OSktSS0R1SDRPcFVfLXhQRXdpQUNFU1JXS2RkRXplZHRVUUFzTUVlNms4cExySG5WZlFEenFPZFIxVzZqdU5pQmpFWGpOd2xqb3JZ?oc=5",
-        "domain": "unn.ua",
-        "publisher": "Українські Національні Новини (УНН)",
-        "publisher_url": "https://unn.ua",
-        "language": "",
-        "seendate": "20261117T194957Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Norwegian energy company detects cyberattack targeting IT systems",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObExOSFBiTHJmM093bXlwMlBVM0c4YlgwdzRDajlPM24xS3cwbk5OQWNjMkxLWi1zQVMtUHV1dWxuQjZ4X3hFWk9Yc2c4WHBLSjBuaGdkZFV0a0p6N1djQVZtRDZHWmt1ODQ4VGs4VVJMclgzZW9JcU9IdkQzSVh5amFlWHQyVXN3RzF3dVNNRGZNbTdIeEtoTGxURkJrb2pWQ29Z?oc=5",
-        "domain": "aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://aa.com.tr",
-        "language": "",
-        "seendate": "20261117T203730Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Successive U.S. System Outages Caused by Aging Infrastructure, Cyberattack Ruled Out",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qM0JNa0RwbWFxeGVoSWtxMGVET0haaW4xaGFweUxWdDI3REVMeHdmOG5DRkJIR3VlVkZJT0o5YzZ3R01sTzdQVE5xeE43V1NyVy16WElCckprbGV6MDhEbFdwRjZPQ2xETF8tWEFhSWFUVWZZRGc?oc=5",
-        "domain": "finance.biggo.com",
-        "publisher": "BigGo Finance",
-        "publisher_url": "https://finance.biggo.com",
-        "language": "",
-        "seendate": "20261117T185500Z",
+        "seendate": "20261117T125012Z",
         "source": "GoogleNews"
       },
       {
@@ -389,83 +359,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack or no, parade of tech outages highlight need for resilient systems, CISA acting director says",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kaElzTHQzM0djT09lSmJ5VDd5WXFQU3lCZWVYOHllckdwbG9NUWpVejluekVsb0huc1NiUXhVZnZxMUw0aUJXckZtSi1JVl9WMVc2RzhLeW5XOGt0UWdFSExkLXlSTEFkdDc2UlAxd3FTbGpGUEE?oc=5",
-        "domain": "cyberscoop.com",
-        "publisher": "CyberScoop",
-        "publisher_url": "https://cyberscoop.com",
+        "title": "Is there a cyberattack today? What 178, Optimizely mean",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObDFicS1NNC1Pb29OR2VWemxVbWlzR00ySlhmejExY2wwbFNFQ0ZCQlduOGcyVS1RYWt1VlJHajlOYWdJcGZVeXp2YWk0RV9EZ0ZFWGk2cFBoM0NSZmhlaEdNWnR6czY4ZVhvUUZ4b05FU1JHNzh1QUFoQktfU2UzSTdfRkFlQXdyVTl6UDYzYzBnM1JydGJEUVZGdjFkWXdfYi14S25yVWVaT2Rmb0lvWWtxTm8yQQ?oc=5",
+        "domain": "www.northjersey.com",
+        "publisher": "Bergen Record",
+        "publisher_url": "https://www.northjersey.com",
         "language": "",
-        "seendate": "20261117T200211Z",
+        "seendate": "20261117T150700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Rapid7",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObzJzMlZKS2ZHVjBwaVV0UzA4RHBqVlN4ZkdZNmRlREpwT1RaT05jU2FKcnFUQ2x4bEg5S2xfakNJU0drdmtNQzF0WUFTNkstQW41ZVZDNlBfckVtTFVLWEg5ZWpjZFE2cDJiekVWeDNRQjFfb0FpWGItdlQtamZRVnhzYlBKVURfMGxIbktWMU16N2l2dmdtTTBCYk5xYjh4NTlOVXhXYm52MjUwUGY3RVQ2OWhsUXlweHFaYktsVmNjdC1iQ3kxX21hR2pvRGc4aE1DcnR2bDc2UmJidnlQdzQtYlpQaTQxcG9GTEp3?oc=5",
-        "domain": "www.rapid7.com",
-        "publisher": "Rapid7",
-        "publisher_url": "https://www.rapid7.com",
+        "title": "Cyber attack hits 178 major websites including CNN and Zoom in bid to steal crypto, infect iPhones: report",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZVBEeElMZldnWUF0OERTSXdqXzdYOWpMdUVPX2FXN1BsWWR5amxHQ2VUSkZnUWFEcUd2WC03YlhpMVFRVzY3RjFuRlAzYkszeXBpaEhFU1FxVjQ0QVpHQWJ6cE0yX0hvZFJXYUhMMnBhdUtvd29RdmV3Nko2WGowclNPVjBTendZRC12NURRa2dUVEJDd0VUb19wWkR5dDlod091c0FwY2gwcHNBQTFJNE1XOEhzVmlqWE5yb0lleTRzcFRzUi0xbnFXYVpvVnNGZkVsaWpZMVU0dnM?oc=5",
+        "domain": "nypost.com",
+        "publisher": "New York Post",
+        "publisher_url": "https://nypost.com",
         "language": "",
-        "seendate": "20261116T181651Z",
+        "seendate": "20261117T190223Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Suspected ransomware affiliate extradited to US over $500 million in extortion demands",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkw0NDVlYkZ0MXVmYlhSaHFiX1BWMHpEZVYzS0ZoR3BGaENJZUhLS3RCLXlwQW1rN3l5Q3JCNXkyZkpEalBrUU1rNVh2Zklna3hUWnVEcTg5NTVqTmlSQmZ4WlZtMGNkc3dEa1huTW5XdC05WENjQjNfTF9GS0dzVWNMZmNjcmFSckdvWWROOGdCRkNnV1c0NGFGVE4?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
+        "title": "Technical glitches or ‘malicious cyber actors’ at work? It’s getting harder to tell them apart",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83MkJFZktKT2pSa1h5eVQzdzduOUUxQUlEa011UWFKZWF6WENTaGpGQzhYeWUyU1BxTXI4UHBQZWZoQXNtWDV2b3dYNzgyUU5OZVJVVk44OVNuYTk5TUNjT2c0RVctWEU3Qkp1cFRJMW51LWRUSm5PRQ?oc=5",
+        "domain": "www.cnn.com",
+        "publisher": "CNN",
+        "publisher_url": "https://www.cnn.com",
         "language": "",
-        "seendate": "20261117T134204Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kazakh ransomware hacking suspect extradited from Italy",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGZ6ZVNYODd4Y1RwbDVLb1NVRnVXWGtUMmR1MjFNWHJjUWRqNDVWUG9nbkpwUm1LbDBFRXVNUWR6a0ZOWXFsdGFoeXhaZURlbDVNX1J5b29lSXZ3WE5UYWdaeUg1TFZxYmlpMHhyUzZDdXdXa09tdFJibTNzaXJjWUMteHlXZDBwOVE?oc=5",
-        "domain": "therecord.media",
-        "publisher": "The Record from Recorded Future News",
-        "publisher_url": "https://therecord.media",
-        "language": "",
-        "seendate": "20261117T192625Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "iPhone users targeted in cyberattack involving Zoom, CNN and other major sites",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DLVNsME1NaGo2dWk0U3NzU0dSa211aExsVFJsYWdmMTBWamFjWjdYano0NUtnRG5TdGZCeXg4bURoTGZ2dHh2LWt3VzJLbGNCUFBhYWFzeE1jQWtCX1FzeXhQTVBfZ9IBa0FVX3lxTFBkMHV2dXUwRk1jekpIYVFTZjQxVF93SzhDV3l4RU8zcEp0aHBNLUFOMF9fSlhuaWdEUEdkb2YtX2k5M2JlTDM2c0kwbF90TENVRkhWZWtZODRVZTh4SmNPSVNRb0NpLWQ2SldB?oc=5",
-        "domain": "www.fox32chicago.com",
-        "publisher": "FOX 32 Chicago",
-        "publisher_url": "https://www.fox32chicago.com",
-        "language": "",
-        "seendate": "20261117T173515Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Beware the New AI-Fueled Ransomware Boom",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jVlEzblczTFcwZTFqalo2VDNtZzVOOTlQUkR1bW04eXpqRUJWckZJR3VrWU84X3NXZ2xUZ09YQTJoQmlzeXk5aDlQaThjVXRodWRoanlIVjZHMjNjLU1wbUFKTk9OVGxFOG16Rzczek5hVDFYS0R4aQ?oc=5",
-        "domain": "www.wired.com",
-        "publisher": "WIRED",
-        "publisher_url": "https://www.wired.com",
-        "language": "",
-        "seendate": "20261114T130000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Popular websites compromised in bid to steal crypto, target iPhone users",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTS1sYjJVSFJKSWN4SHY1S3g4aDJwdmd1SXp0YTY5aDJUNF9PS08zR29LWkVzVXk2d2tXZFh0dm9QRVNxc2xXYzczdWpXYmYwTmgwUDZfSFhBRE1XT3JHQnpNZERDdU5yMy16dDdVa1hYTVBqa0xGbTVPNkJBZTlIWmc4cldZaTI2QnpoaWo3NUxOb3FXQmZQck0yQzYzMVJ5MTROcFdTUGU4b0pmLUZ2Y3V3LVVJaEU?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261117T045300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Alleged ransomware group member extradited from Italy to face US charges in hospital, school extortion case",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2cEF0M2s1RE50YW1TcHR5TTEtWmpkQllIY2VEUDNtTTVKaTBzcUpyOXhBUVJtY29vUmZaQUVOY1BvMFZKMk5FOXpCVGtNeXVjd19LT29SdGRGdmJxRUJHb0tiY1d5Z3BEZlVxcENLQ1pZdw?oc=5",
-        "domain": "cyberscoop.com",
-        "publisher": "CyberScoop",
-        "publisher_url": "https://cyberscoop.com",
-        "language": "",
-        "seendate": "20261117T130708Z",
+        "seendate": "20261117T200624Z",
         "source": "GoogleNews"
       },
       {
@@ -479,23 +399,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "NSA Network, Apple Services Hit By Outages As Equinor Reports Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjZZOEZZaERvbWZ6U1FqTFJJLUdSUzkxX0FWLUwyb0F0RUJiaTZyMTFvdTNRd3hCeUd0X3pYM0JmYkVrY2pFNnhvN0YtQ0ZPS2xGcnNpcGExc0lrVjdIUGt6b3E4V1Z3RmF4QnNjU1Z2eHRpdGxhb19NLVUzMkxSeXdBdV9VOS1aWXR6M29NSmp4eWtweXpnMUh6Mk9qTkxWeGpnbWZLZXU5ZTAxYjQzYk00M2ROUVJCWVlOVjNmTXp6cWJTYkJPQzZ3?oc=5",
-        "domain": "www.forbesmiddleeast.com",
-        "publisher": "Forbes Middle East",
-        "publisher_url": "https://www.forbesmiddleeast.com",
+        "title": "Rapid7",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObzJzMlZKS2ZHVjBwaVV0UzA4RHBqVlN4ZkdZNmRlREpwT1RaT05jU2FKcnFUQ2x4bEg5S2xfakNJU0drdmtNQzF0WUFTNkstQW41ZVZDNlBfckVtTFVLWEg5ZWpjZFE2cDJiekVWeDNRQjFfb0FpWGItdlQtamZRVnhzYlBKVURfMGxIbktWMU16N2l2dmdtTTBCYk5xYjh4NTlOVXhXYm52MjUwUGY3RVQ2OWhsUXlweHFaYktsVmNjdC1iQ3kxX21hR2pvRGc4aE1DcnR2bDc2UmJidnlQdzQtYlpQaTQxcG9GTEp3?oc=5",
+        "domain": "www.rapid7.com",
+        "publisher": "Rapid7",
+        "publisher_url": "https://www.rapid7.com",
         "language": "",
-        "seendate": "20261117T185848Z",
+        "seendate": "20261116T181651Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cyberattack targets BBC, Zoom and Ikea as 178 websites hacked",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3dPM0J0V0JPV2NEVmNGaVZPa0VVM2FyTjN2Q0VZejdQcnIzTjB4eW5NTFNRVW8wMFdLcXhaQjVmUE1BN1hKODBkSEstdnpsb1FTTndWLVZuVzhpVVVaWHN1dll1OEFDZGo2SVBHcjQxcm5TaFN1M2tJbGpNaUh1UkUzQnM2N1hmZkVqU09jdjJDYnNXSTU2eW40RF9qa3doZWVj?oc=5",
-        "domain": "www.thetimes.com",
-        "publisher": "The Times",
-        "publisher_url": "https://www.thetimes.com",
+        "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhRTWZ0WnNxM2ZvV3VLZThMdVlPejFTOVJMYVhJMm1ibWh3X0I1QnRGdWNtdWtrX1BCSG5sTXFEVDhuaEVtWldDdE9FdHdVeldaX3EyRHNsU3RqN2VQc19mQlgwY1E2SjR3Z0tZamloWkZKM0dWdGJuSGdjdHNxYzU5bXRJMWV5bTlyMGtfSF91cEQ1bkhyNDNPNE5RV2N0cV92MFp3NGF1a0k?oc=5",
+        "domain": "www.bleepingcomputer.com",
+        "publisher": "BleepingComputer",
+        "publisher_url": "https://www.bleepingcomputer.com",
         "language": "",
-        "seendate": "20261117T171839Z",
+        "seendate": "20261117T205121Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Apple Blames Internal Update for Outage, Says It Wasn't a Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xRVdDeklaZnVIZ1RLWG5Ba2tNaXhkRC02WFFjZ3BoUVdGZEpqdHA2UTR1X0xZRVRRQTZxLWIxODhoMTZWSFA2VDcxZG5ySGJ2M2hVS205ZHJ3aHpabldBR195ek45ZDBQSkk1V19VRWFkSkFF?oc=5",
+        "domain": "www.macrumors.com",
+        "publisher": "MacRumors",
+        "publisher_url": "https://www.macrumors.com",
+        "language": "",
+        "seendate": "20261117T193133Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Norwegian energy company detects cyberattack targeting IT systems",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObExOSFBiTHJmM093bXlwMlBVM0c4YlgwdzRDajlPM24xS3cwbk5OQWNjMkxLWi1zQVMtUHV1dWxuQjZ4X3hFWk9Yc2c4WHBLSjBuaGdkZFV0a0p6N1djQVZtRDZHWmt1ODQ4VGs4VVJMclgzZW9JcU9IdkQzSVh5amFlWHQyVXN3RzF3dVNNRGZNbTdIeEtoTGxURkJrb2pWQ29Z?oc=5",
+        "domain": "aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://aa.com.tr",
+        "language": "",
+        "seendate": "20261117T203853Z",
         "source": "GoogleNews"
       },
       {
@@ -509,36 +449,166 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Visa confirms security incident, JPMorgan knocked down",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTaGlJU3VYdV9HUGFCa0NlSG1qdGhpSEJ6Rnc3UDVPZGh1LS02QkJ2ZnZpV2lPRDRkUzB1WmRjRXhBVlhiUHVqZlE0eGFHTVpMV2xPYkt6NnpXeHVzMjNwaTBMNlF3RmVQ?oc=5",
-        "domain": "cybernews.com",
-        "publisher": "Cybernews",
-        "publisher_url": "https://cybernews.com",
+        "title": "Equinor detected cyber-attack",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RSzV1NnNoclpOVGR6SkdLZlZaOHg2bzlQVjVzSzNwZERSRklTVXJsc3RZQTN3ZHZlX2VSV1Zrd1lFV0ZXVW1JQmViUmRBU1c4Ml9wSmN2VE9BZ3FwQTNyVnVEVlRIcWhjdnJyZDBEMnFQWXV6MkE?oc=5",
+        "domain": "www.equinor.com",
+        "publisher": "Equinor",
+        "publisher_url": "https://www.equinor.com",
         "language": "",
-        "seendate": "20261117T103507Z",
+        "seendate": "20261117T182850Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US National Security Agency’s comms down amid global cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY05tXy1MSGg3VkYzR21rSHVwcGEwWDBtSjJ4RW5tNmRoYksxSXZ5OEV4SDN6UTVUN3ZiVE8taERuUTJ2WmtzWEdpYlNaZ05rZUVvaHktWTIxdlRHY3ZSLUNqbk5pY0FBQms3cE93bTlzOEw5Vk82Q2dESG9BSllLZ3BQeWdXTnRSV2lZbWRtNE4?oc=5",
-        "domain": "www.yahoo.com",
-        "publisher": "Yahoo",
-        "publisher_url": "https://www.yahoo.com",
+        "title": "Google says Russian-speaking hackers ran the first fully automated AI cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ic0xuWHpoQXQwVWNldkJuc1Z1RXp6QWoxTWFrMGdLSUZSNHhjaTdockN0YkFhNW5KY190cTk3N2NOXzNUaW53Q0I1c2tabHlubDRlSlhPWWZMTVlBOW1zekdFN1hVbUJnYUlaRU5B?oc=5",
+        "domain": "cyberscoop.com",
+        "publisher": "CyberScoop",
+        "publisher_url": "https://cyberscoop.com",
         "language": "",
-        "seendate": "20261117T172206Z",
+        "seendate": "20261116T225154Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Kazakh ransomware hacking suspect extradited from Italy",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGZ6ZVNYODd4Y1RwbDVLb1NVRnVXWGtUMmR1MjFNWHJjUWRqNDVWUG9nbkpwUm1LbDBFRXVNUWR6a0ZOWXFsdGFoeXhaZURlbDVNX1J5b29lSXZ3WE5UYWdaeUg1TFZxYmlpMHhyUzZDdXdXa09tdFJibTNzaXJjWUMteHlXZDBwOVE?oc=5",
+        "domain": "therecord.media",
+        "publisher": "The Record from Recorded Future News",
+        "publisher_url": "https://therecord.media",
+        "language": "",
+        "seendate": "20261117T192625Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Equinor Hit by Cyberattack but Oil and Gas Production Remains Unaffected",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXFwV2FjazJBQ19PdEJXbGdXX1ZtQ2VLTmFXeUZKLXYwSkVmd281b193ek9KZ05taGpxanVfUEFGSWc4TFpQVlo3akZFd2hFUUw4VjV2ZjBhRWhuUFZjc190M3lWTHRJc2RvQ2Z2OU95Q2JraU9Pb3A1R3FONlZ2dGJfekNGOGZLWm84dFJrTVB5Zw?oc=5",
+        "domain": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
+        "publisher_url": "https://finance.yahoo.com",
+        "language": "",
+        "seendate": "20261118T015958Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Beware the New AI-Fueled Ransomware Boom",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jVlEzblczTFcwZTFqalo2VDNtZzVOOTlQUkR1bW04eXpqRUJWckZJR3VrWU84X3NXZ2xUZ09YQTJoQmlzeXk5aDlQaThjVXRodWRoanlIVjZHMjNjLU1wbUFKTk9OVGxFOG16Rzczek5hVDFYS0R4aQ?oc=5",
+        "domain": "www.wired.com",
+        "publisher": "WIRED",
+        "publisher_url": "https://www.wired.com",
+        "language": "",
+        "seendate": "20261114T130000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "We do not see a coordinated cyberattack nor state-sponsored activity: US director of national intelligence",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5TEloX1JWUzMxVE5BeEtnN2stNlJlTE1SQURuS09LUTF3SmNvSkQ1Y0VvNzFsVHhDS3B1NG9Ha3V2NllRNFdrX3FJQ0QyT2toUWhPVjktZl9Bek0?oc=5",
+        "domain": "www.foxbusiness.com",
+        "publisher": "Fox Business",
+        "publisher_url": "https://www.foxbusiness.com",
+        "language": "",
+        "seendate": "20261117T214119Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack or no, parade of tech outages highlight need for resilient systems, CISA acting director says",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kaElzTHQzM0djT09lSmJ5VDd5WXFQU3lCZWVYOHllckdwbG9NUWpVejluekVsb0huc1NiUXhVZnZxMUw0aUJXckZtSi1JVl9WMVc2RzhLeW5XOGt0UWdFSExkLXlSTEFkdDc2UlAxd3FTbGpGUEE?oc=5",
+        "domain": "cyberscoop.com",
+        "publisher": "CyberScoop",
+        "publisher_url": "https://cyberscoop.com",
+        "language": "",
+        "seendate": "20261117T200211Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "In a first, Google detects AI-automated cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2t5RHYxRENmb1ZYUS1ELUU1WlhuV0pna2dOcGFNa0ZyYmJIN216QnpTblRiSF9vb0tpc3BwREhEeVJXN2JDeU11MHZZV202MmpCcjU3U3RXdWxUd01BQUp2MlM1aUV5U1dfdjNMeHRkNkZTSFRRajVQRUdiUS1zS25MRUZRYTZnYTJ4bUZEUk1fZWhuYVlDLXJ1TTJ5cUJBTE04ZUVVMEtHZE830gGyAUFVX3lxTE9VRjZLbTFpRE12VGlZOHViODltbzBGMjhVZkdfRHhoNW1UUWNkNTJmMlVhTzVFTTZGVjMtUFY5c1dtdzk3Zm5vbGFWS09tNWVWTlpIdTdybTFOS01RVi0zZlBPRUtacjhPNDhfTnFtNy1mb2xrMkM0MDVKeHVuUjNsQlF3SUdoVFBkSmRfbjd5THlYQmtobGhxOW5DcnpwdmltOVFiOTdpWm54VzFmbm1oMkE?oc=5",
+        "domain": "www.upi.com",
+        "publisher": "upi",
+        "publisher_url": "https://www.upi.com",
+        "language": "",
+        "seendate": "20261117T064834Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0tpUkRvaGcwWEh5T0JlUzZzMEdTakNIenJjdjltc1dLb25pdlgxQks1aExOSTQ5UDI4ZVEwTjZDWm5nRk1XTkkxM0tUQVFIS19JSGNsblFxcW9jT0ZPb3U2QmxnVmh6b1hGbjFRcU1SaDRza0lzcEFGRWNMUjdSX1QtVDNTdnRMeUJRb0FRbk5kc1MwVnVTNWJQdXBvM3d2VXhVQzZtenJ5U0I4?oc=5",
-      "domain": "www.cnn.com",
-      "publisher": "CNN",
-      "publisher_url": "https://www.cnn.com",
+      "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWJtZnlLOVpILWNKalhlRWFFdWYzbUtucWZ4REQ2RDFTR0RnUlIyQ0N4RDBCbExRRXQwQ1R5azFXUmxjQ1ZWYk5Wcl9qS2h6ZHptdzZ5UHB5UlZoaG1WZVctSHg2M0M4elVpV1JPLWhCWERuVVVCc0R3eHNsLXZPN292U3VhQVh1X19SQnFrSldDRGlhZkpmX0NsSlFrUlVDbFNDLXlPaVktSF9LWG1KY2Y5eTFYMHV0el9HTWJvck53Q0dwT1pjWXFiMHMzR3lBcml1Uk1OemZmbnVPdm9F?oc=5",
+      "domain": "blog.qualys.com",
+      "publisher": "Qualys",
+      "publisher_url": "https://blog.qualys.com",
       "language": "",
-      "seendate": "20261117T153126Z",
+      "seendate": "20261118T044539Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KcURqeXZrWXg1OF9iNkwtRmxqaU40ZnR5Yk5xZV9ZNWdDdS1pQzBHaWIzd0xBX1p6OFNLbFl4bklvQUhvWnFxcFlHelVCTUE5VGVCSjJiS0ZSQQ?oc=5",
+      "domain": "blog.talosintelligence.com",
+      "publisher": "Cisco Talos Blog",
+      "publisher_url": "https://blog.talosintelligence.com",
+      "language": "",
+      "seendate": "20261118T015308Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "CVE-2026-114938 RCE in OpenJDK: Everything You Need to Know",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xQjh3VUkzU1loWTdzYk9sUVRZODRfeVc2Z0E1TjlOV3FGdDh2VTdneGVhUnhRQ0o1bkJreGM5dUlXeGNsN1VKSXZwcmhnTWJxSkdNb3lhamtJaVRzMjZBWW0wRG5XVDRvYkt5SzljZw?oc=5",
+      "domain": "www.wiz.io",
+      "publisher": "wiz.io",
+      "publisher_url": "https://www.wiz.io",
+      "language": "",
+      "seendate": "20261117T222957Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzVfYTJEcDA4Y3dpa2tiOWlUbm82ZDFLa2Z6VmlrVk45MUdINDdjdHJyUXYwb2tMRzVEdHVRanVDODNvbEhCNjJvYVhodHVNbHQtYURfV2NiSTNGcnJwX01yUGJEYWpyTW85NngxV091RnJJTzVXRFQxbkxvdGd3eC14MA?oc=5",
+      "domain": "thehackernews.com",
+      "publisher": "The Hacker News",
+      "publisher_url": "https://thehackernews.com",
+      "language": "",
+      "seendate": "20261118T042700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Java4Shell (CVE-2026-114938): Pre-Auth Heap Overflow in OpenJDK",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN21yTGhnejdpR0ljcjkyREY3UHRJMGxyQk9jSUx1dkpXVjBBeTB6RHhrampEOVp0QV9uU1h3ZjBFU3hGUmlhbmNrZEp1dW04OEdCVFd4cVIwNEN3RE1kRkJVQUxtTEtteURCSjY5VGR3NnJoTjN5Tnc1eXZTX1lOMl9PU2VIWEZHQUVJY0Qza3VQRHNQOGJYcVNzUm5WVFQ5SU9Z?oc=5",
+      "domain": "www.endorlabs.com",
+      "publisher": "Endor Labs",
+      "publisher_url": "https://www.endorlabs.com",
+      "language": "",
+      "seendate": "20261117T203948Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "National intelligence director says no signs of cyberattack amid tech outage concerns",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2xuYmRKREUxeWp5ZnJYcXYzemJTU0xWcFluSW9lRDRLc2FGbWtKMDkyNjhiUTd3dFdQZWgzTzRRd3RPX2d4em9jWXJoQlB5VGlEX19sc3ZHTEV4RS0wVkR5Njd1a3RjVzBCRDlIZlpOVTJ3Ymw3bUVHYkZqM0RyNWtrLTJwSEZwLWJ5bVliS20wRkIzcmhmcEppaUxyRjdvVHVSRmJxRFQzeFHSAbABQVVfeXFMUHdIejhTQmUxTG9acUlscG9jdjhOVVNScGRtMUZRWERRdnFURW90QU9zSmVTd3ZDSjU2bUk2MHppeHU2bTNqaGRrYzFQVHRTblpUbW5iZjZGUVV1Z3BmT012YmI0UUhycDlycW1ZQ0p4eTBWWHprTk5iTFNGb3NGYXhTVjNXSXEzLUNjQ3pseWxmbGZUdWhnUi1NZTJMbFE5SG81LVExNXhoNUtDZjA4QzQ?oc=5",
+      "domain": "abcnews.com",
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "publisher_url": "https://abcnews.com",
+      "language": "",
+      "seendate": "20261118T024757Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Cyber agency warns of ‘critical’ vulnerability in Java programming language",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3QyYTlZNl81LVpHMzBrdjZtLWtEUjNZazAzd1dzS1A1dTdTemlTRlFOUV9QS0x6UXowQUg3WEt0OFhHMHV2MFZqbGpqSDJ4bE1RcGNmclh4SjNCSk9PSkRFM1BoZXR5ZmxwVkx2MW83QUFiOENZOFZPU0NDNHhGbXpnQXhCdXI5Wk5CRl91NA?oc=5",
+      "domain": "www.politico.com",
+      "publisher": "Politico",
+      "publisher_url": "https://www.politico.com",
+      "language": "",
+      "seendate": "20261118T010200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhGTnNBTjRRNVlLVTFYb2NsSnB6bDJmbUIwbWY2UTh5YUpDNC1UQXpvLWJacEh2THJTOUlnM2NkMHF0QUJramtnRkpadURDR0FieUJvOWU4bFdka2RKdVE0b3dCMGVHTWpCYzV4SHBZNDZkU3gwOGwwRThtMnNRQ0NtZG5OdUNzRXdnNU1TY0E5Z3FHQV9PeVJmZm40RmpmclE?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261117T232117Z",
       "source": "GoogleNews"
     },
     {
@@ -562,123 +632,53 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Optimizely confirms massive cyberattack on customer websites injected stealer malware",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0R0ODQ0eDFUYUtjODExbWZrd3hfYjlXN1dxVHBzeTlTUnc3ODI5bXVvOE93SXEzZ3RMY2ZYNGpNWjhRZWpsWkRReW5vVVp0V0N5Q3J2RS1xWW01VExhNm55TUZOeURYYVdqNXhBYXJmOUhvT05OU0JwVnAtaHl4YzdsUUVnQ0FTV2hlVEFBclhNZkZQc09KdURPbTJHZHVRX1RsTnR0RU00WFV4dm56TmM0OVFNVkxLU3g3bjJCcEVlRTVlT2hOQy1GbEw?oc=5",
+      "domain": "www.csoonline.com",
+      "publisher": "CSO Online",
+      "publisher_url": "https://www.csoonline.com",
+      "language": "",
+      "seendate": "20261118T012427Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Cyberattack targets Optimizely, third-party software used by major websites",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDJWSFN6eGEwZ1k3X01HVGU1U29mX3k4M3JwRTJlQThpZXVrcjdvUUdQWjhWUWRuRENHMFRCcUg0d0stbjdXREdvWENfaWpSSWNsUTEtMzF1UHJ3UXdJYnpsb0g3WXdXQnhpeWtjRmV2eWxaZDUwT1V1dURGdld0Z3dRcUpUTktsdDJvb1NYMDBpWUhRa0kwbndJME82UTloeUlhcGY1V2ptY2lra3lxT0wyTXJadjk4a21ELU1qV3JDZVdZVEdN?oc=5",
+      "domain": "www.clickondetroit.com",
+      "publisher": "ClickOnDetroit | WDIV Local 4",
+      "publisher_url": "https://www.clickondetroit.com",
+      "language": "",
+      "seendate": "20261117T215647Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "'Java4Shell' vulnerability (CVE-2026-114938) could allow remote code execution",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmV1bmkwTE1HVklxNm1LcG1LX3E4RnMzWlplbXFENUJ0WEpmaFpSQ1pzQ1Brd0pDYjY0RDJJNzU2OVFlN3dpNU9ja0ltTkc0RzJuNUw5eU5Gcjg5SlFDc01wLVY4d1NodUpQaURUeDF1czR1elVMV1hiSjBnSjNsb2ZuMk0?oc=5",
+      "domain": "www.sophos.com",
+      "publisher": "Sophos",
+      "publisher_url": "https://www.sophos.com",
+      "language": "",
+      "seendate": "20261118T003155Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY21ILXk5ZjRsUTJaVXA1Vk85MlR2OUtQLURDR1NRWXZMcEhtVkRSOWpMNmlPdi1zQTcyZEc1eUNZNGJibzBaWGE1b2F3Rk96QmpqZzhBeUJmRXhJeFYxYWVJMzFvRVNyNEVObFZoM0lqTl9oQWtlMUFkUmV5N2l6dDg5dm8?oc=5",
+      "domain": "www.ft.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
+      "language": "",
+      "seendate": "20261118T022311Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Some of the world’s most-visited websites targeted by cyberattack",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEQTM5aEhLeUozcmY0Z1ZWdmk2Rl9oYWtrelhXblZPRXZfYVk5b0h5V1VVWlBTamZVZ2g5MEo0T2FPamZ1aHFNaTVOMGpvVTlkeHBkUU1GZUY0bzVWZ0xwRTROdVR5Wk40QnpjYUhZR2l3bEFyOTRmS3Rn?oc=5",
       "domain": "www.wbaltv.com",
       "publisher": "WBAL-TV",
       "publisher_url": "https://www.wbaltv.com",
       "language": "",
-      "seendate": "20261117T174600Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cyberattack hits 178 organizations, targets website visitors",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUTNDRVBUX0U2WTZSYTBRMEJ3M2JPdDlKTTNURzNGNGZ1VVVobDM2elM4WlJNd0ZXYzZ4UWtwNmk2Vng3cHQybGFXMjMtVVhqYWI4Qm9HZ1QtTk1hWU13eFdlWU4xRTlicnFmM196aGwwXzFqV09sMEpRMFkzVi1nekVBUWlub3FDTU5xVWtTb1lKNnFXRlgwLU94TE5Ud9IBsgFBVV95cUxQeTlPSkh0b1lmOU43d2U0WEtTc1NFUXBheWZDaTFrUVAtY1NiYTRaOWlZOUY2VkRIV0l4RjhNQTVqdVdkRnFEalc0MlVvb0hJdUNlOHlLbm9Da240eGN6UDRjeG9MNDJCOC1CbjF6aExFX3llcXIwa09yczlNZDhtWlA0N1ZWQ1M1VEVnT1lJTjIwUWZLYzhEaUtSN3g0cUxqZmtyVmpJeHNlazJ6cEE5R0l3?oc=5",
-      "domain": "www.fox5vegas.com",
-      "publisher": "FOX5 Vegas",
-      "publisher_url": "https://www.fox5vegas.com",
-      "language": "",
-      "seendate": "20261117T173400Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Equinor detects ongoing cyberattack, output unaffected",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhGTnNBTjRRNVlLVTFYb2NsSnB6bDJmbUIwbWY2UTh5YUpDNC1UQXpvLWJacEh2THJTOUlnM2NkMHF0QUJramtnRkpadURDR0FieUJvOWU4bFdka2RKdVE0b3dCMGVHTWpCYzV4SHBZNDZkU3gwOGwwRThtMnNRQ0NtZG5OdUNzRXdnNU1TY0E5Z3FHQV9PeVJmZm40RmpmclE?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261117T182732Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFcyTFE0b2NfSjg4N3E4eG9VQ1IwWXBraEQ4TjY5YU9iVE96OVZNcGdtWGJJX1JBTmF1TWtXbkM3VGhndHBkU1Vpc0ktRXhpODJ6eHdaSEtDMjJtcy1hRV9fSkZGZDg1ZEdQSGJ3dzZJUjdIb2ZURDNUem4wcFQ1V2FfOUFMdXpjSXJfbHMwRmJrNjVJeXVkbVQ1Z1ZhQUN2?oc=5",
-      "domain": "www.securityweek.com",
-      "publisher": "SecurityWeek",
-      "publisher_url": "https://www.securityweek.com",
-      "language": "",
-      "seendate": "20261117T102220Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cyberattack hits 178 organizations: Credit cards, crypto, other data at risk",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEk0NFhMYXFvSVRIemVuWTRsbURQMk82bWc3WW1aZGZVTVgzSk9QTFpCU1o3bkdRbFZjRkFSZXg5dk1QcUE0S2xnWDF2RWNtd3NsbEUtSVM0MXJCb3JTWGdtU3JOSWFxQmYtT0lTUnEwbE9Jd0dYUS1rcHp3cjJLcnp0LS1KMFdXN2p2NHh4ei0tS25BMXJQTGxoQnhZRV9KTVhVX2JROVBJanJPTDZTV05wV284SmZTSHZJ?oc=5",
-      "domain": "www.syracuse.com",
-      "publisher": "Syracuse.com",
-      "publisher_url": "https://www.syracuse.com",
-      "language": "",
-      "seendate": "20261117T145700Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmFJdXhVWlNyTXNwRmUxcFhCekpWaFNkMEl4MGc5NjUwWFF4VXNaMExXWUlYenc0VTFRbkpFck05NkpGTEp3ZVNJZjl1OHY4a19pcXJFdkNwSW9lem50Zi1HUF9FNmcwZUxJVV9jRTc0bmx4bDltbDVQX3pjTF9vUjJFTQ?oc=5",
-      "domain": "thehackernews.com",
-      "publisher": "The Hacker News",
-      "publisher_url": "https://thehackernews.com",
-      "language": "",
-      "seendate": "20261117T151700Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cyberattack Targets iPhones, Crypto of Visitors to Major Websites",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkFmdWp6ZEk4Q05Ta3VLNmNBU0dPZDZvWFVISk9QQ085alFOTkZKU2hlVUhKVXNydXFSRnBFcXkxTHBpM2dTMmhOX2pVQjB4MjV2ZlFZMWZuOW1ocFlfTGd1SFMzeG10UW1RMHhtQ3BIS19wRnVJdGFlejg3QURUN05QVWI2QjFQdEZsY0NDQ0dHWFFDa3hz?oc=5",
-      "domain": "www.cnet.com",
-      "publisher": "CNET",
-      "publisher_url": "https://www.cnet.com",
-      "language": "",
-      "seendate": "20261117T201917Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Russian-Speaking Hackers Launched First Fully Automated AI Cyberattack, Google Says",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEFlcEk2eVFna1VOWm84MmJkeWZSYTlKRkZqY3VJdExmSU1aNnZZbnBWRThSbjMzM3BUVkl4TjZsV2dsVEVkSVhZbnRoSy1YRmQ2b2NpRWZmWldQS3lwdlJHd0dUcDJyZ1Z2S0plUnNmeVd5Z3piRmJMT0Y2WDNwYkE2R3dPYjBYNU93enhVblNIOW00eHlZME5sOExqQWEtcWxEa3h6eFpBY3NHc3hoS0dFMGZCazNiT1pBaQ?oc=5",
-      "domain": "united24media.com",
-      "publisher": "UNITED24 Media",
-      "publisher_url": "https://united24media.com",
-      "language": "",
-      "seendate": "20261117T125012Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "‘Malicious’ Cyberattack on 178 Major Websites Tried to Steal Credit Cards and Crypto — Here's What You Should Do Immediately",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQakw5QUtVU3Ftd3ZTU3BBSVhZaVk1d0pzUEg4akd4X25TcDVOdWNpUmpVZVVuZk5weGp3Y1B3Y0NTcWFBTzNiemdncmNydHNIWmtCczJKSUtNRlhLZDhGZHIxa25LVUJUN0Y4QTRvdWNZV2xBM2I0V0VIVmpjalJSWEQ4VUlwLXZ5b2s5TGpNeFZnVURZQ3dqaDdyVGNkUUpvNDBpZ2VrNFJhSzJUNGRHd3BjZ0pwWW1yOWxvUGs1NUJoMjNSVklIM3BWbVNYZGFMVlFXa2RIVlQwMFIyVGw1cDNsdHhyVVFiTFVTSmdaOWJIYUx6?oc=5",
-      "domain": "www.entrepreneur.com",
-      "publisher": "Entrepreneur",
-      "publisher_url": "https://www.entrepreneur.com",
-      "language": "",
-      "seendate": "20261117T201106Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Is there a cyberattack today? What 178, Optimizely mean",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObDFicS1NNC1Pb29OR2VWemxVbWlzR00ySlhmejExY2wwbFNFQ0ZCQlduOGcyVS1RYWt1VlJHajlOYWdJcGZVeXp2YWk0RV9EZ0ZFWGk2cFBoM0NSZmhlaEdNWnR6czY4ZVhvUUZ4b05FU1JHNzh1QUFoQktfU2UzSTdfRkFlQXdyVTl6UDYzYzBnM1JydGJEUVZGdjFkWXdfYi14S25yVWVaT2Rmb0lvWWtxTm8yQQ?oc=5",
-      "domain": "www.northjersey.com",
-      "publisher": "Bergen Record",
-      "publisher_url": "https://www.northjersey.com",
-      "language": "",
-      "seendate": "20261117T150700Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Dragos finds industrial ransomware attacks rose 11% in Q3 2026, with manufacturing accounting for 69% of victims",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGVQeE45RzYzZ1dEYzJGNnAyUDRhaWJnU0t0Q2tOcVVkYnBVTXcxVmJDd1g3V3lValZkWnhfQlNkVU9YTXZBbHF5Q2xtQmFSYWQ0ZDJRYkJuaHVvY00wMjBzeHVOY1FFLU80UWhUZzU0SkRlNXBLLUl2MWtEZ3Y5SkFiMXRPLXpQQmhaeU1MZm12WmZkcWRlN3VkZVlTTlo5cmYxY1dlcmY3QmtQNmlvUTdrTkdtdDRDdnc5X252TGJ2TjRWazFJcmRjNGRFbGJsY3Q3SmV3S3pTbnhhUlE?oc=5",
-      "domain": "industrialcyber.co",
-      "publisher": "Industrial Cyber",
-      "publisher_url": "https://industrialcyber.co",
-      "language": "",
-      "seendate": "20261117T124558Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Queens Libraries Still Contending With Ransomware Attack",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaU5VVVJHSUpNUDlUTEtFMHBfdW5oVTByS0lwWWpYR3ZhZEd1YS0wbkl5SEpJck9SY3E5bXZ3YUZRUWpzUFNlUXptMHI1SGxLVkdtYTcxN0p3ZHdMM2FHNTNrMURqYTJKcHpuVDNFcDdiT2lrZXZVWlk5dnd4MDFEdk9FaHdfMlRZNUl3?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "language": "",
-      "seendate": "20261117T100310Z",
+      "seendate": "20261117T184500Z",
       "source": "GoogleNews"
     }
   ],
