@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-11-18T20:55:57.207911+00:00",
+    "generated": "2026-11-19T07:59:55.826562+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,29 +23,39 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "40"
+      "value": "36"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "Java4Shell (CVE-2026-114938): Easy to Crash, Hard to Exploit — Less Than 0.12% of JVMs Estimated at Risk of RCE",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xekVscWY2ZmRtRTRnazVVWXVDNEpjSnpvTElLaTZoZ01FLWJhQ2NyV0wwRzRWWWtzM2tHd3JwaW9xQ3pTTEp0Vzd5aW1rUzVhMTd5MlRkcjEzRHRtVUI4LXBGeVZlLV9UMXNqandTbHAwREE?oc=5",
-        "domain": "www.ox.security",
-        "publisher": "OX Security",
-        "publisher_url": "https://www.ox.security",
+        "title": "Trump administration continues to insist tech outages not cyberattacks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2xuYmRKREUxeWp5ZnJYcXYzemJTU0xWcFluSW9lRDRLc2FGbWtKMDkyNjhiUTd3dFdQZWgzTzRRd3RPX2d4em9jWXJoQlB5VGlEX19sc3ZHTEV4RS0wVkR5Njd1a3RjVzBCRDlIZlpOVTJ3Ymw3bUVHYkZqM0RyNWtrLTJwSEZwLWJ5bVliS20wRkIzcmhmcEppaUxyRjdvVHVSRmJxRFQzeFHSAbABQVVfeXFMUHdIejhTQmUxTG9acUlscG9jdjhOVVNScGRtMUZRWERRdnFURW90QU9zSmVTd3ZDSjU2bUk2MHppeHU2bTNqaGRrYzFQVHRTblpUbW5iZjZGUVV1Z3BmT012YmI0UUhycDlycW1ZQ0p4eTBWWHprTk5iTFNGb3NGYXhTVjNXSXEzLUNjQ3pseWxmbGZUdWhnUi1NZTJMbFE5SG81LVExNXhoNUtDZjA4QzQ?oc=5",
+        "domain": "abcnews.com",
+        "publisher": "ABC News - Breaking News, Latest News and Videos",
+        "publisher_url": "https://abcnews.com",
         "language": "",
-        "seendate": "20261118T134606Z",
+        "seendate": "20261119T002126Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Critical Java vulnerability could help hackers compromise many popular applications",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHEtZ3VtOUl1NV9GZ2x3Slo2LWxUeTkwM3F1aXF1VXFBUVBRV19OVWpuUmJtSzJlamt3UHdIdFZpUk9GcUN5a0h0dWJsVXFPeHc2NzBLVTdGLVdfYzdPR0Z3NjE4T1Vmb1BCelpsbVFyOTE1Mzg5T0VZaW01WnZRSHJhalJsVzF1UzY5NkhGVQ?oc=5",
-        "domain": "www.cybersecuritydive.com",
-        "publisher": "Cybersecurity Dive",
-        "publisher_url": "https://www.cybersecuritydive.com",
+        "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVE5c0hlck4xVmNZWTdZREZ2WjNuNUtLbWZvTUxCQU5ZaVo4czJPdThqX2xRcEFfdVpqdHVRNWxoYktka2ExY2tTaGFCeWp5aVlzZVQyb3JWeWcxdnpEd3NIYjhNVFpudVlTTEpSTzZSRDF2dGY4c0Q0VmVydm5IbEZXU0k4UWdTYlc0ajh4UUwxQk9QX2wwaXZxVXFVc05iV3FFY2JmTzRuUXF1NEVHa1oxdy1XQy1WVEdYbEtpS2kwUjZUOGxKaXE4OXFaNmpLZDVRM0t4SXc2N3Z5Vk9IUjhCRHI?oc=5",
+        "domain": "blog.qualys.com",
+        "publisher": "Qualys",
+        "publisher_url": "https://blog.qualys.com",
         "language": "",
-        "seendate": "20261118T160038Z",
+        "seendate": "20261118T232925Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Advisory details CISA alert on critical Java vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdExzUlpIT2RVVDZGckNOOVhXczNfS0l3T045Z1R4QXF2QnVDd1QxUkNwQm5FWEw1NFhwc2RqcnozeXU4SndsNk5WVlVyRnViVUdLZ2lLVXVmdVlLckRfaGdmVFVabUdPNTFxaFpDbHVrRWNWZFVuM0N0d05JRVdOX1hNcThCM3RmQjMwWGt2eU9BYU9rMzF6ajlreGF1OGtlalE?oc=5",
+        "domain": "www.aha.org",
+        "publisher": "American Hospital Association",
+        "publisher_url": "https://www.aha.org",
+        "language": "",
+        "seendate": "20261119T032230Z",
         "source": "GoogleNews"
       },
       {
@@ -69,13 +79,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-114938: Java4Shell RCE Vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ01NMHgzSm5UczNDdGJFUGUxbjNKMWgzMXZVblZsZVVDTk81Ti01TVZHWDBXZGlVd2NrYTBtck9SRXRGVDlzbDJoc0duZUJPTkJRZThPNlR5cjVGNHA4TFdMU1FZVkhEVUctTjBTT1h5aGJMRVZTYnNUbjQ3NldDWUkyeTIwc0dZVnpBdlJCSTI5Y25QVzJnR0dWOFZ4UWJRcFBCS3ZGZV9rdw?oc=5",
-        "domain": "socprime.com",
-        "publisher": "SOC Prime",
-        "publisher_url": "https://socprime.com",
+        "title": "Critical Java vulnerability could help hackers compromise many popular applications",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHEtZ3VtOUl1NV9GZ2x3Slo2LWxUeTkwM3F1aXF1VXFBUVBRV19OVWpuUmJtSzJlamt3UHdIdFZpUk9GcUN5a0h0dWJsVXFPeHc2NzBLVTdGLVdfYzdPR0Z3NjE4T1Vmb1BCelpsbVFyOTE1Mzg5T0VZaW01WnZRSHJhalJsVzF1UzY5NkhGVQ?oc=5",
+        "domain": "www.cybersecuritydive.com",
+        "publisher": "Cybersecurity Dive",
+        "publisher_url": "https://www.cybersecuritydive.com",
         "language": "",
-        "seendate": "20261118T114059Z",
+        "seendate": "20261118T160038Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Java4Shell (CVE-2026-114938): Easy to Crash, Hard to Exploit — Less Than 0.12% of JVMs Estimated at Risk of RCE",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xekVscWY2ZmRtRTRnazVVWXVDNEpjSnpvTElLaTZoZ01FLWJhQ2NyV0wwRzRWWWtzM2tHd3JwaW9xQ3pTTEp0Vzd5aW1rUzVhMTd5MlRkcjEzRHRtVUI4LXBGeVZlLV9UMXNqandTbHAwREE?oc=5",
+        "domain": "www.ox.security",
+        "publisher": "OX Security",
+        "publisher_url": "https://www.ox.security",
+        "language": "",
+        "seendate": "20261118T134606Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP schedules a critical security release for 19 November, including CVE-2026-115560",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1A3SUJLUm5CODdHWTZjS2ZtaFlYV3VtR3dvUDhjNGxfTWpkbC13WkN3MEFmOEMtOWdqLW9vbGcya283RE9DRGIwTC1RV3VYeWl5MnRfZzJBWEFSbktGaW93M2dnM096QzJyVFNSaW94RFpHN2ItOVdXU1RFaWRkUFFoODdRTGVs?oc=5",
+        "domain": "www.aikido.dev",
+        "publisher": "Aikido Security",
+        "publisher_url": "https://www.aikido.dev",
+        "language": "",
+        "seendate": "20261118T195129Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHVqd3hPX2Izb1MtRDlMaXVzdHNwMUszUHQtX3cyS29yNGFLa3dTekFrQmNhdktwYXNOYjUyYS03Sl9rcVhyTzJLZ25xLVVMVVdnLTdKbFZCdDVYWXh3emZlZ2d6V04wakdSWk9xX2xhMnFVX0hiQzQ0Y19MdjRXVw?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261119T043300Z",
         "source": "GoogleNews"
       },
       {
@@ -89,46 +129,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWlJY3pIYnZXUUxPNW9PYXdoZkFJaVQ5eXJOMFBNM3hqcXN2Ty1wbzR4SjV3endBNEZBQTNQWExvbWNzYVVwbWRvWHRJdG9OT1BpdDNpd3NJdGZPSlNzUXRDSFlmN0Jjd1NDY0VYMHlENDVXYXBEaVVycDE3bThxYUdjR1AtanZOU3ZPZDIyc1pnS056YXRxMVlXTGpXWFZ1clBFV2hCZFFPM1g2?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
-        "language": "",
-        "seendate": "20261118T074334Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Optimizely cyberattack hits major websites and what it means for security teams",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTh6WHhvd1haalZDN2VqV3lFVEJnZ003c29GWjVqdW5QaGc0OXhLakhQQVBKTjQzbGxqYjRfZnlTOTYwTlRNd3haeTYtUWl4SmdlY19peGJtR1IwYVV3SUlMWFptRjlvZlNHZDNsUzVsR0pMTmR6VVhLWEtEc1hqamtZT1RpMEJYcUY4UXNnZGpyUjlMZHJNVUN3aG1NSUlLQTdHZ3VxUW4wOG5TanRNcC1FcFVBd1k?oc=5",
-        "domain": "www.spiceworks.com",
-        "publisher": "Spiceworks",
-        "publisher_url": "https://www.spiceworks.com",
-        "language": "",
-        "seendate": "20261118T145819Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OWWloaVJwUDhtZHlyQzUtbl9wZzZZWjRTX3J0WXJGWkh4Tjc0TjI2NkFhZjVycVRIeFJINWFPSXhkVXh4ZmUwd3VNMUFZS2Q3Tk5EVTN4YU1yeGVSa2lYMVM3bnFuMElYcV9tMzRzSzBGN2ZQOTZoQlAtZEs?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261118T183100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KcURqeXZrWXg1OF9iNkwtRmxqaU40ZnR5Yk5xZV9ZNWdDdS1pQzBHaWIzd0xBX1p6OFNLbFl4bklvQUhvWnFxcFlHelVCTUE5VGVCSjJiS0ZSQQ?oc=5",
-        "domain": "blog.talosintelligence.com",
-        "publisher": "Cisco Talos Blog",
-        "publisher_url": "https://blog.talosintelligence.com",
-        "language": "",
-        "seendate": "20261118T015327Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need to Know",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xQjh3VUkzU1loWTdzYk9sUVRZODRfeVc2Z0E1TjlOV3FGdDh2VTdneGVhUnhRQ0o1bkJreGM5dUlXeGNsN1VKSXZwcmhnTWJxSkdNb3lhamtJaVRzMjZBWW0wRG5XVDRvYkt5SzljZw?oc=5",
         "domain": "www.wiz.io",
@@ -139,43 +139,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWJtZnlLOVpILWNKalhlRWFFdWYzbUtucWZ4REQ2RDFTR0RnUlIyQ0N4RDBCbExRRXQwQ1R5azFXUmxjQ1ZWYk5Wcl9qS2h6ZHptdzZ5UHB5UlZoaG1WZVctSHg2M0M4elVpV1JPLWhCWERuVVVCc0R3eHNsLXZPN292U3VhQVh1X19SQnFrSldDRGlhZkpmX0NsSlFrUlVDbFNDLXlPaVktSF9LWG1KY2Y5eTFYMHV0el9HTWJvck53Q0dwT1pjWXFiMHMzR3lBcml1Uk1OemZmbnVPdm9F?oc=5",
-        "domain": "blog.qualys.com",
-        "publisher": "Qualys",
-        "publisher_url": "https://blog.qualys.com",
+        "title": "National Security Agency network outage linked to software vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNENuckNXMUlsODdxZnZnTFZicTR0bmk0aDY2ZzBEUEd3ZHJRaFNjVDNpWmxzTk1jNnBpVHlvdmE3ekhka3YxVmIzVUZKQUotM0x0Zk9SV2h5UkZMSVdpb2VEVUpXNms3aHV4N2w5eEFybGNWVE9jRmJkUzZTTU9uNVFvZzJNdlJkeXRCZkhUcnN2V190WnBJ?oc=5",
+        "domain": "www.cbsnews.com",
+        "publisher": "CBS News",
+        "publisher_url": "https://www.cbsnews.com",
         "language": "",
-        "seendate": "20261118T005045Z",
+        "seendate": "20261118T222800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "AHA: Why Hospital Operational Technology Is a Possible Cyberattack Target",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVI5UlU0VGZaZXllYzRJSVU0VFdwWVlCYVh2X2hsVDUycFJZYTY5OWRCVElrQ0RLWnppZVdoQXJ2Zy14VkhTS1FsVWtkSmVNOXItbEVJaWk0eUJLOGpaRXE1dU8zbXZ0am9fZmlmUUdQSUFKRzNBN3RiZkFKMm1EWV9zSXJGVE05bV9oWnF2aUNnb2NZVzVjT0dYb3lsUENqb0s1WTZxeVJyekhoYV9zZ24taW9rM193N2xXNmZB?oc=5",
-        "domain": "southfloridahospitalnews.com",
-        "publisher": "Florida Hospital News and Healthcare Report",
-        "publisher_url": "https://southfloridahospitalnews.com",
+        "title": "Cyber expert says recent tech outages aren’t signs of widespread cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTzJWeVdnMl9aLTR2X0JadEFjSjVDclhrSnp6VWt2QlJGQ2hPUGczUlIwRXl2WnU0bXJsb2gzUF9SQ1M2S2g1YmtmamN1VVVvX2VPazhUR3N4MDJKZjltU1R2bnR5VGlMY1FHcktBWEtDWktWWUhaRzBKWERUSXItVkdXcm5DV1h6Qk1yVmJaMzVaazQzN2dLU1BlcEFFTUNYRG4td2hPUkJBVEllSTlLNnBLMTdfVlE?oc=5",
+        "domain": "www.25newsnow.com",
+        "publisher": "WEEK | 25 News Now",
+        "publisher_url": "https://www.25newsnow.com",
         "language": "",
-        "seendate": "20261118T142437Z",
+        "seendate": "20261118T221800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlZBd1dWVmdPT2pjVnBUa1BrZkl2ZnlxU0JzUkZMUFJpbFVfSGtOM2hteEZUMkNhTXU4YTg1VVlXZjNXOTlnTkpPWEJaTFl6blhqMEVWNVlrMUZoRTc4TW13NmNtVGc3MVVDMkQzRlFsb0RSUFdXc3JDNWI0RDlJUg?oc=5",
-        "domain": "www.infosecurity-magazine.com",
-        "publisher": "Infosecurity Magazine",
-        "publisher_url": "https://www.infosecurity-magazine.com",
+        "title": "Nvidia Probes Breach of Partner As Ransomware Group Claims It Stole Data",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVdtUG1jdWRLODg0dy1NSndqejJHVjFnaG9tYXl4eDRHQzhPOUg2NjNQeG9vVWs4dy0zeGZNVFF1bzhPbXRldERaZ1R5RmZPQmZ3TDJjVXJrYjk5QmRJNF94bF9qSl9YRkdIU1J6Z2k3TEs4eWtOSDRFOThPM1hmQXhPUXBJV1BxWnhzU3FVV0Y2RFA4Qy1BQ3hoWE4xRWVx?oc=5",
+        "domain": "www.pcmag.com",
+        "publisher": "PCMag",
+        "publisher_url": "https://www.pcmag.com",
         "language": "",
-        "seendate": "20261118T123500Z",
+        "seendate": "20261118T221850Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Visa confirms apparent cyberattack, hackers also claim hit on JPMorgan",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXZhRkFCQlp0Y0xFMDVnVmVwWldxQUxsV3pHMmcxSnpVclBrdnJaRHVjYkZOcmtyZjhXOTdNTGV5dE1rXzNrallCRUw0X3JBc2lBS2RKUzRKNGozTnBoNlg5TDJsSGl0ZElDZDdfTHdoM2d1RFdNRi1OU0g2WjFxVHJaazdlanBSLU1tMWJySEprb0d0ZnBvM2tYdmtxNHpuWTZjSWlUVW5TdW5V?oc=5",
-        "domain": "www.techradar.com",
-        "publisher": "TechRadar",
-        "publisher_url": "https://www.techradar.com",
+        "title": "Ransomware access brokers are moving their deals off public forums",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3c2WUdoeEpjN2pKYTlrUTZBMHo2U0xZMGRfazljSnluT0wtQ3ItSmFqV3B4ckIxTWFCX09TZ0k5VXNRaFhrcDJQVmx0TDg1ZmFJQkdPTFVyTnpqLXRWQWJLWVd3TGl6aTN2SlhOekhpZ1NpdFdwY1pmTXpmVGtsTUhDQXB0cWM?oc=5",
+        "domain": "www.helpnetsecurity.com",
+        "publisher": "Help Net Security",
+        "publisher_url": "https://www.helpnetsecurity.com",
         "language": "",
-        "seendate": "20261118T161000Z",
+        "seendate": "20261118T232820Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What to know about recent tech outages spurring cyberattack fears",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlNZTlU5RmJXTkNPQTVab2FtMVVESkkySDJyYXlLbG9GOGtiVlFiaTVUWlJFbVNTSVBueXNITk9ZVTB4WFc3REhpR0JCTC1HNDRtNXhQTUYyNmpHeXBDVW52a0FXSlBlSUgybm9xTk1uYXRXdzNkZXFyNjk1bDVMNG1CN2xFeG5ZVWhoWmtBYWM5a2p1YXZsX2hLMWXSAaIBQVVfeXFMTTg5TVpGMFhieFlLR0FZMG5pb18tcHhPbkQ4amxQclI0YXlHWXloQzRtdHVybC0xQ19LbjhPbmZydkdpRkNyVFhnSEx2RG1jSV9pRnlwOFlPSWFxNkpaR2pJTVcwTkJ2ZW5heVFLSWplWDlzTjVjRUcxQXRMUWptenI5WEdvaHNNRm5ManZodm05LVNSM1l2aFlsemRzRDJHTlpR?oc=5",
+        "domain": "abcnews.com",
+        "publisher": "ABC News - Breaking News, Latest News and Videos",
+        "publisher_url": "https://abcnews.com",
+        "language": "",
+        "seendate": "20261118T220837Z",
         "source": "GoogleNews"
       },
       {
@@ -199,33 +209,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0xzTUVSWk5pdzY3ai1NcE5uOTdLTzV3aGtZUi1HSktPSmxTWThRamMwajd3S1N5c0VpZGVyalo2d0lLN0V4Mk5Id09sX3NnVVh4QWR5VWxPLW5rQXFzVUxYSl92cXNpVlVTX2hFMWM5N0FDM0VCVERXZjQtZU5IQnJ3?oc=5",
+        "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OWWloaVJwUDhtZHlyQzUtbl9wZzZZWjRTX3J0WXJGWkh4Tjc0TjI2NkFhZjVycVRIeFJINWFPSXhkVXh4ZmUwd3VNMUFZS2Q3Tk5EVTN4YU1yeGVSa2lYMVM3bnFuMElYcV9tMzRzSzBGN2ZQOTZoQlAtZEs?oc=5",
         "domain": "thehackernews.com",
         "publisher": "The Hacker News",
         "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261118T171000Z",
+        "seendate": "20261118T183100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzVfYTJEcDA4Y3dpa2tiOWlUbm82ZDFLa2Z6VmlrVk45MUdINDdjdHJyUXYwb2tMRzVEdHVRanVDODNvbEhCNjJvYVhodHVNbHQtYURfV2NiSTNGcnJwX01yUGJEYWpyTW85NngxV091RnJJTzVXRFQxbkxvdGd3eC14MA?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
+        "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BQjYySjNZRkM1ZWR3ZDZFb0NKQW9XOWlpWWdCNTNpbklBWFRZUVIybnBkYjlMYWNWNVk5SlNJUldzeVctWEJ3T0xpeXhqLU9CU0Jka3M3NGdNZkJneUkzUW5xZ1dfdw?oc=5",
+        "domain": "www.wiz.io",
+        "publisher": "wiz.io",
+        "publisher_url": "https://www.wiz.io",
         "language": "",
-        "seendate": "20261118T042948Z",
+        "seendate": "20261117T203500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOanU2c2RqcmpzNFppMEd1QjhDT1hweXJ0eUxIcm1ZSmlTMk9QOG5xWFhNbHlpU1BjSjBCX05DVmJzWl9kRmR4MXhOYlE5YlY0V0ViYUx5a2pMYVVxVGpjc2otRmlmNkF5VVZncGVZUE5ENVJIUVQ2UmdpYjB1cEZsMg?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
+        "title": "First Flights, Then Banks: Is the U.S. Under a Coordinated Cyberattack?",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWJieGNoakpmeUVqbkNoRUdWeHRTR0xOY3paQ0hEVE1JcmNXcjgtY0I5bHZCbWtQOGkyRjNLU08xbXlrYVVKTDJIXzBFS2RpMmVnYVV5VU1KbGp5dGtyT0tLQUhnS0w5VzVMWlJfeEw5QTJlbFh6OVBzSUxnRU5qV1o0NzRSTDRJUG9Sc0xsOGNSUjQ1YnE0V1hweGRVbHJxdmZYUUZROUdvRU5CSEJ6UWVldlowcnFrSk9WamNXVlZISHVfMU02T1Jrck5mTXRoNnVsMXlVTQ?oc=5",
+        "domain": "www.usnews.com",
+        "publisher": "U.S. News & World Report",
+        "publisher_url": "https://www.usnews.com",
         "language": "",
-        "seendate": "20261118T181500Z",
+        "seendate": "20261118T210303Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Updating our coordinated vulnerability disclosure policy timelines",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmdyVmc1MjVDcWtuV0NsWG44R3ZzQU5rX1BkVHNkR1NlN2w4cFRselR2dTVLOS1EcjlRbU1idlVSMW11bGFWaFZjN2tydks4VkJUR1dlcXY3b2dZX1k5aE5NMUxFck5kQWZtcXlKNHF3bC1ZZXJTa0xjMDNIN1l3TlF6ZzlwMF8z?oc=5",
+        "domain": "www.anthropic.com",
+        "publisher": "Anthropic",
+        "publisher_url": "https://www.anthropic.com",
+        "language": "",
+        "seendate": "20261116T143251Z",
         "source": "GoogleNews"
       },
       {
@@ -239,13 +259,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "National intelligence director says no signs of cyberattack amid tech outage concerns",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2xuYmRKREUxeWp5ZnJYcXYzemJTU0xWcFluSW9lRDRLc2FGbWtKMDkyNjhiUTd3dFdQZWgzTzRRd3RPX2d4em9jWXJoQlB5VGlEX19sc3ZHTEV4RS0wVkR5Njd1a3RjVzBCRDlIZlpOVTJ3Ymw3bUVHYkZqM0RyNWtrLTJwSEZwLWJ5bVliS20wRkIzcmhmcEppaUxyRjdvVHVSRmJxRFQzeFHSAbABQVVfeXFMUHdIejhTQmUxTG9acUlscG9jdjhOVVNScGRtMUZRWERRdnFURW90QU9zSmVTd3ZDSjU2bUk2MHppeHU2bTNqaGRrYzFQVHRTblpUbW5iZjZGUVV1Z3BmT012YmI0UUhycDlycW1ZQ0p4eTBWWHprTk5iTFNGb3NGYXhTVjNXSXEzLUNjQ3pseWxmbGZUdWhnUi1NZTJMbFE5SG81LVExNXhoNUtDZjA4QzQ?oc=5",
-        "domain": "abcnews.com",
-        "publisher": "ABC News - Breaking News, Latest News and Videos",
-        "publisher_url": "https://abcnews.com",
+        "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0xzTUVSWk5pdzY3ai1NcE5uOTdLTzV3aGtZUi1HSktPSmxTWThRamMwajd3S1N5c0VpZGVyalo2d0lLN0V4Mk5Id09sX3NnVVh4QWR5VWxPLW5rQXFzVUxYSl92cXNpVlVTX2hFMWM5N0FDM0VCVERXZjQtZU5IQnJ3?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261118T024757Z",
+        "seendate": "20261118T171000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWJtZnlLOVpILWNKalhlRWFFdWYzbUtucWZ4REQ2RDFTR0RnUlIyQ0N4RDBCbExRRXQwQ1R5azFXUmxjQ1ZWYk5Wcl9qS2h6ZHptdzZ5UHB5UlZoaG1WZVctSHg2M0M4elVpV1JPLWhCWERuVVVCc0R3eHNsLXZPN292U3VhQVh1X19SQnFrSldDRGlhZkpmX0NsSlFrUlVDbFNDLXlPaVktSF9LWG1KY2Y5eTFYMHV0el9HTWJvck53Q0dwT1pjWXFiMHMzR3lBcml1Uk1OemZmbnVPdm9F?oc=5",
+        "domain": "blog.qualys.com",
+        "publisher": "Qualys",
+        "publisher_url": "https://blog.qualys.com",
+        "language": "",
+        "seendate": "20261117T230059Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "nginx2root: Critical nginx RCE vulnerabilities and how to fix them",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nRWpHeElaSVk2Q1pHVnc3YWlYYU00QWpfX240aTdISHRDTWotYlU0SndZb2I2bkZ6SUhwSnpKMXVDYlMyOGZKLTZWb3JYaWRwbzFPUkRubk1MYm1VRm1JVUxvOUk1NFQ1RmlMWDhSc3RJUzRscEZkUnZOZG9JUQ?oc=5",
+        "domain": "www.aikido.dev",
+        "publisher": "Aikido Security",
+        "publisher_url": "https://www.aikido.dev",
+        "language": "",
+        "seendate": "20261118T182453Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOanU2c2RqcmpzNFppMEd1QjhDT1hweXJ0eUxIcm1ZSmlTMk9QOG5xWFhNbHlpU1BjSjBCX05DVmJzWl9kRmR4MXhOYlE5YlY0V0ViYUx5a2pMYVVxVGpjc2otRmlmNkF5VVZncGVZUE5ENVJIUVQ2UmdpYjB1cEZsMg?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261118T181500Z",
         "source": "GoogleNews"
       },
       {
@@ -259,33 +309,163 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Current Cyberattack Trends & Variations: what our Honeypots reveal",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN0szQ2tnMWNDSzVzVXJSZXVwb0RmT2liMW9fVUFYaGo0el8tSkYzQWpja2hyUzVEN05nZW1IOUVwVlNNMUtvZ0xPY1BXdEJkQzR5WHhjeURRNHVmdEozTlhzTW11REludDAzUnNXcmRLSHdwNVJyazNYOE92WnJybWoycw?oc=5",
-        "domain": "www.stormshield.com",
-        "publisher": "Stormshield",
-        "publisher_url": "https://www.stormshield.com",
+        "title": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlZBd1dWVmdPT2pjVnBUa1BrZkl2ZnlxU0JzUkZMUFJpbFVfSGtOM2hteEZUMkNhTXU4YTg1VVlXZjNXOTlnTkpPWEJaTFl6blhqMEVWNVlrMUZoRTc4TW13NmNtVGc3MVVDMkQzRlFsb0RSUFdXc3JDNWI0RDlJUg?oc=5",
+        "domain": "www.infosecurity-magazine.com",
+        "publisher": "Infosecurity Magazine",
+        "publisher_url": "https://www.infosecurity-magazine.com",
         "language": "",
-        "seendate": "20261118T143648Z",
+        "seendate": "20261118T123500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Java4Shell (CVE-2026-114938): Pre-Auth Heap Overflow in OpenJDK",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN21yTGhnejdpR0ljcjkyREY3UHRJMGxyQk9jSUx1dkpXVjBBeTB6RHhrampEOVp0QV9uU1h3ZjBFU3hGUmlhbmNrZEp1dW04OEdCVFd4cVIwNEN3RE1kRkJVQUxtTEtteURCSjY5VGR3NnJoTjN5Tnc1eXZTX1lOMl9PU2VIWEZHQUVJY0Qza3VQRHNQOGJYcVNzUm5WVFQ5SU9Z?oc=5",
-        "domain": "www.endorlabs.com",
-        "publisher": "Endor Labs",
-        "publisher_url": "https://www.endorlabs.com",
+        "title": "How to Tell If It’s a Cyberattack or Just an Outage",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVRiZUNSNVJhVVpYYTRHdGktNWY2UWc3eV81emd3bGw5eEhNVmZ2cTdoTnlzN2oxeWZyLTIzVmZSMS1JeGRSNXZhcThfdEFOc3psQUVhelRWdWtUT2pzZ0IzTXBWRUgwaHpBQWtPZkhlU05HVmYxZEhPUGRxVFpNY1o1RUUxUQ?oc=5",
+        "domain": "www.wired.com",
+        "publisher": "WIRED",
+        "publisher_url": "https://www.wired.com",
         "language": "",
-        "seendate": "20261117T203948Z",
+        "seendate": "20261117T194057Z",
         "source": "GoogleNews"
       },
       {
-        "title": "German cyber security agency warns of critical Java4Shell vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnJrWlQ1cTAtVE1aNHBpcjgwRHJLRVNkYy16TTJaX0wybXllUTZXSVRaczFMNHEyNXc1UHpDY29DZW1nQlBXdk11c3hyZkZEaTRNa0ZHc08ybWlocWlBSGJNRVVGX3NzZlZBcGFrNVJvYjljMkc2Z0JGY1BhdEpydjBWLTQ5X2Y0amNOVEpSNFhNUDRXcmt3TnFkREZuRnFmOTBVcmxwYWhlbFVzLUln?oc=5",
+        "title": "Cyberattack targets Optimizely, third-party software used by major websites",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDJWSFN6eGEwZ1k3X01HVGU1U29mX3k4M3JwRTJlQThpZXVrcjdvUUdQWjhWUWRuRENHMFRCcUg0d0stbjdXREdvWENfaWpSSWNsUTEtMzF1UHJ3UXdJYnpsb0g3WXdXQnhpeWtjRmV2eWxaZDUwT1V1dURGdld0Z3dRcUpUTktsdDJvb1NYMDBpWUhRa0kwbndJME82UTloeUlhcGY1V2ptY2lra3lxT0wyTXJadjk4a21ELU1qV3JDZVdZVEdN?oc=5",
+        "domain": "www.clickondetroit.com",
+        "publisher": "ClickOnDetroit | WDIV Local 4",
+        "publisher_url": "https://www.clickondetroit.com",
+        "language": "",
+        "seendate": "20261117T215647Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUjdhelluN2N6QUlPZ2ZXYWhIczhHZ2tPMFZ6Y2c3eW82bDctZTZGQnl5X0xJZkxlSWRxcXRoYWVuMXJiZGdDT0w1Wk4wemJMYlF4N3E2cnJQejNNbWtqQW9FVTNfTUhBZ2laZ2ZYZUs4clpRMmNTTGtuNlp5SFM2QXVYYnpjSzIwOGp2MmFMWUlSYVRyQkR6VkhyMXdvRkgwZ0dfdk1TQjJDQ2RsOW9MdnpLWjhIUUJwZ1NpUg?oc=5",
+        "domain": "www.rapid7.com",
+        "publisher": "Rapid7",
+        "publisher_url": "https://www.rapid7.com",
+        "language": "",
+        "seendate": "20261117T183341Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhGTnNBTjRRNVlLVTFYb2NsSnB6bDJmbUIwbWY2UTh5YUpDNC1UQXpvLWJacEh2THJTOUlnM2NkMHF0QUJramtnRkpadURDR0FieUJvOWU4bFdka2RKdVE0b3dCMGVHTWpCYzV4SHBZNDZkU3gwOGwwRThtMnNRQ0NtZG5OdUNzRXdnNU1TY0E5Z3FHQV9PeVJmZm40RmpmclE?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261118T142304Z",
+        "seendate": "20261117T232117Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Visa confirms apparent cyberattack, hackers also claim hit on JPMorgan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXZhRkFCQlp0Y0xFMDVnVmVwWldxQUxsV3pHMmcxSnpVclBrdnJaRHVjYkZOcmtyZjhXOTdNTGV5dE1rXzNrallCRUw0X3JBc2lBS2RKUzRKNGozTnBoNlg5TDJsSGl0ZElDZDdfTHdoM2d1RFdNRi1OU0g2WjFxVHJaazdlanBSLU1tMWJySEprb0d0ZnBvM2tYdmtxNHpuWTZjSWlUVW5TdW5V?oc=5",
+        "domain": "www.techradar.com",
+        "publisher": "TechRadar",
+        "publisher_url": "https://www.techradar.com",
+        "language": "",
+        "seendate": "20261118T161000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KcURqeXZrWXg1OF9iNkwtRmxqaU40ZnR5Yk5xZV9ZNWdDdS1pQzBHaWIzd0xBX1p6OFNLbFl4bklvQUhvWnFxcFlHelVCTUE5VGVCSjJiS0ZSQQ?oc=5",
+        "domain": "blog.talosintelligence.com",
+        "publisher": "Cisco Talos Blog",
+        "publisher_url": "https://blog.talosintelligence.com",
+        "language": "",
+        "seendate": "20261118T015327Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWlJY3pIYnZXUUxPNW9PYXdoZkFJaVQ5eXJOMFBNM3hqcXN2Ty1wbzR4SjV3endBNEZBQTNQWExvbWNzYVVwbWRvWHRJdG9OT1BpdDNpd3NJdGZPSlNzUXRDSFlmN0Jjd1NDY0VYMHlENDVXYXBEaVVycDE3bThxYUdjR1AtanZOU3ZPZDIyc1pnS056YXRxMVlXTGpXWFZ1clBFV2hCZFFPM1g2?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
+        "language": "",
+        "seendate": "20261118T074334Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Tails releases emergency update to address uBlock Origin vulnerability",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSW9EcFhRdHVNbWlGWVRudV8wbWFEb21famZFZU14QTVhX3RGMjBlcGM4Yk9GTUVhakJBUjJpOHQwcnRTWU5XdExLVlZ6Ql9jWlpSVVUyVmRYc1A0ZzliV1JQWDdmaFM0SEY4N0NzQ0xnZXp5MTFHMzhpUlBRUkFpY3NSenl5RjVtaWt1aDFYOEctMjlYVFhDVnRnUjFGMU00Mnc?oc=5",
+        "domain": "www.scworld.com",
+        "publisher": "SC Media",
+        "publisher_url": "https://www.scworld.com",
+        "language": "",
+        "seendate": "20261118T234530Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fort Smith mayoral candidates address cyberattack after city warns personal information may be exposed",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdUh6S25GZjh3V0gyS2ZWcTR4TzF0b255a2ttX1M0dENxTWtrZ3M0VjFzelpoRW9JeVhxeGJLanBXMEluSkNJcGFFMkhYSHRXd0VmMzZRQ1hkNXIxaVhnWTB0OFZ2NlFBWWRNTVJBWmhqMFp1VmRkNVZHd0c0dnM5Ri1mbDdzdUVMTXVpamJ1eWFEQ0E5VFNmcUlBY01zXzVicFJsOUh1WGVMM2NGaTR3R3oyM3hLOUwwV0I1QVcwNGZBZlh0SlhCLVdaWkRpaGtoNWpJaTFIUG9iUzNhMEx0d0VJYUJOYzEzNWN5TTFvX0hFdWpFWm9USzlxSC1Tb0lIMmlielI4Y0p2aEFDd3MxOFdweUM2c29MaGxMZFdfbVpuRzQ?oc=5",
+        "domain": "www.5newsonline.com",
+        "publisher": "5newsonline.com",
+        "publisher_url": "https://www.5newsonline.com",
+        "language": "",
+        "seendate": "20261119T050131Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack or coincidence? Expert weighs in",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNaXpjYUlSUHRJVlNFdU5lVnFQbm5kZUZPb0tWRllmUGJ4QlMtWlVqUVJJaktHWjhNcDdDenpEampsUGJVVmxreVM0R1Byc2VuMFY1SDA5cGhaeVhxREZYZGVSS0NjMGhma05yNy1kNmNJOTZlVnFYY1lmVlRHTEJPdDJUWUlMUG9mSW5YLTBIdURwX2hDYjhXWTQ4RGNONUtUS3k0RDhYVENReUxGYjRyaUpFOFlnOFZIOVBCOXVaS0JkU0JDYjdxSUd4RWlNU1hvTnlzcjFFckJ6MnJyQXdlOEU1V0xsTHk2V1BQTGpwZmhTak1aYktRNWpVWDk3VFhVbXpDWDNNeVo0V3U0eFRGbXRQX3F0MXgyaEJVQThzMERtRmdXMjBlZ0dnU3ZvSjU3bGVsZENjZHdzd2hFZEU3bA?oc=5",
+        "domain": "abc7amarillo.com",
+        "publisher": "KVII",
+        "publisher_url": "https://abc7amarillo.com",
+        "language": "",
+        "seendate": "20261118T232326Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmFJdXhVWlNyTXNwRmUxcFhCekpWaFNkMEl4MGc5NjUwWFF4VXNaMExXWUlYenc0VTFRbkpFck05NkpGTEp3ZVNJZjl1OHY4a19pcXJFdkNwSW9lem50Zi1HUF9FNmcwZUxJVV9jRTc0bmx4bDltbDVQX3pjTF9vUjJFTQ?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261117T151700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Equinor detects cyberattack against some IT systems",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdVUVVtcmFYWms2YkJuU3lxZ05RakxKbndJakRORnJVLVRSQ0ItMnVSR2RaaGRRZmJsYzRkYlZrYkl0NGJ4LWdUcW5UOUsxa1F2LWw5LTBWc1VhdHlsZGFWM0VXdGZ0aWxMeGg4Vk9JdGYweGQ4NjVteVpQR2ZjSF9vbWRrTW42c2h1bkhEX2RSQ1VxWlVsRHhrNkJnUjQ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261117T181014Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rapid7",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObzJzMlZKS2ZHVjBwaVV0UzA4RHBqVlN4ZkdZNmRlREpwT1RaT05jU2FKcnFUQ2x4bEg5S2xfakNJU0drdmtNQzF0WUFTNkstQW41ZVZDNlBfckVtTFVLWEg5ZWpjZFE2cDJiekVWeDNRQjFfb0FpWGItdlQtamZRVnhzYlBKVURfMGxIbktWMU16N2l2dmdtTTBCYk5xYjh4NTlOVXhXYm52MjUwUGY3RVQ2OWhsUXlweHFaYktsVmNjdC1iQ3kxX21hR2pvRGc4aE1DcnR2bDc2UmJidnlQdzQtYlpQaTQxcG9GTEp3?oc=5",
+        "domain": "www.rapid7.com",
+        "publisher": "Rapid7",
+        "publisher_url": "https://www.rapid7.com",
+        "language": "",
+        "seendate": "20261116T181651Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Some of the world’s most-visited websites targeted by cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEQTM5aEhLeUozcmY0Z1ZWdmk2Rl9oYWtrelhXblZPRXZfYVk5b0h5V1VVWlBTamZVZ2g5MEo0T2FPamZ1aHFNaTVOMGpvVTlkeHBkUU1GZUY0bzVWZ0xwRTROdVR5Wk40QnpjYUhZR2l3bEFyOTRmS3Rn?oc=5",
+        "domain": "www.wbaltv.com",
+        "publisher": "WBAL-TV",
+        "publisher_url": "https://www.wbaltv.com",
+        "language": "",
+        "seendate": "20261117T184500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CISA adds critical Perforce Puppet Enterprise vulnerability to known exploited list",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRE9OWGJEMFZ3XzlCQ3R4UzhkR2NSbEpjUlQ5SklZRmhvTTlOYVFuT3RhQXhPMVJDZzlOblZHOFR3YmNJZV8xSXdhaDF6M01IMWYxYkZ6MWdpWDEtazJUS2Q1WTJsbjVwWDRERTc3QXotc01fQ21rNXU5LVoxWXNPcVpsUnJIaGJJT2oyZU5KeUJlei1iZmFwUVhXU1U0WG5acTN1ZnpvTlNoRnZsMkxxTEN3Yw?oc=5",
+        "domain": "www.scworld.com",
+        "publisher": "SC Media",
+        "publisher_url": "https://www.scworld.com",
+        "language": "",
+        "seendate": "20261118T234544Z",
         "source": "GoogleNews"
       },
       {
@@ -309,13 +489,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BQjYySjNZRkM1ZWR3ZDZFb0NKQW9XOWlpWWdCNTNpbklBWFRZUVIybnBkYjlMYWNWNVk5SlNJUldzeVctWEJ3T0xpeXhqLU9CU0Jka3M3NGdNZkJneUkzUW5xZ1dfdw?oc=5",
-        "domain": "www.wiz.io",
-        "publisher": "wiz.io",
-        "publisher_url": "https://www.wiz.io",
+        "title": "Queens Libraries Still Contending With Ransomware Attack",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaU5VVVJHSUpNUDlUTEtFMHBfdW5oVTByS0lwWWpYR3ZhZEd1YS0wbkl5SEpJck9SY3E5bXZ3YUZRUWpzUFNlUXptMHI1SGxLVkdtYTcxN0p3ZHdMM2FHNTNrMURqYTJKcHpuVDNFcDdiT2lrZXZVWlk5dnd4MDFEdk9FaHdfMlRZNUl3?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261117T203500Z",
+        "seendate": "20261117T100310Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Java4Shell (CVE-2026-114938): Pre-Auth Heap Overflow in OpenJDK",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN21yTGhnejdpR0ljcjkyREY3UHRJMGxyQk9jSUx1dkpXVjBBeTB6RHhrampEOVp0QV9uU1h3ZjBFU3hGUmlhbmNrZEp1dW04OEdCVFd4cVIwNEN3RE1kRkJVQUxtTEtteURCSjY5VGR3NnJoTjN5Tnc1eXZTX1lOMl9PU2VIWEZHQUVJY0Qza3VQRHNQOGJYcVNzUm5WVFQ5SU9Z?oc=5",
+        "domain": "www.endorlabs.com",
+        "publisher": "Endor Labs",
+        "publisher_url": "https://www.endorlabs.com",
+        "language": "",
+        "seendate": "20261117T203948Z",
         "source": "GoogleNews"
       },
       {
@@ -329,226 +519,46 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Defending Against Java4Shell: Vulnerability in OpenJDK Enables RCE on AVX-512 CPUs",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzVXdWxsOTFyODVlNldVbEp0OHVQWmx0STVFUEViMUhRUnJyY1N4NGlyTlpzSDdVeHpNQW5GUVJ0VzM0Z0R4djNwRDd4RTNfREdSenc1ZUFQTV9ISF9XU1VDUUFxc205LWl0elUyYXc2YXZZSzktT0NoV0F2ZElzUkJMVTItTHFOOGE3Qk9ENVRBLXdnYW9Rclh2ZUdjQQ?oc=5",
-        "domain": "www.sentinelone.com",
-        "publisher": "SentinelOne",
-        "publisher_url": "https://www.sentinelone.com",
+        "title": "Cybersecurity push grows in northern Nevada after state ransomware attack",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUnMwQVh6UVQ2eDROM3Ffb0h5eTVPZjFZQnpxRFBrSktvSEJrOFkyc3c0NGZCOHJta2U5TkozaHFIZ0JxZDhEbFlUSE1PUGxwQVplZUg1WGZTeml3TVBuUll4QzVIcU52R295QmJVc2NEUnJHdlV6S2tCM1BQdlVVTE4zWWwtVDZ1Q29ibmUwRXRYLWpNMWw2aklsR1Q5RVJfZkl1V1h3RDR1RzRMbWt2MVBXZDJ4TFVpZXRhbUhwUDFmYmRuYl9YZzhTcXlTckdGNlVUS3pyWU1mRFJKdVRiVGNkNXJfUE9uZ2tUUWRNTUtLTVBrYm84X041ck5iZHc4OEF6UFVTTDRvcmtqS2tXOG1fejhpZw?oc=5",
+        "domain": "mynews4.com",
+        "publisher": "KRXI2",
+        "publisher_url": "https://mynews4.com",
         "language": "",
-        "seendate": "20261117T223045Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhGTnNBTjRRNVlLVTFYb2NsSnB6bDJmbUIwbWY2UTh5YUpDNC1UQXpvLWJacEh2THJTOUlnM2NkMHF0QUJramtnRkpadURDR0FieUJvOWU4bFdka2RKdVE0b3dCMGVHTWpCYzV4SHBZNDZkU3gwOGwwRThtMnNRQ0NtZG5OdUNzRXdnNU1TY0E5Z3FHQV9PeVJmZm40RmpmclE?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261117T232117Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Updating our coordinated vulnerability disclosure policy timelines",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmdyVmc1MjVDcWtuV0NsWG44R3ZzQU5rX1BkVHNkR1NlN2w4cFRselR2dTVLOS1EcjlRbU1idlVSMW11bGFWaFZjN2tydks4VkJUR1dlcXY3b2dZX1k5aE5NMUxFck5kQWZtcXlKNHF3bC1ZZXJTa0xjMDNIN1l3TlF6ZzlwMF8z?oc=5",
-        "domain": "www.anthropic.com",
-        "publisher": "Anthropic",
-        "publisher_url": "https://www.anthropic.com",
-        "language": "",
-        "seendate": "20261116T143251Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack on 178 organizations: Take these 5 steps to protect your credit card info",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT2RuYlBGZXdNaFAxYXl3bExJd20wbUtzRkJJSEZNaXYxeHdzUWhtU2c4QUtCVS1qdGlvanZiUEMwb1Z1Vml0NTdBOER6dWVxT0RIVGtSZm1XMlZqWHh5UlBXWjF3ZWUyamVRcmM5S0RJQ0FrRmVLZlg5U2dpQ1BiVEtXbkd4Wl9CSkQ2NWY2Z0dlWDJoMFppMXF5M1BleGM2bTJPVkhCT0F3cXl5LUxNUi1NOXVXclZsdVY1NDNuejNzczhuODlYZ0Nn?oc=5",
-        "domain": "www.syracuse.com",
-        "publisher": "Syracuse.com",
-        "publisher_url": "https://www.syracuse.com",
-        "language": "",
-        "seendate": "20261118T131100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Expert say string of major outages not likely a cyberattack, cite aging systems",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2E2eWN6WE1ZSTM2VGM1QWpCOXJDc1JqQUZDVkQ5UHpiajlRbkEtSjJ5Q0RfMHdTMG55VXZoR1QwMWNvd0lobVVEem1MNXZCMnE4Z0ktVUdzU1dkcENudktkdHBXSkFENWNkU1pjRzZTRGFqY3RJX3V3MkdlbElsdFdJZFlrd0luMXF6OXdIOWRkREdHSGk1WW5BSEEtd1ZLZmpWTVVtX2tzb25xZWpaakdmMVNnWjQ?oc=5",
-        "domain": "bakersfieldnow.com",
-        "publisher": "KBAK",
-        "publisher_url": "https://bakersfieldnow.com",
-        "language": "",
-        "seendate": "20261118T182614Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY21ILXk5ZjRsUTJaVXA1Vk85MlR2OUtQLURDR1NRWXZMcEhtVkRSOWpMNmlPdi1zQTcyZEc1eUNZNGJibzBaWGE1b2F3Rk96QmpqZzhBeUJmRXhJeFYxYWVJMzFvRVNyNEVObFZoM0lqTl9oQWtlMUFkUmV5N2l6dDg5dm8?oc=5",
-        "domain": "www.ft.com",
-        "publisher": "Financial Times",
-        "publisher_url": "https://www.ft.com",
-        "language": "",
-        "seendate": "20261118T021918Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ted Cruz raises cyberattack concerns after outages, despite contrary evidence",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2FKcEhzb003cHFrOHU2LVEwV3pnaWNYNjlwS0lCbWtFaGlybkpPWnZ0em1ucVUxNDZMazI4Q1NYMWd6cHFpaEVFUkxyN01tOExQdzZFUnpBVGJrajBwSUZxQW9yRXRIXzUtek1ucjNzUFNEQVd3N2tmYTk3ZlZfQkVCUlQ4MVVFaHkxX1huQkgxcmF5aEUzaEZaZWw?oc=5",
-        "domain": "www.houstonchronicle.com",
-        "publisher": "Houston Chronicle",
-        "publisher_url": "https://www.houstonchronicle.com",
-        "language": "",
-        "seendate": "20261118T175942Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUjdhelluN2N6QUlPZ2ZXYWhIczhHZ2tPMFZ6Y2c3eW82bDctZTZGQnl5X0xJZkxlSWRxcXRoYWVuMXJiZGdDT0w1Wk4wemJMYlF4N3E2cnJQejNNbWtqQW9FVTNfTUhBZ2laZ2ZYZUs4clpRMmNTTGtuNlp5SFM2QXVYYnpjSzIwOGp2MmFMWUlSYVRyQkR6VkhyMXdvRkgwZ0dfdk1TQjJDQ2RsOW9MdnpLWjhIUUJwZ1NpUg?oc=5",
-        "domain": "www.rapid7.com",
-        "publisher": "Rapid7",
-        "publisher_url": "https://www.rapid7.com",
-        "language": "",
-        "seendate": "20261117T183341Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hacking Group Says It Breached Nvidia",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zUndZQzhiYTNGZEJlTmxONXltcUFLUzA0WENwbkJLUGlNVUNTbDRLLV9CVTljakF0ay02MGVvSkRIYXJRQjR4U1IybWJwbjJlMDBnbGhObTdYeG0xSnNPb2ZybDZ5dmhzcktEQUFuQ0I1ZXM?oc=5",
-        "domain": "www.newsweek.com",
-        "publisher": "Newsweek",
-        "publisher_url": "https://www.newsweek.com",
-        "language": "",
-        "seendate": "20261118T170000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cyberattack targets Optimizely, third-party software used by major websites",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDJWSFN6eGEwZ1k3X01HVGU1U29mX3k4M3JwRTJlQThpZXVrcjdvUUdQWjhWUWRuRENHMFRCcUg0d0stbjdXREdvWENfaWpSSWNsUTEtMzF1UHJ3UXdJYnpsb0g3WXdXQnhpeWtjRmV2eWxaZDUwT1V1dURGdld0Z3dRcUpUTktsdDJvb1NYMDBpWUhRa0kwbndJME82UTloeUlhcGY1V2ptY2lra3lxT0wyTXJadjk4a21ELU1qV3JDZVdZVEdN?oc=5",
-        "domain": "www.clickondetroit.com",
-        "publisher": "ClickOnDetroit | WDIV Local 4",
-        "publisher_url": "https://www.clickondetroit.com",
-        "language": "",
-        "seendate": "20261117T215647Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU3hsUkp1WkpodW5MUWgwNW54dng3RVZWYWMxYjVpdDNEaHU5bjQ1bWZkNV95OUF6aWdtVFpCM1NodkZiQlI4dEc1M0o2R1NhWWhucTFHQnRZRkRlU3pDX00wZEVwRTEtLXFBbGNBZXpYV1pUNFhiOC0yYWdwa3hfVG5sOHQxTlRnNnVyenJlbUF6NlgyRkc2ZmJvWnA5aGYxd2VpRzQ1ZkMtei1jWEHSAbMBQVVfeXFMTWM1VXJfeElSb082SEQ2TEd1dmhHenRabXZlYkl2STlTcHphT2JZcV8zdThxVnN4Q2h6ZlZSUS1IcEpKSVFTVmg2aU04UmstTW50TTFmRmJXMFdpVmhIVC16Y3RXLVVVbWxxUFc4SlhCak83Y1BwQUFSZ2JZTk1vMFk2dkVsQlZjYWtRVnJVSDJqdThhWjJXRkRQblQzVjA2b3ljLVBFT2RjLUtRQ2NibEtqVEU?oc=5",
-        "domain": "www.bleepingcomputer.com",
-        "publisher": "BleepingComputer",
-        "publisher_url": "https://www.bleepingcomputer.com",
-        "language": "",
-        "seendate": "20261118T103505Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "How to Tell If It’s a Cyberattack or Just an Outage",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVRiZUNSNVJhVVpYYTRHdGktNWY2UWc3eV81emd3bGw5eEhNVmZ2cTdoTnlzN2oxeWZyLTIzVmZSMS1JeGRSNXZhcThfdEFOc3psQUVhelRWdWtUT2pzZ0IzTXBWRUgwaHpBQWtPZkhlU05HVmYxZEhPUGRxVFpNY1o1RUUxUQ?oc=5",
-        "domain": "www.wired.com",
-        "publisher": "WIRED",
-        "publisher_url": "https://www.wired.com",
-        "language": "",
-        "seendate": "20261117T194057Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Expedia investigates cyberattack after hackers claim theft of nearly 1 billion customer records",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMFJlNEhMZWpKMEJtdUFYWWlHdk9nazQ0SFpsZzdFc2lFb1lVRXZEWDR5RUEzdXcxQko3M3RGb2JKZmNvRTNIdy1mb3hZY1VUMXkxTWxzRDRkWTY1eXpiMkM2dVBYTkM4YUt2Wl9xQ1M0NDVmLS0zSTlMMW1pUm5QTFh1SXZfVXRzTklSYlNPMXZia0tjV1l0UENsSFpZa1FBRzVBUlgxb1dUNDla?oc=5",
-        "domain": "www.9news.com",
-        "publisher": "9News",
-        "publisher_url": "https://www.9news.com",
-        "language": "",
-        "seendate": "20261118T172200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "CISA urges immediate patching of critical Java vulnerability",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVdPcDdBdkc2eUtNRm1EUFduaGQ4cDZDa1FLdVhELTU3bW1RMkZ1R2x0bFMybUJSeENFN2FuZ09kR3BpYmpHRDBKTDdrazRrUVhTdVB3WGR0WWQ3bHliUlFQOWxmVVgwN3dLcjcyWkpEWmV1VGh0MUl4ZndkZ2dLd0RNb2s1bzNXLU90ZnRWbmZJTTdC?oc=5",
-        "domain": "www.scworld.com",
-        "publisher": "SC Media",
-        "publisher_url": "https://www.scworld.com",
-        "language": "",
-        "seendate": "20261118T131824Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Rapid7",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObzJzMlZKS2ZHVjBwaVV0UzA4RHBqVlN4ZkdZNmRlREpwT1RaT05jU2FKcnFUQ2x4bEg5S2xfakNJU0drdmtNQzF0WUFTNkstQW41ZVZDNlBfckVtTFVLWEg5ZWpjZFE2cDJiekVWeDNRQjFfb0FpWGItdlQtamZRVnhzYlBKVURfMGxIbktWMU16N2l2dmdtTTBCYk5xYjh4NTlOVXhXYm52MjUwUGY3RVQ2OWhsUXlweHFaYktsVmNjdC1iQ3kxX21hR2pvRGc4aE1DcnR2bDc2UmJidnlQdzQtYlpQaTQxcG9GTEp3?oc=5",
-        "domain": "www.rapid7.com",
-        "publisher": "Rapid7",
-        "publisher_url": "https://www.rapid7.com",
-        "language": "",
-        "seendate": "20261116T181651Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXBjX0VSNUtoaXp6eXdBUWwxeFpCSE1NdGpUaVFLcktBdXU1N0RjbXh4UEdwTUNXYXJDUjE0dll5M2FKbFJDTnUzZ0xsanhzU1NNMlNaRGxEdFNOaEVkbE8tUWVGeHY0UkVvUzM3NU5JX0NvazJsOFgyTFQ4TzBMLS1XSWZzdVRZV0Y3YjdGUlI1dkVVX0dz?oc=5",
-        "domain": "www.helpnetsecurity.com",
-        "publisher": "Help Net Security",
-        "publisher_url": "https://www.helpnetsecurity.com",
-        "language": "",
-        "seendate": "20261118T111212Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical Java vulnerability prompts cybersecurity warnings worldwide",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3JpMlg1UEFfdWtIQm01cUMxM0VSRWpzX2FrejBqR21lQjBrczd2MU1FVGxxMUVqMHhJSFhiQng1ZVJXMHpmWDV0bXAyVG55cjQwcERMbFc1OW5ydVJHY2RtOXhWR1EzUjVWbXQwRkp6U1pGZW9FQjNrc1dDbU5lWWQ3SUZ2MERzNEtmX2xvSDN3X3Z0TElfenpSaFFVNzYyZlE2cnRVU3ViWElrbWFvTl80NXMweGhSM0pyaDBaZy1adzl2SXc?oc=5",
-        "domain": "www.staradvertiser.com",
-        "publisher": "Honolulu Star-Advertiser",
-        "publisher_url": "https://www.staradvertiser.com",
-        "language": "",
-        "seendate": "20261118T180346Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NGINX HTTP/2 Flow-Control Flaw (CVE-2026-123007): Patch NGINX Now",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WcGtBb2N5clRWaXhuWllfeVV2Q2dvUHNPMEFwelpXNS0wVm0zQmJ2UHRZS3F5RS1Td2JmaGRQLW9iRnZrZml5dHdMTUliWVBYRVBhM19WMDhJb0JCajBxWlJKOV9iOFc2UzJuRVlxN2NiYlZKbzJhVw?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
-        "language": "",
-        "seendate": "20261118T194000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFcyTFE0b2NfSjg4N3E4eG9VQ1IwWXBraEQ4TjY5YU9iVE96OVZNcGdtWGJJX1JBTmF1TWtXbkM3VGhndHBkU1Vpc0ktRXhpODJ6eHdaSEtDMjJtcy1hRV9fSkZGZDg1ZEdQSGJ3dzZJUjdIb2ZURDNUem4wcFQ1V2FfOUFMdXpjSXJfbHMwRmJrNjVJeXVkbVQ1Z1ZhQUN2?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
-        "language": "",
-        "seendate": "20261117T102220Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bugmageddon? Patchpocalypse? Naming the AI Vulnerability Flood",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVJVQjNGSEdrdk1pR2pIRWRiYl9SNXE4TTNkbG5jWWZHX2hzRXNmVnJmX0R5LUVYRWN4MFc4TzlrV2pqSWhVNUhiaUNGZ1B0SHRNMGtWLXU5X2dSUGRzLU0ySTNlQnUxbWFCaDNsTlZYXzFmSE9lRUpocEkySFp5TlZrWXlieWFfc0U3MWF4N2NYRGlM?oc=5",
-        "domain": "www.techpolicy.press",
-        "publisher": "Tech Policy Press",
-        "publisher_url": "https://www.techpolicy.press",
-        "language": "",
-        "seendate": "20261118T194830Z",
+        "seendate": "20261119T002136Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "Java4Shell (CVE-2026-114938): Easy to Crash, Hard to Exploit — Less Than 0.12% of JVMs Estimated at Risk of RCE",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xekVscWY2ZmRtRTRnazVVWXVDNEpjSnpvTElLaTZoZ01FLWJhQ2NyV0wwRzRWWWtzM2tHd3JwaW9xQ3pTTEp0Vzd5aW1rUzVhMTd5MlRkcjEzRHRtVUI4LXBGeVZlLV9UMXNqandTbHAwREE?oc=5",
-      "domain": "www.ox.security",
-      "publisher": "OX Security",
-      "publisher_url": "https://www.ox.security",
+      "title": "Trump administration continues to insist tech outages not cyberattacks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2xuYmRKREUxeWp5ZnJYcXYzemJTU0xWcFluSW9lRDRLc2FGbWtKMDkyNjhiUTd3dFdQZWgzTzRRd3RPX2d4em9jWXJoQlB5VGlEX19sc3ZHTEV4RS0wVkR5Njd1a3RjVzBCRDlIZlpOVTJ3Ymw3bUVHYkZqM0RyNWtrLTJwSEZwLWJ5bVliS20wRkIzcmhmcEppaUxyRjdvVHVSRmJxRFQzeFHSAbABQVVfeXFMUHdIejhTQmUxTG9acUlscG9jdjhOVVNScGRtMUZRWERRdnFURW90QU9zSmVTd3ZDSjU2bUk2MHppeHU2bTNqaGRrYzFQVHRTblpUbW5iZjZGUVV1Z3BmT012YmI0UUhycDlycW1ZQ0p4eTBWWHprTk5iTFNGb3NGYXhTVjNXSXEzLUNjQ3pseWxmbGZUdWhnUi1NZTJMbFE5SG81LVExNXhoNUtDZjA4QzQ?oc=5",
+      "domain": "abcnews.com",
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "publisher_url": "https://abcnews.com",
       "language": "",
-      "seendate": "20261118T134606Z",
+      "seendate": "20261119T002126Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Critical Java vulnerability could help hackers compromise many popular applications",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHEtZ3VtOUl1NV9GZ2x3Slo2LWxUeTkwM3F1aXF1VXFBUVBRV19OVWpuUmJtSzJlamt3UHdIdFZpUk9GcUN5a0h0dWJsVXFPeHc2NzBLVTdGLVdfYzdPR0Z3NjE4T1Vmb1BCelpsbVFyOTE1Mzg5T0VZaW01WnZRSHJhalJsVzF1UzY5NkhGVQ?oc=5",
-      "domain": "www.cybersecuritydive.com",
-      "publisher": "Cybersecurity Dive",
-      "publisher_url": "https://www.cybersecuritydive.com",
+      "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVE5c0hlck4xVmNZWTdZREZ2WjNuNUtLbWZvTUxCQU5ZaVo4czJPdThqX2xRcEFfdVpqdHVRNWxoYktka2ExY2tTaGFCeWp5aVlzZVQyb3JWeWcxdnpEd3NIYjhNVFpudVlTTEpSTzZSRDF2dGY4c0Q0VmVydm5IbEZXU0k4UWdTYlc0ajh4UUwxQk9QX2wwaXZxVXFVc05iV3FFY2JmTzRuUXF1NEVHa1oxdy1XQy1WVEdYbEtpS2kwUjZUOGxKaXE4OXFaNmpLZDVRM0t4SXc2N3Z5Vk9IUjhCRHI?oc=5",
+      "domain": "blog.qualys.com",
+      "publisher": "Qualys",
+      "publisher_url": "https://blog.qualys.com",
       "language": "",
-      "seendate": "20261118T160038Z",
+      "seendate": "20261118T232925Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Advisory details CISA alert on critical Java vulnerability",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdExzUlpIT2RVVDZGckNOOVhXczNfS0l3T045Z1R4QXF2QnVDd1QxUkNwQm5FWEw1NFhwc2RqcnozeXU4SndsNk5WVlVyRnViVUdLZ2lLVXVmdVlLckRfaGdmVFVabUdPNTFxaFpDbHVrRWNWZFVuM0N0d05JRVdOX1hNcThCM3RmQjMwWGt2eU9BYU9rMzF6ajlreGF1OGtlalE?oc=5",
+      "domain": "www.aha.org",
+      "publisher": "American Hospital Association",
+      "publisher_url": "https://www.aha.org",
+      "language": "",
+      "seendate": "20261119T032230Z",
       "source": "GoogleNews"
     },
     {
@@ -572,13 +582,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "CVE-2026-114938: Java4Shell RCE Vulnerability",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ01NMHgzSm5UczNDdGJFUGUxbjNKMWgzMXZVblZsZVVDTk81Ti01TVZHWDBXZGlVd2NrYTBtck9SRXRGVDlzbDJoc0duZUJPTkJRZThPNlR5cjVGNHA4TFdMU1FZVkhEVUctTjBTT1h5aGJMRVZTYnNUbjQ3NldDWUkyeTIwc0dZVnpBdlJCSTI5Y25QVzJnR0dWOFZ4UWJRcFBCS3ZGZV9rdw?oc=5",
-      "domain": "socprime.com",
-      "publisher": "SOC Prime",
-      "publisher_url": "https://socprime.com",
+      "title": "Critical Java vulnerability could help hackers compromise many popular applications",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHEtZ3VtOUl1NV9GZ2x3Slo2LWxUeTkwM3F1aXF1VXFBUVBRV19OVWpuUmJtSzJlamt3UHdIdFZpUk9GcUN5a0h0dWJsVXFPeHc2NzBLVTdGLVdfYzdPR0Z3NjE4T1Vmb1BCelpsbVFyOTE1Mzg5T0VZaW01WnZRSHJhalJsVzF1UzY5NkhGVQ?oc=5",
+      "domain": "www.cybersecuritydive.com",
+      "publisher": "Cybersecurity Dive",
+      "publisher_url": "https://www.cybersecuritydive.com",
       "language": "",
-      "seendate": "20261118T114059Z",
+      "seendate": "20261118T160038Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Java4Shell (CVE-2026-114938): Easy to Crash, Hard to Exploit — Less Than 0.12% of JVMs Estimated at Risk of RCE",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xekVscWY2ZmRtRTRnazVVWXVDNEpjSnpvTElLaTZoZ01FLWJhQ2NyV0wwRzRWWWtzM2tHd3JwaW9xQ3pTTEp0Vzd5aW1rUzVhMTd5MlRkcjEzRHRtVUI4LXBGeVZlLV9UMXNqandTbHAwREE?oc=5",
+      "domain": "www.ox.security",
+      "publisher": "OX Security",
+      "publisher_url": "https://www.ox.security",
+      "language": "",
+      "seendate": "20261118T134606Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "PHP schedules a critical security release for 19 November, including CVE-2026-115560",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1A3SUJLUm5CODdHWTZjS2ZtaFlYV3VtR3dvUDhjNGxfTWpkbC13WkN3MEFmOEMtOWdqLW9vbGcya283RE9DRGIwTC1RV3VYeWl5MnRfZzJBWEFSbktGaW93M2dnM096QzJyVFNSaW94RFpHN2ItOVdXU1RFaWRkUFFoODdRTGVs?oc=5",
+      "domain": "www.aikido.dev",
+      "publisher": "Aikido Security",
+      "publisher_url": "https://www.aikido.dev",
+      "language": "",
+      "seendate": "20261118T195129Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHVqd3hPX2Izb1MtRDlMaXVzdHNwMUszUHQtX3cyS29yNGFLa3dTekFrQmNhdktwYXNOYjUyYS03Sl9rcVhyTzJLZ25xLVVMVVdnLTdKbFZCdDVYWXh3emZlZ2d6V04wakdSWk9xX2xhMnFVX0hiQzQ0Y19MdjRXVw?oc=5",
+      "domain": "thehackernews.com",
+      "publisher": "The Hacker News",
+      "publisher_url": "https://thehackernews.com",
+      "language": "",
+      "seendate": "20261119T043300Z",
       "source": "GoogleNews"
     },
     {
@@ -592,46 +632,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWlJY3pIYnZXUUxPNW9PYXdoZkFJaVQ5eXJOMFBNM3hqcXN2Ty1wbzR4SjV3endBNEZBQTNQWExvbWNzYVVwbWRvWHRJdG9OT1BpdDNpd3NJdGZPSlNzUXRDSFlmN0Jjd1NDY0VYMHlENDVXYXBEaVVycDE3bThxYUdjR1AtanZOU3ZPZDIyc1pnS056YXRxMVlXTGpXWFZ1clBFV2hCZFFPM1g2?oc=5",
-      "domain": "www.securityweek.com",
-      "publisher": "SecurityWeek",
-      "publisher_url": "https://www.securityweek.com",
-      "language": "",
-      "seendate": "20261118T074334Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Optimizely cyberattack hits major websites and what it means for security teams",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTh6WHhvd1haalZDN2VqV3lFVEJnZ003c29GWjVqdW5QaGc0OXhLakhQQVBKTjQzbGxqYjRfZnlTOTYwTlRNd3haeTYtUWl4SmdlY19peGJtR1IwYVV3SUlMWFptRjlvZlNHZDNsUzVsR0pMTmR6VVhLWEtEc1hqamtZT1RpMEJYcUY4UXNnZGpyUjlMZHJNVUN3aG1NSUlLQTdHZ3VxUW4wOG5TanRNcC1FcFVBd1k?oc=5",
-      "domain": "www.spiceworks.com",
-      "publisher": "Spiceworks",
-      "publisher_url": "https://www.spiceworks.com",
-      "language": "",
-      "seendate": "20261118T145819Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OWWloaVJwUDhtZHlyQzUtbl9wZzZZWjRTX3J0WXJGWkh4Tjc0TjI2NkFhZjVycVRIeFJINWFPSXhkVXh4ZmUwd3VNMUFZS2Q3Tk5EVTN4YU1yeGVSa2lYMVM3bnFuMElYcV9tMzRzSzBGN2ZQOTZoQlAtZEs?oc=5",
-      "domain": "thehackernews.com",
-      "publisher": "The Hacker News",
-      "publisher_url": "https://thehackernews.com",
-      "language": "",
-      "seendate": "20261118T183100Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KcURqeXZrWXg1OF9iNkwtRmxqaU40ZnR5Yk5xZV9ZNWdDdS1pQzBHaWIzd0xBX1p6OFNLbFl4bklvQUhvWnFxcFlHelVCTUE5VGVCSjJiS0ZSQQ?oc=5",
-      "domain": "blog.talosintelligence.com",
-      "publisher": "Cisco Talos Blog",
-      "publisher_url": "https://blog.talosintelligence.com",
-      "language": "",
-      "seendate": "20261118T015327Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need to Know",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xQjh3VUkzU1loWTdzYk9sUVRZODRfeVc2Z0E1TjlOV3FGdDh2VTdneGVhUnhRQ0o1bkJreGM5dUlXeGNsN1VKSXZwcmhnTWJxSkdNb3lhamtJaVRzMjZBWW0wRG5XVDRvYkt5SzljZw?oc=5",
       "domain": "www.wiz.io",
@@ -642,43 +642,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcWJtZnlLOVpILWNKalhlRWFFdWYzbUtucWZ4REQ2RDFTR0RnUlIyQ0N4RDBCbExRRXQwQ1R5azFXUmxjQ1ZWYk5Wcl9qS2h6ZHptdzZ5UHB5UlZoaG1WZVctSHg2M0M4elVpV1JPLWhCWERuVVVCc0R3eHNsLXZPN292U3VhQVh1X19SQnFrSldDRGlhZkpmX0NsSlFrUlVDbFNDLXlPaVktSF9LWG1KY2Y5eTFYMHV0el9HTWJvck53Q0dwT1pjWXFiMHMzR3lBcml1Uk1OemZmbnVPdm9F?oc=5",
-      "domain": "blog.qualys.com",
-      "publisher": "Qualys",
-      "publisher_url": "https://blog.qualys.com",
+      "title": "National Security Agency network outage linked to software vulnerability",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNENuckNXMUlsODdxZnZnTFZicTR0bmk0aDY2ZzBEUEd3ZHJRaFNjVDNpWmxzTk1jNnBpVHlvdmE3ekhka3YxVmIzVUZKQUotM0x0Zk9SV2h5UkZMSVdpb2VEVUpXNms3aHV4N2w5eEFybGNWVE9jRmJkUzZTTU9uNVFvZzJNdlJkeXRCZkhUcnN2V190WnBJ?oc=5",
+      "domain": "www.cbsnews.com",
+      "publisher": "CBS News",
+      "publisher_url": "https://www.cbsnews.com",
       "language": "",
-      "seendate": "20261118T005045Z",
+      "seendate": "20261118T222800Z",
       "source": "GoogleNews"
     },
     {
-      "title": "AHA: Why Hospital Operational Technology Is a Possible Cyberattack Target",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVI5UlU0VGZaZXllYzRJSVU0VFdwWVlCYVh2X2hsVDUycFJZYTY5OWRCVElrQ0RLWnppZVdoQXJ2Zy14VkhTS1FsVWtkSmVNOXItbEVJaWk0eUJLOGpaRXE1dU8zbXZ0am9fZmlmUUdQSUFKRzNBN3RiZkFKMm1EWV9zSXJGVE05bV9oWnF2aUNnb2NZVzVjT0dYb3lsUENqb0s1WTZxeVJyekhoYV9zZ24taW9rM193N2xXNmZB?oc=5",
-      "domain": "southfloridahospitalnews.com",
-      "publisher": "Florida Hospital News and Healthcare Report",
-      "publisher_url": "https://southfloridahospitalnews.com",
+      "title": "Cyber expert says recent tech outages aren’t signs of widespread cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTzJWeVdnMl9aLTR2X0JadEFjSjVDclhrSnp6VWt2QlJGQ2hPUGczUlIwRXl2WnU0bXJsb2gzUF9SQ1M2S2g1YmtmamN1VVVvX2VPazhUR3N4MDJKZjltU1R2bnR5VGlMY1FHcktBWEtDWktWWUhaRzBKWERUSXItVkdXcm5DV1h6Qk1yVmJaMzVaazQzN2dLU1BlcEFFTUNYRG4td2hPUkJBVEllSTlLNnBLMTdfVlE?oc=5",
+      "domain": "www.25newsnow.com",
+      "publisher": "WEEK | 25 News Now",
+      "publisher_url": "https://www.25newsnow.com",
       "language": "",
-      "seendate": "20261118T142437Z",
+      "seendate": "20261118T221800Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlZBd1dWVmdPT2pjVnBUa1BrZkl2ZnlxU0JzUkZMUFJpbFVfSGtOM2hteEZUMkNhTXU4YTg1VVlXZjNXOTlnTkpPWEJaTFl6blhqMEVWNVlrMUZoRTc4TW13NmNtVGc3MVVDMkQzRlFsb0RSUFdXc3JDNWI0RDlJUg?oc=5",
-      "domain": "www.infosecurity-magazine.com",
-      "publisher": "Infosecurity Magazine",
-      "publisher_url": "https://www.infosecurity-magazine.com",
+      "title": "Nvidia Probes Breach of Partner As Ransomware Group Claims It Stole Data",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVdtUG1jdWRLODg0dy1NSndqejJHVjFnaG9tYXl4eDRHQzhPOUg2NjNQeG9vVWs4dy0zeGZNVFF1bzhPbXRldERaZ1R5RmZPQmZ3TDJjVXJrYjk5QmRJNF94bF9qSl9YRkdIU1J6Z2k3TEs4eWtOSDRFOThPM1hmQXhPUXBJV1BxWnhzU3FVV0Y2RFA4Qy1BQ3hoWE4xRWVx?oc=5",
+      "domain": "www.pcmag.com",
+      "publisher": "PCMag",
+      "publisher_url": "https://www.pcmag.com",
       "language": "",
-      "seendate": "20261118T123500Z",
+      "seendate": "20261118T221850Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Visa confirms apparent cyberattack, hackers also claim hit on JPMorgan",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXZhRkFCQlp0Y0xFMDVnVmVwWldxQUxsV3pHMmcxSnpVclBrdnJaRHVjYkZOcmtyZjhXOTdNTGV5dE1rXzNrallCRUw0X3JBc2lBS2RKUzRKNGozTnBoNlg5TDJsSGl0ZElDZDdfTHdoM2d1RFdNRi1OU0g2WjFxVHJaazdlanBSLU1tMWJySEprb0d0ZnBvM2tYdmtxNHpuWTZjSWlUVW5TdW5V?oc=5",
-      "domain": "www.techradar.com",
-      "publisher": "TechRadar",
-      "publisher_url": "https://www.techradar.com",
+      "title": "Ransomware access brokers are moving their deals off public forums",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3c2WUdoeEpjN2pKYTlrUTZBMHo2U0xZMGRfazljSnluT0wtQ3ItSmFqV3B4ckIxTWFCX09TZ0k5VXNRaFhrcDJQVmx0TDg1ZmFJQkdPTFVyTnpqLXRWQWJLWVd3TGl6aTN2SlhOekhpZ1NpdFdwY1pmTXpmVGtsTUhDQXB0cWM?oc=5",
+      "domain": "www.helpnetsecurity.com",
+      "publisher": "Help Net Security",
+      "publisher_url": "https://www.helpnetsecurity.com",
       "language": "",
-      "seendate": "20261118T161000Z",
+      "seendate": "20261118T232820Z",
       "source": "GoogleNews"
     }
   ],
