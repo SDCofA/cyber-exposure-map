@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "cyber-exposure-map",
-    "generated": "2026-11-26T21:58:30.112966+00:00",
+    "generated": "2026-11-27T09:09:41.195588+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,11 +23,21 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "43"
+      "value": "39"
     }
   ],
   "live_data": {
     "news_articles": [
+      {
+        "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampVdTJ4NnQ0Qlc4OHlZV25GTVBkWmFaaExVcTE1dVdMUThTUV92azJJdEdJa294R3VvQzNVb3BneTdfMDN3X1VBb3p5MnFEbW1wZ2lpa2E4WjVqQVR1Mjd4SzFkM25CRXBhNDl6VVJHOC1XVkZEbElpMHFWaEN1SjZBemd2Yzh3alBLN05zMWVsd0k?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
+        "language": "",
+        "seendate": "20261127T073614Z",
+        "source": "GoogleNews"
+      },
       {
         "title": "FIFA hit by cyberattack as hackers gain access to personal and business data",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xaEhFSlhHN09LYXdIQ2FLLU4yYjhvbFV2U3N2Mk8yMl8wOVU2ejFjb2c4WTJzU0Y2NjlQdlBfUEFfWlNqbU5VN1dlbmxjYUFQaGhZVFBjUURpOGhJbjZJYW1maVo1UWMtRXh3YUZwdTlTbmc?oc=5",
@@ -36,6 +46,16 @@
         "publisher_url": "https://www.espn.com",
         "language": "",
         "seendate": "20261126T120700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2VaemhJM3ZTZHpmTnBkWnJQZTVqNlNDSEx3ZnhqanUzX3ZQbURiNURFNUdDc1NTWmtoRVI4ZHRXOFBGcjBuamRmYnJsQnZJd0pmNTBYQkpIYS02b1RkUkkzUWFLMThHLVIwazVIYTV4N0lHRkVGTU4yc0JWTXNFN3ZxaTlJRGNsMS12elNTU21CUGZlY1VkMzY5MERTNHFuVEpmMnRPVDBIY3dxNUVYVHp30gG3AUFVX3lxTE5VVnZOeS16aVVlMGNobmVwcnhVU1FuM0VVUzNTV1VlMXREU3NjVVRMUGxVb1R2cTR6QjhBamJJTmpiX3c1V3pwYndpOU1NNFp5RUNDQ2lwT2doalpaNE9uTk5jQlItSXdHYkpuMVlNdTNMb0JKTm9yd3NFRnhoLW5NQ1R4ZFNLMlBWcnBjelRUcDBmQkw2M2kwZndkWFZHVzBRTkhDS1JmSVJMSVdSaVdlQ2JMSjFWUQ?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261127T010824Z",
         "source": "GoogleNews"
       },
       {
@@ -49,26 +69,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCWTlxUXYyVjU2M0VwTkM2R1VCQ1hWVVlvdm9qWEdrbHNXZE9LWTdUano2b3pSSDkxbmVPLWRncE9BUU85eXFWV3hDSkZoeml3WEowdG5VNm96TmRSekViVzJ4UDZXNDZWaXN5VHBjYWhuX21uWlYzOVRMaHplQ00?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261126T070200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FIFA hit by cyberattack as hackers access ‘personal and business information’",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUdlLTRkOHpFNTg1OUViLVV4X21iZHJPVEluNEc2Ty01M3FOM3QzUndoR0VTQXJnQzdEdWRGZHJuRW5IdkRseW5HZlYxQUpqQ2I5UXY3NVc1Um5raEp3UkdlYXdFM0FOQ0o1MnRJa1RjcGNLc0hTQWJIR2phb01ZUVJOcGJ0Um50V1FiVjhlbFgxQm05Ykg2YUFzU2ZrdnRzNVBDdHRGdGc1V1UzdXA3VlVVMEQ?oc=5",
-        "domain": "www.nbcnews.com",
-        "publisher": "NBC News",
-        "publisher_url": "https://www.nbcnews.com",
-        "language": "",
-        "seendate": "20261126T123400Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEVfdVpMRW1Pc0NGMTNmWmpHbUFDUWVNdTlidktzemRibGQzbWdWRnlaZ3V0WUYtdEExY3RraFVIalNUS0RmenU4TDNka0xnNFdzRkg0ZjBQVnQ0dlhwT0Y4VzNiUlltMTJta0ttZlU0d0I0a1ZSTGtDZFZTY09fNy04U0g?oc=5",
         "domain": "unit42.paloaltonetworks.com",
@@ -76,6 +76,16 @@
         "publisher_url": "https://unit42.paloaltonetworks.com",
         "language": "",
         "seendate": "20261124T230846Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCWTlxUXYyVjU2M0VwTkM2R1VCQ1hWVVlvdm9qWEdrbHNXZE9LWTdUano2b3pSSDkxbmVPLWRncE9BUU85eXFWV3hDSkZoeml3WEowdG5VNm96TmRSekViVzJ4UDZXNDZWaXN5VHBjYWhuX21uWlYzOVRMaHplQ00?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261126T070200Z",
         "source": "GoogleNews"
       },
       {
@@ -89,13 +99,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "FIFA confirms cyberattack that accessed personal and ​business information",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52MjhQRnBqaEVWSUVpdmJFSl9BX3NiSkVRNmpLTjlhODFfVTktNHNrQnByZTJhWFpiaTRNY0lzSXRwX0RsaDg3Wm5YVDUtak5hcUdFM1BrZHR6SDZPeHktZ1B3?oc=5",
-        "domain": "mashable.com",
-        "publisher": "Mashable",
-        "publisher_url": "https://mashable.com",
+        "title": "Booba ransomware spreads from US water treatment plant to local government network, exposing IT/OT network security gap",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQjFPdVp4al9kUHZvSzB6S1hpMTZ4bGpQUlBDcEVZMkdYQm1jYXVYM1Ywdkk3SHBYblNBVEFieTVmNnhVVmhqVkFodTlkbUNiUEJzeENRX0o4ZVpEZ24xS2I0SWNUSXdsaG50UTAydkVTbDR2aUJna2x6OFhBVDRlVkMwaGJ5UUhITTg3QkQtRkFZZ3N5bVdYazJfVVRMRlRaUmIxa2hwYVJLV3VPNW9fdnF5MnR3TWZDWGhFOXJDTElDZjlDVDNwSGlDRE9jcVQ5bmRZUjROWmlfWnlQLVpGY1B4THNRc19HZTNrOE1DVGJkRk9R?oc=5",
+        "domain": "industrialcyber.co",
+        "publisher": "Industrial Cyber",
+        "publisher_url": "https://industrialcyber.co",
         "language": "",
-        "seendate": "20261126T200828Z",
+        "seendate": "20261127T074158Z",
         "source": "GoogleNews"
       },
       {
@@ -109,13 +119,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CVE-2026-132825 Impact, Exploitability, and Mitigation Steps",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5SGNndG5nT2xzdktlUF9GaHFVTHNTWHpxZFZaVjNjc3phX2tTVldzVF80Vmd4SFg5MkR6ZThsNEVINk5qSm5BRTB6VTYzb0licHg2eXlES19MaWFYMTNkZHJnT3JGRGZELXZ2YXBR?oc=5",
-        "domain": "www.wiz.io",
-        "publisher": "wiz.io",
-        "publisher_url": "https://www.wiz.io",
+        "title": "FIFA hit by cyberattack as hackers access ‘personal and business information’",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUdlLTRkOHpFNTg1OUViLVV4X21iZHJPVEluNEc2Ty01M3FOM3QzUndoR0VTQXJnQzdEdWRGZHJuRW5IdkRseW5HZlYxQUpqQ2I5UXY3NVc1Um5raEp3UkdlYXdFM0FOQ0o1MnRJa1RjcGNLc0hTQWJIR2phb01ZUVJOcGJ0Um50V1FiVjhlbFgxQm05Ykg2YUFzU2ZrdnRzNVBDdHRGdGc1V1UzdXA3VlVVMEQ?oc=5",
+        "domain": "www.nbcnews.com",
+        "publisher": "NBC News",
+        "publisher_url": "https://www.nbcnews.com",
         "language": "",
-        "seendate": "20261126T121822Z",
+        "seendate": "20261126T123400Z",
         "source": "GoogleNews"
       },
       {
@@ -129,13 +139,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "FIFA says a cyberattack against it targeted a 'limited set of personal and business information'",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR2JOSndzZmZGVEhjRmU5U2lUcWxDaXZacVVqWmp6WW90c0JHSUp0UUs5X09vSWpBZGVaQkhxU3kyRXVyZkZiNjN0dDFNUUlfemloTDdCbGNJY1htemFkWjFOREtDQWFQbkdBODZPMm4wNXZsakRaMDFZd0RPRmh0bUFrdzNIdzJ4WXZpTElLN3B5RmJfVFYyTFJta0g1WHZZY0NLNnh2NkJUMlc4b2tLZ2J2ZXZrUDYwMUxuRFFOanNTcTlaV3fSAcYBQVVfeXFMTXhqVDRVWHY1VWxfR1FZeFBrMGp1ZFhQTUVCcmVtVHdWcEh0LXE1U0x3cGlPdTBCRXROOTZhNWNFY2QtTFVJN1U2eWQtR05wZHJFVTFuSFRLN3JQOGczUUY4ekZ2aWk3UTNkejBlTXlQZnBJcUUxcGc3YXpQQVFxRWJHQVRSdUZEa3NsbzBZSmlteGg2UkVZejFsQWFSdVQyNGZBZVQ3cjRqdUJkMGtRd2ZrU3lXQUg5Wk5vZTY2eEI3WFhjaE1B?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
+        "title": "The US Government Is Under AI Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmxRUFRhY1QtSDBiTl9IVlY5UkZ5Q0E2amlLQnFWQzlOc1RWejZhcUVUTDFQN0ZXOHBFaFdCT0J5SWlPdDZJM0w3SEZIelM5OHlMX2JHMm9JYlZfZ0s2eHJEd1R4STlWaHo1NXFTT2RWdTVZcXpnajhkZ0NLaDhuYmZNQ1hOTWx5eTJQcFh4aEo?oc=5",
+        "domain": "www.forbes.com",
+        "publisher": "Forbes",
+        "publisher_url": "https://www.forbes.com",
         "language": "",
-        "seendate": "20261126T155626Z",
+        "seendate": "20261125T175900Z",
         "source": "GoogleNews"
       },
       {
@@ -149,93 +159,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Wyoming uranium operation shuts down after cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhSMkRlS0RZSFBDdlBReGE2SG5IeVBPX2s3eXRRcHYxa0JlMjUxZ01wMmdhRkNxNV9Jb2tRTDJhM0VNVl9oT3ZCNFpWUFVCVFhpdTRkRDF5cmlFeDA3YlBzNldGUFJWQmduNDhiajR6Q3d4aWpVOE8zcC1lR1pJZ1Vva1dIZFNZc2F2dk5BQmZ4U3o2Nmg5cjJ3NkpSQnhRVzNqQzZURVVSZ2hJQ3ln?oc=5",
-        "domain": "www.theregister.com",
-        "publisher": "The Register",
-        "publisher_url": "https://www.theregister.com",
+        "title": "Budibase 4.0.0 Fixes 12 CVEs, Including Unauthenticated CVE-2026-137498 and CVE-2026-137499: Update Now",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY1JBb1o0c2E4LVV4dHVmaTRFNFZ3UUduRlR4TjQtdUFPb2RzOW9IdTl6eFdpcTJfME9DaUdYN1p1ZFFkamZPUnVMbTlqVlFhcE1TMHR1Z2xsWWJjMHl3WXM4WVZvRmRRX2ZCV3hGclZ0Z2FEXzBpNGQ2ZF9ZVlBsQVIzWnRsMEtGSDN1ZDR3RjYtSFBFeWhLYTVDWkFtYjhLVEFzQlpCSGg4QTdsUmJTYk1sdFFsVnFGd21mX19fcW84QUlJZTBmLUhR?oc=5",
+        "domain": "www.rescana.com",
+        "publisher": "Rescana",
+        "publisher_url": "https://www.rescana.com",
         "language": "",
-        "seendate": "20261126T140200Z",
+        "seendate": "20261127T065142Z",
         "source": "GoogleNews"
       },
       {
-        "title": "FIFA says ‘limited set of personal and business information’ stolen in cyber attack",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGpzYXFfdG44cWtJRGpUYWdGTnowZllpb0FoaUJIblh4c21BbHlQZFNxN0t3SWtRQTBNTFp6SnFMQlpLek1YOF9ndkVDT29ZWVBwOWFjUWQtT2hyUTVDMVhWbXdncnBXaWhSNnM0QVFlcW9TaXg1cU1nUW9LSEkxSnZSTdIBiAFBVV95cUxNYW11STBZZm5GRjdyd1ZOanhJcGVBeTEzZ1pNaWI0dTFiYW45SmFkZkZTdWctQjlta0tSNHY0SWtaMVBFb1JuTGk3U3hSb3cxY3o0R2h2bG5DSElUYmU1WDc5UDlpRGwxaktXVFRQc3VoM0Q1dUN3b0JEQTVIT2hYSEc0UE1FaGpv?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
+        "title": "France's AFP news agency hit by cyberattack, takes content platform offline",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVlkR3RhVTkyX2EtNWxGTWtQem5Oa0xwR3BlbTM0RTFaOGVHOHA2a0NKVU1wZ0FRRWlKZnpaeGVxSDhuWWJWWDBiR2J0QThuOUVwZDBtOEdIaEFmbktwMWtHcVVCYl8wYjhNNDVKY1hHdVdmWlBSWXQ5RTNISENtU3hxU3JjZzNPS1Y1ZDJ3MjlmaGc1aFpXb0RBLWhKSG9JSTJqSEJYMkRqUVN4UVZUX2xxRQ?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
         "language": "",
-        "seendate": "20261126T181000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FIFA Says Hackers Accessed Personal Data in Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlFyR1RsWjEyejFRdXlWSVN4QXphaEE0dFp6R1FyaWJNLVBIUVFKc09kcGh3Q2xaV0VOdDRpWTRZVFBlLVoxVEtmV3cxclpNaE9BZU02ZXZaSWhJbnlCWVBWN2VseXdjUVowaW9nSWRqRjhMRWI2NXh0TWV3b1NkNE1nQkxmVnozRFZBbVNVT3hKS0ZpSHVuWmhfTEh4S25FdG9Md0o1OVU4UQ?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20261126T134217Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Georgia city targeted in cyberattack day before Thanksgiving",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0paMkVNN1pOZnNTWnF2Yl95ZnRBYndrMmpvcm1kWU9NekY2b1Bld3JxWHo2U2RuU2tSY21ick95SVVLaFBCa2pJNHVXOV9mTGdSNDlqeGk4dXFYTzZlMGxSWDFqRV9TZ0tlN3ZRSkZ5LUtRalAtSVdQWWVmR3gxUnlvUHNRSmhWOElmUHhjbXdlV3ItblA1Tklwc0hnd3ZJTkZPXy1LZWtlVWNDQ0VnNG5iOFM1b2kxbmfSAc4BQVVfeXFMT0g2bGRjVk85czhNNy1KVVlqbzV4UzEtLVBTbWc0N1FqWXhka3JsUmR4cmxUTnN1aU00a1NXLWYwd1gtY01lTmJWS3NTVXJUdVpDQzV4eEVFLW9SVmozQWwtSXNjRWVrQ3BXLUluRnJlTlBBVGFLZlE4Vl9Gd3Y2SDlVVXc0aDFkbWNqTFBiTUZWNTJ6b0s3WmR6MHBsNkkzMXFWMHFqQWx3UXJhbFFybXF3N2piWmdaZnUxVjZYdjZxLWktUXFwVVluMk9ORkE?oc=5",
-        "domain": "www.wsbtv.com",
-        "publisher": "WSB-TV",
-        "publisher_url": "https://www.wsbtv.com",
-        "language": "",
-        "seendate": "20261126T174821Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FIFA says it has been victim of a cyberattack accessing ‘personal and business information’",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmU3QldMZEZZTlB4bkUxZHRGMDc3MWlldjlWVG9jN2UyVFZUekZ4eDVKdmVLdTFkazFnQ3MtTUNwakJhVE95WXhmZEFzajlwc0dlOEpsUkVpSzFBZGp4YmZra08yMEh1SGw1WF91N25qaWRkN3E2OGlRcEl0Q2c5YjkydjQzVE5X?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20261126T120900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The US Government Is Under AI Cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmxRUFRhY1QtSDBiTl9IVlY5UkZ5Q0E2amlLQnFWQzlOc1RWejZhcUVUTDFQN0ZXOHBFaFdCT0J5SWlPdDZJM0w3SEZIelM5OHlMX2JHMm9JYlZfZ0s2eHJEd1R4STlWaHo1NXFTT2RWdTVZcXpnajhkZ0NLaDhuYmZNQ1hOTWx5eTJQcFh4aEo?oc=5",
-        "domain": "www.forbes.com",
-        "publisher": "Forbes",
-        "publisher_url": "https://www.forbes.com",
-        "language": "",
-        "seendate": "20261125T175900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FIFA says personal and business information stolen in cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0Q1MUVjSVJDS29yYjFudkVhNUgycnYxZjVmU0pxV2JhWjdHZGtGX1lsRXVINkJVdmI1cnNraDVSUXEyNHVvV0hJVGtaa2trY2JtUElUNnJZaDJqRURBTUpkaE9tX0EtaG1Ta00xbC1xeVVKNlFMLXB4VFFiOVNGbkluUUdPRVByWk5qbUhPVEQtWDdkand2aDBhZWxFR3lwRVFkdVNJS3J5U21HMkHSAbMBQVVfeXFMT3ZTZmxCS1paUWxsN09ybHBkWGt5dDRTRWY1OHBLeXVvVjBlRHRiV19ZT0xidjk1cXdOejU5NGJ1dzJvX1ZWaGN6THdRZ05ObGd6anlMY2JWTExpQ3h4RXJuMmV1VEEtYmp2V2J0ejZoMW9WZ2o4NXlsLXI1YW9mcDk2aFBGWHctUUlzVEoxanRPcnF4U085bTlrekZKYzEtNWlpV2FjbkZudjM2czRsYTJkaG8?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261126T140450Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4QVFIcE0ybGhnWmZlc2RlZWZIanVSVVg1Y3JkWEhzQ2pYbGh3enlFY3Z1WGRfS1NZbE8wekd1UUxMd1czVHFZaTlUMnlHRUlnd0ZqZFJkRnR6Y2trZzNsVGVMdG1icjMzVEtqaXhJMmhydUdNOC0tR3Y0cVR0Zw?oc=5",
-        "domain": "thehackernews.com",
-        "publisher": "The Hacker News",
-        "publisher_url": "https://thehackernews.com",
-        "language": "",
-        "seendate": "20261126T064400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Proof-of-concept exploit code available for Ghostscript ‘Upload2Shell’ vulnerability (CVE-2026-125396)",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZVg4djQ0UDFuNlhoLVh1R2pUckl5RU1oRnlKZFNkbnNWQ09qQXRSSTRxZXVLUmk0MHpkVzhYelY3aEp2TUZBVHkzT0lqcVNOcTE1NjlBYjNtSDc5TXpfVFN1NGZ2bExxNHFmVTVCZm9hTzBHVkU5TXQwQ2ZiRHdIOW5SbU1rMWNEUXlnMUtSbDhuOTg?oc=5",
-        "domain": "www.sophos.com",
-        "publisher": "Sophos",
-        "publisher_url": "https://www.sophos.com",
-        "language": "",
-        "seendate": "20261123T200701Z",
+        "seendate": "20261127T011820Z",
         "source": "GoogleNews"
       },
       {
@@ -249,16 +189,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Faculty members adapt to cyberattack effects, cite lack of clarity",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOW94UzdOVWpWazlzV2xMeU8zaU11aDhlTHh1SzNRN0pxd0RLUFUwU002dUR0Y2JHLXNNY1BGdUwzaGttajVRdkZSLU1ob2lWckJGeTdqcnBiejdwZEJOZVp3dTh3N1RNQXZlbkZsZU5QR1NXNl9xbXRZeWFkN0FuYkFrZ1lKZEt2aUR3MGc4UXZISHBUOWdObVd2RzdSRmlDaWtKZ1gxWEE4UXM?oc=5",
-        "domain": "vanderbilthustler.com",
-        "publisher": "The Vanderbilt Hustler",
-        "publisher_url": "https://vanderbilthustler.com",
-        "language": "",
-        "seendate": "20261126T162218Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "A protein that teaches cells to tolerate DNA damage points to a new vulnerability in cancer",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2JRRG1XeHRXRk0wX0FCQnl6aHBaR2ZkZktjdHFlMkJ0Uk4tOUxDUDJnVk1XQmszZGQwdmFyMTJSMy1Ra0EyemtJR3FHRnZYeDlfdFBZT0YxX0F6Y2NBMWVYdS00UG14YUs5WTdTOGo4cDJVb3I0TTBHSTNXcWo0LVRPOWJENDRNcHFwTw?oc=5",
         "domain": "medicalxpress.com",
@@ -269,103 +199,133 @@
         "source": "GoogleNews"
       },
       {
-        "title": "GeoServer CVE-2026-120705 and CVE-2026-129243 Exploited: Patch the Unauthenticated RCE Chain Now",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkttZ3Fvc1ZGZnBreEttQThvZkp6emI5cG4ydzJiUmptN19ISWFZdGNIdk1oOHFfUk95X2FvUXJhbVloelFuZTVQVEYzNjB5V3RCaWc1R2pnbVY4V1Z5b1hDYVZ1YVpRMHZ3d0ZPakt5S25qOG9kdGpfNTkxN29yUEFiTkhqZWIyWUFlcENfUk45ZlpUZnBRbnJOOTczTUl2dS1kYmJ4UVpKVFNxNlpTUlpCdlRkelFyUUpweTlvcFhEdw?oc=5",
-        "domain": "www.rescana.com",
-        "publisher": "Rescana",
-        "publisher_url": "https://www.rescana.com",
-        "language": "",
-        "seendate": "20261126T113545Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NFS vulnerability exposes Linux file servers to root takeover",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXNtVkZrOXdDbV8zOTJnUjNKMWtqM1BoVmZfemNwME9lM2NMb0Y4RjdranpoZG5qdTBCQlRqalJoQW1CVlJQY0tSSnJHdm1PYkk2LS12S0JUSVVrV0h5bFpQWGVRSzFoYWFqS2RIVTE5b2NsMnJxVlFEc2VFaVJRRExsZlJGWGstMTdjcDBRZ0g3N2tZ?oc=5",
-        "domain": "cybernews.com",
-        "publisher": "Cybernews",
-        "publisher_url": "https://cybernews.com",
-        "language": "",
-        "seendate": "20261126T093418Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FIFA confirms criminal cyberattack, says $4.2B World Cup stake sale files were untouched",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUG5SNEQ2UjVDZkJqZVBDcnNyYU1lV1Y0QXUtU1Q0VUgwSWVfTUR4NzlwZjBoOVUzUWFhbnJVdjJhYUVyQTFKSGRUUDlIbzgzUXJsVUw3SWEtblROZTM1SFQ4bGRWUm9RQWR1ZzJCNzNCbXJLVkdHR3ZNb3lPdTUyd19CbkF5VDdESWVjU2Q4QWXSAZYBQVVfeXFMTjRWV3BPSlBWcS1jX2hqSXppZTZjNnZjZUpPZlFMbnoyUjlwVHlrVnZUOHkwR0NhUjNEc1BUWmtubkF6aVp3dS1ONGp6aFdYbnRFd01sTXM4MU5Dbzk1MlVBQkFRSXFXR0J3WVVYYy1GNkJfLTNUeEVVbXpjRWlVMEJXU1FUbURRckI0ZUVWck9nYV9WLTh3?oc=5",
-        "domain": "www.foxbusiness.com",
-        "publisher": "Fox Business",
-        "publisher_url": "https://www.foxbusiness.com",
-        "language": "",
-        "seendate": "20261126T151000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Critical Infrastructure Under Siege: AI-Driven Vulnerability Discovery Demands Executive Action Before the Wave Hits + Video",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE04UHVhRFMwZFM3U3hKcmE1bGRFa0NRWThKbWNZc2NBUHFnYkQxaDA3SGh4MHNSZm9OeHFF?oc=5",
-        "domain": "t.co",
-        "publisher": "Howl.Link",
-        "publisher_url": "https://t.co",
-        "language": "",
-        "seendate": "20261126T204516Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FIFA confirms cyberattack that stole 'personal and business' data",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSzMtZkNlUk9RTHRUYzQ4a2N4Vk5fYXViRkthTE1HTUYtMW9BV0xIUU9jMFJsMEo0RG82X3FTdVVYQm5SWkVVclE4djJOYWZ2OHJZZElSQ0FJdUd6UjUwVVBodTBZNF9kU2pDTkRld2VQZS14eXRNS0NWWHRRVGNLd1V5bHd5dm91NWZuYWwtelFfc0JCMElpeGZTRHloQnByN0xVVkxETFRWcnZC?oc=5",
-        "domain": "www.usatoday.com",
-        "publisher": "USA Today",
-        "publisher_url": "https://www.usatoday.com",
-        "language": "",
-        "seendate": "20261126T143300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FIFA targeted in cyberattack by ‘Handsome Boy Hacking Club’",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUhfcktDSXVlUV94SnEzN01KbjJkeWo5ZTQ2TzFndVRaSXpYRUp2WHpKRklnR3hWMktXMXNWNzhRbmlxT2RMcy1yN3BfZEFxWVg0dnVaVzJwcVEwRmdtQmNrVkd5YU1aYlJ1bGNET01DNWdLMi1HRTFKUDN1RG9WTkJfb3p3LTQxSkZabVZkN3ZzNGc4WHZnWDVjZw?oc=5",
-        "domain": "sports.yahoo.com",
-        "publisher": "Yahoo Sports",
-        "publisher_url": "https://sports.yahoo.com",
-        "language": "",
-        "seendate": "20261126T125833Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Another highly critical Drupal vulnerability in the installer",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUdyWHFCTHU2bUFWNnJLRVY0Wm45ZTZ5TEJqbU50YTRjV01IRFd0S0t0SjdRQ3lZRldPSE5DbV9KdlNLb0RGQ3hrU1RPc25XU1Z1aXVDRUk3YzFwdU5ZUzR0LWxseWpLWFJLWGF2LW9kQVkzTmNrODJpVVhsMHNndEg0eWU1cXRDZ2Fja0lLRlRSWVhvZmplb2wyR0tkV3l4aThFejR6UFZETGM?oc=5",
-        "domain": "www.techzine.eu",
-        "publisher": "Techzine Global",
-        "publisher_url": "https://www.techzine.eu",
-        "language": "",
-        "seendate": "20261126T143418Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Unclassified CIA system breached in cyberattack",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3RWQmd3NFpONGlOZFpULUh4RWs0amhNZ2hyaVZaSDF2M2JhblZFejVzbkwzTE5jYXA4eDJTRnA3VG9BNGpmZGZFWHVQOHdnemVROHhMVldpVzd6U3VqODRMUjA4cmF0ME1mVm9qS2JWdWFOQTR5RDNNaWJMU1J5bWVpOGdvbTFNQWdr0gGQAUFVX3lxTE5SbWpKNmJ3aU1xUGVCcm1JanM0eHdReElrVTJickNHUHJyelVsX0dNNEZidnBkZWdYNnNORkpFbUJYZEVwNjRYcXpsU0tUWmpLbGw2WE03RjVrQWdmcUwxNHpRTGJyQW1Ndkg3M3RjUnNva3lfc0hkNzlpMUhDTF9POUtCbS1zS0VkWi00a0Nsaw?oc=5",
+        "title": "FIFA: ‘Limited set of personal and business information’ stolen in cyber attack",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGpzYXFfdG44cWtJRGpUYWdGTnowZllpb0FoaUJIblh4c21BbHlQZFNxN0t3SWtRQTBNTFp6SnFMQlpLek1YOF9ndkVDT29ZWVBwOWFjUWQtT2hyUTVDMVhWbXdncnBXaWhSNnM0QVFlcW9TaXg1cU1nUW9LSEkxSnZSTdIBiAFBVV95cUxNYW11STBZZm5GRjdyd1ZOanhJcGVBeTEzZ1pNaWI0dTFiYW45SmFkZkZTdWctQjlta0tSNHY0SWtaMVBFb1JuTGk3U3hSb3cxY3o0R2h2bG5DSElUYmU1WDc5UDlpRGwxaktXVFRQc3VoM0Q1dUN3b0JEQTVIT2hYSEc0UE1FaGpv?oc=5",
         "domain": "thehill.com",
         "publisher": "The Hill",
         "publisher_url": "https://thehill.com",
         "language": "",
-        "seendate": "20261125T141200Z",
+        "seendate": "20261126T181000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "FBI Busts 'Wolf in Sheep's Clothing' Ransomware Responder",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdC0tTng3UXRJNXJJcXBVaXdOWjZiQ1RuQVUxMmxudzlWb19FeFlNX08xLWVsWjlwTUZCcFJPb3RwOHZuczU2MHlOUHBIS2pmMW5rcjYzcEhvZHEtQWhmWGl5dWxkN0VyZVJMLXlGUnBaRXZocnFUOExjcl84QUJSWXNVVzFTSEVlQUFRaFo5LXFpLVM0LTdFRS1n?oc=5",
-        "domain": "www.govinfosecurity.com",
-        "publisher": "GovInfoSecurity",
-        "publisher_url": "https://www.govinfosecurity.com",
+        "title": "Traefik CVE-2026-137481 Auth Middleware Bypass and Three More Flaws: Update Now",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUsxRlB2UjlxOFV5Y3pESm9LU1l5ZXVwd056ek1uQ1JQR19VNlZTMHRNRlc1ZndaUFg4aU56VmRZZk0tSkJfSy1nMWFyQlI2TG15ZXhJdnBVSF90bUpzaUczNmNxZGNSRENWWUVYMlZWb3BSTVpFdGdCUmpkMTFsRUJCeHM4dGFGdGZSTWIyNDNhTy11R2FDN0x6ZFotb19SQ2RkUGxPeVIyUzQ?oc=5",
+        "domain": "www.rescana.com",
+        "publisher": "Rescana",
+        "publisher_url": "https://www.rescana.com",
         "language": "",
-        "seendate": "20261126T151312Z",
+        "seendate": "20261127T062726Z",
         "source": "GoogleNews"
       },
       {
-        "title": "FIFA cyberattack exposes personal and business data as hackers claim 12GB theft",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LcUoxdTBad0NPLVlRMVhQcnpwdk5nYWVaeVZBY2hCdWNpdWp3U3YtRldNNndJM2lURmZQNnl6cHNtYWpfMGVrU0NCZDhPV2J3WGhrcUFJQlZFX3JhRnhDUEFkUHVadDExV3pqUWlGZTVYZE9CQ1IyeUdqa1JRelk?oc=5",
-        "domain": "beinsure.com",
-        "publisher": "Beinsure",
-        "publisher_url": "https://beinsure.com",
+        "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOS1VUmpJcEM5SHNNX09PYlZaQWstSGNyQnpEbWt5TXlVcVdkakhyS0p1NjQ5em5PRGpTLUVYVzhsZE5xSWRhMHpYUDZ6UDctcUhtaUl4VENGc01jN09sX29Ta05Cdkw3LXJfVlk4MzVkb3RlUTBuNnJBX0tUMHVOMVpxdV8?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
         "language": "",
-        "seendate": "20261126T154405Z",
+        "seendate": "20261127T054800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "SAP hit by 'Project Granite' cyberattack as hackers reportedly steal GitHub tokens and alter source code",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVGs0eV9VLVczZXdQdk1NbjJ6TXF4ZU1CZzBWSmxUR2VGYk9CNzBiRmVsS2FpQUVMOHp2TWdQMXQ3UkRuTE9ha2wyczU2RUZac19zM0dXeG1KWUpUdlg5czkwUmRRN2xJOWN3Z25DVlRYSXJsTXhYeUVKZHpRQWZYdXlVamFmbGFPOElLRnJYNnFRNUwtWkJQblFSNHh5N0h5Z1JtTEtwN2dpSl9yRGk3RjZJWTdsaTRTNkpPVG1aNHFicHJGemM0LXQ2eHd5WGljRVE?oc=5",
+        "domain": "app.dealroom.co",
+        "publisher": "Dealroom",
+        "publisher_url": "https://app.dealroom.co",
+        "language": "",
+        "seendate": "20261127T042632Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Hex Package Manager Warns of Potential Data Breach",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnJvaElyVzd6UE1JWEI3ckZWZzQ4dkNtNVBUd21nUklmLVVKVHJiSEZ5azA4c004V0pHTFBLUUNzLTBMUHlpRElwcmRnWW54NThnQ0l4VHJ5MnhVdUZoUXZHN0xMY0NSRjVOaXh2bFo1RmNDQnNWMnVNT3FSbjJBblV2cWNTOTQ?oc=5",
+        "domain": "www.securityweek.com",
+        "publisher": "SecurityWeek",
+        "publisher_url": "https://www.securityweek.com",
+        "language": "",
+        "seendate": "20261127T074449Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Wyoming uranium operation shuts down after cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhSMkRlS0RZSFBDdlBReGE2SG5IeVBPX2s3eXRRcHYxa0JlMjUxZ01wMmdhRkNxNV9Jb2tRTDJhM0VNVl9oT3ZCNFpWUFVCVFhpdTRkRDF5cmlFeDA3YlBzNldGUFJWQmduNDhiajR6Q3d4aWpVOE8zcC1lR1pJZ1Vva1dIZFNZc2F2dk5BQmZ4U3o2Nmg5cjJ3NkpSQnhRVzNqQzZURVVSZ2hJQ3ln?oc=5",
+        "domain": "www.theregister.com",
+        "publisher": "The Register",
+        "publisher_url": "https://www.theregister.com",
+        "language": "",
+        "seendate": "20261126T140200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "FIFA says a cyberattack against it targeted a 'limited set of personal and business information'",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR2JOSndzZmZGVEhjRmU5U2lUcWxDaXZacVVqWmp6WW90c0JHSUp0UUs5X09vSWpBZGVaQkhxU3kyRXVyZkZiNjN0dDFNUUlfemloTDdCbGNJY1htemFkWjFOREtDQWFQbkdBODZPMm4wNXZsakRaMDFZd0RPRmh0bUFrdzNIdzJ4WXZpTElLN3B5RmJfVFYyTFJta0g1WHZZY0NLNnh2NkJUMlc4b2tLZ2J2ZXZrUDYwMUxuRFFOanNTcTlaV3fSAcYBQVVfeXFMTXhqVDRVWHY1VWxfR1FZeFBrMGp1ZFhQTUVCcmVtVHdWcEh0LXE1U0x3cGlPdTBCRXROOTZhNWNFY2QtTFVJN1U2eWQtR05wZHJFVTFuSFRLN3JQOGczUUY4ekZ2aWk3UTNkejBlTXlQZnBJcUUxcGc3YXpQQVFxRWJHQVRSdUZEa3NsbzBZSmlteGg2UkVZejFsQWFSdVQyNGZBZVQ3cjRqdUJkMGtRd2ZrU3lXQUg5Wk5vZTY2eEI3WFhjaE1B?oc=5",
+        "domain": "www.dw.com",
+        "publisher": "DW.com",
+        "publisher_url": "https://www.dw.com",
+        "language": "",
+        "seendate": "20261126T155626Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4QVFIcE0ybGhnWmZlc2RlZWZIanVSVVg1Y3JkWEhzQ2pYbGh3enlFY3Z1WGRfS1NZbE8wekd1UUxMd1czVHFZaTlUMnlHRUlnd0ZqZFJkRnR6Y2trZzNsVGVMdG1icjMzVEtqaXhJMmhydUdNOC0tR3Y0cVR0Zw?oc=5",
+        "domain": "thehackernews.com",
+        "publisher": "The Hacker News",
+        "publisher_url": "https://thehackernews.com",
+        "language": "",
+        "seendate": "20261126T064400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Colombian Accused in the United States of Scamming Victims of Ransomware Attacks",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2pxMXNtaFdiLTA0OHNSREthRG5pWWVNbnA3cWxDclNiMXFSNVpEUWNubERTVnNOU3I5VGY3YTlpdnZUeE5Sa0gzVk5DMjZkYkdtRzJhdzM0WDQ0dWxUWnVWQ0wwbkhad3I3VV93SnJzYkdfelh5cXdGUUd2OWJiYWMtT2lHc0JNWEttYlNDX0puSDVwcHRNbE1HS2lfZ1BEZ2M2NHNMc2xLUC1ZXzQxMThINlRMbTA?oc=5",
+        "domain": "colombiaone.com",
+        "publisher": "ColombiaOne.com",
+        "publisher_url": "https://colombiaone.com",
+        "language": "",
+        "seendate": "20261126T233000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-134401: Critical Google Chrome Flaw Can Enable Code Execution Outside the Sandbox",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEMyTlBMUmN3WWJETlBvNnU2SXNuRTRqUVhWd1NJQWRiXzRxZndJVG8taGRZR1M3Z1JfaEI0NERtYW1UNXhHZy1QVm91aHBjZzZwei05OFU3cFdLcWdVREFheU1rY1lVZW5vXzNBNjN3bnBjcTZJUEtOaFpSLVlGbHBWZWZNX0VjSGdjMUpCNTJncDJCYXd3TlQ4UngwNFVzbERmczJzRWN2QXluWW1UX3c4ZlEzN28?oc=5",
+        "domain": "socprime.com",
+        "publisher": "SOC Prime",
+        "publisher_url": "https://socprime.com",
+        "language": "",
+        "seendate": "20261124T124540Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "FIFA confirms cyberattack that accessed personal and ​business information",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52MjhQRnBqaEVWSUVpdmJFSl9BX3NiSkVRNmpLTjlhODFfVTktNHNrQnByZTJhWFpiaTRNY0lzSXRwX0RsaDg3Wm5YVDUtak5hcUdFM1BrZHR6SDZPeHktZ1B3?oc=5",
+        "domain": "mashable.com",
+        "publisher": "Mashable",
+        "publisher_url": "https://mashable.com",
+        "language": "",
+        "seendate": "20261126T200828Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "USDA cyberattack leaves farmers with questions ahead of aid enrollment deadlines",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnZ6VlNIYm1QUVVPUE1STF93YktlSE1URUVvMUtaSDNheFZ6aVhMRTNvMFdBZ2lBMHhXNDFoR1ZZUGJvY21Cd2E5eDlBQXYzblRDeUlMOTdjRDJDREo3VU5vcG04RzhZdzI0dUctTWhNZEROejdqVUNsd3I3aWJVSHJTZ3pFLVVDYVpoUjlCc21RaTFYNlRKWURJM0tPN2lGQ2pxejdhRnhRNFRq?oc=5",
+        "domain": "katv.com",
+        "publisher": "KATV",
+        "publisher_url": "https://katv.com",
+        "language": "",
+        "seendate": "20261126T221636Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "CVE-2026-132825 Impact, Exploitability, and Mitigation Steps",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5SGNndG5nT2xzdktlUF9GaHFVTHNTWHpxZFZaVjNjc3phX2tTVldzVF80Vmd4SFg5MkR6ZThsNEVINk5qSm5BRTB6VTYzb0licHg2eXlES19MaWFYMTNkZHJnT3JGRGZELXZ2YXBR?oc=5",
+        "domain": "www.wiz.io",
+        "publisher": "wiz.io",
+        "publisher_url": "https://www.wiz.io",
+        "language": "",
+        "seendate": "20261126T121822Z",
         "source": "GoogleNews"
       },
       {
@@ -379,6 +339,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "CIA systems breached in cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWE1UFNFb25fcWJia3hIelU5NVlfMmZ5V3ZwanM2cjYyVG9ZNHJfczdMaHJiQ3RrMG1ZNExybEdoNWFPZ2wzYjJvcGNyOUV3NkpSdG5NSW9saFNOX1RDaHQyMlQ5QkVfbkNObDZodUNyS25ONVBRWWt5NF9qUUFGdGc4dmJVT0hjNnY4T0NZeXJpYlk?oc=5",
+        "domain": "www.fox17online.com",
+        "publisher": "FOX 17 West Michigan News",
+        "publisher_url": "https://www.fox17online.com",
+        "language": "",
+        "seendate": "20261126T203228Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ransomware Attacks Target Koh Young and Pamtek",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90dWVXMHN4dF84Qi1NZUFSZXFTcVdYSnFYWTVibkloa3NwNUZlVjI4OWpRelN6bk9wcXNjOTBuMEV2RnVINjNFZVg0UFhBSTNIdFBsTG5zU18ybURuSVdWVkh6a25iaE0?oc=5",
+        "domain": "www.thelec.net",
+        "publisher": "THE ELEC, Korea Electronics Industry Media",
+        "publisher_url": "https://www.thelec.net",
+        "language": "",
+        "seendate": "20261127T090333Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13SWgycEJ1NHdZWkFMOHlhYk9zQWRHdVBFMEhHRWRVdWtfdFZPYVJfakhKUTB4UDBYNVZLczBsYV9BRHlReGZfZnB3OS11OGVGTnZzUWktTTVNRzNhQjFtbjNZMzVsR1AtcGlhcHdOQ0hfUktFM24yNVpqdlZ3akk?oc=5",
         "domain": "thehackernews.com",
@@ -389,13 +369,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ransomware recovery exec accused of defrauding victims",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWFuYjhoa0pKWVdIOWZiZmU4amJIUE1nMVpyY2hobUNoZHppT1dWNWNsamNXVkhkQ1V3V1d1NG5xMnZYNVhxZHRRY0ZVbjhxNlZJSzFwNjB0UlpVelBlNVNWSWNTZ2YzdnlOeEx3V2lkakw0eHI3VmdLOElGaFoxRkJ1U2h4ekY0OXcxejRHOUZnNXJnam1NSkxuN2NjbF9CSkR5Tktiaw?oc=5",
-        "domain": "www.itpro.com",
-        "publisher": "IT Pro",
-        "publisher_url": "https://www.itpro.com",
+        "title": "Georgia city targeted in cyberattack day before Thanksgiving",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0paMkVNN1pOZnNTWnF2Yl95ZnRBYndrMmpvcm1kWU9NekY2b1Bld3JxWHo2U2RuU2tSY21ick95SVVLaFBCa2pJNHVXOV9mTGdSNDlqeGk4dXFYTzZlMGxSWDFqRV9TZ0tlN3ZRSkZ5LUtRalAtSVdQWWVmR3gxUnlvUHNRSmhWOElmUHhjbXdlV3ItblA1Tklwc0hnd3ZJTkZPXy1LZWtlVWNDQ0VnNG5iOFM1b2kxbmfSAc4BQVVfeXFMT0g2bGRjVk85czhNNy1KVVlqbzV4UzEtLVBTbWc0N1FqWXhka3JsUmR4cmxUTnN1aU00a1NXLWYwd1gtY01lTmJWS3NTVXJUdVpDQzV4eEVFLW9SVmozQWwtSXNjRWVrQ3BXLUluRnJlTlBBVGFLZlE4Vl9Gd3Y2SDlVVXc0aDFkbWNqTFBiTUZWNTJ6b0s3WmR6MHBsNkkzMXFWMHFqQWx3UXJhbFFybXF3N2piWmdaZnUxVjZYdjZxLWktUXFwVVluMk9ORkE?oc=5",
+        "domain": "www.wsbtv.com",
+        "publisher": "WSB-TV",
+        "publisher_url": "https://www.wsbtv.com",
         "language": "",
-        "seendate": "20261126T115958Z",
+        "seendate": "20261126T174821Z",
         "source": "GoogleNews"
       },
       {
@@ -409,13 +389,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Georgia city targeted in cyberattack day before Thanksgiving",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3UtN3ZKR0RVaDZOalFwRUdIWmZETGt2cFhadG1CMDFEbEN3bE91Z2I2R0ZDOVBMUmhybl9ScUk4clRGb2VpUWxlVEZseWFRenlRSU8wcWVadW5UNTdGSllDOU8zU0Nhbk1yTFlKNUJiRVR1Mnhqa1lwX1hBNWFibldXOGlJTkdDSHktS3NnTmF1bG5tSDJtR2xvZWVpTENrY0JreGQ3LTBhM2JCNmFwYXhxMHc3NTg3Tl9kX0UxNVA3ZTlISnZ6N3lzSzlEclpF?oc=5",
-        "domain": "www.wsbtv.com",
-        "publisher": "WSB-TV",
-        "publisher_url": "https://www.wsbtv.com",
+        "title": "FIFA confirms criminal cyberattack, says $4.2B World Cup stake sale files were untouched",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUG5SNEQ2UjVDZkJqZVBDcnNyYU1lV1Y0QXUtU1Q0VUgwSWVfTUR4NzlwZjBoOVUzUWFhbnJVdjJhYUVyQTFKSGRUUDlIbzgzUXJsVUw3SWEtblROZTM1SFQ4bGRWUm9RQWR1ZzJCNzNCbXJLVkdHR3ZNb3lPdTUyd19CbkF5VDdESWVjU2Q4QWXSAZYBQVVfeXFMTjRWV3BPSlBWcS1jX2hqSXppZTZjNnZjZUpPZlFMbnoyUjlwVHlrVnZUOHkwR0NhUjNEc1BUWmtubkF6aVp3dS1ONGp6aFdYbnRFd01sTXM4MU5Dbzk1MlVBQkFRSXFXR0J3WVVYYy1GNkJfLTNUeEVVbXpjRWlVMEJXU1FUbURRckI0ZUVWck9nYV9WLTh3?oc=5",
+        "domain": "www.foxbusiness.com",
+        "publisher": "Fox Business",
+        "publisher_url": "https://www.foxbusiness.com",
         "language": "",
-        "seendate": "20261126T174924Z",
+        "seendate": "20261126T151000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Faculty members adapt to cyberattack effects, cite lack of clarity",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOW94UzdOVWpWazlzV2xMeU8zaU11aDhlTHh1SzNRN0pxd0RLUFUwU002dUR0Y2JHLXNNY1BGdUwzaGttajVRdkZSLU1ob2lWckJGeTdqcnBiejdwZEJOZVp3dTh3N1RNQXZlbkZsZU5QR1NXNl9xbXRZeWFkN0FuYkFrZ1lKZEt2aUR3MGc4UXZISHBUOWdObVd2RzdSRmlDaWtKZ1gxWEE4UXM?oc=5",
+        "domain": "vanderbilthustler.com",
+        "publisher": "The Vanderbilt Hustler",
+        "publisher_url": "https://vanderbilthustler.com",
+        "language": "",
+        "seendate": "20261126T160513Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "FIFA says personal and business information stolen in cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0Q1MUVjSVJDS29yYjFudkVhNUgycnYxZjVmU0pxV2JhWjdHZGtGX1lsRXVINkJVdmI1cnNraDVSUXEyNHVvV0hJVGtaa2trY2JtUElUNnJZaDJqRURBTUpkaE9tX0EtaG1Ta00xbC1xeVVKNlFMLXB4VFFiOVNGbkluUUdPRVByWk5qbUhPVEQtWDdkand2aDBhZWxFR3lwRVFkdVNJS3J5U21HMkHSAbMBQVVfeXFMT3ZTZmxCS1paUWxsN09ybHBkWGt5dDRTRWY1OHBLeXVvVjBlRHRiV19ZT0xidjk1cXdOejU5NGJ1dzJvX1ZWaGN6THdRZ05ObGd6anlMY2JWTExpQ3h4RXJuMmV1VEEtYmp2V2J0ejZoMW9WZ2o4NXlsLXI1YW9mcDk2aFBGWHctUUlzVEoxanRPcnF4U085bTlrekZKYzEtNWlpV2FjbkZudjM2czRsYTJkaG8?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261126T140450Z",
         "source": "GoogleNews"
       },
       {
@@ -429,23 +429,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "FIFA confirms cyberattack as hacking group claims theft of sensitive data: Report",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORUZYbXMxUEw2QTVIdy1jR3hpLW15UmV2THBqbnBTSmIzRlNsSjJadWxDejhrU0lBa0VzWDE2aEdaejVOSUFxTXpBX0Y5R3p6My1OVkI2bFhaSkhITzhwZUgxX28xQUdkYWxNYnc3R3FfeEVLM29rV3l5dFhhWTg0M04tNXFQN2ZYaXFmdE8wNVRPU2p6WDJVV09IQXZTby1JcFB1WkJNSVBrcGhqcUJUaE5jWWFnU2xQSTREQw?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
+        "title": "FBI Busts 'Wolf in Sheep's Clothing' Ransomware Responder",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdC0tTng3UXRJNXJJcXBVaXdOWjZiQ1RuQVUxMmxudzlWb19FeFlNX08xLWVsWjlwTUZCcFJPb3RwOHZuczU2MHlOUHBIS2pmMW5rcjYzcEhvZHEtQWhmWGl5dWxkN0VyZVJMLXlGUnBaRXZocnFUOExjcl84QUJSWXNVVzFTSEVlQUFRaFo5LXFpLVM0LTdFRS1n?oc=5",
+        "domain": "www.govinfosecurity.com",
+        "publisher": "GovInfoSecurity",
+        "publisher_url": "https://www.govinfosecurity.com",
         "language": "",
-        "seendate": "20261126T115232Z",
+        "seendate": "20261126T151312Z",
         "source": "GoogleNews"
       },
       {
-        "title": "FIFA Hack: 12 GB Claimed, Under 0.1% of Data Hit",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWxqN0NKMjF0VUxqcVVTWVl0aVY3ajkwWmh0bkEyUTJTUlVXZXdJX2FZREVzZVcwWlJ5ek9OSnk5TnJ1c3daRDFxYVNBN2c0clpjSmhqa3drUXgzQ0N1TmUweUV4SG4tR0ROTjZNUFlEanlyYTVaSEpnRnhZc3BiYi10YUxWNUR5OWtTbF9rYw?oc=5",
-        "domain": "shattered.io",
-        "publisher": "shattered.io",
-        "publisher_url": "https://shattered.io",
+        "title": "FIFA Says Hackers Accessed Personal Data in Cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlFyR1RsWjEyejFRdXlWSVN4QXphaEE0dFp6R1FyaWJNLVBIUVFKc09kcGh3Q2xaV0VOdDRpWTRZVFBlLVoxVEtmV3cxclpNaE9BZU02ZXZaSWhJbnlCWVBWN2VseXdjUVowaW9nSWRqRjhMRWI2NXh0TWV3b1NkNE1nQkxmVnozRFZBbVNVT3hKS0ZpSHVuWmhfTEh4S25FdG9Md0o1OVU4UQ?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
         "language": "",
-        "seendate": "20261126T133458Z",
+        "seendate": "20261126T134217Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "JPCrypto-ISAC partners with SEAL to enhance cyberattack response",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkk1U1o4aGlqcWwwbjRTcVgxVzM1UjdGZ1Z0SUFNY2o2OTk2cmN1dTA3NjBaOHIxUk10Q3YzV1ExYXdPX3RVOWpGU1JsQ0ZiSklCWTBkTldGeldwWnZ6YThHd045SHd5SGFDN1NYcW5NRWtQUk9HUlpPSGM4cmVDbXNtMzFfTTV2bWpGX2VSWGppNTFramxPTExMUXhHNXBpWW91WWtBc3N6ZmpMdjZKVXI3Q3lNQXZpVWpNNkJJVThTX2NyRzZ1Sg?oc=5",
+        "domain": "www.tradingview.com",
+        "publisher": "TradingView",
+        "publisher_url": "https://www.tradingview.com",
+        "language": "",
+        "seendate": "20261127T052900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "SAP hit by cyberattack, says no sign of customer data being breached",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlFweHkyTTZqMmEtQW92WDlYWG5wck0wQzNhNVQxUkZYNXJnZlFBLUdwUmJDVVR0eXdpY2RhdEdqTGxQdGlPaE9GeG5vdTlqX3o3d0d4aC1fUmEyVm4tYlotb294YkRNT21BR21DNzhYX1dBYVBzbUtYYmRWOERuM1UzU05pb1lvRTRhTTktcWx0RE5LaW1yd3ZzZ1RpNWo3cGMzR1FSRnZrNWdISnN4c280YXhCMHpCa0QtZ0J4bXhtNUxFcWV6VmVjU1F5TDDSAdQBQVVfeXFMTXR6Sk1IUThTUEdLR19ZWkg5TVJBNkMxTkg1REVtQ0xVY3BBWFVDV3VNTlBJV2VyZl9RendpcHlJZlR5QWFFdk96SmN5b1lfMWttc3pMT1BtS3R6dGU5MzlBbzZndjlPTmhRS3FFODJGT0hla0ViYTNfTS1IT2M4VFE1dXBsOWUyM1Njb3kwWjdMQ0FWMXR6TE9CUzkwQ0QwdE9HVnZmX1F3alZLaWdiUDhJZW9kcnd0bU5NN2VYdlFoNGJLRmFtNjl1SDlvVmNRV3FMTVU?oc=5",
+        "domain": "www.indiatoday.in",
+        "publisher": "India Today",
+        "publisher_url": "https://www.indiatoday.in",
+        "language": "",
+        "seendate": "20261127T035841Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cyberattack prompts AFP to take news platform offline",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EeHFzLVoyWGR5LVNpYnFNYlVWb0xhU2JMb3dnRnY3UXd6MlVqVU9qaXpRMldObGxZbUg1dlJOOUhJTS0wTnFzajkxc1FheFlzYkdLeW9jWFo?oc=5",
+        "domain": "www.trtworld.com",
+        "publisher": "TRT World",
+        "publisher_url": "https://www.trtworld.com",
+        "language": "",
+        "seendate": "20261127T055409Z",
         "source": "GoogleNews"
       },
       {
@@ -459,13 +489,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "FBI sting exposes shocking ransomware scam: Colombian businessman faces up to 20 years in prison for scamming cyberattack victims",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOWpSdWZ4ZHBwVktmb254RU56UlhZTzYxTDFtRXR0akxzRzBMNVBKZnU1bktBRjRuLUloaFR6Q3Z6cnlvTXlOR2JyYS1iVHl6Y09nTmtyQXpqdGpaeUswLWgzcTc5TFlrVEVXbDFpOE82bDB5Y3J3dXBGY3lLTWNNMHpsY2JsbGZnVlB2ajRTNTFVMGhBUVRhWUItcGkzWWlXM1VVWjNiS09sN1VtTndfSVBTMy1wUFRqVUNWV3NhUGlPX0k3ZEpobjVmSk1DTmNpSUgxdDFNZjZ5alNEZGtJVElkd2VGSHc5QVBZblZQbG1WdlctcHc?oc=5",
-        "domain": "www.cronista.com",
-        "publisher": "El Cronista",
-        "publisher_url": "https://www.cronista.com",
+        "title": "Unclassified CIA system breached in cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3RWQmd3NFpONGlOZFpULUh4RWs0amhNZ2hyaVZaSDF2M2JhblZFejVzbkwzTE5jYXA4eDJTRnA3VG9BNGpmZGZFWHVQOHdnemVROHhMVldpVzd6U3VqODRMUjA4cmF0ME1mVm9qS2JWdWFOQTR5RDNNaWJMU1J5bWVpOGdvbTFNQWdr0gGQAUFVX3lxTE5SbWpKNmJ3aU1xUGVCcm1JanM0eHdReElrVTJickNHUHJyelVsX0dNNEZidnBkZWdYNnNORkpFbUJYZEVwNjRYcXpsU0tUWmpLbGw2WE03RjVrQWdmcUwxNHpRTGJyQW1Ndkg3M3RjUnNva3lfc0hkNzlpMUhDTF9POUtCbS1zS0VkWi00a0Nsaw?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
         "language": "",
-        "seendate": "20261126T175852Z",
+        "seendate": "20261125T141200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "GeoServer CVE-2026-120705 and CVE-2026-129243 Exploited: Patch the Unauthenticated RCE Chain Now",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkttZ3Fvc1ZGZnBreEttQThvZkp6emI5cG4ydzJiUmptN19ISWFZdGNIdk1oOHFfUk95X2FvUXJhbVloelFuZTVQVEYzNjB5V3RCaWc1R2pnbVY4V1Z5b1hDYVZ1YVpRMHZ3d0ZPakt5S25qOG9kdGpfNTkxN29yUEFiTkhqZWIyWUFlcENfUk45ZlpUZnBRbnJOOTczTUl2dS1kYmJ4UVpKVFNxNlpTUlpCdlRkelFyUUpweTlvcFhEdw?oc=5",
+        "domain": "www.rescana.com",
+        "publisher": "Rescana",
+        "publisher_url": "https://www.rescana.com",
+        "language": "",
+        "seendate": "20261126T113545Z",
         "source": "GoogleNews"
       },
       {
@@ -479,58 +519,28 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Hackers Actively Exploit Critical Drupal Vulnerability to Take Over Websites",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSllqbjU4ZjhyZlFLbXhSMkVRZEZDNmt0M01oeDlFWEVGODVSeFNWWmtEckM4UzZNS2RTdnVkbEFSbGExS0NITmZfR3NfOFhTQVgxNzBDdmZ4Z3dTcktESEdvaHRwTTZic3VBLTR5ZEJpU1NSRGpRdGI4X0dEOFozMjhuc9IBiAFBVV95cUxOTlhtZFdTazIzQmQxU0lLamNENVJSNkdpdzY5ekJnVDVockRLd0F5S2JYbVRzN0V4QTh3ODhGemppcTlUVVBWNEtRbXZfQ2FsZVdlRi1xUnJ2N0V4bFhZLWxQWExXQ2NOdGtnQnZZVngzbl9OZ0hZajNZNHUyYTkwVVVsMTkwdGJ0?oc=5",
-        "domain": "gbhackers.com",
-        "publisher": "GBHackers News",
-        "publisher_url": "https://gbhackers.com",
+        "title": "FIFA targeted in cyberattack by ‘Handsome Boy Hacking Club’",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUhfcktDSXVlUV94SnEzN01KbjJkeWo5ZTQ2TzFndVRaSXpYRUp2WHpKRklnR3hWMktXMXNWNzhRbmlxT2RMcy1yN3BfZEFxWVg0dnVaVzJwcVEwRmdtQmNrVkd5YU1aYlJ1bGNET01DNWdLMi1HRTFKUDN1RG9WTkJfb3p3LTQxSkZabVZkN3ZzNGc4WHZnWDVjZw?oc=5",
+        "domain": "sports.yahoo.com",
+        "publisher": "Yahoo Sports",
+        "publisher_url": "https://sports.yahoo.com",
         "language": "",
-        "seendate": "20261126T123703Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Africa ransomware cost: $368,000 per attack, new study",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXWjdkOW9SbXNsUkhTVHNlVnpnNldSM29pMkVpX0lIYkFUejhYNjBrODgxQmIyS0NaNG9lbTBPSnRjUV9TX1U5Rml0aENnalh3bTBjM0F1d0cwNktfNlYzalE1aW1aQ2Q3?oc=5",
-        "domain": "africa.dailynewsegypt.com",
-        "publisher": "DNE Africa",
-        "publisher_url": "https://africa.dailynewsegypt.com",
-        "language": "",
-        "seendate": "20261126T203800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY2l3ZXdBVnFzV0kxRFpPb0VfVHRzQmpZald5RGtpWGVmbTJld0dZSi03RG81bWhWTlR2eEhnZER2a1MwTFJFYmp6OTZZdVhSY2YyTVRtV3YwanNCTEkwcm5uYWVUZWtGRnEtTXl5TVZkNXdlcnNxWW9ZU1Y1a3JKNzZHTzF3ZTRuODRaTmZMSWliakdCcU5EVXZfNHpvdw?oc=5",
-        "domain": "www.securityweek.com",
-        "publisher": "SecurityWeek",
-        "publisher_url": "https://www.securityweek.com",
-        "language": "",
-        "seendate": "20261126T113525Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FIFA confirms cyberattack as hackers claim theft of sensitive data: Report",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OWFcxLTdLNXRKbkFBTG51LTJTYXNFV0NYYzZ0dmw4QWdsT0xfVWY4U0dQQVpxTTFIRlFHQkNaQWp0NWNWdm96NUYtQXR1akhjMld4V1ZYYjNhS21ORVU1b1BhLU4?oc=5",
-        "domain": "www.trtafrika.com",
-        "publisher": "TRT Afrika",
-        "publisher_url": "https://www.trtafrika.com",
-        "language": "",
-        "seendate": "20261126T144738Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "12 GB of data stolen — FIFA confirms cyberattack on its own resources",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlNGdzg3ZHBJYzRjSXNUanVTbDJaNDdpYkJ6UjlCekVCSHRHVHNRclhxR0JfLTZFMW96S1drQ3owZm13SU9xNzFkZ1MzV3FPSV9CaWR1VHNsS3RkSG9kc1hScjM3Mk9uckdScUtLRFh3Z3lLRlZCU29UZzJKV2R3MTNwZzRtNndicjc4aXNxZkNQSnUw0gGTAUFVX3lxTE8tSE80MWZBWE5wWjhQS3RaX3lyTy1ZTmxOQ2w2R3UxeDU2bjNhNk5MWW1RY21GQmJKeDhjNGNvYnZsT1BnS2IzYmpWb3pnY3ZhR0p2eHZMUjlVVDlaSEEyWUd5Si1UU1kxTUFxa0RkdUJZeFVsbmNSNDJFbkctdU54MU1wRFdHQ0pBX2tVYnREZDNMYw?oc=5",
-        "domain": "unn.ua",
-        "publisher": "Українські Національні Новини (УНН)",
-        "publisher_url": "https://unn.ua",
-        "language": "",
-        "seendate": "20261126T135107Z",
+        "seendate": "20261126T125833Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
+    {
+      "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampVdTJ4NnQ0Qlc4OHlZV25GTVBkWmFaaExVcTE1dVdMUThTUV92azJJdEdJa294R3VvQzNVb3BneTdfMDN3X1VBb3p5MnFEbW1wZ2lpa2E4WjVqQVR1Mjd4SzFkM25CRXBhNDl6VVJHOC1XVkZEbElpMHFWaEN1SjZBemd2Yzh3alBLN05zMWVsd0k?oc=5",
+      "domain": "www.securityweek.com",
+      "publisher": "SecurityWeek",
+      "publisher_url": "https://www.securityweek.com",
+      "language": "",
+      "seendate": "20261127T073614Z",
+      "source": "GoogleNews"
+    },
     {
       "title": "FIFA hit by cyberattack as hackers gain access to personal and business data",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xaEhFSlhHN09LYXdIQ2FLLU4yYjhvbFV2U3N2Mk8yMl8wOVU2ejFjb2c4WTJzU0Y2NjlQdlBfUEFfWlNqbU5VN1dlbmxjYUFQaGhZVFBjUURpOGhJbjZJYW1maVo1UWMtRXh3YUZwdTlTbmc?oc=5",
@@ -539,6 +549,16 @@
       "publisher_url": "https://www.espn.com",
       "language": "",
       "seendate": "20261126T120700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2VaemhJM3ZTZHpmTnBkWnJQZTVqNlNDSEx3ZnhqanUzX3ZQbURiNURFNUdDc1NTWmtoRVI4ZHRXOFBGcjBuamRmYnJsQnZJd0pmNTBYQkpIYS02b1RkUkkzUWFLMThHLVIwazVIYTV4N0lHRkVGTU4yc0JWTXNFN3ZxaTlJRGNsMS12elNTU21CUGZlY1VkMzY5MERTNHFuVEpmMnRPVDBIY3dxNUVYVHp30gG3AUFVX3lxTE5VVnZOeS16aVVlMGNobmVwcnhVU1FuM0VVUzNTV1VlMXREU3NjVVRMUGxVb1R2cTR6QjhBamJJTmpiX3c1V3pwYndpOU1NNFp5RUNDQ2lwT2doalpaNE9uTk5jQlItSXdHYkpuMVlNdTNMb0JKTm9yd3NFRnhoLW5NQ1R4ZFNLMlBWcnBjelRUcDBmQkw2M2kwZndkWFZHVzBRTkhDS1JmSVJMSVdSaVdlQ2JMSjFWUQ?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20261127T010824Z",
       "source": "GoogleNews"
     },
     {
@@ -552,26 +572,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCWTlxUXYyVjU2M0VwTkM2R1VCQ1hWVVlvdm9qWEdrbHNXZE9LWTdUano2b3pSSDkxbmVPLWRncE9BUU85eXFWV3hDSkZoeml3WEowdG5VNm96TmRSekViVzJ4UDZXNDZWaXN5VHBjYWhuX21uWlYzOVRMaHplQ00?oc=5",
-      "domain": "thehackernews.com",
-      "publisher": "The Hacker News",
-      "publisher_url": "https://thehackernews.com",
-      "language": "",
-      "seendate": "20261126T070200Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "FIFA hit by cyberattack as hackers access ‘personal and business information’",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUdlLTRkOHpFNTg1OUViLVV4X21iZHJPVEluNEc2Ty01M3FOM3QzUndoR0VTQXJnQzdEdWRGZHJuRW5IdkRseW5HZlYxQUpqQ2I5UXY3NVc1Um5raEp3UkdlYXdFM0FOQ0o1MnRJa1RjcGNLc0hTQWJIR2phb01ZUVJOcGJ0Um50V1FiVjhlbFgxQm05Ykg2YUFzU2ZrdnRzNVBDdHRGdGc1V1UzdXA3VlVVMEQ?oc=5",
-      "domain": "www.nbcnews.com",
-      "publisher": "NBC News",
-      "publisher_url": "https://www.nbcnews.com",
-      "language": "",
-      "seendate": "20261126T123400Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEVfdVpMRW1Pc0NGMTNmWmpHbUFDUWVNdTlidktzemRibGQzbWdWRnlaZ3V0WUYtdEExY3RraFVIalNUS0RmenU4TDNka0xnNFdzRkg0ZjBQVnQ0dlhwT0Y4VzNiUlltMTJta0ttZlU0d0I0a1ZSTGtDZFZTY09fNy04U0g?oc=5",
       "domain": "unit42.paloaltonetworks.com",
@@ -579,6 +579,16 @@
       "publisher_url": "https://unit42.paloaltonetworks.com",
       "language": "",
       "seendate": "20261124T230846Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCWTlxUXYyVjU2M0VwTkM2R1VCQ1hWVVlvdm9qWEdrbHNXZE9LWTdUano2b3pSSDkxbmVPLWRncE9BUU85eXFWV3hDSkZoeml3WEowdG5VNm96TmRSekViVzJ4UDZXNDZWaXN5VHBjYWhuX21uWlYzOVRMaHplQ00?oc=5",
+      "domain": "thehackernews.com",
+      "publisher": "The Hacker News",
+      "publisher_url": "https://thehackernews.com",
+      "language": "",
+      "seendate": "20261126T070200Z",
       "source": "GoogleNews"
     },
     {
@@ -592,13 +602,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "FIFA confirms cyberattack that accessed personal and ​business information",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52MjhQRnBqaEVWSUVpdmJFSl9BX3NiSkVRNmpLTjlhODFfVTktNHNrQnByZTJhWFpiaTRNY0lzSXRwX0RsaDg3Wm5YVDUtak5hcUdFM1BrZHR6SDZPeHktZ1B3?oc=5",
-      "domain": "mashable.com",
-      "publisher": "Mashable",
-      "publisher_url": "https://mashable.com",
+      "title": "Booba ransomware spreads from US water treatment plant to local government network, exposing IT/OT network security gap",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQjFPdVp4al9kUHZvSzB6S1hpMTZ4bGpQUlBDcEVZMkdYQm1jYXVYM1Ywdkk3SHBYblNBVEFieTVmNnhVVmhqVkFodTlkbUNiUEJzeENRX0o4ZVpEZ24xS2I0SWNUSXdsaG50UTAydkVTbDR2aUJna2x6OFhBVDRlVkMwaGJ5UUhITTg3QkQtRkFZZ3N5bVdYazJfVVRMRlRaUmIxa2hwYVJLV3VPNW9fdnF5MnR3TWZDWGhFOXJDTElDZjlDVDNwSGlDRE9jcVQ5bmRZUjROWmlfWnlQLVpGY1B4THNRc19HZTNrOE1DVGJkRk9R?oc=5",
+      "domain": "industrialcyber.co",
+      "publisher": "Industrial Cyber",
+      "publisher_url": "https://industrialcyber.co",
       "language": "",
-      "seendate": "20261126T200828Z",
+      "seendate": "20261127T074158Z",
       "source": "GoogleNews"
     },
     {
@@ -612,13 +622,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "CVE-2026-132825 Impact, Exploitability, and Mitigation Steps",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5SGNndG5nT2xzdktlUF9GaHFVTHNTWHpxZFZaVjNjc3phX2tTVldzVF80Vmd4SFg5MkR6ZThsNEVINk5qSm5BRTB6VTYzb0licHg2eXlES19MaWFYMTNkZHJnT3JGRGZELXZ2YXBR?oc=5",
-      "domain": "www.wiz.io",
-      "publisher": "wiz.io",
-      "publisher_url": "https://www.wiz.io",
+      "title": "FIFA hit by cyberattack as hackers access ‘personal and business information’",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUdlLTRkOHpFNTg1OUViLVV4X21iZHJPVEluNEc2Ty01M3FOM3QzUndoR0VTQXJnQzdEdWRGZHJuRW5IdkRseW5HZlYxQUpqQ2I5UXY3NVc1Um5raEp3UkdlYXdFM0FOQ0o1MnRJa1RjcGNLc0hTQWJIR2phb01ZUVJOcGJ0Um50V1FiVjhlbFgxQm05Ykg2YUFzU2ZrdnRzNVBDdHRGdGc1V1UzdXA3VlVVMEQ?oc=5",
+      "domain": "www.nbcnews.com",
+      "publisher": "NBC News",
+      "publisher_url": "https://www.nbcnews.com",
       "language": "",
-      "seendate": "20261126T121822Z",
+      "seendate": "20261126T123400Z",
       "source": "GoogleNews"
     },
     {
@@ -632,13 +642,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "FIFA says a cyberattack against it targeted a 'limited set of personal and business information'",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR2JOSndzZmZGVEhjRmU5U2lUcWxDaXZacVVqWmp6WW90c0JHSUp0UUs5X09vSWpBZGVaQkhxU3kyRXVyZkZiNjN0dDFNUUlfemloTDdCbGNJY1htemFkWjFOREtDQWFQbkdBODZPMm4wNXZsakRaMDFZd0RPRmh0bUFrdzNIdzJ4WXZpTElLN3B5RmJfVFYyTFJta0g1WHZZY0NLNnh2NkJUMlc4b2tLZ2J2ZXZrUDYwMUxuRFFOanNTcTlaV3fSAcYBQVVfeXFMTXhqVDRVWHY1VWxfR1FZeFBrMGp1ZFhQTUVCcmVtVHdWcEh0LXE1U0x3cGlPdTBCRXROOTZhNWNFY2QtTFVJN1U2eWQtR05wZHJFVTFuSFRLN3JQOGczUUY4ekZ2aWk3UTNkejBlTXlQZnBJcUUxcGc3YXpQQVFxRWJHQVRSdUZEa3NsbzBZSmlteGg2UkVZejFsQWFSdVQyNGZBZVQ3cjRqdUJkMGtRd2ZrU3lXQUg5Wk5vZTY2eEI3WFhjaE1B?oc=5",
-      "domain": "www.dw.com",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
+      "title": "The US Government Is Under AI Cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmxRUFRhY1QtSDBiTl9IVlY5UkZ5Q0E2amlLQnFWQzlOc1RWejZhcUVUTDFQN0ZXOHBFaFdCT0J5SWlPdDZJM0w3SEZIelM5OHlMX2JHMm9JYlZfZ0s2eHJEd1R4STlWaHo1NXFTT2RWdTVZcXpnajhkZ0NLaDhuYmZNQ1hOTWx5eTJQcFh4aEo?oc=5",
+      "domain": "www.forbes.com",
+      "publisher": "Forbes",
+      "publisher_url": "https://www.forbes.com",
       "language": "",
-      "seendate": "20261126T155626Z",
+      "seendate": "20261125T175900Z",
       "source": "GoogleNews"
     },
     {
@@ -652,33 +662,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Wyoming uranium operation shuts down after cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhSMkRlS0RZSFBDdlBReGE2SG5IeVBPX2s3eXRRcHYxa0JlMjUxZ01wMmdhRkNxNV9Jb2tRTDJhM0VNVl9oT3ZCNFpWUFVCVFhpdTRkRDF5cmlFeDA3YlBzNldGUFJWQmduNDhiajR6Q3d4aWpVOE8zcC1lR1pJZ1Vva1dIZFNZc2F2dk5BQmZ4U3o2Nmg5cjJ3NkpSQnhRVzNqQzZURVVSZ2hJQ3ln?oc=5",
-      "domain": "www.theregister.com",
-      "publisher": "The Register",
-      "publisher_url": "https://www.theregister.com",
+      "title": "Budibase 4.0.0 Fixes 12 CVEs, Including Unauthenticated CVE-2026-137498 and CVE-2026-137499: Update Now",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY1JBb1o0c2E4LVV4dHVmaTRFNFZ3UUduRlR4TjQtdUFPb2RzOW9IdTl6eFdpcTJfME9DaUdYN1p1ZFFkamZPUnVMbTlqVlFhcE1TMHR1Z2xsWWJjMHl3WXM4WVZvRmRRX2ZCV3hGclZ0Z2FEXzBpNGQ2ZF9ZVlBsQVIzWnRsMEtGSDN1ZDR3RjYtSFBFeWhLYTVDWkFtYjhLVEFzQlpCSGg4QTdsUmJTYk1sdFFsVnFGd21mX19fcW84QUlJZTBmLUhR?oc=5",
+      "domain": "www.rescana.com",
+      "publisher": "Rescana",
+      "publisher_url": "https://www.rescana.com",
       "language": "",
-      "seendate": "20261126T140200Z",
+      "seendate": "20261127T065142Z",
       "source": "GoogleNews"
     },
     {
-      "title": "FIFA says ‘limited set of personal and business information’ stolen in cyber attack",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGpzYXFfdG44cWtJRGpUYWdGTnowZllpb0FoaUJIblh4c21BbHlQZFNxN0t3SWtRQTBNTFp6SnFMQlpLek1YOF9ndkVDT29ZWVBwOWFjUWQtT2hyUTVDMVhWbXdncnBXaWhSNnM0QVFlcW9TaXg1cU1nUW9LSEkxSnZSTdIBiAFBVV95cUxNYW11STBZZm5GRjdyd1ZOanhJcGVBeTEzZ1pNaWI0dTFiYW45SmFkZkZTdWctQjlta0tSNHY0SWtaMVBFb1JuTGk3U3hSb3cxY3o0R2h2bG5DSElUYmU1WDc5UDlpRGwxaktXVFRQc3VoM0Q1dUN3b0JEQTVIT2hYSEc0UE1FaGpv?oc=5",
-      "domain": "thehill.com",
-      "publisher": "The Hill",
-      "publisher_url": "https://thehill.com",
+      "title": "France's AFP news agency hit by cyberattack, takes content platform offline",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVlkR3RhVTkyX2EtNWxGTWtQem5Oa0xwR3BlbTM0RTFaOGVHOHA2a0NKVU1wZ0FRRWlKZnpaeGVxSDhuWWJWWDBiR2J0QThuOUVwZDBtOEdIaEFmbktwMWtHcVVCYl8wYjhNNDVKY1hHdVdmWlBSWXQ5RTNISENtU3hxU3JjZzNPS1Y1ZDJ3MjlmaGc1aFpXb0RBLWhKSG9JSTJqSEJYMkRqUVN4UVZUX2xxRQ?oc=5",
+      "domain": "www.aa.com.tr",
+      "publisher": "Anadolu Ajansı",
+      "publisher_url": "https://www.aa.com.tr",
       "language": "",
-      "seendate": "20261126T181000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "FIFA Says Hackers Accessed Personal Data in Cyberattack",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlFyR1RsWjEyejFRdXlWSVN4QXphaEE0dFp6R1FyaWJNLVBIUVFKc09kcGh3Q2xaV0VOdDRpWTRZVFBlLVoxVEtmV3cxclpNaE9BZU02ZXZaSWhJbnlCWVBWN2VseXdjUVowaW9nSWRqRjhMRWI2NXh0TWV3b1NkNE1nQkxmVnozRFZBbVNVT3hKS0ZpSHVuWmhfTEh4S25FdG9Md0o1OVU4UQ?oc=5",
-      "domain": "www.bloomberg.com",
-      "publisher": "Bloomberg",
-      "publisher_url": "https://www.bloomberg.com",
-      "language": "",
-      "seendate": "20261126T134217Z",
+      "seendate": "20261127T011820Z",
       "source": "GoogleNews"
     }
   ],
